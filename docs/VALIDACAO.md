@@ -40,6 +40,7 @@ Executado em navegador Chromium integrado, com dados de teste em origens separad
 7. Exportar backup com 11 registros na origem de desenvolvimento e importar na versão compilada em outra porta: leitura, cartão revisado, seis respostas, simulado concluído e sessão de revisão preservados.
 8. Endereço `#/modulo/constructor`: estado de endereço desconhecido, sem falha de renderização.
 9. Logs de execução da versão compilada: nenhum erro ou aviso observado.
+10. Menu no tablet: fechado fica fora da navegação por teclado; abertura posiciona o foco no menu; Escape fecha e devolve o foco ao botão de abertura. O menu possui comando explícito para fechar e rolagem própria quando necessário.
 
 ## Layout
 

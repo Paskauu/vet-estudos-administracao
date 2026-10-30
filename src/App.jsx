@@ -49,6 +49,36 @@ export default function App() {
   const [modal, setModal] = useState(null);
   const [mobileMenu, setMobileMenu] = useState(false);
   useEffect(() => {
+    if (!mobileMenu) return;
+    const previous = document.activeElement;
+    const drawer = document.querySelector(".sidebar");
+    const buttons = [...drawer.querySelectorAll("button, a[href]")];
+    buttons[0]?.focus();
+    const onKey = (event) => {
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setMobileMenu(false);
+      }
+      if (event.key === "Tab") {
+        if (event.shiftKey && document.activeElement === buttons[0]) {
+          event.preventDefault();
+          buttons.at(-1)?.focus();
+        } else if (
+          !event.shiftKey &&
+          document.activeElement === buttons.at(-1)
+        ) {
+          event.preventDefault();
+          buttons[0]?.focus();
+        }
+      }
+    };
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      previous?.focus();
+    };
+  }, [mobileMenu]);
+  useEffect(() => {
     const change = () => {
       setRoute(readRoute());
       setMobileMenu(false);
@@ -172,7 +202,12 @@ export default function App() {
       >
         Pular para o conteúdo
       </a>
-      <aside className={`sidebar ${mobileMenu ? "mobile-open" : ""}`}>
+      <aside
+        className={`sidebar ${mobileMenu ? "mobile-open" : ""}`}
+        role={mobileMenu ? "dialog" : undefined}
+        aria-modal={mobileMenu ? true : undefined}
+        aria-label={mobileMenu ? "Menu de navegação" : undefined}
+      >
         <button
           className="brand"
           onClick={() => navigate("inicio")}
@@ -207,6 +242,10 @@ export default function App() {
             </button>
           ))}
         </nav>
+        <button className="drawer-close" onClick={() => setMobileMenu(false)}>
+          <X size={16} />
+          Fechar menu
+        </button>
         <div className="sidebar-bottom">
           <button className="sidebar-help" onClick={() => setModal("sources")}>
             <Library size={18} />

@@ -240,6 +240,10 @@ input[type="radio"] {
   display: flex;
   flex-direction: column;
   z-index: 50;
+  overflow-y: auto;
+}
+.drawer-close {
+  display: none;
 }
 .brand {
   display: flex;
@@ -2629,11 +2633,26 @@ main:focus {
 @media (max-width: 1099px) {
   .sidebar {
     transform: translateX(-100%);
+    visibility: hidden;
     transition: transform 0.2s;
     width: 260px;
   }
   .sidebar.mobile-open {
     transform: translateX(0);
+    visibility: visible;
+  }
+  .drawer-close {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-height: 44px;
+    width: 100%;
+    background: transparent;
+    color: #647e53;
+    font-size: 12px;
+    padding: 10px 15px;
+    margin-top: 8px;
+    border-radius: 9px;
   }
   .sidebar-scrim {
     position: fixed;
