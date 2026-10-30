@@ -32,10 +32,12 @@
 - [x] 3. Autoria paralela dos módulos e registros de leitura, separada por PDFs: aulas 01–02, 03/05, 06–08. Arquivos: `src/content/eNN.json`, `docs/research/epidemiologia-*.md`.
 - [x] 4. Atualizar preparação/validação para subpastas, contagem por disciplina e compatibilidade dos PDFs antigos preparados. Executar testes, validador e build.
 - [x] 5. Verificar fluxos em navegador, revisão independente e corrigir falhas relevantes. Atualizar documentação.
-- [ ] 6. Publicar a atualização no mesmo GitHub Pages e verificar o resultado da execução e o site.
+- [x] 6. Publicar a atualização no mesmo GitHub Pages e verificar o resultado da execução e o site.
 
 ## Execução
 
 Baseline: 18/18 testes passam antes das alterações. O checkout contém a reorganização de fontes feita pelo usuário; trabalhar nele preserva essa organização e os arquivos locais preparados. Não criar checkout que perca as fontes ainda não rastreadas. Implementação técnica pelo agente principal; autoria acadêmica por três agentes com arquivos independentes. O pedido atual autoriza acrescentar a matéria; não há decisão de produto pendente que justifique nova aprovação.
 
 Verificação local final: 26/26 testes; 15 módulos/116 lições/318 blocos/309 cartões/344 questões/1332 referências/402 páginas. Epidemiologia: 7/64/175/176/176/652/231, respectivamente. Revisão técnica corrigiu colisão de identificadores de sessão com dois testes RED→GREEN; revisão acadêmica separou dois eventos animais cujo qualificativo espacial estava ambíguo. Nenhum outro achado material pendente. Build sem avisos; catálogos em arquivos separados por disciplina. Fluxos de leitura, revisão, simulado interrompido, resultado, troca e backup de 9 eventos conferidos em navegador; reimportação sem duplicação e Administração sem registros da outra matéria.
+
+Publicação do código `125b6501ea2a68600a43ff42ef38d88c5c72d476` aprovada na execução Pages `41057172874`; verificações remotas `41057172967` também aprovadas. Site público conferido em navegador: seletor, 7 módulos novos e 8 anteriores, 64 etapas/176 cartões/176 questões na nova matéria, abertura de e01 e referência ao PDF com prefixo correto. Sem registros de teste gravados na origem pública. Os sete PDFs novos retornaram HTTP 200 e application/pdf.
