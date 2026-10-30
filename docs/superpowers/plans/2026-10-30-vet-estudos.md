@@ -81,5 +81,5 @@
 
 - [x] Criar o repositório e enviar o projeto sem backups pessoais ou credenciais. Confirmado: `Paskauu/vet-estudos-administracao`, `main`; inicialmente privado, tornado público pelo usuário.
 - [x] Escolher a hospedagem e definir a audiência antes de ativar deploys. Usuário escolheu GitHub Pages e repositório público.
-- [ ] Conferir no endereço real o site, a persistência, os oito PDFs e, se exigida, a proteção de página, prévias e URLs diretas dos materiais.
+- [x] Conferir no endereço real o site, a navegação, os recursos e os oito PDFs. Publicação 41054411635 aprovada, HTTP 200 e PDFs idênticos aos originais. Persistência e backups foram verificados em origens isoladas, sem introduzir registros de teste no site publicado. Acesso público, conforme escolha do usuário.
 - [x] Orientar exportação na origem antiga e importação no endereço final para transportar o progresso manualmente. Orientação incluída no produto, README e guia de publicação; transferência entre origens exercitada no QA.

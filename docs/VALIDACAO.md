@@ -63,6 +63,21 @@ Prévia visual: `docs/preview/tablet-inicio.jpg`. Essa imagem não contém respo
 - O cache guarda progresso, sem instalação offline integral do site/PDFs.
 - A publicação do código em GitHub privado não ativa uma hospedagem nem restringe automaticamente um site. URL pública/restrita deve ser verificada após configurar hospedagem e audiência.
 
-## Repositório remoto
+## Repositório remoto na entrega inicial
 
 Criado e enviado: **https://github.com/Paskauu/vet-estudos-administracao**. A API do GitHub confirmou `isPrivate: true` e branch padrão `main`. Os PDFs originais e fontes do site estão no repositório; dados de teste, backups, dependências instaladas e pasta de compilação não foram enviados. Nenhuma hospedagem de site foi ativada.
+
+## Publicação no GitHub Pages — 30/10/2026
+
+Após a entrega inicial, o usuário tornou o repositório público e escolheu o próprio GitHub Pages para hospedagem. A API confirmou `isPrivate: false`, `build_type: workflow` e HTTPS habilitado.
+
+- Endereço publicado e conferido: **https://paskauu.github.io/vet-estudos-administracao/**.
+- Fluxo `.github/workflows/pages.yml`, execução **41054411635**, concluído com sucesso: https://github.com/Paskauu/vet-estudos-administracao/actions/runs/41054411635.
+- Node.js 24, instalação, 18 testes, validação de conteúdo, compilação com base `/vet-estudos-administracao/`, envio dos arquivos e deploy aprovados.
+- Página inicial, JavaScript, CSS e ícone: HTTP 200, com tipos de conteúdo corretos.
+- Os oito PDFs retornaram HTTP 200 e `application/pdf`; seus SHA-256 são idênticos aos oito originais do projeto.
+- Navegador no endereço público: página inicial carregada, módulo aberto, referência apontando para `/vet-estudos-administracao/fontes/m01.pdf#page=1`, flashcard revelado e seleção conjunta dos módulos 01 e 07 oferecendo 44 questões.
+- Nenhum erro ou aviso observado nos logs do navegador. Navegação de conferência sem registrar leituras, respostas ou avaliações de teste no progresso da versão publicada.
+- Imagem da página publicada: `docs/preview/pages-publicado.jpg`.
+
+Atualizações enviadas à branch `main` acionam publicação automática. O progresso continua local a cada navegador; para transportar dados da origem local ao site, use exportação/importação manual. Os testes completos de persistência e backup permanecem descritos acima e foram realizados em origens isoladas.
