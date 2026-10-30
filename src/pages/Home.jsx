@@ -11,7 +11,7 @@ import {
   Stethoscope,
   Target,
 } from "lucide-react";
-import { modules, allLessons, flashcards } from "../content/index.js";
+import { useCourse } from "../hooks/useCourse.jsx";
 import { percent } from "../lib/study.js";
 import { ProgressBar } from "../components/UI.jsx";
 
@@ -100,6 +100,7 @@ function GardenArt() {
 }
 
 export function Home({ progress, navigate, modulesOnly = false }) {
+  const { modules, allLessons, flashcards, course } = useCourse();
   const [filter, setFilter] = useState("all");
   const [query, setQuery] = useState("");
   const readCount = allLessons.filter((l) => progress.readLessons[l.id]).length;
@@ -116,10 +117,10 @@ export function Home({ progress, navigate, modulesOnly = false }) {
       modules.filter(
         (m) =>
           (filter === "all" ||
-            (filter === "legal" ? m.order > 6 : m.order <= 6)) &&
+            m.category === filter) &&
           normalize(`${m.title} ${m.description}`).includes(normalize(query)),
       ),
-    [filter, query],
+    [filter, query, modules],
   );
   return (
     <>
@@ -154,7 +155,7 @@ export function Home({ progress, navigate, modulesOnly = false }) {
                 <ArrowRight size={18} />
               </button>
               <span className="hero-footnote">
-                Administração e Aspectos Legais
+                {course.title}
               </span>
             </div>
             <GardenArt />
@@ -217,15 +218,11 @@ export function Home({ progress, navigate, modulesOnly = false }) {
             </h2>
             <p>Do primeiro conceito à revisão final, no seu tempo.</p>
           </div>
-          <span className="subtle-badge">8 módulos</span>
+          <span className="subtle-badge">{modules.length} módulos</span>
         </div>
         <div className="library-tools">
           <div className="filter-tabs" aria-label="Filtrar módulos">
-            {[
-              ["all", "Todos"],
-              ["admin", "Administração"],
-              ["legal", "Aspectos legais"],
-            ].map(([id, label]) => (
+            {course.filters.map(([id, label]) => (
               <button
                 key={id}
                 className={filter === id ? "active" : ""}
@@ -246,6 +243,7 @@ export function Home({ progress, navigate, modulesOnly = false }) {
             />
           </label>
         </div>
+        {course.id === "epidemiologia" && <p className="course-material-note">7 aulas disponíveis: 01, 02, 03, 05, 06, 07 e 08. O material da aula 04 não foi fornecido.</p>}
         <div className="module-grid">
           {shown.map((m) => {
             const done = m.lessons.filter(
@@ -260,10 +258,10 @@ export function Home({ progress, navigate, modulesOnly = false }) {
               >
                 <div className="module-top">
                   <span className={`module-number tone-${(m.order - 1) % 4}`}>
-                    {String(m.order).padStart(2, "0")}
+                    {m.source.topic}
                   </span>
                   <span className="module-category">
-                    {m.order <= 6 ? "ADMINISTRAÇÃO" : "ASPECTOS LEGAIS"}
+                    {m.category.toLocaleUpperCase("pt-BR")}
                   </span>
                   {complete ? (
                     <span className="done-mark">

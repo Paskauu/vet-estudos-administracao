@@ -9,7 +9,8 @@ import {
   SlidersHorizontal,
   Sparkles,
 } from "lucide-react";
-import { modules, flashcards, moduleById } from "../content/index.js";
+import { moduleById } from "../content/index.js";
+import { useCourse } from "../hooks/useCourse.jsx";
 import { nextReview, shuffle, percent } from "../lib/study.js";
 import {
   EmptyState,
@@ -21,6 +22,7 @@ import {
 } from "../components/UI.jsx";
 
 export function FlashcardsPage({ progress, record, initialModule }) {
+  const { modules, flashcards } = useCourse();
   const [selected, setSelected] = useState(
     initialModule ? [initialModule] : modules.map((m) => m.id),
   );
@@ -32,7 +34,7 @@ export function FlashcardsPage({ progress, record, initialModule }) {
   const [sessionRatings, setSessionRatings] = useState([]);
   const pool = useMemo(
     () => flashcards.filter((c) => selected.includes(c.moduleId)),
-    [selected],
+    [selected, flashcards],
   );
   const due = pool.filter(
     (c) =>

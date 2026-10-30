@@ -39,7 +39,7 @@ export function ModulePage({ module, progress, record, navigate }) {
       <div className="module-page-head">
         <span className="eyebrow">
           MÓDULO {module.source.topic} ·{" "}
-          {module.order <= 6 ? "ADMINISTRAÇÃO" : "ASPECTOS LEGAIS"}
+          {module.category.toLocaleUpperCase("pt-BR")}
         </span>
         <h1>{module.title}</h1>
         <p>{module.description}</p>
@@ -120,7 +120,7 @@ export function ModulePage({ module, progress, record, navigate }) {
           </div>
           <h2>{lesson.title}</h2>
           <p className="lesson-intro">{lesson.intro}</p>
-          {module.order > 6 && (
+          {module.courseId === "administracao" && module.order > 6 && (
             <div className="source-note">
               Síntese da apostila fornecida para esta disciplina. Os conceitos e
               exemplos jurídicos seguem esse material.

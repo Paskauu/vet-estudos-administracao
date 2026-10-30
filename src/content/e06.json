@@ -1,0 +1,941 @@
+{
+  "id": "e06",
+  "order": 6,
+  "courseId": "epidemiologia",
+  "category": "Vigilância e epidemiologia",
+  "title": "Estudos epidemiológicos",
+  "shortTitle": "Desenhos e medidas",
+  "description": "Compare estudos de casos, laboratório, coortes, casos-controles, seccionais e intervenções; leia tabelas e calcule as medidas apresentadas na aula.",
+  "source": {
+    "filename": "Estudos Epidemiológicos - Aula 6_261027_180626.pdf",
+    "pages": 27,
+    "topic": "06"
+  },
+  "lessons": [
+    {
+      "id": "e06-l01",
+      "title": "Investigar doenças e formular hipóteses",
+      "intro": "Relacione o problema de saúde, o fator estudado e a estratégia de investigação.",
+      "blocks": [
+        {
+          "title": "O objeto dos estudos",
+          "text": "Estudos epidemiológicos aplicam o método científico à investigação de eventos relacionados à ocorrência de doenças em populações. A aula destaca o interesse por relações causais e chama a doença e o fator associado de variáveis.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Estudos epidemiológicos e relação causal"
+            },
+            {
+              "page": 3,
+              "section": "Estudos epidemiológicos e relação causal"
+            }
+          ]
+        },
+        {
+          "title": "Três estratégias",
+          "text": "Para investigar hipóteses sobre doenças, o material distingue estudo de casos, estudo laboratorial e estudo populacional. São estratégias com diferentes unidades de observação e possibilidades de comparação.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Investigação de hipóteses"
+            }
+          ]
+        },
+        {
+          "title": "Casos e laboratório",
+          "text": "O estudo de casos descreve um ou poucos indivíduos com a mesma doença, ajudando a explorar problemas pouco conhecidos. Sem controles, coincidências podem ser difíceis de interpretar. O laboratório favorece experimentação, precisão e controles rigorosos que reduzem o subjetivismo e servem de comparação.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Estudo de casos e estudo laboratorial"
+            },
+            {
+              "page": 6,
+              "section": "Estudo de casos e estudo laboratorial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l02",
+      "title": "Reconhecer os estudos populacionais",
+      "intro": "Separe observação de situações naturais e realização de intervenções.",
+      "blocks": [
+        {
+          "title": "População como foco",
+          "text": "O estudo populacional é apresentado como a principal forma de investigação dos problemas de saúde pela Epidemiologia. Pode ser observacional, quando acompanha situações naturais, ou experimental, quando envolve intervenção.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Estudo populacional"
+            }
+          ]
+        },
+        {
+          "title": "Classificar a observação",
+          "text": "Os estudos observacionais examinam a ocorrência conjunta de fator e efeito para avaliar sua associação. O material os classifica em longitudinais, prospectivos ou retrospectivos, e seccionais.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Estudos populacionais observacionais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l03",
+      "title": "Coortes: seguir expostos e não expostos",
+      "intro": "Leia o sentido temporal do estudo e a disposição de uma tabela de comparação.",
+      "blocks": [
+        {
+          "title": "Da exposição ao aparecimento da doença",
+          "text": "A aula apresenta a coorte como estudo prospectivo de seguimento: um grupo é observado ao longo do tempo para investigar associações entre exposição e frequência de aparecimento da doença. O esquema parte de indivíduos sem a doença, distingue expostos e não expostos e observa quem adoece.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Estudo de coortes e esquema de seguimento"
+            },
+            {
+              "page": 11,
+              "section": "Estudo de coortes e esquema de seguimento"
+            }
+          ]
+        },
+        {
+          "title": "A tabela de duas entradas",
+          "text": "No quadro, as linhas indicam exposição e as colunas indicam o agravo. A disposição das letras é indispensável para usar as fórmulas.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Tabela de coortes"
+            }
+          ],
+          "bullets": [
+            "a: expostos atingidos; b: expostos não atingidos; total exposto a+b.",
+            "c: não expostos atingidos; d: não expostos não atingidos; total não exposto c+d.",
+            "Total de atingidos a+c; de não atingidos b+d; total geral N."
+          ]
+        },
+        {
+          "title": "Comparar proporções",
+          "text": "A comparação proposta é entre a/(a+b), proporção atingida entre os expostos, e c/(c+d), proporção atingida entre os não expostos. Cada denominador representa o respectivo grupo, e não apenas os doentes.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Proporções de atingidos em coortes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l04",
+      "title": "Risco relativo e risco atribuível",
+      "intro": "Diferencie uma razão entre incidências e uma diferença entre incidências.",
+      "blocks": [
+        {
+          "title": "Risco relativo: divisão",
+          "text": "RR = incidência nos expostos / incidência nos não expostos = [a/(a+b)] / [c/(c+d)]. O resultado expressa quantas vezes o risco nos expostos corresponde ao risco nos não expostos. A anotação da página lembra que o valor pode ser menor, igual ou maior que 1.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Análise de coortes: risco relativo"
+            }
+          ]
+        },
+        {
+          "title": "Risco atribuível: subtração",
+          "text": "RA = incidência nos expostos − incidência nos não expostos = a/(a+b) − c/(c+d). A aula o apresenta como a parcela de risco atribuível ao fator investigado, sob a suposição de que os demais fatores atuem igualmente nos dois grupos.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Análise de coortes: risco atribuível"
+            },
+            {
+              "page": 15,
+              "section": "Análise de coortes: risco atribuível"
+            }
+          ]
+        },
+        {
+          "title": "Operações que respondem perguntas diferentes",
+          "text": "O RR compara o tamanho relativo dos riscos por divisão. O RA quantifica a diferença entre as incidências na mesma base de medida. Antes de calcular, identifique os grupos e mantenha a base de ocorrência comum aos dois.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Comparação entre RR e RA"
+            },
+            {
+              "page": 15,
+              "section": "Comparação entre RR e RA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l05",
+      "title": "Ler o exemplo de tabagismo com atenção",
+      "intro": "Use os números da aula e reconheça o efeito do arredondamento.",
+      "blocks": [
+        {
+          "title": "O quadro de câncer de pulmão",
+          "text": "Entre os que fumavam mais de um maço por dia, o quadro registra 72 casos e 19.965 não casos, total de 20.037. Entre os que nunca fumaram, registra 9 casos e 26.315 não casos, total de 26.324.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Exemplo de coorte: tabagismo e câncer de pulmão"
+            }
+          ]
+        },
+        {
+          "title": "Os resultados apresentados",
+          "text": "A página usa 72/20.037 × 10.000 ≈ 36 e 9/26.324 × 10.000 ≈ 3 casos por 10.000. A partir desses valores arredondados, apresenta RR = 36/3 = 12 e RA = 36 − 3 = 33 casos por 10.000 no período de 10 anos. Esses são os resultados didáticos impressos.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Exemplo de coorte: cálculos"
+            }
+          ]
+        },
+        {
+          "title": "Limites do exemplo impresso",
+          "text": "Dividir as proporções antes de arredondá-las não produz exatamente RR = 12. Além disso, o total geral impresso é 46.371, enquanto a soma dos dois totais de grupo é 46.361. Preserve a distinção entre os valores impressos e a conferência aritmética; a divergência não foi corrigida por fonte externa.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Exemplo de coorte: arredondamento e total geral"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l06",
+      "title": "Casos-controles: reconstruir exposições",
+      "intro": "Parta da presença ou ausência da doença e examine a exposição anterior.",
+      "blocks": [
+        {
+          "title": "Como os grupos são formados",
+          "text": "O estudo parte de casos já diagnosticados e seleciona controles sem o agravo. Compara fatores ou atributos entre os dois grupos. A aula o classifica como longitudinal retrospectivo; o esquema mostra a pesquisa voltada da condição de caso ou controle para a exposição.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "Estudo de casos-controles"
+            },
+            {
+              "page": 18,
+              "section": "Estudo de casos-controles"
+            }
+          ]
+        },
+        {
+          "title": "A medida usada na aula",
+          "text": "A incidência não é determinável nesse desenho segundo o material. A estimativa apresentada usa odds ratio, razão dos produtos cruzados: OR = (a × d)/(b × c). O slide escreve OR ≈ RR; conserve a identificação de OR como a medida efetivamente calculada, sem transformar a aproximação impressa em igualdade geral.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "Análise de casos-controles: odds ratio"
+            }
+          ]
+        },
+        {
+          "title": "Exemplo de contraceptivos e trombose",
+          "text": "O quadro registra 25 casos e 350 controles entre usuárias de contraceptivo oral; 5 casos e 570 controles entre não usuárias. OR = (25 × 570)/(350 × 5) = 14.250/1.750 ≈ 8,14. A página calcula OR e depois rotula a interpretação como RR = 8,14; essa mudança de rótulo pertence à fonte e exige atenção.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Exemplo de casos-controles: contraceptivos orais e trombose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l07",
+      "title": "Seccionais: medir exposição e efeito no mesmo período",
+      "intro": "Reconheça a prevalência como medida de ocorrência desse desenho.",
+      "blocks": [
+        {
+          "title": "Transversal ou de prevalência",
+          "text": "O estudo seccional mede a suposta causa e o efeito em um momento ou intervalo, sem reconstruir acontecimentos passados nem acompanhar os futuros. Compara as proporções de acometidos entre expostos e não expostos.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "Estudos seccionais"
+            }
+          ]
+        },
+        {
+          "title": "Razão e diferença de prevalências",
+          "text": "Razão de prevalências = prevalência nos expostos / prevalência nos não expostos. Diferença de prevalências = prevalência nos expostos − prevalência nos não expostos. A aula chama essas medidas de equivalentes de RR e RA, mas explicita que a ocorrência é prevalência, não incidência.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "Análise de estudos seccionais"
+            }
+          ]
+        },
+        {
+          "title": "Exemplo de migração e doença mental",
+          "text": "O quadro apresenta 18 acometidos entre 300 migrantes e 21 entre 700 não migrantes: prevalências de 6% e 3%. A razão é 6/3 = 2 e a diferença é 6% − 3% = 3 pontos percentuais. O slide usa os rótulos risco relativo e risco atribuível; neste desenho, leia-os como razão e diferença de prevalências.",
+          "refs": [
+            {
+              "page": 23,
+              "section": "Exemplo seccional: migração e doença mental"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e06-l08",
+      "title": "Intervenções e escolha do desenho",
+      "intro": "Identifique a participação do pesquisador na exposição e a comparação proposta.",
+      "blocks": [
+        {
+          "title": "Grupo experimental e grupo-controle",
+          "text": "Os estudos experimentais ou intervencionais são ligados a ações de prevenção e à investigação de fatores causais por experimentação. Escolhem-se um grupo experimental e um grupo-controle; a intervenção é feita no grupo experimental ou grupo-teste.",
+          "refs": [
+            {
+              "page": 24,
+              "section": "Estudos experimentais ou intervencionais"
+            }
+          ]
+        },
+        {
+          "title": "Análise apresentada",
+          "text": "Para estudos experimentais populacionais, a aula orienta calcular RR e RA pelas mesmas fórmulas utilizadas nas coortes. A apresentação não detalha procedimentos de sorteio de participantes ou outros requisitos de execução; esses pontos não são completados aqui.",
+          "refs": [
+            {
+              "page": 25,
+              "section": "Análise de estudos experimentais"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e06-f01",
+      "front": "O que os estudos epidemiológicos investigam?",
+      "back": "Eventos relacionados à ocorrência de doenças em populações por meio do método científico.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Estudos epidemiológicos"
+        }
+      ]
+    },
+    {
+      "id": "e06-f02",
+      "front": "Quais são as três estratégias básicas citadas para investigar hipóteses?",
+      "back": "Estudo de casos, estudo laboratorial e estudo populacional.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Investigação de hipóteses"
+        }
+      ]
+    },
+    {
+      "id": "e06-f03",
+      "front": "Qual limitação do estudo de casos é destacada?",
+      "back": "A ausência de indivíduos-controles pode dificultar distinguir coincidências na interpretação.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Estudo de casos"
+        }
+      ]
+    },
+    {
+      "id": "e06-f04",
+      "front": "Para que servem controles rigorosos no laboratório?",
+      "back": "Reduzem subjetivismo e fornecem parâmetros para comparar resultados.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Estudo laboratorial"
+        }
+      ]
+    },
+    {
+      "id": "e06-f05",
+      "front": "Qual é a diferença básica entre estudos observacionais e experimentais na aula?",
+      "back": "Observacionais examinam situações naturais; experimentais envolvem intervenção.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Estudo populacional"
+        }
+      ]
+    },
+    {
+      "id": "e06-f06",
+      "front": "Como o material classifica estudos observacionais pelo tempo?",
+      "back": "Longitudinais, prospectivos ou retrospectivos, e seccionais.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Estudos populacionais observacionais"
+        }
+      ]
+    },
+    {
+      "id": "e06-f07",
+      "front": "Qual é o percurso da coorte apresentada?",
+      "back": "Parte de indivíduos sem a doença, compara expostos e não expostos e observa o aparecimento da doença ao longo do tempo.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Estudo de coortes"
+        },
+        {
+          "page": 11,
+          "section": "Estudo de coortes"
+        }
+      ]
+    },
+    {
+      "id": "e06-f08",
+      "front": "No quadro de coortes, o que representam a, b, c e d?",
+      "back": "a: expostos atingidos; b: expostos não atingidos; c: não expostos atingidos; d: não expostos não atingidos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Tabela de coortes"
+        }
+      ]
+    },
+    {
+      "id": "e06-f09",
+      "front": "Quais proporções são comparadas em uma coorte?",
+      "back": "a/(a+b) nos expostos e c/(c+d) nos não expostos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Proporções em coortes"
+        }
+      ]
+    },
+    {
+      "id": "e06-f10",
+      "front": "Como calcular o RR na coorte?",
+      "back": "RR = [a/(a+b)] / [c/(c+d)], incidência nos expostos dividida pela incidência nos não expostos.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Risco relativo"
+        }
+      ]
+    },
+    {
+      "id": "e06-f11",
+      "front": "Como calcular o RA e qual suposição é apresentada?",
+      "back": "RA = incidência nos expostos menos incidência nos não expostos; supõe-se ação igual dos outros fatores nos dois grupos.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Risco atribuível"
+        },
+        {
+          "page": 15,
+          "section": "Risco atribuível"
+        }
+      ]
+    },
+    {
+      "id": "e06-f12",
+      "front": "Como o exemplo impresso de tabagismo chega a RR = 12?",
+      "back": "Usa incidências já arredondadas para 36 e 3 por 10.000, calculando 36/3.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Exemplo de coorte"
+        }
+      ]
+    },
+    {
+      "id": "e06-f13",
+      "front": "O que significa o RA = 33 por 10.000 no exemplo da aula?",
+      "back": "O excesso de risco atribuído ao tabagismo é apresentado como 33 casos por 10.000 em 10 anos, a partir das taxas arredondadas.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Exemplo de coorte"
+        }
+      ]
+    },
+    {
+      "id": "e06-f14",
+      "front": "De onde parte um estudo de casos-controles?",
+      "back": "De casos diagnosticados e controles sem o agravo, comparados quanto às exposições anteriores.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Estudo de casos-controles"
+        },
+        {
+          "page": 18,
+          "section": "Estudo de casos-controles"
+        }
+      ]
+    },
+    {
+      "id": "e06-f15",
+      "front": "Qual medida é calculada em casos-controles na aula?",
+      "back": "Odds ratio: OR = (a × d)/(b × c). A incidência não é determinável nesse desenho segundo a fonte.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Odds ratio"
+        }
+      ]
+    },
+    {
+      "id": "e06-f16",
+      "front": "Qual cuidado exige o resultado 8,14 do exemplo de contraceptivos?",
+      "back": "Ele é calculado como OR, embora a interpretação impressa use RR; não trocar os nomes sem registrar essa diferença.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Exemplo de casos-controles"
+        }
+      ]
+    },
+    {
+      "id": "e06-f17",
+      "front": "Quais são os outros nomes de estudo seccional?",
+      "back": "Estudo transversal ou de prevalência; exposição e efeito são medidos no mesmo momento ou intervalo.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Estudos seccionais"
+        }
+      ]
+    },
+    {
+      "id": "e06-f18",
+      "front": "Como calcular razão e diferença de prevalências?",
+      "back": "Razão: prevalência expostos / não expostos. Diferença: prevalência expostos − não expostos.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Análise de seccionais"
+        }
+      ]
+    },
+    {
+      "id": "e06-f19",
+      "front": "Quais são os resultados do exemplo migrantes versus não migrantes?",
+      "back": "18/300 = 6%; 21/700 = 3%; razão de prevalências 2 e diferença de 3 pontos percentuais.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Exemplo seccional"
+        }
+      ]
+    },
+    {
+      "id": "e06-f20",
+      "front": "Onde ocorre a intervenção no desenho experimental apresentado?",
+      "back": "No grupo experimental ou grupo-teste, comparado ao grupo-controle; RR e RA usam as fórmulas das coortes.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Estudos experimentais"
+        },
+        {
+          "page": 25,
+          "section": "Estudos experimentais"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e06-q01",
+      "prompt": "Uma investigação descreve três indivíduos com uma doença pouco conhecida, sem grupo-controle. Qual estratégia da aula corresponde a esse trabalho?",
+      "choices": [
+        "Estudo de casos.",
+        "Estudo experimental populacional.",
+        "Coorte prospectiva completa.",
+        "Estudo seccional de toda a população."
+      ],
+      "answer": 0,
+      "explanation": "O estudo de casos pode observar um ou poucos indivíduos e é usado na avaliação inicial de problemas ainda pouco conhecidos.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Estudo de casos"
+        }
+      ]
+    },
+    {
+      "id": "e06-q02",
+      "prompt": "O que a adoção de controles rigorosos favorece no estudo laboratorial?",
+      "choices": [
+        "Impossibilidade de realizar experimentos.",
+        "Substituição da investigação por coincidências.",
+        "Dispensa de precisão nas etapas do estudo.",
+        "Menor subjetivismo e comparação dos resultados."
+      ],
+      "answer": 3,
+      "explanation": "A aula associa os controles rigorosos à redução de subjetivismo e ao uso de parâmetros comparativos.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Estudo laboratorial"
+        }
+      ]
+    },
+    {
+      "id": "e06-q03",
+      "prompt": "Qual situação caracteriza o estudo populacional experimental conforme a aula?",
+      "choices": [
+        "Apenas descreve situações naturais sem intervenção.",
+        "O pesquisador realiza uma intervenção em um grupo-teste.",
+        "Somente seleciona casos já diagnosticados.",
+        "Mede necessariamente prevalência em um único instante."
+      ],
+      "answer": 1,
+      "explanation": "A intervenção distingue o estudo experimental da observação de situações naturais.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Estudos populacionais e experimentais"
+        },
+        {
+          "page": 24,
+          "section": "Estudos populacionais e experimentais"
+        }
+      ]
+    },
+    {
+      "id": "e06-q04",
+      "prompt": "Um grupo inicialmente sem a doença é separado por exposição e acompanhado ao longo do tempo. Qual desenho foi representado?",
+      "choices": [
+        "Casos-controles retrospectivo.",
+        "Estudo de um caso sem controles.",
+        "Coorte prospectiva.",
+        "Seccional sem seguimento."
+      ],
+      "answer": 2,
+      "explanation": "A figura de coortes organiza o seguimento de expostos e não expostos até a observação dos desfechos.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Estudo de coortes"
+        },
+        {
+          "page": 11,
+          "section": "Estudo de coortes"
+        }
+      ]
+    },
+    {
+      "id": "e06-q05",
+      "prompt": "Na tabela em que a são expostos atingidos e b são expostos não atingidos, qual é a proporção de atingidos entre expostos?",
+      "choices": [
+        "a/(a+b).",
+        "a/(a+c).",
+        "b/(b+d).",
+        "c/(c+d)."
+      ],
+      "answer": 0,
+      "explanation": "O denominador deve incluir todos os expostos, atingidos e não atingidos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Tabela de coortes"
+        }
+      ]
+    },
+    {
+      "id": "e06-q06",
+      "prompt": "Qual expressão corresponde ao risco relativo na tabela apresentada?",
+      "choices": [
+        "a/(a+b) − c/(c+d).",
+        "(a × d)/(b × c), identificada como incidência.",
+        "(a+b)/(c+d), sem considerar atingidos.",
+        "[a/(a+b)] / [c/(c+d)]."
+      ],
+      "answer": 3,
+      "explanation": "O RR divide a incidência nos expostos pela incidência nos não expostos.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Risco relativo"
+        }
+      ]
+    },
+    {
+      "id": "e06-q07",
+      "prompt": "Em um exercício autoral com incidência de 10 por 100 nos expostos e 5 por 100 nos não expostos, qual é o RR?",
+      "choices": [
+        "5 por 100.",
+        "2.",
+        "15 por 100.",
+        "0,5."
+      ],
+      "answer": 1,
+      "explanation": "Pela fórmula da aula, RR = 10/5 = 2; a mesma base das duas taxas se cancela na divisão.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Risco relativo"
+        }
+      ]
+    },
+    {
+      "id": "e06-q08",
+      "prompt": "Com incidências de 10 por 100 nos expostos e 5 por 100 nos não expostos, qual é o RA pelo método da aula?",
+      "choices": [
+        "2.",
+        "15 por 100.",
+        "5 por 100.",
+        "50 por 100."
+      ],
+      "answer": 2,
+      "explanation": "O RA é uma diferença: 10 por 100 menos 5 por 100 resulta em 5 por 100.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Risco atribuível"
+        }
+      ]
+    },
+    {
+      "id": "e06-q09",
+      "prompt": "Qual suposição sustenta a interpretação do risco atribuível apresentada?",
+      "choices": [
+        "Os outros fatores atuam igualmente nos expostos e nos não expostos.",
+        "Todos os fatores diferentes da exposição deixam de existir.",
+        "Os controles são obrigatoriamente todos doentes.",
+        "A incidência é sempre igual à prevalência."
+      ],
+      "answer": 0,
+      "explanation": "A aula atribui a diferença ao fator estudado supondo ação igual dos demais fatores nos dois grupos.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Risco atribuível"
+        }
+      ]
+    },
+    {
+      "id": "e06-q10",
+      "prompt": "Por que RR = 12 do exemplo de tabagismo deve ser lido com atenção?",
+      "choices": [
+        "Foi obtido pela soma de 72 e 9 casos.",
+        "É o resultado exato da divisão das duas proporções brutas sem arredondamento.",
+        "É uma razão de prevalências do exemplo de migração.",
+        "Foi obtido dividindo incidências previamente arredondadas para 36 e 3 por 10.000."
+      ],
+      "answer": 3,
+      "explanation": "O cálculo impresso usa 36/3. Recalcular com as proporções brutas antes do arredondamento não retorna exatamente 12.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Exemplo de coorte: arredondamento"
+        }
+      ]
+    },
+    {
+      "id": "e06-q11",
+      "prompt": "Qual é o sentido do RA = 33 por 10.000 impresso no exemplo de tabagismo?",
+      "choices": [
+        "Número total de pessoas de toda a população.",
+        "Excesso de risco atribuído ao fator no período de 10 anos.",
+        "Proporção de fumantes entre todos os casos.",
+        "Razão de chances no estudo de contraceptivos."
+      ],
+      "answer": 1,
+      "explanation": "A interpretação do slide é 33 casos adicionais por 10.000 em 10 anos, com base na subtração das taxas arredondadas.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Exemplo de coorte: interpretação"
+        }
+      ]
+    },
+    {
+      "id": "e06-q12",
+      "prompt": "Uma pesquisa seleciona pessoas com trombose e controles sem trombose, depois compara uso anterior de contraceptivos. Qual é o desenho?",
+      "choices": [
+        "Coorte iniciada antes da doença.",
+        "Intervenção em grupo-teste.",
+        "Casos-controles retrospectivo.",
+        "Descrição isolada de um indivíduo."
+      ],
+      "answer": 2,
+      "explanation": "O ponto de partida é a presença ou ausência do agravo, reconstruindo fatores anteriores.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Estudo de casos-controles"
+        },
+        {
+          "page": 18,
+          "section": "Estudo de casos-controles"
+        }
+      ]
+    },
+    {
+      "id": "e06-q13",
+      "prompt": "Segundo a aula, o que não é determinável no estudo de casos-controles e qual medida é usada na análise?",
+      "choices": [
+        "A incidência; usa-se odds ratio.",
+        "A exposição; usa-se apenas número de habitantes.",
+        "A presença da doença; usa-se prevalência futura.",
+        "A seleção de controles; usa-se só risco atribuível."
+      ],
+      "answer": 0,
+      "explanation": "O slide explicita a impossibilidade de determinar o coeficiente de incidência e apresenta a razão dos produtos cruzados.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Análise de casos-controles"
+        }
+      ]
+    },
+    {
+      "id": "e06-q14",
+      "prompt": "No exemplo com 25 casos e 350 controles expostos e 5 casos e 570 controles não expostos, qual operação corresponde à OR?",
+      "choices": [
+        "(25+350)/(5+570).",
+        "(25/375) − (5/575).",
+        "950/(25+5).",
+        "(25 × 570)/(350 × 5)."
+      ],
+      "answer": 3,
+      "explanation": "A OR usa os produtos cruzados, obtendo 14.250/1.750 ≈ 8,14.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Odds ratio e exemplo de contraceptivos"
+        },
+        {
+          "page": 20,
+          "section": "Odds ratio e exemplo de contraceptivos"
+        }
+      ]
+    },
+    {
+      "id": "e06-q15",
+      "prompt": "Qual leitura preserva o limite do exemplo de contraceptivos apresentado no PDF?",
+      "choices": [
+        "O cálculo determina diretamente incidência nesse desenho.",
+        "O cálculo é OR ≈ 8,14, embora a interpretação impressa mude o rótulo para RR.",
+        "A aula comprova que OR e RR são sempre idênticos.",
+        "O cálculo é risco atribuível porque usa produtos cruzados."
+      ],
+      "answer": 1,
+      "explanation": "A página 19 apresenta OR ≈ RR e a página 20 calcula OR, mas interpreta com o rótulo RR; a diferença precisa ser explicitada.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Limite de interpretação de OR e RR"
+        },
+        {
+          "page": 20,
+          "section": "Limite de interpretação de OR e RR"
+        }
+      ]
+    },
+    {
+      "id": "e06-q16",
+      "prompt": "Qual investigação é seccional conforme a definição da aula?",
+      "choices": [
+        "Acompanhar apenas novos casos por anos após selecionar expostos.",
+        "Intervir no grupo-teste e comparar ao controle.",
+        "Medir exposição e doença em um mesmo momento ou intervalo.",
+        "Selecionar casos diagnosticados e reconstruir exposições passadas."
+      ],
+      "answer": 2,
+      "explanation": "O estudo seccional, transversal ou de prevalência mede suposta causa e efeito no mesmo período.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Estudos seccionais"
+        }
+      ]
+    },
+    {
+      "id": "e06-q17",
+      "prompt": "Na análise seccional, qual medida de ocorrência substitui a incidência?",
+      "choices": [
+        "Prevalência.",
+        "Número de consultas realizadas.",
+        "Duração da intervenção.",
+        "Quantidade de controles de laboratório."
+      ],
+      "answer": 0,
+      "explanation": "O material salienta que as razões e diferenças no seccional usam prevalência, mesmo quando compara seus nomes aos de RR e RA.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Análise de seccionais"
+        }
+      ]
+    },
+    {
+      "id": "e06-q18",
+      "prompt": "No exemplo, 18 de 300 migrantes e 21 de 700 não migrantes têm doença mental. Qual par expressa razão e diferença de prevalências?",
+      "choices": [
+        "3 e 2 pontos percentuais.",
+        "6 e 3 casos totais.",
+        "39 e 1.000 pontos percentuais.",
+        "2 e 3 pontos percentuais."
+      ],
+      "answer": 3,
+      "explanation": "As prevalências são 6% e 3%; a razão é 2 e a diferença é 3 pontos percentuais.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Exemplo seccional"
+        }
+      ]
+    },
+    {
+      "id": "e06-q19",
+      "prompt": "Qual grupo recebe a intervenção no estudo experimental apresentado?",
+      "choices": [
+        "O conjunto de controles exclusivamente.",
+        "O grupo experimental ou grupo-teste.",
+        "Somente os casos já diagnosticados, por definição de casos-controles.",
+        "Nenhum grupo, pois experimentos apenas observam situações naturais."
+      ],
+      "answer": 1,
+      "explanation": "O PDF diferencia grupo experimental e grupo-controle e localiza a intervenção no primeiro.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Estudos experimentais"
+        }
+      ]
+    },
+    {
+      "id": "e06-q20",
+      "prompt": "Como a aula orienta analisar RR e RA nos estudos experimentais populacionais?",
+      "choices": [
+        "Sempre substituindo incidência por prevalência.",
+        "Sem comparar os grupos.",
+        "Com as mesmas fórmulas usadas em coortes.",
+        "Com soma dos produtos cruzados como única medida."
+      ],
+      "answer": 2,
+      "explanation": "A página de análise experimental remete expressamente às fórmulas de RR e RA das coortes.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Análise de estudos experimentais"
+        }
+      ]
+    }
+  ]
+}

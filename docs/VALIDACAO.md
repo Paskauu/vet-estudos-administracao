@@ -81,3 +81,35 @@ Após a entrega inicial, o usuário tornou o repositório público e escolheu o 
 - Imagem da página publicada: `docs/preview/pages-publicado.jpg`.
 
 Atualizações enviadas à branch `main` acionam publicação automática. O progresso continua local a cada navegador; para transportar dados da origem local ao site, use exportação/importação manual. Os testes completos de persistência e backup permanecem descritos acima e foram realizados em origens isoladas.
+
+## Ampliação: Epidemiologia Veterinária e Saneamento Ambiental — 30/10/2026
+
+O pedido seguinte acrescenta uma segunda disciplina ao mesmo site e reorganiza os originais em duas subpastas. Os PDFs de Administração não foram reabertos para análise e seus JSONs acadêmicos não foram alterados. As cópias antigas já preparadas foram reutilizadas localmente; checkout limpo usa o novo caminho da subpasta durante a cópia.
+
+### Conteúdo e revisão
+
+- Apenas os sete PDFs da subpasta `2.0 - Epidemiologia Veterinária e Saneamento Ambiental` foram usados para autoria: aulas 01, 02, 03, 05, 06, 07 e 08, com **231 páginas físicas**. A ausência da aula 04 está indicada na biblioteca e no início da disciplina.
+- Resultado: **7 módulos, 64 lições, 175 blocos, 176 flashcards, 176 questões e 652 referências**. A aula 02 tem 14 lições; quadros densos de alimentos e surtos também foram repartidos em unidades menores.
+- O catálogo completo contém **15 módulos, 116 lições, 318 blocos, 309 flashcards, 344 questões, 1332 referências e 402 páginas**. As contagens de Administração permanecem iguais às da entrega anterior.
+- Os registros `docs/research/epidemiologia-01-02.md`, `epidemiologia-03-05.md` e `epidemiologia-06-08.md` documentam leitura, inspeção de imagens, cobertura e divergências. Não houve pesquisa acadêmica externa.
+- Revisão independente leu os resumos e gabaritos dos sete módulos, comparou texto extraído e inspecionou páginas selecionadas com fórmulas, tabelas e gráficos. Um qualificativo ambíguo da lista de eventos animais de e03 p.18 foi corrigido separando canídeos silvestres de quirópteros em áreas urbanas. Não ficaram outros achados materiais na amostra conferida.
+- Conferência independente com `pypdf` confirmou o número real de páginas dos sete novos arquivos. Os sete PDFs preparados têm SHA-256 idêntico aos respectivos originais novos. Essa conferência não releu os PDFs de Administração.
+
+### Separação e compatibilidade
+
+- Seletor de disciplina em todas as telas, verde em Administração e azul-petróleo em Epidemiologia. Bibliotecas, categorias, buscas, cartões, questões, simulados, retomadas e progresso são recortados pela disciplina ativa.
+- Rotas novas têm prefixo da disciplina; links anteriores continuam aceitos. Link antigo direto `#/modulo/e03` identificou corretamente Epidemiologia na conferência.
+- Chave local e IDs anteriores preservados. Backup único inclui ambas as disciplinas; aceita o identificador antigo de Administração. Importações inválidas são recusadas antes da gravação, inclusive sessões com disciplinas misturadas e redefinições conflitantes de um mesmo identificador de sessão.
+- Revisão técnica encontrou uma colisão possível de identificador de sessão em backups. Dois testes reproduziram a falha antes da correção e passaram depois: filtragem de cada início de sessão pelo próprio payload e recusa da redefinição na importação.
+
+### Verificação executada
+
+- **26 testes aprovados, zero falhas**, incluindo os 18 anteriores. Cobrem isolamento do catálogo e do progresso, compatibilidade de rotas e backups, rejeição atômica de sessões entre disciplinas/fora de módulos e preparação das fontes nos novos caminhos.
+- `npm run validate:content` e `npm run build` concluídos. Compilação sem avisos, com catálogos em arquivos separados de aproximadamente 223 kB e 222 kB; interface aproximadamente 69 kB e runtime 223 kB antes de gzip.
+- Navegador em origem de teste `localhost:5174`: leitura de e03 salva após recarga; Administração continua com zero leituras/cartões/respostas de teste da outra área; revisão de cartão com referência em e08 salva somente em Epidemiologia.
+- Simulado com e03/e05 e cinco questões: seleção vazia desabilita início; todos os módulos oferecidos pertencem à disciplina; resposta confirmada persistiu após recarga; Administração não mostrou retomada da sessão; voltar a Epidemiologia permitiu retomá-la na próxima questão. Correção somente ao final e resultado por módulo conferidos.
+- Biblioteca de Epidemiologia mostrou somente os sete PDFs novos, com suas páginas e nomes.
+- Versão compilada em `localhost:4181`: abriu os arquivos de conteúdo separados. Backup de nove eventos exportado pela interface, importado e reimportado nessa origem. Permaneceram nove eventos: uma leitura, uma revisão, cinco respostas, início e conclusão de simulado. Indicadores corretos e Administração sem contaminação. Nenhum erro/aviso nos logs dessa versão.
+- Layout conferido em **800 × 1280**, **1280 × 800** e **360 × 800 CSS px**; largura da página dentro do espaço disponível, sem rolagem horizontal. Seletor legível, incluindo o nome completo da nova disciplina, e leitura do módulo 02 conferida no celular. Não houve teste físico em tablet.
+
+A publicação desta ampliação usa o mesmo fluxo GitHub Pages e o mesmo endereço existente; sua conclusão deve ser confirmada na execução do envio correspondente.

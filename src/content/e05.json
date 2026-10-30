@@ -1,0 +1,1047 @@
+{
+  "id": "e05",
+  "order": 5,
+  "courseId": "epidemiologia",
+  "category": "Vigilância e epidemiologia",
+  "title": "Epidemiologia Descritiva",
+  "shortTitle": "Epidemiologia descritiva",
+  "description": "Descreva quem adoece, onde e quando: dados primários e secundários, lugar de aquisição, séries históricas, tendências temporais e padrões de surtos apresentados no PDF.",
+  "source": {
+    "filename": "Epidemiologia Descritiva - Aula 5_261027_095836.pdf",
+    "pages": 29,
+    "topic": "05"
+  },
+  "lessons": [
+    {
+      "id": "e05-l01",
+      "title": "Descrever a frequência e a distribuição",
+      "intro": "Compreenda o papel inicial dos estudos descritivos na investigação.",
+      "blocks": [
+        {
+          "title": "Observar a enfermidade na população",
+          "text": "A epidemiologia descritiva observa a distribuição e a progressão da enfermidade para reconhecer a natureza e a magnitude do problema. A aula cita extensão, espécies envolvidas, sexo, idade, estado físico e condições ambientais entre as variáveis a caracterizar.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Três perguntas orientadoras",
+          "text": "Os estudos descritivos informam frequência e distribuição dos eventos e geralmente integram a primeira parte de uma investigação. O registro e a observação podem incluir doença e possíveis fatores causais. A descrição organiza três perguntas:",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Introdução"
+            },
+            {
+              "page": 4,
+              "section": "Introdução"
+            }
+          ],
+          "bullets": [
+            "Indivíduo: quem tem a doença?",
+            "Tempo: como a ocorrência muda com o tempo?",
+            "Lugar: onde está ocorrendo o problema?"
+          ]
+        },
+        {
+          "title": "Dados e utilidades",
+          "text": "A aula chama de secundários os dados já coletados e de primários os obtidos com questionários específicos. A descrição ajuda a avaliar tendências, comparar áreas geográficas, monitorar doenças conhecidas, identificar problemas emergentes e planejar, organizar e avaliar serviços de saúde.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Introdução"
+            },
+            {
+              "page": 5,
+              "section": "Utilidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l02",
+      "title": "Quem adoece: características dos indivíduos",
+      "intro": "Organize as características humanas e animais sem perder o foco populacional.",
+      "blocks": [
+        {
+          "title": "Diferenças entre indivíduos",
+          "text": "Idade, raça, sexo e estado nutricional e imunitário são características citadas para distinguir pessoas ou animais. Elas ajudam a descrever quais grupos compõem a ocorrência observada.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Indivíduos"
+            }
+          ]
+        },
+        {
+          "title": "Contexto humano e finalidade animal",
+          "text": "Para humanos, o PDF acrescenta grupo étnico, escolaridade, ocupação, costumes e condição social e econômica. Para animais, cita espécie, raça, idade e sexo e também finalidades ou fases produtivas como corte, leite, reprodução e terminação.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Indivíduos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l03",
+      "title": "Onde ocorre: lugar e aquisição da doença",
+      "intro": "Relacione condições geográficas ao local em que a doença foi adquirida.",
+      "blocks": [
+        {
+          "title": "Lugar envolve condições da área",
+          "text": "A descrição espacial reúne características e condições existentes na área onde ocorreu o agravo. A aula menciona clima, fauna, relevo, hidrografia, solo, vegetação, poluentes, contaminação de alimentos, organização urbana ou rural e migração como elementos capazes de influenciar a distribuição.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Lugar"
+            }
+          ]
+        },
+        {
+          "title": "O mapa de Londres",
+          "text": "O material apresenta o mapa de Londres de 1854 utilizado por Snow para relacionar a incidência de cólera ao fornecimento de água. O exemplo mostra o uso da localização dos eventos na descrição epidemiológica.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Mapa de Londres, de 1854"
+            }
+          ]
+        },
+        {
+          "title": "Caso autóctone e caso importado",
+          "text": "Autóctone é o caso em que a doença foi adquirida no local de residência da pessoa ou animal. Importado é aquele adquirido fora desse local. O critério exposto é o local de aquisição em relação à residência.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Caso autóctone e caso importado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l04",
+      "title": "Quando ocorre: acompanhar no tempo",
+      "intro": "Escolha a escala temporal e utilize o histórico para interpretar mudanças.",
+      "blocks": [
+        {
+          "title": "Escalas de observação",
+          "text": "A distribuição pode ser acompanhada por hora, dia, semana, mês ou ano. Gráficos da evolução da ocorrência apoiam a avaliação epidemiológica. Para verificar se uma mudança é real, a aula destaca a necessidade de dados anteriores, formando uma série histórica.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Tempo"
+            }
+          ]
+        },
+        {
+          "title": "Nomes das formas de ocorrência",
+          "text": "O PDF enumera as formas esporádica, endêmica ou enzoótica e epidêmica ou epizoótica. A descrição detalhada de endemia e epidemia aparece adiante, permitindo distinguir ocorrência habitual de excesso de casos.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Formas de distribuição das doenças"
+            },
+            {
+              "page": 25,
+              "section": "Variações irregulares (epidêmicas)"
+            }
+          ]
+        },
+        {
+          "title": "Ocorrência habitual e excesso de casos",
+          "text": "A aula define endemia como presença habitual de doença em um grupo e área, dentro dos limites esperados. Epidemia é elevação brusca, inesperada e temporária da incidência acima do esperado para a população e o período. O ponto decisivo é o excesso em relação ao habitual, e não um número absoluto muito grande.",
+          "refs": [
+            {
+              "page": 25,
+              "section": "Variações irregulares (epidêmicas)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l05",
+      "title": "Sazonalidade e limiar epidêmico",
+      "intro": "Reconheça flutuações dentro do ano e os cuidados para interpretá-las.",
+      "blocks": [
+        {
+          "title": "Estação ou época do ano",
+          "text": "A variação estacional ou sazonal apresenta flutuações periódicas relacionadas a determinada estação ou época do ano. A aula associa esse padrão a condições ambientais, densidade de hospedeiros, manejo, sobrevivência do agente, vetores e outros fatores ecológicos.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Variação ou tendência estacional (ou sazonal)"
+            },
+            {
+              "page": 13,
+              "section": "Variação estacional: condições ambientais"
+            }
+          ]
+        },
+        {
+          "title": "Fatores e ilustrações",
+          "text": "Sobrevivência do patógeno fora do hospedeiro, comportamento e função imunológica do hospedeiro e abundância de vetores e reservatórios podem influenciar a sazonalidade. A aula ilustra o tema com gráfico mensal de dengue e índice de larvas e com esquema sobre Ebola na África, contrastando estações úmida e seca e contatos entre espécies.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Variação estacional: fatores de influência"
+            },
+            {
+              "page": 15,
+              "section": "Gráfico de dengue e índice de larvas"
+            },
+            {
+              "page": 16,
+              "section": "Ebola na África"
+            }
+          ]
+        },
+        {
+          "title": "Um aumento sazonal não basta para declarar epidemia",
+          "text": "O aumento em certa época pode representar variação estacional. Por isso, a interpretação deve considerar o nível endêmico e o limiar epidêmico do período. A aula não fornece fórmula ou procedimento de cálculo desse limiar.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "Variação estacional: nível endêmico e limiar epidêmico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l06",
+      "title": "Tendências cíclicas e reposição de suscetíveis",
+      "intro": "Diferencie ciclos que ultrapassam um ano das flutuações sazonais.",
+      "blocks": [
+        {
+          "title": "Periodicidade maior que um ano",
+          "text": "A tendência cíclica apresenta flutuações com intervalos que ultrapassam um ano. A aula a associa a alterações periódicas na densidade de hospedeiros suscetíveis que permitem a transmissão do agente.",
+          "refs": [
+            {
+              "page": 18,
+              "section": "Variação ou tendência cíclica"
+            }
+          ]
+        },
+        {
+          "title": "Imunidade e renovação da população",
+          "text": "O texto relaciona esse padrão a agentes com alta patogenicidade e imunidade relativamente duradoura e ao tempo necessário para a população voltar a atingir um limiar de suscetíveis. Cita ciclo de três a quatro anos de febre aftosa no Paraguai na década de 1970 e a distribuição cíclica da varíola humana.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "Variação ou tendência cíclica"
+            },
+            {
+              "page": 22,
+              "section": "Doenças humanas com imunidade prolongada"
+            }
+          ]
+        },
+        {
+          "title": "O exemplo da raiva em raposas",
+          "text": "A aula apresenta raiva em raposas na Grã-Bretanha como exemplo de ciclo de quatro anos. No mecanismo descrito, as mortes reduzem a densidade de suscetíveis e a ocorrência; a renovação da população e uma nova geração repõem suscetíveis e favorecem novo aumento. O local e a periodicidade são reproduzidos como exemplo do PDF.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Raiva em raposas na Grã-Bretanha"
+            },
+            {
+              "page": 21,
+              "section": "Raiva em raposas na Grã-Bretanha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l07",
+      "title": "Tendência secular e extensão geográfica",
+      "intro": "Compare mudanças de longo prazo com a abrangência dos eventos.",
+      "blocks": [
+        {
+          "title": "Uma mudança observada por longos períodos",
+          "text": "A variação secular ou de longo prazo é observada após extensos períodos. A aula afirma que pode sofrer influência de diversos fatores e geralmente resulta da ação humana. Usa como ilustração o aumento de tumores em humanos; o gráfico mostrado representa número de mortes por câncer e doenças cardíacas entre 1950 e 2014.",
+          "refs": [
+            {
+              "page": 23,
+              "section": "Variação ou tendência secular (ou de longo prazo)"
+            },
+            {
+              "page": 24,
+              "section": "Aumento de tumores em humanos"
+            }
+          ]
+        },
+        {
+          "title": "Pandemia e surto",
+          "text": "Na classificação por área geográfica, pandemia alcança níveis mundiais e mais de um continente. Surto é ocorrência epidêmica com casos relacionados entre si em área pequena e delimitada ou em população institucionalizada, como colégios, quartéis, creches e asilos.",
+          "refs": [
+            {
+              "page": 26,
+              "section": "Quanto à área geográfica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e05-l08",
+      "title": "Surtos por fonte comum e por propagação",
+      "intro": "Relacione a exposição e a transmissão ao padrão descrito na aula.",
+      "blocks": [
+        {
+          "title": "Uma única fonte",
+          "text": "No surto por fonte comum, uma única fonte, como água ou alimento, veicula o agente infeccioso e expõe um número elevado de indivíduos. O elemento central da definição é a fonte compartilhada.",
+          "refs": [
+            {
+              "page": 27,
+              "section": "Surto por fonte comum"
+            }
+          ]
+        },
+        {
+          "title": "Transmissão entre indivíduos",
+          "text": "O surto progressivo ou propagado é descrito como mais lento, com transmissão provavelmente de indivíduo para indivíduo. Ela pode ser direta ou indireta, por fômites ou vetores. O material descreve curva com picos progressivamente mais altos separados por um período de incubação.",
+          "refs": [
+            {
+              "page": 27,
+              "section": "Surto por fonte progressiva ou propagada"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e05-f01",
+      "front": "O que os estudos descritivos informam?",
+      "back": "A frequência e a distribuição de um evento na população, geralmente na parte inicial de uma investigação epidemiológica.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-f02",
+      "front": "Quais são as três perguntas básicas da epidemiologia descritiva?",
+      "back": "Quem tem a doença? Como a ocorrência muda com o tempo? Onde o problema está ocorrendo? Correspondem a indivíduo, tempo e lugar.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-f03",
+      "front": "Como a aula distingue dados primários de secundários?",
+      "back": "Primários são coletados por questionários específicos; secundários são dados já coletados, utilizados para caracterizar os casos ou agravos.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-f04",
+      "front": "Quais utilidades a aula atribui à descrição epidemiológica?",
+      "back": "Avaliar tendências, comparar áreas, monitorar doenças conhecidas, identificar problemas emergentes e apoiar planejamento, organização e avaliação de serviços.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Utilidades"
+        }
+      ]
+    },
+    {
+      "id": "e05-f05",
+      "front": "Quais características individuais são citadas para pessoas e animais?",
+      "back": "Idade, raça, sexo e estado nutricional e imunitário. Para animais também aparecem espécie e finalidades ou fases como corte, leite, reprodução e terminação.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Indivíduos"
+        }
+      ]
+    },
+    {
+      "id": "e05-f06",
+      "front": "Quais características humanas adicionais aparecem no PDF?",
+      "back": "Grupo étnico, escolaridade, ocupação, costumes e condição social e econômica.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Indivíduos"
+        }
+      ]
+    },
+    {
+      "id": "e05-f07",
+      "front": "Quais elementos geográficos podem influenciar a distribuição segundo a aula?",
+      "back": "Clima, fauna, relevo, hidrografia, solo, vegetação, poluentes, contaminação de alimentos, organização urbana ou rural e migração.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Lugar"
+        }
+      ]
+    },
+    {
+      "id": "e05-f08",
+      "front": "O que o mapa de Snow ilustra na aula?",
+      "back": "O uso do espaço na descrição: o mapa de Londres de 1854 relaciona incidência de cólera e fornecimento de água.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Mapa de Londres, de 1854"
+        }
+      ]
+    },
+    {
+      "id": "e05-f09",
+      "front": "Como diferenciar caso autóctone de importado?",
+      "back": "No autóctone a doença foi adquirida no local de residência; no importado, fora desse local.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Caso autóctone e caso importado"
+        }
+      ]
+    },
+    {
+      "id": "e05-f10",
+      "front": "Que escalas de tempo a aula menciona?",
+      "back": "Hora, dia, semana, mês e ano. Gráficos da evolução dos casos apoiam a avaliação.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Tempo"
+        }
+      ]
+    },
+    {
+      "id": "e05-f11",
+      "front": "Para que serve a série histórica na avaliação da ocorrência?",
+      "back": "Fornecer dados anteriores para avaliar se a mudança observada é real.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Tempo"
+        }
+      ]
+    },
+    {
+      "id": "e05-f12",
+      "front": "O que caracteriza a variação sazonal?",
+      "back": "Flutuações periódicas relacionadas a uma estação ou época do ano em particular.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Variação ou tendência estacional (ou sazonal)"
+        }
+      ]
+    },
+    {
+      "id": "e05-f13",
+      "front": "Que fatores do hospedeiro, agente e ambiente influenciam a sazonalidade?",
+      "back": "Sobrevivência do patógeno fora do hospedeiro; comportamento e função imunológica do hospedeiro; abundância de vetores e reservatórios, além de manejo e densidade de hospedeiros.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Variação estacional: condições ambientais"
+        },
+        {
+          "page": 14,
+          "section": "Variação estacional: fatores de influência"
+        }
+      ]
+    },
+    {
+      "id": "e05-f14",
+      "front": "Como evitar confundir aumento sazonal com epidemia?",
+      "back": "Comparar a ocorrência com o nível endêmico e com o limiar epidêmico para o período considerado.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Variação estacional: nível endêmico e limiar epidêmico"
+        }
+      ]
+    },
+    {
+      "id": "e05-f15",
+      "front": "Qual periodicidade distingue a tendência cíclica na aula?",
+      "back": "Flutuações com intervalos que ultrapassam um ano, relacionadas a mudanças periódicas na densidade de suscetíveis.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Variação ou tendência cíclica"
+        }
+      ]
+    },
+    {
+      "id": "e05-f16",
+      "front": "Qual exemplo de febre aftosa a aula fornece para tendência cíclica?",
+      "back": "Um ciclo de três a quatro anos observado no Paraguai na década de 1970, conforme o exemplo apresentado no PDF.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Variação ou tendência cíclica"
+        }
+      ]
+    },
+    {
+      "id": "e05-f17",
+      "front": "Como a reposição de suscetíveis explica o exemplo de raiva em raposas?",
+      "back": "As mortes reduzem a população de suscetíveis e a ocorrência; uma nova geração repõe suscetíveis e permite novo aumento. A aula descreve ciclo de quatro anos.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Raiva em raposas na Grã-Bretanha"
+        }
+      ]
+    },
+    {
+      "id": "e05-f18",
+      "front": "O que é tendência secular?",
+      "back": "Variação da ocorrência observada após longos períodos, influenciada por diversos fatores e geralmente associada, no PDF, à ação humana.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Variação ou tendência secular (ou de longo prazo)"
+        }
+      ]
+    },
+    {
+      "id": "e05-f19",
+      "front": "O que caracteriza epidemia no material?",
+      "back": "Elevação brusca, inesperada e temporária da incidência acima do esperado para a população no período, e não simplesmente um total absoluto muito grande.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Variações irregulares (epidêmicas)"
+        }
+      ]
+    },
+    {
+      "id": "e05-f20",
+      "front": "Como a endemia é definida nesta aula?",
+      "back": "Doença habitualmente presente em um grupo e área geográfica, dentro dos limites esperados, por período de tempo ilimitado.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Variações irregulares (epidêmicas)"
+        }
+      ]
+    },
+    {
+      "id": "e05-f21",
+      "front": "Qual abrangência geográfica caracteriza pandemia no PDF?",
+      "back": "Níveis mundiais, afetando mais de um continente.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Quanto à área geográfica"
+        }
+      ]
+    },
+    {
+      "id": "e05-f22",
+      "front": "Qual delimitação caracteriza um surto no material?",
+      "back": "Ocorrência epidêmica com casos relacionados entre si em pequena área delimitada ou população institucionalizada.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Quanto à área geográfica"
+        }
+      ]
+    },
+    {
+      "id": "e05-f23",
+      "front": "O que define um surto por fonte comum?",
+      "back": "O agente é veiculado por uma única fonte, como água ou alimento, que expõe muitos indivíduos.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Surto por fonte comum"
+        }
+      ]
+    },
+    {
+      "id": "e05-f24",
+      "front": "Como a aula descreve o surto propagado e sua curva?",
+      "back": "Ocorrência mais lenta, com transmissão entre indivíduos direta ou indireta por fômites ou vetores. A curva é descrita com picos progressivamente mais altos separados por um período de incubação.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Surto por fonte progressiva ou propagada"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e05-q01",
+      "prompt": "Uma investigação começa registrando a frequência dos casos e sua distribuição por tempo, lugar e indivíduos. Qual abordagem corresponde a esse começo?",
+      "choices": [
+        "Somente classificação da notificação como obrigatória.",
+        "Apenas definição de um tratamento individual.",
+        "Epidemiologia descritiva.",
+        "Somente acompanhamento da sobrevivência do agente fora do hospedeiro."
+      ],
+      "answer": 2,
+      "explanation": "O PDF descreve os estudos descritivos como informação sobre frequência e distribuição e como parte inicial usual da investigação.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Introdução"
+        },
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-q02",
+      "prompt": "Qual conjunto de perguntas organiza a descrição epidemiológica segundo a aula?",
+      "choices": [
+        "Quem tem a doença, como muda no tempo e onde ocorre o problema?",
+        "Qual tratamento, qual dose e qual via de administração?",
+        "Qual portaria, qual prazo e qual secretaria deve receber a ficha?",
+        "Qual agente, qual vacina e qual intervalo de aplicação?"
+      ],
+      "answer": 0,
+      "explanation": "As três variáveis centrais são indivíduo, tempo e lugar, expressas por essas perguntas.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-q03",
+      "prompt": "Uma equipe consulta registros já existentes e também aplica questionário específico. Como a aula classifica essas duas fontes, respectivamente?",
+      "choices": [
+        "Dados primários e dados secundários.",
+        "Duas formas de dados exclusivamente primários.",
+        "Duas formas de dados exclusivamente secundários.",
+        "Dados secundários e dados primários."
+      ],
+      "answer": 3,
+      "explanation": "O material chama os dados já coletados de secundários e os coletados com questionários específicos de primários.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e05-q04",
+      "prompt": "Qual atividade está entre as utilidades dos estudos descritivos listadas no material?",
+      "choices": [
+        "Definir que toda associação observada já confirma a causa.",
+        "Comparar áreas geográficas e identificar problemas emergentes.",
+        "Substituir o planejamento de serviços por registros individuais.",
+        "Dispensar o acompanhamento de doenças conhecidas."
+      ],
+      "answer": 1,
+      "explanation": "A página 5 inclui comparações geográficas, monitoramento, identificação de problemas emergentes e apoio à organização dos serviços.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Utilidades"
+        }
+      ]
+    },
+    {
+      "id": "e05-q05",
+      "prompt": "Ao descrever os animais acometidos, qual conjunto de características é explicitamente citado no PDF?",
+      "choices": [
+        "Somente município e mês da ocorrência.",
+        "Espécie, raça, idade, sexo e finalidade ou fase produtiva.",
+        "Apenas escolaridade e ocupação dos responsáveis.",
+        "Exclusivamente clima e hidrografia da propriedade."
+      ],
+      "answer": 1,
+      "explanation": "A variável indivíduo inclui espécie, raça, idade, sexo e categorias como corte, leite, reprodução e terminação.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Indivíduos"
+        }
+      ]
+    },
+    {
+      "id": "e05-q06",
+      "prompt": "Uma descrição relaciona casos a clima, hidrografia, solo e organização do espaço rural. Qual dimensão está sendo explorada?",
+      "choices": [
+        "Somente tempo.",
+        "Somente estado imunitário individual.",
+        "Periodicidade cíclica acima de um ano.",
+        "Lugar."
+      ],
+      "answer": 3,
+      "explanation": "Esses elementos são apresentados entre os fatores geográficos que podem influenciar a distribuição dos agravos.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Lugar"
+        }
+      ]
+    },
+    {
+      "id": "e05-q07",
+      "prompt": "Qual relação a aula utiliza para explicar o mapa de Londres de 1854?",
+      "choices": [
+        "Incidência de cólera e fornecimento de água.",
+        "Incidência de raiva e reposição de raposas.",
+        "Mortalidade por câncer e idade das pessoas.",
+        "Febre aftosa e ciclos no Paraguai."
+      ],
+      "answer": 0,
+      "explanation": "O mapa de Snow aparece como ilustração da descrição espacial associada à incidência de cólera e ao fornecimento de água.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Mapa de Londres, de 1854"
+        }
+      ]
+    },
+    {
+      "id": "e05-q08",
+      "prompt": "Um animal adquire a doença fora do seu local de residência. Segundo o critério do PDF, como o caso é classificado?",
+      "choices": [
+        "Autóctone.",
+        "Endêmico apenas por ter residência definida.",
+        "Importado.",
+        "Sazonal apenas pelo local de aquisição."
+      ],
+      "answer": 2,
+      "explanation": "Caso importado é adquirido fora do local de residência; o autóctone é adquirido no próprio local de residência.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Caso autóctone e caso importado"
+        }
+      ]
+    },
+    {
+      "id": "e05-q09",
+      "prompt": "Um caso foi adquirido no local de residência da pessoa, mesmo sendo diagnosticado em outro município. Qual critério do material orienta sua classificação?",
+      "choices": [
+        "É importado apenas porque o diagnóstico ocorreu fora da residência.",
+        "É pandêmico porque envolveu dois municípios.",
+        "É cíclico porque houve deslocamento para diagnóstico.",
+        "É autóctone em relação ao local de residência, pois o critério apresentado é onde a doença foi adquirida."
+      ],
+      "answer": 3,
+      "explanation": "O PDF usa a aquisição no local de residência para definir autóctone. O cenário distingue aquisição e diagnóstico sem acrescentar outro critério.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Caso autóctone e caso importado"
+        }
+      ]
+    },
+    {
+      "id": "e05-q10",
+      "prompt": "Por que a aula destaca a necessidade de uma série histórica ao avaliar uma mudança na ocorrência?",
+      "choices": [
+        "Porque qualquer aumento em um mês já define uma epidemia.",
+        "Porque uma série histórica elimina a necessidade de considerar o período.",
+        "Porque dados anteriores permitem avaliar se a mudança observada é real.",
+        "Porque gráficos só podem representar totais anuais."
+      ],
+      "answer": 2,
+      "explanation": "A página 10 relaciona a avaliação da mudança à existência de dados anteriores e admite escalas de hora a ano.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Tempo"
+        }
+      ]
+    },
+    {
+      "id": "e05-q11",
+      "prompt": "O que caracteriza variação estacional ou sazonal?",
+      "choices": [
+        "Flutuação cuja periodicidade deve sempre ultrapassar um ano.",
+        "Flutuação periódica relacionada a uma estação ou época do ano.",
+        "Qualquer mudança observada por várias décadas.",
+        "Exclusivamente um excesso inesperado sem relação com o período."
+      ],
+      "answer": 1,
+      "explanation": "A sazonalidade é definida pela relação recorrente com estação ou época do ano. A periodicidade maior que um ano é apresentada na tendência cíclica.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Variação ou tendência estacional (ou sazonal)"
+        },
+        {
+          "page": 18,
+          "section": "Variação ou tendência cíclica"
+        }
+      ]
+    },
+    {
+      "id": "e05-q12",
+      "prompt": "Qual combinação reúne fatores de sazonalidade mencionados no PDF?",
+      "choices": [
+        "Sobrevivência do patógeno, comportamento e imunidade do hospedeiro e abundância de vetores e reservatórios.",
+        "Apenas a quantidade total de casos do último dia.",
+        "Somente o nome da doença e o município do diagnóstico.",
+        "Apenas o período de aplicação de um questionário."
+      ],
+      "answer": 0,
+      "explanation": "A página 14 lista esses fatores e a página 13 acrescenta condições ambientais, manejo e densidade de hospedeiros.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Variação estacional: condições ambientais"
+        },
+        {
+          "page": 14,
+          "section": "Variação estacional: fatores de influência"
+        }
+      ]
+    },
+    {
+      "id": "e05-q13",
+      "prompt": "Os casos aumentaram na mesma época em que costumam aumentar todos os anos. Qual cuidado a aula exige antes de chamar o evento de epidemia?",
+      "choices": [
+        "Considerar o nível endêmico e o limiar epidêmico daquele período.",
+        "Usar apenas o maior número absoluto registrado.",
+        "Classificar todo aumento sazonal como pandemia.",
+        "Ignorar os dados anteriores por serem de outros anos."
+      ],
+      "answer": 0,
+      "explanation": "O aumento pode corresponder à variação estacional; a comparação deve respeitar o esperado e o limiar do período.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Variação estacional: nível endêmico e limiar epidêmico"
+        }
+      ]
+    },
+    {
+      "id": "e05-q14",
+      "prompt": "Uma enfermidade apresenta aumentos recorrentes a cada três ou quatro anos. Qual tendência corresponde ao intervalo descrito?",
+      "choices": [
+        "Estacional, necessariamente restrita a uma estação do ano.",
+        "Cíclica.",
+        "Secular, definida apenas por qualquer repetição.",
+        "Importada, definida pelo intervalo entre os aumentos."
+      ],
+      "answer": 1,
+      "explanation": "A tendência cíclica envolve espaços de tempo que ultrapassam um ano. A aula usa um ciclo de três a quatro anos de febre aftosa como exemplo.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Variação ou tendência cíclica"
+        },
+        {
+          "page": 19,
+          "section": "Variação ou tendência cíclica"
+        }
+      ]
+    },
+    {
+      "id": "e05-q15",
+      "prompt": "Qual mecanismo é associado à tendência cíclica no material?",
+      "choices": [
+        "Mudança obrigatória do local de residência de todos os casos.",
+        "Ausência permanente de indivíduos suscetíveis.",
+        "Alterações periódicas na densidade de hospedeiros suscetíveis, permitindo nova transmissão.",
+        "Número fixo de casos em todos os anos, sem flutuação."
+      ],
+      "answer": 2,
+      "explanation": "A aula relaciona os ciclos ao tempo de reposição de suscetíveis e ao valor-limite que permite a transmissão.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Variação ou tendência cíclica"
+        },
+        {
+          "page": 19,
+          "section": "Variação ou tendência cíclica"
+        }
+      ]
+    },
+    {
+      "id": "e05-q16",
+      "prompt": "No exemplo de raiva em raposas apresentado na aula, o que favorece novo aumento após a redução da ocorrência?",
+      "choices": [
+        "A manutenção permanente de densidade muito baixa sem renovação.",
+        "A ausência de novos hospedeiros suscetíveis.",
+        "A troca automática da classificação para caso importado.",
+        "A renovação da população e o surgimento de nova geração de suscetíveis."
+      ],
+      "answer": 3,
+      "explanation": "O mecanismo descrito liga as mortes à redução de suscetíveis e a renovação populacional a condições para novo aumento.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Raiva em raposas na Grã-Bretanha"
+        }
+      ]
+    },
+    {
+      "id": "e05-q17",
+      "prompt": "Uma mudança na ocorrência é observada ao longo de muitas décadas. Qual tendência do PDF corresponde a essa escala?",
+      "choices": [
+        "Somente estacional.",
+        "Secular ou de longo prazo.",
+        "Somente surto por fonte comum.",
+        "Somente caso autóctone."
+      ],
+      "answer": 1,
+      "explanation": "A tendência secular é definida por longos períodos e pode sofrer influência de diversos fatores, sendo geralmente relacionada à ação humana na aula.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Variação ou tendência secular (ou de longo prazo)"
+        }
+      ]
+    },
+    {
+      "id": "e05-q18",
+      "prompt": "Por que um número absoluto elevado de casos, isoladamente, não basta para caracterizar epidemia no conceito apresentado?",
+      "choices": [
+        "Porque o critério é o excesso em relação ao esperado na população, no lugar e no período considerados.",
+        "Porque epidemias são sempre definidas por poucos casos.",
+        "Porque uma epidemia exige necessariamente mais de um continente.",
+        "Porque somente a idade dos indivíduos define uma epidemia."
+      ],
+      "answer": 0,
+      "explanation": "A página 25 destaca o excesso sobre a ocorrência habitual, além de elevação brusca, inesperada e temporária da incidência.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Variações irregulares (epidêmicas)"
+        }
+      ]
+    },
+    {
+      "id": "e05-q19",
+      "prompt": "Uma doença está habitualmente presente em um grupo e área, dentro dos limites esperados. Qual conceito é apresentado?",
+      "choices": [
+        "Pandemia.",
+        "Surto propagado obrigatoriamente.",
+        "Epidemia apenas por persistir no tempo.",
+        "Endemia."
+      ],
+      "answer": 3,
+      "explanation": "O material define endemia pela presença habitual dentro dos limites esperados em um grupo e área geográfica.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Variações irregulares (epidêmicas)"
+        }
+      ]
+    },
+    {
+      "id": "e05-q20",
+      "prompt": "Segundo a classificação geográfica do PDF, qual ocorrência caracteriza pandemia?",
+      "choices": [
+        "Casos relacionados apenas em uma creche.",
+        "Aumento esperado na mesma estação em uma única localidade.",
+        "Ocorrência em níveis mundiais, afetando mais de um continente.",
+        "Aquisição de uma doença fora da residência de um único animal."
+      ],
+      "answer": 2,
+      "explanation": "A aula distingue a abrangência mundial da pandemia da delimitação espacial ou institucional do surto.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Quanto à área geográfica"
+        }
+      ]
+    },
+    {
+      "id": "e05-q21",
+      "prompt": "Uma ocorrência epidêmica reúne casos relacionados entre si em um quartel. Qual termo corresponde à delimitação descrita?",
+      "choices": [
+        "Pandemia, por definição de qualquer instituição.",
+        "Tendência secular, por reunir pessoas no mesmo local.",
+        "Surto.",
+        "Caso importado, independentemente de onde a doença foi adquirida."
+      ],
+      "answer": 2,
+      "explanation": "Quartéis são exemplos de população institucionalizada em que a aula situa surtos com casos relacionados.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Quanto à área geográfica"
+        }
+      ]
+    },
+    {
+      "id": "e05-q22",
+      "prompt": "Vários indivíduos se expõem ao agente por uma mesma fonte de água. Qual padrão de surto corresponde à definição do material?",
+      "choices": [
+        "Fonte propagada definida por transmissão entre indivíduos.",
+        "Tendência secular definida pela duração de décadas.",
+        "Endemia definida apenas pelo compartilhamento de água.",
+        "Fonte comum."
+      ],
+      "answer": 3,
+      "explanation": "No surto por fonte comum, água ou alimento podem veicular o agente a muitos indivíduos a partir de uma única fonte.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Surto por fonte comum"
+        }
+      ]
+    },
+    {
+      "id": "e05-q23",
+      "prompt": "Qual situação é compatível com a descrição de surto propagado na aula?",
+      "choices": [
+        "Transmissão mais lenta entre indivíduos, direta ou indireta por fômites ou vetores.",
+        "Exposição obrigatoriamente simultânea a uma única fonte de alimento.",
+        "Ausência de transmissão entre indivíduos e de intermediários.",
+        "Ocorrência exclusivamente mundial em mais de um continente."
+      ],
+      "answer": 0,
+      "explanation": "O PDF chama o surto de progressivo ou propagado e admite transmissão direta e indireta por fômites ou vetores.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Surto por fonte progressiva ou propagada"
+        }
+      ]
+    },
+    {
+      "id": "e05-q24",
+      "prompt": "Qual padrão de curva o PDF descreve para o surto progressivo ou propagado?",
+      "choices": [
+        "Uma linha sempre constante, sem novos picos.",
+        "Picos progressivamente mais altos separados por um período de incubação.",
+        "Apenas uma comparação entre continentes sem eixo temporal.",
+        "Uma curva definida exclusivamente pela idade dos casos."
+      ],
+      "answer": 1,
+      "explanation": "Essa é a descrição apresentada na página 27. O módulo a reproduz como padrão da aula, sem acrescentar regras ou cálculos externos.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Surto por fonte progressiva ou propagada"
+        }
+      ]
+    }
+  ]
+}

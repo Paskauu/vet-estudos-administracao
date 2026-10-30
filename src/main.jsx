@@ -1,6 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
+import "./disciplines.css";
 const App = React.lazy(() => import("./App.jsx"));
 
 class ErrorBoundary extends React.Component {

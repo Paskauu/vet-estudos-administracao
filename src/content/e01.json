@@ -1,0 +1,1108 @@
+{
+  "id": "e01",
+  "order": 1,
+  "courseId": "epidemiologia",
+  "category": "Saúde e ambiente",
+  "title": "Saúde Única: pessoas, animais e ambiente",
+  "shortTitle": "Saúde Única",
+  "description": "Integração das saúdes humana, animal e ambiental, conceito de zoonose, panorama histórico, fatores de emergência e organizações citadas na aula.",
+  "source": {
+    "filename": "Saúde Única - Aula 1pdf_261025_175411.pdf",
+    "pages": 32,
+    "topic": "01"
+  },
+  "lessons": [
+    {
+      "id": "e01-l01",
+      "title": "Três dimensões de uma mesma saúde",
+      "intro": "Leia a Saúde Única pela integração entre seres humanos, animais e ambiente.",
+      "blocks": [
+        {
+          "title": "O encontro das três saúdes",
+          "text": "A aula apresenta Saúde Única como a articulação da saúde humana, animal e ambiental. O diagrama de três círculos situa One Health na interseção dessas dimensões: compreender uma delas exige observar suas relações com as demais.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Saúde Única - Saúde humana, animal e ambiental"
+            },
+            {
+              "page": 2,
+              "section": "Diagrama One Health"
+            }
+          ]
+        },
+        {
+          "title": "Por que o tema ganhou destaque",
+          "text": "O material relaciona a maior visibilidade do conceito a surtos recentes em seu panorama histórico: influenza aviária em 2005, influenza H1N1 em 2009 e Ebola na África Ocidental em 2013-2016. Os eventos ajudam a perceber conexões entre saúde humana e animal.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Saúde Única"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l02",
+      "title": "Zoonoses: conceito e diversidade",
+      "intro": "Diferencie o significado do termo, sua definição e os exemplos reunidos no PDF.",
+      "blocks": [
+        {
+          "title": "Origem do termo",
+          "text": "A composição grega apresentada é zoon, animal, e nosos, doenças. O slide seguinte atribui a introdução do termo zoonose ao médico Rudolf Virchow, em 1880. Essa data é informação histórica da aula.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Significado etimológico (Grego)"
+            },
+            {
+              "page": 5,
+              "section": "Definição"
+            }
+          ]
+        },
+        {
+          "title": "A definição enfatiza transmissão natural",
+          "text": "A definição atribuída à OMS no PDF abrange doenças e infecções transmitidas naturalmente entre seres humanos e animais vertebrados, direta ou indiretamente. O elemento central é a relação entre esses hospedeiros e a possibilidade de transmissão, sem restringi-la ao contato físico imediato.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Definição"
+            },
+            {
+              "page": 6,
+              "section": "Definição - OMS"
+            }
+          ]
+        },
+        {
+          "title": "Uma lista reúne doenças e agentes",
+          "text": "O título da lista é Doenças ou agentes zoonóticos. Assim, ela combina nomes de agentes com nomes de enfermidades e grupos, em vez de apresentar uma classificação taxonômica uniforme.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Agentes zoonóticos"
+            },
+            {
+              "page": 8,
+              "section": "Doenças ou agentes zoonóticos"
+            }
+          ],
+          "bullets": [
+            "Toxocara, Ancylostoma, Dipylidium, Giardia e Leptospira.",
+            "Raiva; infecções fúngicas, com esporotricose, histoplasmose e criptococose; malária; toxoplasmose; febre maculosa; hantavirose.",
+            "Tuberculose, brucelose, doença de Chagas, leishmaniose, mormo e psitacose.",
+            "Vírus da influenza e doenças transmitidas por alimentos."
+          ]
+        },
+        {
+          "title": "O limite das imagens",
+          "text": "A prancha de agentes reúne fotografias e imagens microscópicas identificadas apenas por letras. Sem uma legenda nominal para cada letra, ela serve como apoio visual à diversidade estudada; a lista da página seguinte fornece os nomes explicitamente presentes no material.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Agentes zoonóticos"
+            },
+            {
+              "page": 8,
+              "section": "Doenças ou agentes zoonóticos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l03",
+      "title": "Um percurso histórico das zoonoses",
+      "intro": "Observe como o material aproxima alimentação, higiene, convivência com animais e vida urbana.",
+      "blocks": [
+        {
+          "title": "Registros antigos sobre alimento e excretas",
+          "text": "O PDF utiliza trechos do Deuteronômio como exemplos históricos de restrições alimentares e de orientação para afastar e cobrir fezes fora do acampamento. O uso desses trechos é contextual: eles ilustram preocupações antigas com alimento e higiene.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Histórico - Deuteronômio"
+            }
+          ]
+        },
+        {
+          "title": "Responsabilidade por animais e raiva",
+          "text": "No panorama da aula, o Código de Eshnunna, na Mesopotâmia, é associado à aplicação de multa a donos de cães raivosos. O exemplo aproxima a presença de enfermidades animais da organização social e da responsabilidade por esses animais.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Histórico - Código de Eshnunna"
+            }
+          ]
+        },
+        {
+          "title": "Cidades, peste, raiva e tuberculose",
+          "text": "A Idade Média é ilustrada pela peste bubônica, associada no slide a Yersinia pestis e às cidades medievais. Na passagem à Idade Moderna, o material destaca o início das metrópoles e menciona raiva e tuberculose. A imagem do ciclo da raiva conecta animais de contextos urbano, rural, silvestre e aéreo.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Idade Média"
+            },
+            {
+              "page": 13,
+              "section": "Idade Moderna - Século XV ao XVIII"
+            }
+          ]
+        },
+        {
+          "title": "O peso histórico das epidemias",
+          "text": "Um recorte reproduzido na aula retoma a peste bubônica do século XIV e informa pelo menos 75 milhões de mortes e cerca de 15% da população mundial estimada à época. Esses números pertencem ao panorama histórico do PDF e não constituem uma estimativa epidemiológica atual.",
+          "refs": [
+            {
+              "page": 18,
+              "section": "Recorte sobre epidemias e peste bubônica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l04",
+      "title": "Produção animal e eventos contemporâneos",
+      "intro": "Relacione mudanças produtivas e exemplos de surtos sem transformar datas da aula em notícias atuais.",
+      "blocks": [
+        {
+          "title": "Mudanças no sistema de produção",
+          "text": "O material associa a Idade Contemporânea a mudanças nos sistemas de produção animal e apresenta a encefalopatia espongiforme bovina, conhecida no slide como Mad Cow Disease. A causa é indicada como anomalia proteica ligada a príons; a doença de Creutzfeldt-Jakob aparece no mesmo contexto.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Idade contemporânea"
+            }
+          ]
+        },
+        {
+          "title": "Exemplos sob a pergunta E o futuro?",
+          "text": "A sequência apresenta H1N1 ou gripe suína em 2009-2010, surto de Ebola em 2014 e coronavírus em 2019. A abertura da aula usa um intervalo maior para o evento de Ebola, 2013-2016. As duas formas de datação são mantidas como recortes do material.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Saúde Única"
+            },
+            {
+              "page": 15,
+              "section": "E o futuro? - H1N1"
+            },
+            {
+              "page": 16,
+              "section": "E o futuro? - Ebola"
+            },
+            {
+              "page": 17,
+              "section": "E o futuro? - Coronavírus"
+            }
+          ]
+        },
+        {
+          "title": "O elo entre exemplos diferentes",
+          "text": "Os exemplos contemporâneos retomam o tema inicial da aula: eventos que envolvem animais, pessoas, produção e ambiente exigem considerar suas relações. A sequência é um repertório para o estudo da Saúde Única e não fornece um protocolo de diagnóstico ou tratamento.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Saúde Única - Saúde humana, animal e ambiental"
+            },
+            {
+              "page": 3,
+              "section": "Saúde Única"
+            },
+            {
+              "page": 14,
+              "section": "Idade contemporânea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l05",
+      "title": "Fatores que favorecem emergência e reemergência",
+      "intro": "Organize os fatores de risco legíveis na figura e nas listas da aula.",
+      "blocks": [
+        {
+          "title": "Proximidade, criação e comércio",
+          "text": "O material discute situações de criação próxima às moradias e de comercialização de animais vivos, inclusive silvestres, em espaços muito próximos. Para o estudo, o mecanismo destacado é a oportunidade de contato entre pessoas e animais. Uma ocorrência humana não significa, por si só, que o agente tenha adquirido transmissão entre humanos.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "Proximidade entre pessoas e animais"
+            }
+          ]
+        },
+        {
+          "title": "Movimentação e práticas humanas",
+          "text": "A figura apresentada com o título Zanella (2016) reúne fatores que influenciam zoonoses novas e reemergentes. Entre eles estão deslocamentos, produção e práticas de contato ou consumo:",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Zanella (2016) - Fatores de risco que influenciam zoonoses novas e reemergentes"
+            }
+          ],
+          "bullets": [
+            "Transporte de pessoas ou animais doentes; turismo e globalização.",
+            "Industrialização e segurança de alimentos; produção animal e alteração das práticas de manejo.",
+            "Contato com animais de estimação, de zoológico e de circo; animais de companhia.",
+            "Comidas exóticas, com carnes de caça; domesticação e interação com animais silvestres."
+          ]
+        },
+        {
+          "title": "Ambiente e adaptação do patógeno",
+          "text": "A mesma figura inclui mudanças climáticas e uso do solo, adaptação do patógeno a nova espécie hospedeira e aquisição de novos fatores de virulência. O esquema mostra que a emergência envolve fatores do agente e do contexto de interação, sem reduzir tudo a um único fator.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Zanella (2016) - Fatores de risco que influenciam zoonoses novas e reemergentes"
+            }
+          ]
+        },
+        {
+          "title": "Alterações próximas do cotidiano",
+          "text": "A lista seguinte destaca desmatamento, acúmulo de lixo, circulação livre de animais e manutenção de animais silvestres em domicílio. Esses itens conectam transformações do ambiente e formas de convivência à discussão sobre zoonoses.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "Desmatamento, lixo e circulação de animais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l06",
+      "title": "Importância coletiva e vulnerabilidade",
+      "intro": "Leia os dados como informações da fonte e reconheça as dimensões sociais e ocupacionais.",
+      "blocks": [
+        {
+          "title": "Magnitude apresentada na aula",
+          "text": "O slide informa que 61% de 1.500 patógenos humanos seriam zoonóticos e que dois terços das doenças humanas emergentes ou reemergentes do último século seriam zoonoses. Os valores são os citados no PDF, sem atualização externa.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "Importância das zoonoses"
+            }
+          ]
+        },
+        {
+          "title": "Mais de uma área afetada",
+          "text": "As consequências das zoonoses são apresentadas em três campos: saúde pública, saúde animal e saúde ocupacional. A menção à saúde ocupacional incorpora a exposição relacionada ao trabalho à discussão de Saúde Única.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "Importância das zoonoses"
+            }
+          ]
+        },
+        {
+          "title": "Vulnerabilidade e condições de vida",
+          "text": "A página atribuída à OPAS informa uma estimativa de mais de 65 milhões de pessoas afetadas por zoonoses no Brasil em alguma fase da vida e destaca pobreza como vulnerabilidade. Fotografias de moradias, água acumulada e alagamentos ilustram condições de vida discutidas na aula; o número não tem atualização ou período de aferição detalhado no slide.",
+          "refs": [
+            {
+              "page": 23,
+              "section": "Organização Pan-Americana de Saúde"
+            },
+            {
+              "page": 24,
+              "section": "Ilustração de alagamentos e roedor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l07",
+      "title": "Exemplos brasileiros reproduzidos na aula",
+      "intro": "Use os recortes como casos históricos do material e reconheça seus limites.",
+      "blocks": [
+        {
+          "title": "Raiva e leishmaniose em recortes de notícias",
+          "text": "Um recorte de março de 2017 relata morte por raiva na Bahia após mordedura de morcego. Outro apresenta confirmação de leishmaniose em cães em Presidente Prudente, com balanço referente a 2017. Eles mostram a presença do tema em saúde humana e animal; as contagens pertencem às notícias reproduzidas.",
+          "refs": [
+            {
+              "page": 25,
+              "section": "Recorte de notícia sobre raiva na Bahia"
+            },
+            {
+              "page": 26,
+              "section": "Recorte de notícia sobre leishmaniose em cães"
+            }
+          ]
+        },
+        {
+          "title": "Mormo e o agente nomeado",
+          "text": "O recorte sobre mormo em equinos é acompanhado do nome da bactéria Burkholderia mallei. O PDF permite associar a doença a esse agente e observar repercussões sanitárias citadas na notícia, sem deduzir regras atuais de controle ou situação atual dos casos.",
+          "refs": [
+            {
+              "page": 27,
+              "section": "Recorte de notícia sobre mormo - Burkholderia mallei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e01-l08",
+      "title": "Organizações relacionadas à Saúde Única",
+      "intro": "Reconheça as instituições e iniciativas que aparecem nominalmente nos slides.",
+      "blocks": [
+        {
+          "title": "Saúde animal e saúde humana",
+          "text": "A aula apresenta a World Organisation for Animal Health com a identificação OIE utilizada no próprio slide. Em seguida aparecem a Organização Mundial da Saúde e a Organização Pan-Americana da Saúde. O material as reúne sob o tema de organizações relacionadas à Saúde Única.",
+          "refs": [
+            {
+              "page": 28,
+              "section": "Organizações relacionadas à saúde única - OIE"
+            },
+            {
+              "page": 29,
+              "section": "Organizações relacionadas à saúde única - OMS e OPAS"
+            }
+          ]
+        },
+        {
+          "title": "Alimentos e organizações locais",
+          "text": "A página do Codex Alimentarius apresenta a expressão normas internacionais de alimentos e os logotipos da FAO e da OMS. A última página temática mostra a Superintendência de Vigilância em Saúde e o IDAF, Instituto de Defesa Agropecuária e Florestal do Espírito Santo. O PDF permite reconhecer esses nomes, mas não detalha suas competências.",
+          "refs": [
+            {
+              "page": 30,
+              "section": "Organizações relacionadas à saúde única - Codex Alimentarius"
+            },
+            {
+              "page": 31,
+              "section": "Organizações relacionadas à saúde única - SVS e IDAF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e01-f01",
+      "front": "Quais três dimensões se encontram na Saúde Única?",
+      "back": "Saúde humana, saúde animal e saúde ambiental.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Saúde Única - Saúde humana, animal e ambiental"
+        },
+        {
+          "page": 2,
+          "section": "Diagrama One Health"
+        }
+      ]
+    },
+    {
+      "id": "e01-f02",
+      "front": "Como a aula relaciona surtos ao conceito de Saúde Única?",
+      "back": "Surtos como influenza aviária, H1N1 e Ebola evidenciam relações entre pessoas e animais e contribuíram para o destaque do conceito.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Saúde Única"
+        }
+      ]
+    },
+    {
+      "id": "e01-f03",
+      "front": "O que significam zoon e nosos na composição apresentada?",
+      "back": "Zoon significa animal e nosos significa doenças.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Significado etimológico (Grego)"
+        }
+      ]
+    },
+    {
+      "id": "e01-f04",
+      "front": "A quem a aula atribui a introdução do termo zoonose?",
+      "back": "A Rudolf Virchow, em 1880, conforme a informação histórica do PDF.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Definição"
+        }
+      ]
+    },
+    {
+      "id": "e01-f05",
+      "front": "Qual é a definição de zoonose atribuída à OMS no PDF?",
+      "back": "Doenças e infecções naturalmente transmitidas entre humanos e animais vertebrados, direta ou indiretamente.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Definição - OMS"
+        }
+      ]
+    },
+    {
+      "id": "e01-f06",
+      "front": "A definição de zoonose exige contato físico direto?",
+      "back": "Não. A transmissão natural pode ser direta ou indireta.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Definição - OMS"
+        }
+      ]
+    },
+    {
+      "id": "e01-f07",
+      "front": "Por que o slide usa o título Doenças ou agentes zoonóticos?",
+      "back": "Porque reúne nomes de agentes, como Leptospira, e de doenças, como raiva e brucelose, além de grupos de infecções.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Doenças ou agentes zoonóticos"
+        }
+      ]
+    },
+    {
+      "id": "e01-f08",
+      "front": "Quais três infecções fúngicas aparecem como exemplos?",
+      "back": "Esporotricose, histoplasmose e criptococose.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Doenças ou agentes zoonóticos"
+        }
+      ]
+    },
+    {
+      "id": "e01-f09",
+      "front": "Qual preocupação sanitária é ilustrada pelo trecho sobre fezes no Deuteronômio?",
+      "back": "A separação do local de necessidades e a cobertura das fezes com terra, em um exemplo histórico de higiene.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Histórico - Deuteronômio"
+        }
+      ]
+    },
+    {
+      "id": "e01-f10",
+      "front": "O que o Código de Eshnunna exemplifica na aula?",
+      "back": "Um registro histórico de multa a donos de cães raivosos.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Histórico - Código de Eshnunna"
+        }
+      ]
+    },
+    {
+      "id": "e01-f11",
+      "front": "Qual agente é nomeado junto da peste bubônica?",
+      "back": "Yersinia pestis.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Idade Média"
+        }
+      ]
+    },
+    {
+      "id": "e01-f12",
+      "front": "Quais doenças são destacadas no slide sobre a Idade Moderna?",
+      "back": "Raiva e tuberculose, ao lado do início das metrópoles.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Idade Moderna - Século XV ao XVIII"
+        }
+      ]
+    },
+    {
+      "id": "e01-f13",
+      "front": "Qual alteração é associada à encefalopatia espongiforme bovina?",
+      "back": "Uma anomalia proteica ligada a príons, apresentada no contexto de mudanças nos sistemas de produção animal.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Idade contemporânea"
+        }
+      ]
+    },
+    {
+      "id": "e01-f14",
+      "front": "Quais eventos aparecem na sequência E o futuro?",
+      "back": "H1N1 em 2009-2010, surto de Ebola em 2014 e coronavírus em 2019.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "E o futuro? - H1N1"
+        },
+        {
+          "page": 16,
+          "section": "E o futuro? - Ebola"
+        },
+        {
+          "page": 17,
+          "section": "E o futuro? - Coronavírus"
+        }
+      ]
+    },
+    {
+      "id": "e01-f15",
+      "front": "Um caso humano após contato com animal prova transmissão entre humanos?",
+      "back": "Não. A página distingue a ocorrência de casos humanos da aquisição da capacidade de transmissão entre humanos.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Proximidade entre pessoas e animais"
+        }
+      ]
+    },
+    {
+      "id": "e01-f16",
+      "front": "Quais fatores de circulação a figura de Zanella destaca?",
+      "back": "Transporte de pessoas ou animais doentes, turismo e globalização.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Zanella (2016) - Fatores de risco que influenciam zoonoses novas e reemergentes"
+        }
+      ]
+    },
+    {
+      "id": "e01-f17",
+      "front": "Cite os quatro fatores da lista ambiental da página 21.",
+      "back": "Desmatamento, acúmulo de lixo, circulação livre de animais e animais silvestres vivendo em domicílio.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Desmatamento, lixo e circulação de animais"
+        }
+      ]
+    },
+    {
+      "id": "e01-f18",
+      "front": "Qual proporção de patógenos humanos é indicada como zoonótica no slide?",
+      "back": "61% dos 1.500 patógenos considerados, conforme o dado reproduzido no PDF.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Importância das zoonoses"
+        }
+      ]
+    },
+    {
+      "id": "e01-f19",
+      "front": "Quais campos sofrem consequências das zoonoses na aula?",
+      "back": "Saúde pública, saúde animal e saúde ocupacional.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Importância das zoonoses"
+        }
+      ]
+    },
+    {
+      "id": "e01-f20",
+      "front": "Qual condição social o slide da OPAS destaca como vulnerabilidade?",
+      "back": "A pobreza, ao lado de imagens de condições precárias de moradia e alagamento.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Organização Pan-Americana de Saúde"
+        }
+      ]
+    },
+    {
+      "id": "e01-f21",
+      "front": "Qual bactéria o slide associa ao mormo?",
+      "back": "Burkholderia mallei.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Recorte de notícia sobre mormo - Burkholderia mallei"
+        }
+      ]
+    },
+    {
+      "id": "e01-f22",
+      "front": "Qual iniciativa de normas alimentares aparece com FAO e OMS?",
+      "back": "Codex Alimentarius, apresentado com a expressão normas internacionais de alimentos.",
+      "refs": [
+        {
+          "page": 30,
+          "section": "Organizações relacionadas à saúde única - Codex Alimentarius"
+        }
+      ]
+    },
+    {
+      "id": "e01-f23",
+      "front": "Que organizações de saúde humana aparecem juntas na aula?",
+      "back": "Organização Mundial da Saúde e Organização Pan-Americana da Saúde.",
+      "refs": [
+        {
+          "page": 29,
+          "section": "Organizações relacionadas à saúde única - OMS e OPAS"
+        }
+      ]
+    },
+    {
+      "id": "e01-f24",
+      "front": "O que significa IDAF no slide?",
+      "back": "Instituto de Defesa Agropecuária e Florestal do Espírito Santo.",
+      "refs": [
+        {
+          "page": 31,
+          "section": "Organizações relacionadas à saúde única - SVS e IDAF"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e01-q01",
+      "prompt": "Uma análise considera ao mesmo tempo saúde das pessoas, dos animais e do ambiente. Qual conceito da aula organiza essa abordagem?",
+      "choices": [
+        "Saúde Única.",
+        "Saúde ocupacional tomada isoladamente.",
+        "Definição etimológica de nosos.",
+        "Registro histórico do Código de Eshnunna."
+      ],
+      "answer": 0,
+      "explanation": "O título e o diagrama apresentam Saúde Única como o encontro das três dimensões.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Saúde Única - Saúde humana, animal e ambiental"
+        },
+        {
+          "page": 2,
+          "section": "Diagrama One Health"
+        }
+      ]
+    },
+    {
+      "id": "e01-q02",
+      "prompt": "Segundo a definição atribuída à OMS, qual situação corresponde a uma zoonose?",
+      "choices": [
+        "Qualquer lesão não infecciosa em um animal.",
+        "Qualquer doença transmitida apenas entre humanos.",
+        "Infecção naturalmente transmitida entre seres humanos e animais vertebrados.",
+        "Qualquer alteração do solo sem relação com infecção."
+      ],
+      "answer": 2,
+      "explanation": "A definição exige doenças ou infecções e transmissão natural entre humanos e vertebrados, direta ou indireta.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Definição - OMS"
+        }
+      ]
+    },
+    {
+      "id": "e01-q03",
+      "prompt": "Uma infecção chega de um vertebrado a uma pessoa por uma via indireta. Isso exclui seu enquadramento na definição estudada?",
+      "choices": [
+        "Sim; só mordeduras se enquadram.",
+        "Não; a definição abrange transmissão direta e indireta.",
+        "Sim; só contato de pele com pele se enquadra.",
+        "Sim; toda transmissão indireta deixa de ser natural."
+      ],
+      "answer": 1,
+      "explanation": "A presença de uma via indireta é expressamente admitida na definição do slide.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Definição - OMS"
+        }
+      ]
+    },
+    {
+      "id": "e01-q04",
+      "prompt": "Qual associação etimológica corresponde ao slide?",
+      "choices": [
+        "Zoon: ambiente; nosos: saúde.",
+        "Zoon: humano; nosos: alimento.",
+        "Zoon: doença; nosos: animal.",
+        "Zoon: animal; nosos: doenças."
+      ],
+      "answer": 3,
+      "explanation": "A aula apresenta essas duas raízes gregas com os sentidos de animal e doenças.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Significado etimológico (Grego)"
+        }
+      ]
+    },
+    {
+      "id": "e01-q05",
+      "prompt": "Qual informação histórica a aula atribui a Rudolf Virchow?",
+      "choices": [
+        "A introdução do termo zoonose em 1880.",
+        "A criação do Codex Alimentarius em 2009.",
+        "A identificação do primeiro caso de H1N1 em 2019.",
+        "A elaboração do Código de Eshnunna."
+      ],
+      "answer": 0,
+      "explanation": "A atribuição a Virchow e a data de 1880 estão no slide Definição.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Definição"
+        }
+      ]
+    },
+    {
+      "id": "e01-q06",
+      "prompt": "Um colega diz que todos os itens do slide Doenças ou agentes zoonóticos são nomes de doenças. Qual exemplo mostra que a lista também traz agentes?",
+      "choices": [
+        "Raiva.",
+        "Brucelose.",
+        "Leptospira sp.",
+        "Tuberculose."
+      ],
+      "answer": 2,
+      "explanation": "Leptospira aparece como nome de agente, enquanto os outros exemplos são nomes de enfermidades na lista.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Doenças ou agentes zoonóticos"
+        }
+      ]
+    },
+    {
+      "id": "e01-q07",
+      "prompt": "Qual trio foi reunido na aula sob infecção fúngica?",
+      "choices": [
+        "Raiva, H1N1 e coronavírus.",
+        "Esporotricose, histoplasmose e criptococose.",
+        "Toxocara, Ancylostoma e Dipylidium.",
+        "Brucelose, mormo e tuberculose."
+      ],
+      "answer": 1,
+      "explanation": "A lista explicita essas três infecções no item de infecção fúngica.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Doenças ou agentes zoonóticos"
+        }
+      ]
+    },
+    {
+      "id": "e01-q08",
+      "prompt": "O trecho histórico sobre enterrar fezes fora do acampamento foi utilizado para ilustrar qual tema?",
+      "choices": [
+        "Uma explicação molecular dos príons.",
+        "Uma regra atual de notificação obrigatória.",
+        "A identificação de todas as imagens microscópicas da aula.",
+        "Preocupações antigas com higiene e destino das excretas."
+      ],
+      "answer": 3,
+      "explanation": "A passagem integra o panorama histórico e trata da separação e cobertura das fezes.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Histórico - Deuteronômio"
+        }
+      ]
+    },
+    {
+      "id": "e01-q09",
+      "prompt": "Qual exemplo o material apresenta ao citar o Código de Eshnunna?",
+      "choices": [
+        "Multa para donos de cães raivosos.",
+        "Normas internacionais de alimentos.",
+        "Balanço de leishmaniose canina em 2017.",
+        "Classificação de infecções fúngicas."
+      ],
+      "answer": 0,
+      "explanation": "O código é apresentado no panorama antigo por essa relação entre raiva canina e responsabilidade do dono.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Histórico - Código de Eshnunna"
+        }
+      ]
+    },
+    {
+      "id": "e01-q10",
+      "prompt": "No slide sobre a Idade Média, que associação está explícita?",
+      "choices": [
+        "H1N1 e príons.",
+        "Mormo e vírus da influenza.",
+        "Peste bubônica e Yersinia pestis.",
+        "Tuberculose e Burkholderia mallei."
+      ],
+      "answer": 2,
+      "explanation": "O nome Yersinia pestis acompanha peste bubônica no slide.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Idade Média"
+        }
+      ]
+    },
+    {
+      "id": "e01-q11",
+      "prompt": "Qual par de doenças o material destaca ao tratar do início das metrópoles na Idade Moderna?",
+      "choices": [
+        "H1N1 e Ebola.",
+        "Raiva e tuberculose.",
+        "Mormo e psitacose.",
+        "Malária e esporotricose."
+      ],
+      "answer": 1,
+      "explanation": "O slide Idade Moderna reúne início das metrópoles, raiva e tuberculose.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Idade Moderna - Século XV ao XVIII"
+        }
+      ]
+    },
+    {
+      "id": "e01-q12",
+      "prompt": "Na página sobre encefalopatia espongiforme bovina, qual natureza de alteração é indicada?",
+      "choices": [
+        "Infecção fúngica por histoplasmose.",
+        "Infecção bacteriana por Yersinia pestis.",
+        "Infecção viral por H1N1.",
+        "Anomalia proteica relacionada a príons."
+      ],
+      "answer": 3,
+      "explanation": "A aula identifica a doença da vaca louca com uma anomalia proteica ligada a príons.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Idade contemporânea"
+        }
+      ]
+    },
+    {
+      "id": "e01-q13",
+      "prompt": "Qual sequência corresponde às páginas intituladas E o futuro?",
+      "choices": [
+        "H1N1: 2009-2010; Ebola: 2014; coronavírus: 2019.",
+        "H1N1: 2019; Ebola: 2005; coronavírus: 1880.",
+        "H1N1: 2014; Ebola: 2019; coronavírus: 2009.",
+        "H1N1: século XIV; Ebola: 1880; coronavírus: 1930 a.C."
+      ],
+      "answer": 0,
+      "explanation": "Esses são os marcos escritos nas três páginas dessa sequência; eles são referências históricas da aula.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "E o futuro? - H1N1"
+        },
+        {
+          "page": 16,
+          "section": "E o futuro? - Ebola"
+        },
+        {
+          "page": 17,
+          "section": "E o futuro? - Coronavírus"
+        }
+      ]
+    },
+    {
+      "id": "e01-q14",
+      "prompt": "A página sobre proximidade entre pessoas e animais distingue quais duas situações?",
+      "choices": [
+        "A raiz zoon e a origem do termo nosos.",
+        "A existência de OMS e de OPAS.",
+        "A ocorrência de infecção humana e a capacidade de transmissão entre humanos.",
+        "A presença de bactérias e a existência de objetos."
+      ],
+      "answer": 2,
+      "explanation": "O texto afirma que casos humanos após contato com animais não significam que o vírus adquira, em todos os casos, transmissão entre humanos.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Proximidade entre pessoas e animais"
+        }
+      ]
+    },
+    {
+      "id": "e01-q15",
+      "prompt": "Qual conjunto é listado como fator de risco na figura apresentada com o título Zanella (2016)?",
+      "choices": [
+        "Ausência de deslocamentos e isolamento de todas as espécies.",
+        "Transporte de pessoas ou animais doentes, turismo e globalização.",
+        "Apenas idade do paciente e cor da pelagem.",
+        "Exclusivamente a data de introdução do termo zoonose."
+      ],
+      "answer": 1,
+      "explanation": "A figura reúne os deslocamentos e a globalização entre vários fatores ligados a zoonoses novas e reemergentes.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Zanella (2016) - Fatores de risco que influenciam zoonoses novas e reemergentes"
+        }
+      ]
+    },
+    {
+      "id": "e01-q16",
+      "prompt": "Na mesma figura, qual item se refere diretamente a uma mudança do patógeno?",
+      "choices": [
+        "Turismo e globalização.",
+        "Contato com animais de circo.",
+        "Industrialização e segurança de alimentos.",
+        "Adaptação a nova espécie hospedeira."
+      ],
+      "answer": 3,
+      "explanation": "A figura diferencia fatores de contexto e itens relacionados ao agente, como adaptação a novo hospedeiro e novos fatores de virulência.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Zanella (2016) - Fatores de risco que influenciam zoonoses novas e reemergentes"
+        }
+      ]
+    },
+    {
+      "id": "e01-q17",
+      "prompt": "Uma área apresenta desmatamento, lixo acumulado e animais circulando livremente. Como isso se conecta à aula?",
+      "choices": [
+        "Reúne fatores ambientais explicitamente destacados na discussão de zoonoses.",
+        "Representa a definição de príon.",
+        "Mostra somente a dimensão humana sem relação ambiental.",
+        "Corresponde à lista de organizações internacionais."
+      ],
+      "answer": 0,
+      "explanation": "Esses três itens e a manutenção de silvestres em domicílio aparecem na página 21.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Desmatamento, lixo e circulação de animais"
+        }
+      ]
+    },
+    {
+      "id": "e01-q18",
+      "prompt": "Qual leitura preserva o alcance do número 61% apresentado na aula?",
+      "choices": [
+        "É a mortalidade atual de todas as zoonoses.",
+        "É a proporção de cães com leishmaniose em todo o Brasil.",
+        "É a proporção zoonótica citada entre 1.500 patógenos humanos no material.",
+        "É a chance individual de adquirir qualquer zoonose em 2026."
+      ],
+      "answer": 2,
+      "explanation": "O denominador apresentado é um conjunto de 1.500 patógenos humanos; não é uma taxa de mortalidade ou um risco individual.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Importância das zoonoses"
+        }
+      ]
+    },
+    {
+      "id": "e01-q19",
+      "prompt": "Qual conjunto de campos afetados pelas zoonoses é citado no slide de importância?",
+      "choices": [
+        "Somente comércio e turismo.",
+        "Saúde pública, saúde animal e saúde ocupacional.",
+        "Apenas saúde de animais domésticos.",
+        "Somente pesquisa de fósseis e evolução geológica."
+      ],
+      "answer": 1,
+      "explanation": "O material destaca consequências nos três campos e inclui a dimensão do trabalho.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Importância das zoonoses"
+        }
+      ]
+    },
+    {
+      "id": "e01-q20",
+      "prompt": "O que o slide atribuído à OPAS destaca como condição de vulnerabilidade?",
+      "choices": [
+        "A raiz grega nosos.",
+        "O nome científico do agente do mormo.",
+        "A presença de um logotipo do Codex.",
+        "Pobreza."
+      ],
+      "answer": 3,
+      "explanation": "A pobreza está escrita de forma explícita como vulnerabilidade e é ilustrada por condições de moradia.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Organização Pan-Americana de Saúde"
+        }
+      ]
+    },
+    {
+      "id": "e01-q21",
+      "prompt": "Como interpretar o recorte sobre leishmaniose em cães reproduzido na aula?",
+      "choices": [
+        "Como exemplo histórico de ocorrência em animais, com balanço referente a 2017.",
+        "Como prova da contagem de casos atual em 2026.",
+        "Como definição universal de zoonose.",
+        "Como identificação de uma anomalia proteica."
+      ],
+      "answer": 0,
+      "explanation": "A notícia reproduzida se refere a Presidente Prudente e a 2017, e não informa situação atual.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Recorte de notícia sobre leishmaniose em cães"
+        }
+      ]
+    },
+    {
+      "id": "e01-q22",
+      "prompt": "Qual associação doença-agente está escrita no slide de mormo?",
+      "choices": [
+        "Mormo e Yersinia pestis.",
+        "Mormo e príons.",
+        "Mormo e Burkholderia mallei.",
+        "Mormo e vírus H1N1."
+      ],
+      "answer": 2,
+      "explanation": "O slide nomeia a bactéria Burkholderia mallei ao lado do recorte sobre mormo em equinos.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Recorte de notícia sobre mormo - Burkholderia mallei"
+        }
+      ]
+    },
+    {
+      "id": "e01-q23",
+      "prompt": "Qual iniciativa aparece junto a FAO e OMS na página sobre normas internacionais de alimentos?",
+      "choices": [
+        "Código de Eshnunna.",
+        "Codex Alimentarius.",
+        "Ciclo urbano da raiva.",
+        "Diagrama da peste medieval."
+      ],
+      "answer": 1,
+      "explanation": "O logotipo do Codex contém a expressão International Food Standards e acompanha os logotipos da FAO e da OMS.",
+      "refs": [
+        {
+          "page": 30,
+          "section": "Organizações relacionadas à saúde única - Codex Alimentarius"
+        }
+      ]
+    },
+    {
+      "id": "e01-q24",
+      "prompt": "Qual instituição é identificada como IDAF no conjunto final de slides?",
+      "choices": [
+        "Organização Pan-Americana da Saúde.",
+        "Organização Mundial da Saúde.",
+        "World Organisation for Animal Health.",
+        "Instituto de Defesa Agropecuária e Florestal do Espírito Santo."
+      ],
+      "answer": 3,
+      "explanation": "O nome completo do IDAF está legível na página 31; os demais correspondem a organizações mostradas em outras páginas.",
+      "refs": [
+        {
+          "page": 31,
+          "section": "Organizações relacionadas à saúde única - SVS e IDAF"
+        }
+      ]
+    }
+  ]
+}

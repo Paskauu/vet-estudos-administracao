@@ -8,16 +8,13 @@ import {
   Target,
   TrendingUp,
 } from "lucide-react";
-import {
-  modules,
-  allLessons,
-  flashcards,
-  questionById,
-} from "../content/index.js";
+import { questionById } from "../content/index.js";
+import { useCourse } from "../hooks/useCourse.jsx";
 import { percent, readableDate, scoreSession } from "../lib/study.js";
 import { EmptyState, PageHeading, ProgressBar } from "../components/UI.jsx";
 
 export function ProgressPage({ progress, navigate, openBackup }) {
+  const { modules, allLessons, flashcards } = useCourse();
   const read = allLessons.filter((l) => progress.readLessons[l.id]).length;
   const complete = Object.values(progress.sessions)
     .filter((s) => s.completed)

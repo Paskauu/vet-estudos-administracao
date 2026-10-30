@@ -1,0 +1,1064 @@
+{
+  "id": "e03",
+  "order": 3,
+  "courseId": "epidemiologia",
+  "category": "Vigilância e epidemiologia",
+  "title": "Ciclo de Vigilância em Saúde",
+  "shortTitle": "Ciclo de vigilância",
+  "description": "Da detecção ao acompanhamento das ações: coleta, notificação, investigação, análise, comunicação e decisão, com exemplos de vigilância animal apresentados na aula.",
+  "source": {
+    "filename": "Ciclo de Vigilância em Saúde - Aula 3_261027_080344.pdf",
+    "pages": 30,
+    "topic": "03"
+  },
+  "lessons": [
+    {
+      "id": "e03-l01",
+      "title": "Vigilância em saúde e epidemiologia",
+      "intro": "Relacione o acompanhamento contínuo da saúde às áreas que integram a vigilância.",
+      "blocks": [
+        {
+          "title": "Um processo contínuo",
+          "text": "Na definição reproduzida pela aula a partir da Portaria nº 1.378/2013, a vigilância em saúde reúne coleta, consolidação, análise e disseminação sistemáticas de dados. Esse processo apoia o planejamento e a implementação de medidas de proteção, promoção da saúde e prevenção e controle de riscos, agravos e doenças.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Vigilância em saúde"
+            }
+          ]
+        },
+        {
+          "title": "Áreas que se articulam",
+          "text": "A figura reúne vigilância sanitária, vigilância ambiental, vigilância epidemiológica e saúde do trabalhador em torno da vigilância em saúde. Elas aparecem como componentes articulados do acompanhamento da saúde.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Vigilância em saúde"
+            }
+          ]
+        },
+        {
+          "title": "O olhar da epidemiologia",
+          "text": "A epidemiologia estuda o processo de saúde e doença na coletividade ou população. A aula apresenta a vigilância epidemiológica como ações que permitem conhecer, detectar ou prevenir mudanças nos fatores determinantes e condicionantes da saúde, para recomendar e adotar medidas de prevenção e controle. Essa definição é atribuída no PDF à Lei nº 8.080/1990.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Vigilância epidemiológica"
+            },
+            {
+              "page": 7,
+              "section": "Vigilância epidemiológica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l02",
+      "title": "História e etapas do ciclo",
+      "intro": "Reconheça a ligação entre observar eventos, produzir informação e intervir.",
+      "blocks": [
+        {
+          "title": "Antecedentes apresentados na aula",
+          "text": "Isolamento, quarentena e notificação de pessoas doentes e contactantes aparecem entre as primeiras medidas epidemiológicas. Para o Brasil do século XIX, a aula cita taxas de natalidade e mortalidade e um cenário insalubre com peste bubônica, varíola, febre amarela e malária. Também registra um manual de vigilância epidemiológica de 1977.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Vigilância epidemiológica x História"
+            },
+            {
+              "page": 6,
+              "section": "Vigilância epidemiológica x história"
+            }
+          ]
+        },
+        {
+          "title": "Um ciclo com retorno",
+          "text": "O diagrama encadeia seis momentos que se retroalimentam:",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Ciclo de vigilância epidemiológica"
+            }
+          ],
+          "bullets": [
+            "Suspeita, diagnóstico ou detecção.",
+            "Coleta de dados e notificação.",
+            "Análise e interpretação.",
+            "Comunicação e feedback.",
+            "Ação e tomada de decisão.",
+            "Monitoramento e avaliação."
+          ]
+        },
+        {
+          "title": "Fluxo entre níveis e comunidade",
+          "text": "O fluxograma parte do evento adverso à saúde, passa por diagnóstico, fonte de notificação e coleta de dados e articula o sistema local de saúde com os sistemas estadual e nacional de vigilância. A disseminação da informação alcança a comunidade; o manejo dos dados inclui consolidação, análise, boletins e recomendações técnicas para aprimorar o controle.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Fluxograma de VE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l03",
+      "title": "Coletar dados e transformá-los em informação",
+      "intro": "Diferencie as formas de busca de casos e reconheça a diversidade das fontes.",
+      "blocks": [
+        {
+          "title": "Dados para planejar",
+          "text": "A coleta é primordial porque fornece subsídios para planejar prevenção e controle de doenças e agravos. O material distingue o dado da informação: quando analisado, o dado se transforma em informação e gera conhecimento.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Coleta de dados"
+            }
+          ]
+        },
+        {
+          "title": "Vigilância passiva e ativa",
+          "text": "Na modalidade passiva, o caso procura um serviço de saúde e o profissional inicia o registro ou acompanhamento. Na ativa, a equipe dirige uma ação de busca de possíveis casos. O que muda é como os casos chegam ao sistema.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Coleta de dados"
+            }
+          ]
+        },
+        {
+          "title": "Fontes de dados",
+          "text": "A aula cita bases do IBGE, sistemas de nascimentos e óbitos, imprensa, comunidade, laboratórios e farmácias. A obtenção de dados pode, portanto, combinar serviços e registros com informações da comunidade.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Coleta de dados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l04",
+      "title": "Notificação: comunicar para permitir intervenção",
+      "intro": "Entenda o que é notificado, quem pode comunicar e como ler os exemplos da aula.",
+      "blocks": [
+        {
+          "title": "A suspeita também é comunicável",
+          "text": "Notificação é a comunicação de uma doença ou agravo, inclusive suspeito, à autoridade sanitária para permitir medidas de intervenção. Na definição da aula, essa comunicação pode ser feita por profissionais de saúde ou por qualquer cidadão. O material distingue notificação compulsória ou obrigatória, imediata e voluntária e menciona casos suspeitos ou confirmados.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Notificação"
+            },
+            {
+              "page": 12,
+              "section": "Notificação"
+            }
+          ]
+        },
+        {
+          "title": "Condições indicadas nos exemplos",
+          "text": "O quadro de exemplos de notificação imediata distingue suspeita ou confirmação, confirmação e surto ou agregação de casos ou óbitos. Botulismo e raiva humana aparecem no grupo de suspeitos ou confirmados; tétano neonatal é mostrado no grupo de confirmados. A finalidade aqui é compreender a organização dos exemplos da aula.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Notificação"
+            }
+          ]
+        },
+        {
+          "title": "Periodicidade e destinatários no quadro de 2017",
+          "text": "A tabela reproduzida sob a Portaria de Consolidação nº 4/2017 diferencia notificação imediata, indicada como até 24 horas, e semanal. As colunas MS, SES e SMS indicam Ministério da Saúde e secretarias estadual e municipal de saúde. No quadro da aula, casos de dengue aparecem como semanais, enquanto óbitos por dengue têm marcação imediata nos três níveis. Esses exemplos descrevem a tabela fornecida.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Portaria de consolidação nº 4 de 2017: Notificação compulsória"
+            }
+          ]
+        },
+        {
+          "title": "Doenças, agravos e eventos",
+          "text": "As páginas seguintes prolongam a tabela com doenças, eventos de saúde pública, eventos adversos graves ou óbitos pós-vacinação e outras situações. A aula também mostra uma ficha de notificação de violência com campos de identificação, ocorrência e dados da pessoa. A notificação, nesses exemplos, abrange eventos de saúde além de doenças infecciosas.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Notificação compulsória: continuação da tabela"
+            },
+            {
+              "page": 16,
+              "section": "Notificação compulsória: continuação da tabela"
+            },
+            {
+              "page": 17,
+              "section": "Notificação compulsória: continuação da tabela"
+            },
+            {
+              "page": 19,
+              "section": "Notificação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l05",
+      "title": "Exemplos de notificação em animais",
+      "intro": "Estude as duas listas da Portaria nº 782/2017 reproduzidas no PDF.",
+      "blocks": [
+        {
+          "title": "Doenças na vigilância animal",
+          "text": "A primeira parte do quadro é intitulada lista de doenças de notificação compulsória imediata com base na vigilância animal. São exemplos da portaria reproduzida na aula, sem atualização normativa neste resumo:",
+          "refs": [
+            {
+              "page": 18,
+              "section": "Portaria nº 782, de 15 de março de 2017: doenças em animais"
+            }
+          ],
+          "bullets": [
+            "Febre amarela, raiva e febre do Nilo Ocidental.",
+            "Outras arboviroses de importância em saúde pública: encefalomielites equinas do Oeste, do Leste e Venezuelana, Oropouche e Mayaro.",
+            "Peste e influenza."
+          ]
+        },
+        {
+          "title": "Eventos e epizootias",
+          "text": "A segunda lista do quadro descreve eventos de saúde pública e epizootias de notificação compulsória imediata:",
+          "refs": [
+            {
+              "page": 18,
+              "section": "Portaria nº 782, de 15 de março de 2017: eventos de saúde pública e epizootias"
+            }
+          ],
+          "bullets": [
+            "Morte de primatas não humanos ou de aves silvestres.",
+            "Morte ou adoecimento de cães e gatos com sintomatologia neurológica.",
+            "Morte ou adoecimento de equídeos com sintomatologia neurológica.",
+            "Morte de canídeos silvestres.",
+            "Morte de quirópteros em áreas urbanas.",
+            "Morte de roedores silvestres em áreas de ocorrência de peste.",
+            "Morte de animais silvestres sem causa conhecida."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l06",
+      "title": "Investigar e dimensionar o episódio",
+      "intro": "Organize os passos após a notificação e diferencie padrões de ocorrência.",
+      "blocks": [
+        {
+          "title": "Da definição do caso às medidas",
+          "text": "Após a notificação, a investigação começa pela definição do caso suspeito ou confirmado, considerando elementos clínicos e laboratoriais. Segue com caracterização por tempo, pessoa e local, identificação de fontes e grupos suscetíveis, dimensionamento do episódio e planejamento e implementação de prevenção, controle e tratamento.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Investigação Epidemiológica"
+            }
+          ]
+        },
+        {
+          "title": "Endemia e epidemia",
+          "text": "Endemia é a ocorrência constante e frequente dentro dos limites esperados para uma população. Epidemia é apresentada como aumento súbito e imprevisível de casos; a aula informa que epizootia também pode designar esse fenômeno em Medicina Veterinária.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "Investigação Epidemiológica: Endemia"
+            },
+            {
+              "page": 22,
+              "section": "Investigação Epidemiológica: Epidemia"
+            }
+          ]
+        },
+        {
+          "title": "Surto e pandemia",
+          "text": "O surto reúne focos de uma fonte de infecção comum em área e período determinados; a aula destaca o excesso de casos em população restrita, como uma escola ou quartel. A pandemia ultrapassa os valores esperados em grandes extensões geográficas; para populações animais, o PDF também apresenta o termo panzootia.",
+          "refs": [
+            {
+              "page": 23,
+              "section": "Investigação Epidemiológica: Surto"
+            },
+            {
+              "page": 24,
+              "section": "Investigação Epidemiológica: Pandemia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l07",
+      "title": "Analisar e devolver a informação",
+      "intro": "Relacione formas de apresentação dos dados ao planejamento e à comunicação.",
+      "blocks": [
+        {
+          "title": "Análise e interpretação",
+          "text": "Tabelas, gráficos, mapas e fluxos de pacientes ajudam a organizar a análise. A aula também cita incidência, prevalência, letalidade e mortalidade, entre outras taxas, mas não apresenta suas fórmulas. O produto da análise e interpretação é informação para estabelecer ações adequadas de prevenção e controle.",
+          "refs": [
+            {
+              "page": 25,
+              "section": "Análise de dados e interpretação"
+            }
+          ]
+        },
+        {
+          "title": "Comunicação e feedback",
+          "text": "Divulgar periodicamente os resultados da análise e as medidas tomadas fecha o retorno da informação. Informes epidemiológicos e reuniões com a comunidade e com profissionais de saúde são meios citados. A qualidade do conteúdo e quem o recebe precisam orientar a comunicação.",
+          "refs": [
+            {
+              "page": 26,
+              "section": "Comunicação/Feedback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e03-l08",
+      "title": "Agir, monitorar e avaliar",
+      "intro": "Diferencie a execução de medidas da verificação de seus resultados.",
+      "blocks": [
+        {
+          "title": "A informação precisa orientar decisões",
+          "text": "O serviço de vigilância busca prevenir, controlar, eliminar ou erradicar doenças e evitar casos, óbitos e sequelas. As informações do sistema devem sustentar recomendações e medidas específicas eficazes e efetivas, contribuindo para reduzir a morbimortalidade.",
+          "refs": [
+            {
+              "page": 27,
+              "section": "Ação/Tomada de decisão"
+            }
+          ]
+        },
+        {
+          "title": "Monitorar a realização das ações",
+          "text": "O monitoramento verifica se as intervenções de prevenção e controle estão sendo realizadas. Ele acompanha a execução das ações enquanto a vigilância continua.",
+          "refs": [
+            {
+              "page": 28,
+              "section": "Monitoramento e avaliação"
+            }
+          ]
+        },
+        {
+          "title": "Avaliar o alcance dos objetivos",
+          "text": "A avaliação usa dados e informações do monitoramento para verificar a eficiência das ações e se os objetivos foram alcançados. A aula orienta que monitoramento e avaliação ocorram em paralelo à vigilância, possibilitando corrigir ações que não estejam sendo eficazes.",
+          "refs": [
+            {
+              "page": 28,
+              "section": "Monitoramento e avaliação"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e03-f01",
+      "front": "Qual é a finalidade da vigilância em saúde na definição reproduzida na aula?",
+      "back": "Produzir e disseminar dados de forma contínua e sistemática para planejar e implementar proteção, promoção da saúde e prevenção e controle de riscos, agravos e doenças.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Vigilância em saúde"
+        }
+      ]
+    },
+    {
+      "id": "e03-f02",
+      "front": "Quais quatro componentes cercam a vigilância em saúde na figura?",
+      "back": "Vigilância sanitária, vigilância ambiental, vigilância epidemiológica e saúde do trabalhador.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Vigilância em saúde"
+        }
+      ]
+    },
+    {
+      "id": "e03-f03",
+      "front": "Qual é o objeto da epidemiologia na aula?",
+      "back": "O processo de saúde e doença em coletividade ou população.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Vigilância epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-f04",
+      "front": "Quais medidas históricas aparecem antes da discussão do ciclo?",
+      "back": "Isolamento, quarentena e notificação de pessoas doentes e contactantes.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Vigilância epidemiológica x História"
+        }
+      ]
+    },
+    {
+      "id": "e03-f05",
+      "front": "Qual é a finalidade da vigilância epidemiológica na definição atribuída à Lei nº 8.080/1990?",
+      "back": "Conhecer, detectar ou prevenir mudanças nos determinantes e condicionantes de saúde para recomendar e adotar prevenção e controle de doenças e agravos.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Vigilância epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-f06",
+      "front": "Quais são os seis momentos do ciclo desenhado no PDF?",
+      "back": "Suspeita/diagnóstico/detecção; coleta de dados/notificação; análise/interpretação; comunicação/feedback; ação/decisão; monitoramento/avaliação.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Ciclo de vigilância epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-f07",
+      "front": "Como o dado se relaciona à informação?",
+      "back": "A informação é o dado analisado, que pode gerar conhecimento e apoiar o planejamento de ações.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-f08",
+      "front": "Como diferenciar vigilância passiva de ativa?",
+      "back": "Na passiva o caso procura o serviço de saúde; na ativa a equipe realiza busca direcionada de possíveis casos.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-f09",
+      "front": "Quais fontes de dados a aula exemplifica?",
+      "back": "IBGE, sistemas de nascimentos e óbitos, imprensa, comunidade, laboratórios e farmácias.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-f10",
+      "front": "Quais níveis de serviço aparecem no fluxograma de vigilância?",
+      "back": "Sistema local de saúde, sistema estadual de vigilância e sistema nacional de vigilância, articulados à coleta e à disseminação da informação para a comunidade.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Fluxograma de VE"
+        }
+      ]
+    },
+    {
+      "id": "e03-f11",
+      "front": "O que é notificação e quem pode fazê-la segundo a aula?",
+      "back": "É comunicar doença ou agravo, incluindo suspeita, à autoridade sanitária. Pode ser feita por profissional de saúde ou qualquer cidadão.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Notificação"
+        }
+      ]
+    },
+    {
+      "id": "e03-f12",
+      "front": "É preciso esperar confirmação para a comunicação descrita no PDF?",
+      "back": "Não. A definição de notificação inclui suspeitas; a aula também distingue classificação suspeita e confirmada.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Notificação"
+        },
+        {
+          "page": 12,
+          "section": "Notificação"
+        }
+      ]
+    },
+    {
+      "id": "e03-f13",
+      "front": "Como ler MS, SES e SMS na tabela reproduzida de 2017?",
+      "back": "MS: Ministério da Saúde. SES: Secretaria Estadual de Saúde. SMS: Secretaria Municipal de Saúde.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Portaria de consolidação nº 4 de 2017: Notificação compulsória"
+        }
+      ]
+    },
+    {
+      "id": "e03-f14",
+      "front": "Qual prazo define a coluna imediata no quadro de 2017 mostrado na aula?",
+      "back": "Até 24 horas; o quadro também apresenta notificação semanal. A resposta descreve a tabela do PDF.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Portaria de consolidação nº 4 de 2017: Notificação compulsória"
+        }
+      ]
+    },
+    {
+      "id": "e03-f15",
+      "front": "Quais doenças constam na lista de vigilância animal reproduzida da Portaria nº 782/2017?",
+      "back": "Febre amarela, raiva, febre do Nilo Ocidental, outras arboviroses de importância em saúde pública, peste e influenza.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Portaria nº 782, de 15 de março de 2017: doenças em animais"
+        }
+      ]
+    },
+    {
+      "id": "e03-f16",
+      "front": "Que evento envolvendo cães, gatos e equídeos aparece na lista de 2017 da aula?",
+      "back": "Morte ou adoecimento de cães e gatos com sintomatologia neurológica e morte ou adoecimento de equídeos com sintomatologia neurológica.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Portaria nº 782, de 15 de março de 2017: eventos de saúde pública e epizootias"
+        }
+      ]
+    },
+    {
+      "id": "e03-f17",
+      "front": "Quais são os passos da investigação apresentados após a notificação?",
+      "back": "Definir o caso; caracterizar tempo, pessoa e local; identificar fontes e suscetíveis; dimensionar o episódio; planejar e implementar prevenção, controle e tratamento.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Investigação Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-f18",
+      "front": "O que caracteriza uma endemia?",
+      "back": "Ocorrência constante e frequente de doença dentro dos limites esperados naquela população.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Investigação Epidemiológica: Endemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-f19",
+      "front": "Qual termo a aula também usa para epidemia em Medicina Veterinária?",
+      "back": "Epizootia. A aula caracteriza epidemia como aumento súbito e imprevisível de casos.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Investigação Epidemiológica: Epidemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-f20",
+      "front": "Como o surto é delimitado nesta aula?",
+      "back": "Focos de uma fonte de infecção comum em área e período determinados, com excesso de casos em população restrita.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Investigação Epidemiológica: Surto"
+        }
+      ]
+    },
+    {
+      "id": "e03-f21",
+      "front": "Qual termo corresponde à pandemia em populações animais no PDF?",
+      "back": "Panzootia; o conceito envolve ocorrência acima dos valores esperados em grandes extensões geográficas.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Investigação Epidemiológica: Pandemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-f22",
+      "front": "Quais medidas de ocorrência são apenas citadas na etapa de análise?",
+      "back": "Incidência, prevalência, letalidade e mortalidade. A aula não desenvolve suas fórmulas.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Análise de dados e interpretação"
+        }
+      ]
+    },
+    {
+      "id": "e03-f23",
+      "front": "Além de transmitir resultados, o que a comunicação precisa considerar?",
+      "back": "A qualidade do conteúdo e o receptor da informação; pode usar informes epidemiológicos e reuniões com comunidade e profissionais.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Comunicação/Feedback"
+        }
+      ]
+    },
+    {
+      "id": "e03-f24",
+      "front": "Qual é a diferença entre monitorar e avaliar?",
+      "back": "Monitorar verifica se as intervenções estão sendo realizadas; avaliar verifica eficiência e alcance dos objetivos com base nos dados do monitoramento. Ambos acompanham a vigilância em paralelo.",
+      "refs": [
+        {
+          "page": 28,
+          "section": "Monitoramento e avaliação"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e03-q01",
+      "prompt": "Uma equipe coleta, consolida, analisa e dissemina continuamente dados de saúde para planejar medidas. Qual conceito apresentado na aula reúne essas atividades?",
+      "choices": [
+        "Somente notificação de um caso confirmado.",
+        "Apenas diagnóstico laboratorial individual.",
+        "Vigilância em saúde.",
+        "Somente avaliação final de uma campanha."
+      ],
+      "answer": 2,
+      "explanation": "A definição reproduzida na página 2 descreve um processo contínuo e sistemático que liga dados ao planejamento e à implementação de medidas de saúde pública.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Vigilância em saúde"
+        }
+      ]
+    },
+    {
+      "id": "e03-q02",
+      "prompt": "Qual conjunto corresponde aos componentes da figura de vigilância em saúde?",
+      "choices": [
+        "Vigilância sanitária, ambiental, epidemiológica e saúde do trabalhador.",
+        "Notificação, diagnóstico, quarentena e internação.",
+        "Natalidade, mortalidade, letalidade e incidência.",
+        "Surto, epidemia, pandemia e endemia."
+      ],
+      "answer": 0,
+      "explanation": "A figura articula essas quatro áreas ao redor da vigilância em saúde. As demais alternativas misturam etapas, medidas ou padrões de ocorrência.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Vigilância em saúde"
+        }
+      ]
+    },
+    {
+      "id": "e03-q03",
+      "prompt": "Ao estudar saúde e doença em uma coletividade, qual perspectiva corresponde à epidemiologia apresentada no PDF?",
+      "choices": [
+        "A identificação exclusiva de sintomas de um único indivíduo.",
+        "O preenchimento de formulários sem análise de dados.",
+        "A definição exclusiva de medidas de isolamento.",
+        "A análise do processo saúde e doença em populações."
+      ],
+      "answer": 3,
+      "explanation": "O material define epidemiologia pelo estudo do processo saúde e doença na coletividade ou população.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Vigilância epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-q04",
+      "prompt": "Quais ações são citadas entre as primeiras medidas epidemiológicas da história?",
+      "choices": [
+        "Boletins digitais, mapas interativos e inquéritos eletrônicos.",
+        "Isolamento, quarentena e notificação de doentes e contactantes.",
+        "Somente análise de taxas de natalidade.",
+        "Apenas avaliação de eficiência de programas."
+      ],
+      "answer": 1,
+      "explanation": "A página 5 cita expressamente isolamento, quarentena e notificação de pessoas doentes e contactantes.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Vigilância epidemiológica x História"
+        }
+      ]
+    },
+    {
+      "id": "e03-q05",
+      "prompt": "No diagrama do ciclo, qual etapa aparece depois de análise e interpretação e antes de ação e tomada de decisão?",
+      "choices": [
+        "Suspeita e detecção.",
+        "Comunicação e feedback.",
+        "Coleta de dados e notificação.",
+        "Monitoramento e avaliação."
+      ],
+      "answer": 1,
+      "explanation": "O ciclo apresentado liga a interpretação dos dados à comunicação dos resultados e, em seguida, à ação.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Ciclo de vigilância epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-q06",
+      "prompt": "Uma equipe visita uma comunidade para procurar possíveis casos. Como a coleta é caracterizada na aula?",
+      "choices": [
+        "Passiva, porque a equipe procura os possíveis casos.",
+        "Voluntária, porque toda visita equivale a uma notificação voluntária.",
+        "Avaliativa, porque procurar casos já demonstra a eficiência das medidas.",
+        "Ativa, porque há busca direcionada de casos."
+      ],
+      "answer": 3,
+      "explanation": "A modalidade ativa busca possíveis casos por ação direcionada; na passiva o caso procura o serviço.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-q07",
+      "prompt": "Um caso chega espontaneamente ao serviço de saúde e é identificado pelo profissional. Qual modalidade descrita corresponde a essa situação?",
+      "choices": [
+        "Vigilância passiva.",
+        "Vigilância ativa.",
+        "Avaliação das intervenções.",
+        "Comunicação de resultados à comunidade."
+      ],
+      "answer": 0,
+      "explanation": "O exemplo corresponde à modalidade passiva, em que o caso busca o serviço de saúde.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-q08",
+      "prompt": "Qual transformação é descrita ao analisar dados de vigilância?",
+      "choices": [
+        "A análise transforma toda suspeita automaticamente em confirmação.",
+        "A análise substitui a necessidade de comunicar resultados.",
+        "Os dados analisados tornam-se informação e podem gerar conhecimento.",
+        "Os dados deixam de servir ao planejamento depois de analisados."
+      ],
+      "answer": 2,
+      "explanation": "O PDF distingue dados de informação e relaciona sua análise à produção de conhecimento para planejar ações.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Coleta de dados"
+        }
+      ]
+    },
+    {
+      "id": "e03-q09",
+      "prompt": "Qual organização do fluxo aparece no diagrama de vigilância?",
+      "choices": [
+        "Envio de dados somente ao nível nacional, sem retorno à comunidade.",
+        "Análise restrita ao laboratório, sem participação de serviços locais.",
+        "Comunicação à comunidade apenas antes da coleta de dados.",
+        "Articulação entre coleta, sistema local, vigilâncias estadual e nacional e disseminação para a comunidade."
+      ],
+      "answer": 3,
+      "explanation": "O fluxograma inclui os três níveis de serviço, o manejo dos dados e a disseminação da informação, incluindo a comunidade.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Fluxograma de VE"
+        }
+      ]
+    },
+    {
+      "id": "e03-q10",
+      "prompt": "Uma pessoa comunica à autoridade sanitária uma suspeita de agravo à saúde. Qual leitura corresponde à definição da aula?",
+      "choices": [
+        "Só há notificação após comprovação laboratorial.",
+        "A comunicação só pode ser feita pelo Ministério da Saúde.",
+        "A comunicação pode constituir notificação, mesmo feita por um cidadão e ainda sem confirmação.",
+        "Notificação é apenas a publicação de uma tabela de casos."
+      ],
+      "answer": 2,
+      "explanation": "A definição inclui suspeitas e admite profissionais de saúde ou qualquer cidadão como comunicantes.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Notificação"
+        }
+      ]
+    },
+    {
+      "id": "e03-q11",
+      "prompt": "Na tabela de 2017 reproduzida no PDF, o cabeçalho 'imediata' corresponde a qual intervalo?",
+      "choices": [
+        "Até sete dias.",
+        "Até 24 horas.",
+        "Somente no encerramento anual.",
+        "Após a avaliação de todas as intervenções."
+      ],
+      "answer": 1,
+      "explanation": "O cabeçalho do quadro indica 'Imediata (até 24 horas)' e apresenta, separadamente, a periodicidade semanal. A questão se limita ao quadro da aula.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Portaria de consolidação nº 4 de 2017: Notificação compulsória"
+        }
+      ]
+    },
+    {
+      "id": "e03-q12",
+      "prompt": "Como a tabela reproduzida de 2017 diferencia casos e óbitos por dengue?",
+      "choices": [
+        "Casos aparecem na coluna semanal; óbitos têm marcação imediata para MS, SES e SMS.",
+        "Casos e óbitos aparecem apenas na coluna semanal.",
+        "Casos são imediatos nos três níveis; óbitos são semanais.",
+        "A tabela não apresenta nenhuma entrada para dengue."
+      ],
+      "answer": 0,
+      "explanation": "As linhas 7a e 7b distinguem as periodicidades. Essa leitura descreve a tabela do PDF, sem afirmar a vigência atual de seus itens.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Portaria de consolidação nº 4 de 2017: Notificação compulsória"
+        }
+      ]
+    },
+    {
+      "id": "e03-q13",
+      "prompt": "Qual trio de doenças está presente na lista de vigilância animal reproduzida da Portaria nº 782/2017?",
+      "choices": [
+        "Febre amarela, raiva e febre do Nilo Ocidental.",
+        "Dengue, coqueluche e hanseníase.",
+        "Tétano neonatal, sífilis e tuberculose.",
+        "Cólera, meningite e sarampo."
+      ],
+      "answer": 0,
+      "explanation": "A lista de doenças em animais da página 18 começa com febre amarela, raiva e febre do Nilo Ocidental.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Portaria nº 782, de 15 de março de 2017: doenças em animais"
+        }
+      ]
+    },
+    {
+      "id": "e03-q14",
+      "prompt": "Qual evento consta na parte de epizootias e eventos de saúde pública do quadro de 2017 da aula?",
+      "choices": [
+        "Qualquer variação mensal de natalidade em humanos.",
+        "Morte ou adoecimento de equídeos com sintomatologia neurológica.",
+        "Todo atendimento veterinário de rotina.",
+        "Apenas confirmação laboratorial de influenza humana."
+      ],
+      "answer": 1,
+      "explanation": "A segunda lista da página 18 contém esse evento, além de mortes de primatas não humanos, aves e outros animais nas condições indicadas.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Portaria nº 782, de 15 de março de 2017: eventos de saúde pública e epizootias"
+        }
+      ]
+    },
+    {
+      "id": "e03-q15",
+      "prompt": "Após a notificação, qual sequência corresponde à investigação apresentada?",
+      "choices": [
+        "Divulgar os resultados, encerrar o episódio e só então definir o caso.",
+        "Contar óbitos, dispensar a caracterização e aguardar o próximo episódio.",
+        "Definir o caso, caracterizar tempo/pessoa/local, identificar fontes e suscetíveis, dimensionar e planejar medidas.",
+        "Implementar tratamento e excluir da análise casos suspeitos e fontes."
+      ],
+      "answer": 2,
+      "explanation": "A página 20 enumera essas etapas e termina com planejamento e implementação de prevenção, controle e tratamento.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Investigação Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e03-q16",
+      "prompt": "Uma doença permanece frequente em determinada população, com ocorrência dentro dos limites esperados. Qual conceito se aplica na aula?",
+      "choices": [
+        "Pandemia.",
+        "Surto.",
+        "Epidemia.",
+        "Endemia."
+      ],
+      "answer": 3,
+      "explanation": "Endemia combina presença constante e frequente com ocorrência dentro do esperado para aquela população.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Investigação Epidemiológica: Endemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-q17",
+      "prompt": "Qual termo o PDF admite para uma epidemia em Medicina Veterinária?",
+      "choices": [
+        "Panzootia.",
+        "Epizootia.",
+        "Quarentena.",
+        "Notificação."
+      ],
+      "answer": 1,
+      "explanation": "A página 22 apresenta epizootia como termo também usado em Medicina Veterinária para epidemia. Panzootia aparece na discussão de pandemia.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Investigação Epidemiológica: Epidemia"
+        },
+        {
+          "page": 24,
+          "section": "Investigação Epidemiológica: Pandemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-q18",
+      "prompt": "Em uma escola, aparecem casos acima do esperado ligados a uma fonte comum em período delimitado. Qual conceito corresponde à descrição do material?",
+      "choices": [
+        "Surto.",
+        "Endemia, por ser uma população restrita.",
+        "Pandemia, por reunir mais de um caso.",
+        "Monitoramento, por haver fonte comum."
+      ],
+      "answer": 0,
+      "explanation": "O surto envolve focos de fonte comum delimitados no tempo e no espaço e excesso de casos em população restrita, como uma escola.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Investigação Epidemiológica: Surto"
+        }
+      ]
+    },
+    {
+      "id": "e03-q19",
+      "prompt": "Uma enfermidade supera valores esperados e atinge grandes extensões geográficas em animais. Qual par de termos aparece no PDF?",
+      "choices": [
+        "Endemia e incidência.",
+        "Surto e coleta ativa.",
+        "Notificação e monitoramento.",
+        "Pandemia e panzootia."
+      ],
+      "answer": 3,
+      "explanation": "A aula associa pandemia à grande extensão geográfica e apresenta panzootia como termo para populações animais.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Investigação Epidemiológica: Pandemia"
+        }
+      ]
+    },
+    {
+      "id": "e03-q20",
+      "prompt": "Qual conjunto reúne recursos e medidas citados na etapa de análise?",
+      "choices": [
+        "Apenas fichas ainda sem análise e sem interpretação.",
+        "Somente resultados de avaliação final, sem dados de ocorrência.",
+        "Tabelas, gráficos, mapas, incidência, prevalência, letalidade e mortalidade.",
+        "Exclusivamente registros individuais de tratamento."
+      ],
+      "answer": 2,
+      "explanation": "A página 25 cita esses recursos e taxas para transformar os dados em informação útil à prevenção e ao controle, sem desenvolver fórmulas.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Análise de dados e interpretação"
+        }
+      ]
+    },
+    {
+      "id": "e03-q21",
+      "prompt": "Ao preparar um informe epidemiológico, qual cuidado está explicitamente associado à comunicação no material?",
+      "choices": [
+        "Divulgar somente os números, sem considerar o público.",
+        "Comunicar apenas a profissionais e excluir a comunidade.",
+        "Considerar a qualidade do conteúdo e quem receberá a informação.",
+        "Esperar o encerramento de toda vigilância para divulgar resultados."
+      ],
+      "answer": 2,
+      "explanation": "O PDF prevê divulgação periódica, informes e reuniões e ressalta conteúdo e receptor.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "Comunicação/Feedback"
+        }
+      ]
+    },
+    {
+      "id": "e03-q22",
+      "prompt": "Qual resultado a tomada de decisão em vigilância busca segundo a aula?",
+      "choices": [
+        "Acumular dados sem formular recomendações.",
+        "Substituir intervenções por divulgação de tabelas.",
+        "Limitar o sistema ao registro de casos já encerrados.",
+        "Reduzir a morbimortalidade com medidas específicas, evitando casos, óbitos e sequelas."
+      ],
+      "answer": 3,
+      "explanation": "A ação deve usar a informação para prevenir, controlar, eliminar ou erradicar doenças e orientar medidas eficazes e efetivas.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Ação/Tomada de decisão"
+        }
+      ]
+    },
+    {
+      "id": "e03-q23",
+      "prompt": "Uma coordenadora verifica se as visitas e medidas de controle planejadas estão sendo realizadas. Qual atividade descreve melhor essa verificação?",
+      "choices": [
+        "Monitoramento.",
+        "Definição de caso.",
+        "Classificação do episódio como pandemia.",
+        "Notificação voluntária."
+      ],
+      "answer": 0,
+      "explanation": "O monitoramento acompanha a realização das ações de intervenção para prevenção e controle.",
+      "refs": [
+        {
+          "page": 28,
+          "section": "Monitoramento e avaliação"
+        }
+      ]
+    },
+    {
+      "id": "e03-q24",
+      "prompt": "Uma equipe usa dados do acompanhamento para verificar eficiência e alcance dos objetivos e corrigir intervenções. Qual interpretação está de acordo com a aula?",
+      "choices": [
+        "Trata-se apenas de coleta passiva, sem relação com resultados.",
+        "Trata-se de avaliação, que deve ocorrer em paralelo às ações de vigilância.",
+        "A avaliação só pode começar depois que toda vigilância terminar.",
+        "A eficiência das ações é verificada apenas pela existência de uma notificação."
+      ],
+      "answer": 1,
+      "explanation": "A avaliação usa o que foi coletado no monitoramento para julgar eficiência e objetivos; a realização paralela permite correções.",
+      "refs": [
+        {
+          "page": 28,
+          "section": "Monitoramento e avaliação"
+        }
+      ]
+    }
+  ]
+}

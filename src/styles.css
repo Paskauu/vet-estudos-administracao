@@ -14,6 +14,17 @@
   --paper: #fffefa;
   --radius: 18px;
 }
+:root[data-course="epidemiologia"] {
+  --green: #185e78;
+  --green-dark: #103f54;
+  --sage: #e3eff3;
+  --ink: #253e4b;
+  --muted: #627985;
+  --line: #dce6eb;
+  --paper: #fbfdfe;
+  color: var(--ink);
+  background: #f1f6f8;
+}
 * {
   box-sizing: border-box;
 }

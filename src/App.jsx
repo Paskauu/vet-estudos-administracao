@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import {
   ArrowRight,
   BookOpen,
@@ -17,7 +17,11 @@ import {
   TrendingUp,
   X,
 } from "lucide-react";
-import { modules, questions, moduleById } from "./content/index.js";
+import { modules as allModules, moduleById } from "./content/index.js";
+import { courses, courseById } from "./content/courses.js";
+import { CourseContext } from "./hooks/useCourse.jsx";
+import { courseCatalog, courseEvents, resolveStudyRoute } from "./lib/courses.js";
+import { reduceProgress } from "./lib/events.js";
 import { useStudy } from "./hooks/useStudy.js";
 import { selectQuestions } from "./lib/study.js";
 import { createId } from "./lib/id.js";
@@ -29,12 +33,7 @@ import { FlashcardsPage } from "./pages/Flashcards.jsx";
 import { PracticePage, SessionPage } from "./pages/Practice.jsx";
 import { ProgressPage } from "./pages/Progress.jsx";
 
-const readRoute = () => {
-  const [page = "inicio", id = ""] = location.hash
-    .replace(/^#\/?/, "")
-    .split("/");
-  return { page: page || "inicio", id };
-};
+const readRoute = () => location.hash;
 const nav = [
   { page: "inicio", label: "Meu estudo", icon: House },
   { page: "modulos", label: "Módulos", icon: BookOpen },
@@ -44,10 +43,21 @@ const nav = [
 ];
 
 export default function App() {
-  const study = useStudy();
-  const [route, setRoute] = useState(readRoute);
+  const allStudy = useStudy();
+  const [hash, setRoute] = useState(readRoute);
+  const route = resolveStudyRoute(hash, moduleById, allStudy.progress.sessions);
+  const course = courseById[route.courseId];
+  const catalog = useMemo(() => courseCatalog(allModules, course.id), [course.id]);
+  const { modules, questions } = catalog;
+  const progress = useMemo(() => reduceProgress(courseEvents(allStudy.events, modules)), [allStudy.events, modules]);
+  const study = { ...allStudy, progress };
   const [modal, setModal] = useState(null);
   const [mobileMenu, setMobileMenu] = useState(false);
+  useEffect(() => {
+    document.documentElement.dataset.course = course.id;
+    document.title = `Vet Estudos — ${course.title}`;
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", course.id === "epidemiologia" ? "#164e68" : "#205748");
+  }, [course.id]);
   useEffect(() => {
     if (!mobileMenu) return;
     const previous = document.activeElement;
@@ -88,7 +98,7 @@ export default function App() {
     return () => window.removeEventListener("hashchange", change);
   }, []);
   const navigate = (page, id = "") => {
-    location.hash = `/${page}${id ? `/${id}` : ""}`;
+    location.hash = `/${course.id}/${page}${id ? `/${id}` : ""}`;
   };
   const startSession = ({
     moduleIds,
@@ -97,13 +107,15 @@ export default function App() {
     onlyWrong = false,
     pool,
   }) => {
+    if (!moduleIds?.length || !moduleIds.every((id) => modules.some((m) => m.id === id)))
+      throw new Error("Selecione módulos apenas desta disciplina.");
     const candidates =
       pool ||
       questions.filter(
         (q) =>
           !onlyWrong || study.progress.latestAnswers[q.id]?.correct === false,
       );
-    const chosen = selectQuestions(candidates, moduleIds, count);
+    const chosen = selectQuestions(candidates.filter((q) => questions.some((item) => item.id === q.id)), moduleIds, count);
     if (!chosen.length) throw new Error("Não há questões nesta seleção.");
     const id = createId();
     if (
@@ -125,12 +137,13 @@ export default function App() {
   if (route.page === "inicio" || route.page === "modulos")
     content = (
       <Home
+        key={`${course.id}-${route.page}`}
         progress={study.progress}
         navigate={navigate}
         modulesOnly={route.page === "modulos"}
       />
     );
-  else if (route.page === "modulo" && moduleById[route.id])
+  else if (route.page === "modulo" && modules.some((m) => m.id === route.id))
     content = (
       <ModulePage
         key={route.id}
@@ -143,18 +156,18 @@ export default function App() {
   else if (route.page === "flashcards")
     content = (
       <FlashcardsPage
-        key={`cards-${route.id}`}
+        key={`cards-${course.id}-${route.id}`}
         progress={study.progress}
         record={study.record}
-        initialModule={moduleById[route.id] ? route.id : null}
+        initialModule={modules.some((m) => m.id === route.id) ? route.id : null}
       />
     );
   else if (route.page === "praticar")
     content = (
       <PracticePage
-        key={`practice-${route.id}`}
+        key={`practice-${course.id}-${route.id}`}
         progress={study.progress}
-        initialModule={moduleById[route.id] ? route.id : null}
+        initialModule={modules.some((m) => m.id === route.id) ? route.id : null}
         navigate={navigate}
         startSession={startSession}
       />
@@ -191,7 +204,7 @@ export default function App() {
       </EmptyState>
     );
   return (
-    <>
+    <CourseContext.Provider value={{ ...catalog, course }}>
       <a
         className="skip-link"
         href="#conteudo"
@@ -224,7 +237,7 @@ export default function App() {
             <Stethoscope size={19} />
           </span>
           <span>
-            Medicina Veterinária<small>Administração e Aspectos Legais</small>
+            Medicina Veterinária<small>{course.shortTitle}</small>
           </span>
         </div>
         <span className="sidebar-label">SEU ESPAÇO</span>
@@ -296,7 +309,7 @@ export default function App() {
           </div>
           <div className="header-actions">
             <span className="header-course">
-              Administração e Aspectos Legais
+              {course.shortTitle}
             </span>
             <button
               className="icon-button"
@@ -335,6 +348,32 @@ export default function App() {
               </button>
             </div>
           )}
+          <section className="discipline-switcher" aria-label="Escolher disciplina">
+            <div className="discipline-heading">
+              <span className="eyebrow">SUAS DISCIPLINAS</span>
+              <span>Escolha o que estudar agora</span>
+            </div>
+            <div className="discipline-options">
+              {courses.map((item, i) => (
+                <button
+                  key={item.id}
+                  className={`discipline-option discipline-${item.id} ${course.id === item.id ? "active" : ""}`}
+                  aria-pressed={course.id === item.id}
+                  onClick={() => {
+                    if (item.id === course.id) return;
+                    setModal(null);
+                    setMobileMenu(false);
+                    location.hash = `/${item.id}/inicio`;
+                  }}
+                >
+                  <span className="discipline-number">0{i + 1}</span>
+                  <span><strong>{item.title}</strong><small>{item.area}</small></span>
+                  <ChevronRight size={18} />
+                </button>
+              ))}
+            </div>
+            <div className="active-discipline" role="status"><span />Estudando: <strong>{course.title}</strong></div>
+          </section>
           {content}
           <footer className="main-footer">
             <span>
@@ -342,7 +381,7 @@ export default function App() {
               Feito para aprender com calma.
             </span>
             <button onClick={() => setModal("sources")}>
-              8 módulos · Referências em cada conceito
+              {modules.length} módulos · Referências em cada conceito
               <BookOpen size={13} />
             </button>
           </footer>
@@ -381,17 +420,17 @@ export default function App() {
         />
       )}
       {modal === "backup" && (
-        <Backup study={study} onClose={() => setModal(null)} />
+        <Backup study={allStudy} onClose={() => setModal(null)} />
       )}
       {modal === "sources" && (
         <Modal
-          title="A fonte de cada descoberta"
+          title={`Materiais de ${course.shortTitle}`}
           onClose={() => setModal(null)}
           wide
         >
           <p className="modal-intro">
             Todo o conteúdo de estudo foi elaborado exclusivamente a partir
-            destas oito apostilas. As referências usam a página física do PDF,
+            destes {modules.length} materiais de {course.title}. As referências usam a página física do PDF,
             contada a partir de 1.
           </p>
           <div className="sources-list">
@@ -416,9 +455,7 @@ export default function App() {
             ))}
           </div>
           <div className="source-note">
-            Os arquivos fornecidos são apostilas, sem identificação consistente
-            de slides. Algumas figuras anunciadas estão ausentes nos originais;
-            esses trechos não foram reconstruídos com fontes externas.
+            {course.sourceNote}
           </div>
         </Modal>
       )}
@@ -454,7 +491,7 @@ export default function App() {
                 <h3>Coloque em prática</h3>
                 <p>
                   Faça uma prática com explicação imediata ou um simulado com
-                  correção ao final. Você pode misturar módulos.
+                  correção ao final. Você pode combinar módulos da mesma disciplina.
                 </p>
               </div>
             </li>
@@ -478,6 +515,6 @@ export default function App() {
           </button>
         </Modal>
       )}
-    </>
+    </CourseContext.Provider>
   );
 }

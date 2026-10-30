@@ -13,11 +13,10 @@ import {
   X,
 } from "lucide-react";
 import {
-  modules,
   moduleById,
-  questions,
   questionById,
 } from "../content/index.js";
+import { useCourse } from "../hooks/useCourse.jsx";
 import { percent, readableDate, scoreSession } from "../lib/study.js";
 import {
   EmptyState,
@@ -33,6 +32,7 @@ export function PracticePage({
   navigate,
   startSession,
 }) {
+  const { modules, questions } = useCourse();
   const [selected, setSelected] = useState(
     initialModule ? [initialModule] : modules.map((m) => m.id),
   );
@@ -61,7 +61,7 @@ export function PracticePage({
       <PageHeading
         eyebrow="APRENDER FAZENDO"
         title="Sua prática, do seu jeito."
-        text="Misture assuntos, descubra o que já sabe e encontre o que merece mais atenção."
+        text="Combine módulos desta disciplina, descubra o que já sabe e encontre o que merece mais atenção."
       />
       {unfinished.length > 0 && (
         <div className="resume-banner">
@@ -195,7 +195,7 @@ export function PracticePage({
             <div className="note-divider" />
             <span>
               <CheckCircle2 size={15} />
-              Questões dos 8 módulos
+              Questões dos {modules.length} módulos desta disciplina
             </span>
             <span>
               <CheckCircle2 size={15} />

@@ -1,0 +1,1029 @@
+{
+  "id": "e08",
+  "order": 8,
+  "courseId": "epidemiologia",
+  "category": "Alimentos e surtos",
+  "title": "Investigação de surtos",
+  "shortTitle": "Investigar e controlar surtos",
+  "description": "Percorra os dez passos da investigação de surtos de DTA: definição de casos, tempo, lugar, pessoa, hipóteses, taxas de ataque, controle e comunicação.",
+  "source": {
+    "filename": "Investigação de Surtos - Aula 8_261027_182815.pdf",
+    "pages": 23,
+    "topic": "08"
+  },
+  "lessons": [
+    {
+      "id": "e08-l01",
+      "title": "Reconhecer o surto e o propósito da investigação",
+      "intro": "Relacione ocorrência comum, pessoas afetadas e resposta conjunta.",
+      "blocks": [
+        {
+          "title": "Definição e exceções",
+          "text": "O surto de DTA é apresentado como episódio em que duas ou mais pessoas têm os mesmos sinais ou sintomas após ingerir alimentos e/ou água da mesma origem. Para doenças graves exemplificadas por botulismo e síndrome hemolítica renal por E. coli O157, o PDF considera um único caso como surto.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "O que é um surto de doença veiculada por alimentos?"
+            }
+          ]
+        },
+        {
+          "title": "Por que investigar",
+          "text": "A investigação busca dados para controlar o evento, diagnosticar sua causa, identificar agentes, população exposta, fatores associados e provável fonte de contaminação. Também orienta prevenção, divulgação dos resultados e prevenção de novos surtos.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Motivos para se investigar"
+            }
+          ]
+        },
+        {
+          "title": "Ações conjuntas",
+          "text": "A aula reúne áreas técnicas de saúde, vigilâncias epidemiológica, sanitária e ambiental, laboratório, assistência, saúde do trabalhador, equipe de campo e comunicação. Conforme o surto, podem participar agricultura, defesa civil, meio ambiente e educação.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Uma investigação demanda ações conjuntas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l02",
+      "title": "Organizar os dez passos e confirmar o evento",
+      "intro": "Use a sequência da aula como roteiro e verifique as informações iniciais.",
+      "blocks": [
+        {
+          "title": "O roteiro completo",
+          "text": "Os dez passos apresentados articulam confirmação, descrição, análise, ação e comunicação.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Os 10 passos para a investigação"
+            }
+          ],
+          "bullets": [
+            "1. Determinar a existência do surto; 2. confirmar o diagnóstico; 3. definir e contar casos.",
+            "4. Descrever por tempo, lugar e pessoa; 5. determinar quem está sob risco; 6. levantar hipóteses.",
+            "7. Comparar hipóteses com fatos; 8. refinar hipóteses e realizar estudos complementares.",
+            "9. Implementar controle e prevenção; 10. comunicar resultados por relatórios e outras formas."
+          ]
+        },
+        {
+          "title": "Passo 1: verificar a ocorrência",
+          "text": "Confirme a consistência das informações com o notificante e outras fontes, verifique se o número de casos aumentou e se pertencem ao mesmo evento. O material é explícito: a investigação não deve esperar pelos resultados de laboratório.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "1 — Confirmar a ocorrência do surto"
+            }
+          ]
+        },
+        {
+          "title": "Passo 2: verificar o diagnóstico",
+          "text": "Entrevistar profissionais e pacientes, rever registros médicos, caracterizar o quadro clínico e realizar contraprova quando necessária ajudam a identificar diagnósticos inconclusivos, erros laboratoriais ou diagnósticos errados. A página do passo 1 já inclui essas atividades, que são retomadas no passo 2.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "2 — Confirmando o diagnóstico"
+            },
+            {
+              "page": 7,
+              "section": "2 — Confirmando o diagnóstico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l03",
+      "title": "Definir casos e descrever a distribuição",
+      "intro": "Crie critérios comparáveis e atualize a descrição à medida que surgem casos.",
+      "blocks": [
+        {
+          "title": "Passo 3: incluir e excluir com critério",
+          "text": "A definição de caso serve para identificar o maior número de suspeitos e excluir quem não é caso. A aula orienta elaborar a definição, registrar e listar os casos e conferir características comuns. Cita caso suspeito, provável sem confirmação laboratorial e confirmado.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "3 — Definindo e contando os casos"
+            }
+          ]
+        },
+        {
+          "title": "Quatro componentes da definição",
+          "text": "Uma definição geralmente combina informação clínica e laboratorial, características dos indivíduos, local ou região e período de ocorrência do aumento de casos.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Componentes da definição de caso"
+            }
+          ],
+          "bullets": [
+            "Clínica e laboratório: características da doença.",
+            "Pessoa: por exemplo idade, sexo e escolaridade.",
+            "Lugar: local ou região de ocorrência.",
+            "Tempo: período em que o surto ocorreu."
+          ]
+        },
+        {
+          "title": "Passo 4: tempo, lugar e pessoa",
+          "text": "A caracterização do surto é epidemiologia descritiva e pode ser repetida à medida que novos casos aparecem. A aula ilustra o tempo com curvas intituladas fonte comum e fonte propagada e o lugar com um mapa de casos. Essas figuras apoiam a descrição; não trazem, sozinhas, uma confirmação de causa.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4 — Descrição por tempo, lugar e pessoa"
+            },
+            {
+              "page": 10,
+              "section": "4 — Descrição por tempo, lugar e pessoa"
+            },
+            {
+              "page": 11,
+              "section": "4 — Descrição por tempo, lugar e pessoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l04",
+      "title": "Delimitar a população em risco e levantar hipóteses",
+      "intro": "Conecte a descrição do surto à origem e ao modo de transmissão.",
+      "blocks": [
+        {
+          "title": "Passo 5: quem esteve sob risco",
+          "text": "A distribuição por tempo, lugar e pessoa pode sugerir grupos ligados a um abastecimento de água, escola ou fábrica. A delimitação é mais difícil quando o surto tem grande extensão geográfica, envolve muitas idades e começa sem características claras.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "5 — Determinando quem está em risco de adoecer"
+            }
+          ]
+        },
+        {
+          "title": "Passo 6: hipóteses plausíveis",
+          "text": "Revise conjuntamente dados clínicos, laboratoriais e epidemiológicos para propor exposições plausíveis, origem do surto e modo de transmissão. A aula distingue identificar qual alimento ou bebida veiculou o agente, atribuído à Vigilância Epidemiológica, de explicar como ocorreu a contaminação, atribuído à Vigilância Sanitária.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "6 — Estabelecendo hipóteses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l05",
+      "title": "Comparar hipóteses e sintomas digestivos superiores",
+      "intro": "Leia o quadro como apoio à investigação, preservando suas faixas e lacunas.",
+      "blocks": [
+        {
+          "title": "Passo 7: confronto entre hipótese e fatos",
+          "text": "A aula propõe calcular a mediana dos períodos de incubação, descrever a distribuição percentual de sinais e sintomas e comparar com o quadro de possíveis agentes e tempos. Esse confronto orienta a investigação; a figura apresenta várias possibilidades para cada conjunto de sinais e faixa de tempo.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "7 — Comparação entre hipóteses e fatos"
+            },
+            {
+              "page": 15,
+              "section": "7 — Comparação entre hipóteses e fatos"
+            }
+          ]
+        },
+        {
+          "title": "Vias digestivas superiores",
+          "text": "Para predomínio de náuseas e vômitos, o quadro distribui os agentes nas seguintes faixas, que devem ser lidas como apresentadas na aula.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Quadro de agentes: sintomas digestivos superiores"
+            }
+          ],
+          "bullets": [
+            "Menos de 1 hora: fungos silvestres, antimônio, cádmio, cobre, fluoreto de sódio, chumbo, estanho e zinco.",
+            "Entre 1 e 8 horas: Staphylococcus aureus, Bacillus cereus de cepa emética e nitritos.",
+            "Entre 7 e 12 horas: fungos com ciclopeptídeos e fungos com giromitrinas."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ler o quadro de sintomas digestivos inferiores",
+      "intro": "Compare as faixas de incubação e os possíveis agentes listados.",
+      "blocks": [
+        {
+          "title": "Vias digestivas inferiores",
+          "text": "Para predomínio de dor abdominal e diarreia, o quadro apresenta outras associações entre tempo e possíveis agentes.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Quadro de agentes: sintomas digestivos inferiores"
+            }
+          ],
+          "bullets": [
+            "Entre 7 e 12 horas: Bacillus cereus de cepa diarreica e Clostridium perfringens.",
+            "Entre 12 e 72 horas: Vibrio cholerae, Escherichia coli patogênica, Salmonella spp., Shigella, Vibrio parahaemolyticus, Vibrio vulnificus, Campylobacter spp., Plesiomonas shigelloides e Aeromonas hydrophila.",
+            "Acima de 72 horas: vírus entéricos (ECHO, coxsackie, pólio, reovírus, adenovírus e outros), Entamoeba histolytica, Taenia saginata, Diphyllobothrium latum, Taenia solium, Yersinia enterocolitica, Giardia intestinalis, Escherichia coli O157:H7 e outros parasitas intestinais."
+          ]
+        }
+      ],
+      "id": "e08-l06"
+    },
+    {
+      "title": "Comparar sinais neurológicos e outros sintomas",
+      "intro": "Explore a parte do quadro que vai além das manifestações digestivas.",
+      "blocks": [
+        {
+          "title": "Sinais neurológicos",
+          "text": "O quadro agrupa transtornos visuais, formigamento e paralisia. As listas são específicas da fonte; intervalos não preenchidos não foram completados. Uma denominação de fungos aparece como “musanol” na imagem e não foi normalizada por consulta externa.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Quadro de agentes: sinais neurológicos"
+            }
+          ],
+          "bullets": [
+            "Menos de 1 hora: fungos com ácido ibotênico e fungos com “musanol” (grafia do quadro).",
+            "Entre 1 e 6 horas: hidrocarbonetos clorados, ciguatera, erva de feiticeiro e saia branca, cicuta aquática, fungos com muscarina, organofosforados, toxinas marinhas e tetraodontídeos.",
+            "Entre 12 e 72 horas: Clostridium botulinum. Acima de 72 horas: mercúrio e fosfato de triortocresil."
+          ]
+        },
+        {
+          "title": "Sinais sistêmicos, respiratórios e faríngeos",
+          "text": "A parte final do quadro amplia a comparação para manifestações além das digestivas.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Quadro de agentes: sinais sistêmicos e respiratórios"
+            }
+          ],
+          "bullets": [
+            "Sistêmicos em menos de 1 hora: histamina, tiramina, glutamato monossódico e ácido nicotínico; entre 1 e 6 horas: vitamina A; acima de 72 horas: Brucella abortus, Brucella melitensis e Brucella suis.",
+            "Respiratórios e faríngeos em menos de 1 hora: hidróxido de sódio; entre 12 e 72 horas: Streptococcus pyogenes."
+          ]
+        }
+      ],
+      "id": "e08-l07"
+    },
+    {
+      "id": "e08-l08",
+      "title": "Consolidar o consumo e comparar taxas de ataque",
+      "intro": "Use os denominadores de cada grupo para analisar os alimentos.",
+      "blocks": [
+        {
+          "title": "Entrevistar doentes e não doentes",
+          "text": "Após as entrevistas, consolide para cada alimento quantos consumiram e não consumiram, separando doentes, sadios e totais de cada grupo. O quadro não se restringe aos doentes: os não doentes participam dos denominadores.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Quadros consolidados da ingestão de alimentos"
+            }
+          ]
+        },
+        {
+          "title": "Do quadro às medidas",
+          "text": "A aula chama de TA1% a taxa de ataque dos que consumiram e de TA2% a dos que não consumiram. A leitura aritmética do quadro é TA1 = doentes que consumiram / total que consumiu × 100; TA2 = doentes que não consumiram / total que não consumiu × 100; RR = TA1/TA2.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Taxas de ataque e riscos relativos"
+            },
+            {
+              "page": 17,
+              "section": "Taxas de ataque e riscos relativos"
+            },
+            {
+              "page": 18,
+              "section": "Taxas de ataque e riscos relativos"
+            }
+          ]
+        },
+        {
+          "title": "Resultados do quadro preenchido",
+          "text": "Os valores abaixo são os resultados impressos, úteis para comparar os grupos em cada alimento. Torta de frango apresenta o maior RR do exemplo; salada apresenta taxas iguais.",
+          "refs": [
+            {
+              "page": 18,
+              "section": "Quadro de consumo: taxas e RR"
+            }
+          ],
+          "bullets": [
+            "Strogonoff de carne: TA1 66,6%, TA2 50,0%, RR 1,33; arroz: 50,0%, 75,0%, RR 0,67.",
+            "Batata palha: TA1 50,0%, TA2 66,7%, RR 0,75; torta de frango: 90,9%, 22,2%, RR 4,09.",
+            "Salada: TA1 60,0%, TA2 60,0%, RR 1,00; bolo de chocolate: 58,8%, 66,7%, RR 0,88.",
+            "Cerveja: TA1 71,4%, TA2 33,3%, RR 2,14; refrigerante: 63,3%, 55,5%, RR 1,15."
+          ]
+        },
+        {
+          "title": "Conferir contagens e arredondamentos",
+          "text": "Para torta de frango são 10 doentes e 1 sadio entre consumidores, contra 2 doentes e 7 sadios entre não consumidores: 10/11 e 2/9 sustentam RR ≈ 4,09. No refrigerante, a contagem é 7/11, aproximadamente 63,6%, mas a taxa impressa é 63,3%. O conteúdo distingue essa divergência dos números originais, sem alterar o PDF.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Quadro de consumo: conferência aritmética"
+            },
+            {
+              "page": 18,
+              "section": "Quadro de consumo: conferência aritmética"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l09",
+      "title": "Refinar a investigação e observar a cadeia de produção",
+      "intro": "Revise hipóteses quando os dados não sustentam as primeiras explicações.",
+      "blocks": [
+        {
+          "title": "Passo 8: reconsiderar",
+          "text": "Se o estudo analítico não confirmar nenhuma hipótese, a aula orienta rever os dados, obter informações complementares e considerar outros modos de transmissão e hipóteses possíveis.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "8 — Refinando as hipóteses e análises complementares"
+            }
+          ]
+        },
+        {
+          "title": "A atuação sanitária na cadeia",
+          "text": "A figura da Vigilância Sanitária acompanha matéria-prima e insumos, transporte, processamento, transporte de alimentos, armazenamento, comercialização e consumo. No centro estão perigos químicos, físicos e biológicos; o esquema relaciona esses perigos a perda de qualidade e agravos à saúde.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "VISA deve tomar ações: cadeia de produção de alimentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08-l10",
+      "title": "Controlar o risco e comunicar os resultados",
+      "intro": "Relacione a investigação às medidas e aos destinatários da informação.",
+      "blocks": [
+        {
+          "title": "Passo 9: medidas de controle e prevenção",
+          "text": "O material cita interdição cautelar do lote suspeito, recolhimento do produto e mudanças no cultivo, transporte ou processamento para reduzir contaminação. Outras medidas dependem das características de cada surto.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "9 — Implementando medidas de controle e prevenção"
+            }
+          ]
+        },
+        {
+          "title": "Passo 10: comunicar",
+          "text": "Os dados devem seguir aos níveis de vigilância e autoridades de saúde responsáveis pelas medidas. Os resultados também devem ser divulgados aos envolvidos, como doentes e estabelecimento, por relatórios e outras formas de comunicação.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "10 — Comunicação da investigação"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e08-f01",
+      "front": "Qual é a definição geral de surto de DTA apresentada?",
+      "back": "Duas ou mais pessoas com os mesmos sinais ou sintomas após ingerir alimentos e/ou água da mesma origem.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Definição de surto de DTA"
+        }
+      ]
+    },
+    {
+      "id": "e08-f02",
+      "front": "Quais exceções de caso único o PDF exemplifica?",
+      "back": "Botulismo e síndrome hemolítica renal por E. coli O157, citadas como doenças graves em que um caso é considerado surto.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Exceções da definição de surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-f03",
+      "front": "Por que investigar surtos?",
+      "back": "Identificar causa, agentes, população exposta, fatores e fonte; orientar controle e prevenção; comunicar resultados e evitar novos surtos.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Motivos para se investigar"
+        }
+      ]
+    },
+    {
+      "id": "e08-f04",
+      "front": "O que deve ser verificado para confirmar a ocorrência do surto?",
+      "back": "Consistência das informações, aumento de casos e se pertencem ao mesmo evento, consultando notificante e outras fontes.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Confirmar a ocorrência do surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-f05",
+      "front": "É necessário esperar o laboratório para iniciar a investigação?",
+      "back": "Não. A página de confirmação do surto orienta explicitamente iniciar sem esperar esses resultados.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Confirmar a ocorrência do surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-f06",
+      "front": "Quais ações ajudam a confirmar o diagnóstico?",
+      "back": "Entrevistar profissionais e pacientes, revisar anotações, caracterizar quadro clínico e fazer contraprova quando necessária.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Confirmando o diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "e08-f07",
+      "front": "Quais são os quatro componentes usuais de uma definição de caso?",
+      "back": "Informações clínicas/laboratoriais, características das pessoas, local/região e período do surto.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Definição de caso"
+        }
+      ]
+    },
+    {
+      "id": "e08-f08",
+      "front": "Qual é a finalidade de definir e contar os casos?",
+      "back": "Identificar o maior número de suspeitos, excluir quem não é caso e registrar e listar os casos com critérios comuns.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Definindo e contando casos"
+        }
+      ]
+    },
+    {
+      "id": "e08-f09",
+      "front": "Por que a descrição de tempo, lugar e pessoa pode se repetir?",
+      "back": "Novos casos podem ser identificados e mudar a caracterização descritiva do surto.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Epidemiologia descritiva do surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-f10",
+      "front": "Que recurso a aula usa para representar lugar e tempo?",
+      "back": "Mapa dos casos para lugar e curvas de ocorrência para tempo, incluindo a comparação intitulada fonte comum e fonte propagada.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Curvas e mapeamento dos casos"
+        },
+        {
+          "page": 11,
+          "section": "Curvas e mapeamento dos casos"
+        }
+      ]
+    },
+    {
+      "id": "e08-f11",
+      "front": "Quando é mais difícil delimitar quem está sob risco?",
+      "back": "Em surtos geograficamente extensos, com muitos grupos etários e características iniciais pouco claras.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Quem está em risco de adoecer"
+        }
+      ]
+    },
+    {
+      "id": "e08-f12",
+      "front": "O que uma hipótese deve abordar?",
+      "back": "Origem do surto, modo de transmissão e exposições plausíveis, revisando dados clínicos, laboratoriais e epidemiológicos.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Estabelecendo hipóteses"
+        }
+      ]
+    },
+    {
+      "id": "e08-f13",
+      "front": "Qual distinção de tarefas é feita ao levantar hipóteses?",
+      "back": "Vigilância Epidemiológica identifica alimentos/bebidas que veicularam o agente; Sanitária investiga como foram contaminados.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Hipóteses e atribuições"
+        }
+      ]
+    },
+    {
+      "id": "e08-f14",
+      "front": "Quais análises são citadas ao comparar hipótese e fatos?",
+      "back": "Mediana dos períodos de incubação e distribuição percentual dos sinais e sintomas, confrontadas com o quadro de agentes.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Comparação entre hipóteses e fatos"
+        },
+        {
+          "page": 15,
+          "section": "Comparação entre hipóteses e fatos"
+        }
+      ]
+    },
+    {
+      "id": "e08-f15",
+      "front": "No quadro da aula, onde aparecem S. aureus e B. cereus emético?",
+      "back": "Em sintomas digestivos superiores predominantes, com incubação entre 1 e 8 horas.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Quadro de agentes: sintomas digestivos superiores"
+        }
+      ]
+    },
+    {
+      "id": "e08-f16",
+      "front": "No quadro da aula, onde aparece C. botulinum?",
+      "back": "Em sinais neurológicos, na faixa entre 12 e 72 horas. É a faixa do quadro, sem substituição por consulta externa.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Quadro de agentes: sinais neurológicos"
+        }
+      ]
+    },
+    {
+      "id": "e08-f17",
+      "front": "Quem compõe os dados do quadro consolidado de alimentos?",
+      "back": "Comensais doentes e não doentes, classificados por consumir ou não cada alimento.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Quadros consolidados da ingestão"
+        }
+      ]
+    },
+    {
+      "id": "e08-f18",
+      "front": "Como ler TA1, TA2 e RR no quadro de alimentos?",
+      "back": "TA1 usa doentes entre consumidores; TA2 usa doentes entre não consumidores; cada taxa divide pelo seu total e multiplica por 100; RR = TA1/TA2.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Taxas de ataque e RR"
+        },
+        {
+          "page": 17,
+          "section": "Taxas de ataque e RR"
+        },
+        {
+          "page": 18,
+          "section": "Taxas de ataque e RR"
+        }
+      ]
+    },
+    {
+      "id": "e08-f19",
+      "front": "Qual alimento tem maior RR no exemplo preenchido?",
+      "back": "Torta de frango: TA1 90,9%, TA2 22,2% e RR 4,09.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Quadro de alimentos preenchido"
+        }
+      ]
+    },
+    {
+      "id": "e08-f20",
+      "front": "O que fazer se o estudo analítico não confirmar as hipóteses?",
+      "back": "Rever os dados, coletar informações complementares e considerar outros modos de transmissão e hipóteses.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Refinamento de hipóteses"
+        }
+      ]
+    },
+    {
+      "id": "e08-f21",
+      "front": "Quais medidas de controle a aula exemplifica?",
+      "back": "Interdição cautelar do lote, recolhimento do produto e mudança de procedimentos de cultivo, transporte ou processamento.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Controle e prevenção"
+        }
+      ]
+    },
+    {
+      "id": "e08-f22",
+      "front": "A quem comunicar os resultados?",
+      "back": "Aos níveis de vigilância e autoridades responsáveis pelas medidas e aos envolvidos no surto, como doentes e estabelecimento.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Comunicação da investigação"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e08-q01",
+      "prompt": "Duas pessoas apresentam sinais semelhantes após consumir água da mesma origem. Como esse cenário se relaciona à definição apresentada?",
+      "choices": [
+        "É compatível com o critério geral de surto de DTA da aula.",
+        "É excluído porque a definição só aceita alimentos sólidos.",
+        "É excluído porque sempre são necessários dez casos.",
+        "Só pode ser considerado após a comunicação final dos resultados."
+      ],
+      "answer": 0,
+      "explanation": "A definição inclui duas ou mais pessoas com sinais ou sintomas comuns após alimentos e/ou água da mesma origem.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Definição de surto de DTA"
+        }
+      ]
+    },
+    {
+      "id": "e08-q02",
+      "prompt": "Qual situação é citada como exceção em que um único caso pode ser considerado surto?",
+      "choices": [
+        "Qualquer episódio sem vínculo com alimento ou água.",
+        "Um resultado negativo de inspeção sanitária.",
+        "Qualquer consumo sem sintomas.",
+        "Botulismo."
+      ],
+      "answer": 3,
+      "explanation": "O PDF exemplifica doenças graves, como botulismo e síndrome hemolítica renal por E. coli O157.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Exceções da definição de surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-q03",
+      "prompt": "Qual sequência preserva o início do roteiro de investigação?",
+      "choices": [
+        "Comunicar resultados, encerrar o evento e só então definir os casos.",
+        "Determinar a existência do surto, confirmar o diagnóstico e definir e contar casos.",
+        "Interditar todos os alimentos e dispensar a confirmação do diagnóstico.",
+        "Refinar hipóteses antes de obter qualquer informação sobre o evento."
+      ],
+      "answer": 1,
+      "explanation": "Esses são os três primeiros passos enumerados na página do roteiro.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Os 10 passos para a investigação"
+        }
+      ]
+    },
+    {
+      "id": "e08-q04",
+      "prompt": "Ao receber uma notificação, a equipe ainda não tem laudo laboratorial. Segundo a aula, deve:",
+      "choices": [
+        "Aguardar obrigatoriamente o laudo antes de qualquer investigação.",
+        "Descartar os casos se não houver resultado imediato.",
+        "Verificar as informações e iniciar a investigação sem esperar o laboratório.",
+        "Pular a confirmação das informações e divulgar uma causa definitiva."
+      ],
+      "answer": 2,
+      "explanation": "O passo 1 orienta conferir consistência e ocorrência e afirma que a investigação não deve esperar os resultados laboratoriais.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Confirmar a ocorrência do surto"
+        }
+      ]
+    },
+    {
+      "id": "e08-q05",
+      "prompt": "Que ação contribui para verificar se o diagnóstico está correto?",
+      "choices": [
+        "Rever anotações médicas, entrevistar e realizar contraprova se necessário.",
+        "Dispensar contato com profissionais e pacientes.",
+        "Presumir que erros laboratoriais são impossíveis.",
+        "Substituir o quadro clínico pelo número de alimentos oferecidos."
+      ],
+      "answer": 0,
+      "explanation": "O objetivo do passo 2 inclui reconhecer diagnósticos inconclusivos ou errados e erros de laboratório.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Confirmando o diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "e08-q06",
+      "prompt": "Uma definição registra sintomas e idade, mas omite local e período. O que falta em relação aos quatro componentes usuais?",
+      "choices": [
+        "Somente o nome do laboratório.",
+        "A quantidade de refeições do estabelecimento.",
+        "A decisão final sobre recolhimento do produto.",
+        "Lugar e tempo."
+      ],
+      "answer": 3,
+      "explanation": "O PDF inclui clínica/laboratório, características das pessoas, região e período da ocorrência.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Componentes da definição de caso"
+        }
+      ]
+    },
+    {
+      "id": "e08-q07",
+      "prompt": "Por que registrar e listar os casos a partir de uma definição?",
+      "choices": [
+        "Para incluir obrigatoriamente qualquer pessoa entrevistada como doente.",
+        "Para identificar suspeitos, excluir quem não é caso e conferir características comuns.",
+        "Para eliminar a possibilidade de revisão dos dados.",
+        "Para substituir a investigação de exposições por uma lista de alimentos."
+      ],
+      "answer": 1,
+      "explanation": "Esses são objetivos e atividades expressos no passo 3.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Definindo e contando casos"
+        }
+      ]
+    },
+    {
+      "id": "e08-q08",
+      "prompt": "Depois de novos casos, a distribuição por tempo, lugar e pessoa mudou. O que a aula admite?",
+      "choices": [
+        "Manter para sempre apenas a primeira descrição.",
+        "Abandonar o mapa e os dados temporais em qualquer investigação.",
+        "Repetir e atualizar a caracterização descritiva.",
+        "Considerar que novos casos não pertencem à população de estudo."
+      ],
+      "answer": 2,
+      "explanation": "O passo de epidemiologia descritiva pode se repetir várias vezes à medida que mais casos são identificados.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Descrição por tempo, lugar e pessoa"
+        }
+      ]
+    },
+    {
+      "id": "e08-q09",
+      "prompt": "Para qual finalidade o mapa de casos mostrado na aula é especialmente útil?",
+      "choices": [
+        "Representar a distribuição espacial dos casos.",
+        "Calcular sozinho a incubação mediana.",
+        "Determinar sozinho qual agente foi confirmado.",
+        "Substituir as entrevistas clínicas e laboratoriais."
+      ],
+      "answer": 0,
+      "explanation": "O mapa ilustra a dimensão lugar dentro da descrição do surto; não fornece confirmação etiológica por si só.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Mapeamento dos casos"
+        },
+        {
+          "page": 11,
+          "section": "Mapeamento dos casos"
+        }
+      ]
+    },
+    {
+      "id": "e08-q10",
+      "prompt": "Segundo o material, em qual situação pode ser difícil determinar quem está sob risco?",
+      "choices": [
+        "Quando toda investigação já está concluída e comunicada.",
+        "Apenas quando existe um único estabelecimento produtor.",
+        "Somente quando há um mapa legível.",
+        "Surto extenso, com muitos grupos etários e características iniciais pouco claras."
+      ],
+      "answer": 3,
+      "explanation": "A aula contrasta sugestões de grupos específicos com a dificuldade de surtos amplos e inicialmente pouco definidos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Determinando quem está em risco"
+        }
+      ]
+    },
+    {
+      "id": "e08-q11",
+      "prompt": "Ao levantar hipóteses, qual combinação de dados deve ser revisada?",
+      "choices": [
+        "Somente a preferência alimentar dos investigadores.",
+        "Clínicos, laboratoriais e epidemiológicos.",
+        "Apenas o tamanho do estabelecimento.",
+        "Exclusivamente a quantidade de relatórios já escritos."
+      ],
+      "answer": 1,
+      "explanation": "A revisão conjunta sustenta exposições plausíveis e hipóteses sobre origem e transmissão.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Estabelecendo hipóteses"
+        }
+      ]
+    },
+    {
+      "id": "e08-q12",
+      "prompt": "Qual atribuição é distinguida no passo de hipóteses?",
+      "choices": [
+        "Epidemiológica limita-se a tratar pacientes; Sanitária calcula somente a mediana.",
+        "Ambiental define sozinha todos os sinais clínicos.",
+        "Epidemiológica busca o veículo alimentar; Sanitária busca como ocorreu a contaminação.",
+        "Laboratório substitui obrigatoriamente todas as entrevistas."
+      ],
+      "answer": 2,
+      "explanation": "A página separa identificar o alimento ou bebida que veiculou o agente e identificar o modo de contaminação.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Hipóteses e atribuições"
+        }
+      ]
+    },
+    {
+      "id": "e08-q13",
+      "prompt": "Qual análise é expressamente proposta para comparar hipóteses e fatos?",
+      "choices": [
+        "Mediana da incubação e distribuição percentual dos sinais e sintomas.",
+        "Somente média de preços dos alimentos.",
+        "Apenas número de trabalhadores no local.",
+        "Exclusivamente a data de emissão do relatório final."
+      ],
+      "answer": 0,
+      "explanation": "Essas duas análises são indicadas antes da consulta ao quadro de possíveis agentes e tempos.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Comparação entre hipóteses e fatos"
+        }
+      ]
+    },
+    {
+      "id": "e08-q14",
+      "prompt": "No quadro da aula, sintomas digestivos superiores entre 1 e 8 horas incluem qual conjunto?",
+      "choices": [
+        "C. botulinum, mercúrio e Brucella abortus como uma única faixa.",
+        "Apenas Streptococcus pyogenes.",
+        "Somente Yersinia enterocolitica e Giardia intestinalis.",
+        "S. aureus, B. cereus de cepa emética e nitritos."
+      ],
+      "answer": 3,
+      "explanation": "A coluna de 1–8 horas para sintomas superiores lista esses exemplos; a pergunta não os transforma em diagnóstico definitivo.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Quadro de agentes e incubação"
+        }
+      ]
+    },
+    {
+      "id": "e08-q15",
+      "prompt": "No quadro de sinais neurológicos, em qual faixa está C. botulinum?",
+      "choices": [
+        "Menos de 1 hora.",
+        "Entre 12 e 72 horas.",
+        "Entre 1 e 6 horas.",
+        "Exclusivamente acima de 72 horas."
+      ],
+      "answer": 1,
+      "explanation": "Essa é a faixa atribuída a C. botulinum no quadro específico da página 15.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Quadro de agentes: sinais neurológicos"
+        }
+      ]
+    },
+    {
+      "id": "e08-q16",
+      "prompt": "Para um alimento, há 10 doentes e 1 sadio entre consumidores e 2 doentes e 7 sadios entre não consumidores. Quais denominadores devem ser usados em TA1 e TA2?",
+      "choices": [
+        "10 e 2, respectivamente.",
+        "12 e 12, respectivamente.",
+        "11 e 9, respectivamente.",
+        "1 e 7, respectivamente."
+      ],
+      "answer": 2,
+      "explanation": "Cada taxa usa todos os integrantes do próprio grupo: 10+1 consumidores e 2+7 não consumidores.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Quadro de consumo e taxas de ataque"
+        },
+        {
+          "page": 18,
+          "section": "Quadro de consumo e taxas de ataque"
+        }
+      ]
+    },
+    {
+      "id": "e08-q17",
+      "prompt": "Qual alimento apresenta o maior risco relativo no quadro preenchido?",
+      "choices": [
+        "Torta de frango, RR 4,09.",
+        "Salada, RR 1,00.",
+        "Arroz, RR 0,67.",
+        "Bolo de chocolate, RR 0,88."
+      ],
+      "answer": 0,
+      "explanation": "O quadro mostra 90,9% entre consumidores e 22,2% entre não consumidores da torta, a maior razão do exemplo.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Quadro de alimentos preenchido"
+        }
+      ]
+    },
+    {
+      "id": "e08-q18",
+      "prompt": "Qual leitura do refrigerante preserva a diferença entre contagem e taxa impressa?",
+      "choices": [
+        "O quadro apresenta 7 doentes entre 7 consumidores, portanto 100%.",
+        "A taxa impressa é exatamente 7/11 × 100 sem arredondamento.",
+        "Não há contagem disponível para conferir a taxa.",
+        "O quadro tem 7 doentes entre 11 consumidores, cerca de 63,6%, mas imprime 63,3%."
+      ],
+      "answer": 3,
+      "explanation": "As contagens permitem conferir o cálculo; o conteúdo registra a divergência sem alterar a fonte.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Quadro de consumo: divergência aritmética"
+        },
+        {
+          "page": 18,
+          "section": "Quadro de consumo: divergência aritmética"
+        }
+      ]
+    },
+    {
+      "id": "e08-q19",
+      "prompt": "Nenhuma hipótese foi confirmada no estudo analítico. Qual é o próximo encaminhamento descrito?",
+      "choices": [
+        "Encerrar automaticamente sem revisar os dados.",
+        "Rever os dados e buscar informações, modos de transmissão e hipóteses complementares.",
+        "Transformar a primeira hipótese em causa confirmada.",
+        "Excluir qualquer possibilidade de novas entrevistas."
+      ],
+      "answer": 1,
+      "explanation": "O passo 8 orienta refinar hipóteses e proceder análises complementares.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "Refinando as hipóteses"
+        }
+      ]
+    },
+    {
+      "id": "e08-q20",
+      "prompt": "Qual alternativa reúne uma medida de controle e uma ação de comunicação previstas?",
+      "choices": [
+        "Aguardar todos os resultados sem investigar e manter as informações restritas à equipe.",
+        "Dispensar mudanças de processamento e informar apenas o nome dos doentes.",
+        "Recolher produto suspeito quando indicado e divulgar resultados a autoridades e envolvidos.",
+        "Tratar o relatório final como substituto obrigatório de qualquer controle."
+      ],
+      "answer": 2,
+      "explanation": "O passo 9 cita recolhimento e mudanças de procedimentos; o passo 10 prevê envio dos dados a vigilâncias, autoridades e envolvidos.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Controle e comunicação"
+        },
+        {
+          "page": 22,
+          "section": "Controle e comunicação"
+        }
+      ]
+    }
+  ]
+}

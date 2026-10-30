@@ -1,12 +1,12 @@
 import { readFile, readdir, access } from "node:fs/promises";
 import { resolve } from "node:path";
+import { courses, courseById } from "../src/content/courses.js";
 const errors = [],
   ids = new Set();
 const files = (await readdir("src/content"))
-  .filter((n) => /^m\d\d\.json$/.test(n))
+  .filter((n) => /^[me]\d\d\.json$/.test(n))
   .sort();
-if (files.length !== 8)
-  errors.push(`Esperados 8 módulos; encontrados ${files.length}.`);
+const byCourse = Object.fromEntries(courses.map((c) => [c.id, { modules: 0, lessons: 0, blocks: 0, cards: 0, questions: 0, pages: 0 }]));
 const counts = {
   modules: files.length,
   lessons: 0,
@@ -18,6 +18,20 @@ const counts = {
 };
 for (const file of files) {
   const m = JSON.parse(await readFile(resolve("src/content", file), "utf8"));
+  const courseId = m.courseId || "administracao";
+  const course = courseById[courseId];
+  if (!course || (file.startsWith("e") ? courseId !== "epidemiologia" : courseId !== "administracao")) {
+    errors.push(`${file}: disciplina inválida.`);
+    continue;
+  }
+  if (m.id !== file.replace(/\.json$/, "") || !Number.isInteger(m.source.pages) || m.source.pages < 1 || !/^\d\d$/.test(m.source.topic)) errors.push(`${file}: identidade ou fonte inválida.`);
+  const group = byCourse[courseId];
+  group.modules++;
+  group.lessons += m.lessons.length;
+  group.blocks += m.lessons.reduce((total, l) => total + l.blocks.length, 0);
+  group.cards += m.flashcards.length;
+  group.questions += m.questions.length;
+  group.pages += m.source.pages;
   const unique = (item) => {
     if (!item.id || ids.has(item.id))
       errors.push(`${file}: ID ausente ou repetido: ${item.id}`);
@@ -26,7 +40,10 @@ for (const file of files) {
   unique(m);
   counts.pages += m.source.pages;
   try {
-    await access(resolve("1.0 - Material para consulta", m.source.filename));
+    if (courseId === "administracao") {
+      try { await access(resolve("public/fontes", `${m.id}.pdf`)); }
+      catch { await access(resolve("1.0 - Material para consulta", course.sourceDirectory, m.source.filename)); }
+    } else await access(resolve("1.0 - Material para consulta", course.sourceDirectory, m.source.filename));
   } catch {
     errors.push(`${file}: PDF não encontrado.`);
   }
@@ -84,7 +101,14 @@ for (const file of files) {
     refs(q, q.id);
   }
 }
+for (const course of courses) {
+  if (byCourse[course.id].modules !== course.expectedModules)
+    errors.push(`${course.title}: esperados ${course.expectedModules} módulos; encontrados ${byCourse[course.id].modules}.`);
+}
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;
-} else console.log("Conteúdo validado:", JSON.stringify(counts));
+} else {
+  console.log("Conteúdo validado:", JSON.stringify(counts));
+  console.log("Por disciplina:", JSON.stringify(byCourse));
+}

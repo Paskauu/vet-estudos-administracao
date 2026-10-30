@@ -2,7 +2,7 @@
 
 A hospedagem escolhida é o **GitHub Pages**, usando o repositório público [Paskauu/vet-estudos-administracao](https://github.com/Paskauu/vet-estudos-administracao) e a branch `main`. O endereço configurado é [https://paskauu.github.io/vet-estudos-administracao/](https://paskauu.github.io/vet-estudos-administracao/); confira a conclusão da publicação em **Actions** antes de compartilhar a versão.
 
-O site e os oito PDFs de consulta ficam acessíveis publicamente, conforme a escolha de hospedagem.
+O site e os 15 PDFs das duas disciplinas ficam acessíveis publicamente na mesma hospedagem escolhida.
 
 O projeto é servido como arquivos estáticos. Não precisa de conta da estudante, login, servidor de aplicação, banco remoto ou credenciais adicionais. O progresso continua guardado no navegador de cada visitante, com backup e transferência manual em JSON.
 
@@ -10,7 +10,7 @@ O projeto é servido como arquivos estáticos. Não precisa de conta da estudant
 
 1. Abra o repositório [Paskauu/vet-estudos-administracao](https://github.com/Paskauu/vet-estudos-administracao).
 2. Em **Settings → Pages → Build and deployment**, mantenha **Source: GitHub Actions**. Essa origem já está configurada no repositório.
-3. Confira que a branch `main` contém o projeto, incluindo os oito PDFs em `1.0 - Material para consulta`, `package.json`, `package-lock.json` e `.github/workflows/pages.yml`. Não envie `node_modules`, `dist` ou backups pessoais. As cópias de `public/fontes` são geradas durante a compilação.
+3. Confira que a branch `main` contém o projeto, incluindo os 15 PDFs nas subpastas `1.0 - Administração e Aspectos Legais` e `2.0 - Epidemiologia Veterinária e Saneamento Ambiental`, dentro de `1.0 - Material para consulta`, além de `package.json`, `package-lock.json` e `.github/workflows/pages.yml`. Não envie `node_modules`, `dist` ou backups pessoais. As cópias de `public/fontes` são geradas durante a compilação.
 4. Em **Actions**, acompanhe a execução de `.github/workflows/pages.yml` para o envio mais recente à branch `main`. Aguarde a conclusão das etapas de compilação e publicação.
 5. Abra o endereço configurado e faça as conferências descritas abaixo. Em **Settings → Pages**, o GitHub também mostra o endereço da publicação.
 
@@ -35,11 +35,12 @@ O processo segue o [guia oficial do Vite para GitHub Pages](https://vite.dev/gui
 3. Em **Actions**, abra a execução correspondente ao envio e aguarde o sucesso da publicação. Se uma etapa falhar, abra seus detalhes, corrija a causa e envie a correção para `main`.
 4. Reabra o [site configurado](https://paskauu.github.io/vet-estudos-administracao/) e confira as áreas afetadas pela atualização.
 
-`npm run build` prepara os oito PDFs, valida o conteúdo e gera `dist`. O GitHub precisa dos PDFs originais no repositório para executar esse processo; ele não busca arquivos no computador local. `npm run preview` serve apenas para conferir a compilação localmente.
+`npm run build` prepara os PDFs, valida o conteúdo por disciplina e gera `dist`. As cópias antigas de Administração já preparadas são reutilizadas localmente; em checkout limpo, a preparação usa os originais no novo caminho. O GitHub precisa dos PDFs originais no repositório para executar esse processo; ele não busca arquivos no computador local. `npm run preview` serve apenas para conferir a compilação localmente.
 
 ## Conferir a publicação
 
 - Abra o endereço no tablet, em retrato e paisagem, e confira navegação, leitura, flashcards e um simulado com mais de um módulo.
+- Alterne a disciplina pelo seletor. Administração deve usar verde e Epidemiologia azul-petróleo; módulos, materiais, cartões, questões, retomadas e progresso devem permanecer separados.
 - Abra uma referência de cada PDF e confira o arquivo e a página física. O salto por `#page=` depende do leitor de PDF do navegador; a referência escrita informa a página para navegação manual.
 - Registre uma leitura e uma resposta, recarregue a página e confira sua permanência.
 - Exporte um backup JSON na área **Progresso**, importe no navegador de destino e confira o histórico. Importe a mesma cópia novamente para confirmar que os registros não se duplicam.

@@ -69,7 +69,8 @@ export function createLocalLog(storage, scope) {
   };
 }
 
-export const BACKUP_COURSE = "administracao-aspectos-legais-v1";
+export const BACKUP_COURSE = "vet-estudos-disciplinas-v1";
+const LEGACY_BACKUP_COURSE = "administracao-aspectos-legais-v1";
 export function makeBackup(events) {
   return {
     format: "vet-estudos-progress",
@@ -84,20 +85,22 @@ export function importBackup(log, data, knownItems) {
   if (
     data?.format !== "vet-estudos-progress" ||
     data.version !== 1 ||
-    data.course !== BACKUP_COURSE ||
+    ![BACKUP_COURSE, LEGACY_BACKUP_COURSE].includes(data.course) ||
     !Array.isArray(data.events) ||
     !data.events.every(isEvent)
   )
-    throw new Error("Este arquivo não é um backup válido desta disciplina.");
+    throw new Error("Este arquivo não é um backup válido do Vet Estudos.");
   if (data.events.length > 100000)
     throw new Error("O backup excede o limite de registros.");
   const current = log.read();
   const merged = mergeEvents(current.events, data.events);
-  const sessions = new Map(
-    merged
-      .filter((e) => e.type === "session_start")
-      .map((e) => [e.itemId, e.payload]),
-  );
+  const sessions = new Map();
+  for (const e of merged.filter((item) => item.type === "session_start")) {
+    const previous = sessions.get(e.itemId);
+    if (previous && (previous.mode !== e.payload.mode || JSON.stringify(previous.moduleIds) !== JSON.stringify(e.payload.moduleIds) || JSON.stringify(previous.questionIds) !== JSON.stringify(e.payload.questionIds)))
+      throw new Error("O backup contém definições conflitantes da mesma sessão.");
+    sessions.set(e.itemId, e.payload);
+  }
   for (const e of data.events) {
     if (e.type === "answer") {
       const session = sessions.get(e.payload.sessionId);
@@ -107,6 +110,13 @@ export function importBackup(log, data, knownItems) {
     if (e.type === "session_finish" && !sessions.has(e.itemId))
       throw new Error("O backup contém uma sessão inválida.");
     if (!knownItems) continue;
+    if (e.type === "session_start") {
+      const moduleIds = e.payload.moduleIds;
+      if (knownItems.moduleCourses && new Set(moduleIds.map((id) => knownItems.moduleCourses[id])).size !== 1)
+        throw new Error("O backup contém uma sessão com mais de uma disciplina.");
+      if (knownItems.questionModules && !e.payload.questionIds.every((id) => moduleIds.includes(knownItems.questionModules[id])))
+        throw new Error("O backup contém uma questão fora dos módulos da sessão.");
+    }
     if (e.type === "lesson_read" && !knownItems.lessons.includes(e.itemId))
       throw new Error("O backup contém uma leitura de outro curso.");
     if (e.type === "review" && !knownItems.cards.includes(e.itemId))

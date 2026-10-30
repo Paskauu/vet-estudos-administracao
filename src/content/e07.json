@@ -1,0 +1,838 @@
+{
+  "id": "e07",
+  "order": 7,
+  "courseId": "epidemiologia",
+  "category": "Alimentos e surtos",
+  "title": "Doenças transmitidas por alimentos",
+  "shortTitle": "Alimentos e vigilância",
+  "description": "Estude causas e mecanismos das DTA, fatores de ocorrência, leitura dos gráficos históricos e atribuições das áreas de vigilância.",
+  "source": {
+    "filename": "Doenças Transmitidas por Alimentos - Aula 7_261027_182629.pdf",
+    "pages": 14,
+    "topic": "07"
+  },
+  "lessons": [
+    {
+      "id": "e07-l01",
+      "title": "O que são DTA e quem pode adoecer",
+      "intro": "Comece pelo veículo de transmissão e pela diversidade de manifestações.",
+      "blocks": [
+        {
+          "title": "Alimentos e água contaminados",
+          "text": "As doenças transmitidas por alimentos são apresentadas como um grupo de doenças decorrentes da ingestão de alimentos e/ou água contaminados. O quadro clínico varia e não se limita a manifestações digestivas.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Agentes e substâncias envolvidos",
+          "text": "A introdução inclui toxinas bacterianas, substâncias tóxicas como metais pesados e ação direta de bactérias, vírus e parasitas. Por isso, o grupo não deve ser reduzido a uma única causa.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Introdução: causas"
+            }
+          ]
+        },
+        {
+          "title": "Incubação e suscetibilidade",
+          "text": "A suscetibilidade é geral, mas crianças, idosos e imunodeprimidos são destacados como grupos de maior risco. O período de incubação depende do agente; o texto usa “hora” para botulismo e meses para listeriose como exemplos de ampla variação. Esta é a redação da aula, que não fornece uma tabela completa de tempos nesta página.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Aspectos gerais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e07-l02",
+      "title": "Ler a série histórica e os locais",
+      "intro": "Interprete os quadros de 2000 a 2017 como registros do material fornecido.",
+      "blocks": [
+        {
+          "title": "Série histórica apresentada",
+          "text": "O quadro brasileiro de 2000–2017 registra, no total impresso, 12.619 surtos, 2.371.438 expostos, 238.909 doentes e 183 óbitos, com letalidade geral de 0,08%. Ele distingue expostos, doentes e óbitos, que não são contagens intercambiáveis.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Série histórica de surtos de DTA: Brasil, 2000 a 2017"
+            }
+          ]
+        },
+        {
+          "title": "Local de ocorrência",
+          "text": "No gráfico por local, residência é a maior categoria, com 36,5%, seguida de restaurantes/padarias e similares, com 15,2%. Também aparecem instituições, creche/escola, eventos e serviços de saúde. O mesmo rótulo de outras instituições aparece duas vezes no gráfico; as categorias não foram fundidas.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Distribuição dos surtos por local de ocorrência"
+            }
+          ],
+          "bullets": [
+            "Residência: 36,5%; restaurantes/padarias e similares: 15,2%; outras instituições (alojamento; trabalho): 10,8%.",
+            "Ignorado: 9,4%; creche/escola: 8,6%; outros: 7,2%; eventos: 4,5%; hospital/unidade de saúde: 2,9%.",
+            "Casos dispersos pelo município: 2,2%; no bairro: 1,7%; asilo: 0,5%; outras instituições (rótulo repetido): 0,4%; em mais de um município: 0,1%."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interpretar os alimentos incriminados",
+      "intro": "Leia as categorias e reconheça os registros sem identificação.",
+      "blocks": [
+        {
+          "title": "Alimentos incriminados e informação ausente",
+          "text": "A maior categoria do gráfico é ignorado, 46,76%. Entre as categorias seguintes estão alimentos mistos, 11,77%; múltiplos alimentos, 7,62%; ovos e produtos à base de ovos, 7,31%; água, 6,27%; inconclusivo, 3,30%; e leite e derivados, 3,24%. A presença de ignorados e inconclusivos limita a leitura como ranking completo das causas. O gráfico inclui também as categorias abaixo, reproduzidas como rótulos históricos.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Distribuição dos alimentos incriminados em surtos"
+            }
+          ],
+          "bullets": [
+            "Carne bovina in natura, processados e miúdos: 2,42%; doces e sobremesas: 1,92%; carne de ave in natura, processados e miúdos: 1,78%; cereais, farináceos e produtos à base de cereais: 1,75%.",
+            "Hortaliças: 1,09%; produtos cárneos embutidos (rótulo abreviado no gráfico): 1,09%; pescados, frutos do mar e processados: 0,84%; carne suína in natura, processados e miúdos: 0,81%; frutas e similares: 0,69%.",
+            "Inconsistente: 0,36%; bebidas não alcoólicas: 0,29%; especiarias, temperos, condimentos, molhos e similares: 0,21%; pessoa a pessoa: 0,17%; gelados comestíveis: 0,15%; outras carnes: 0,05%; bebidas alcoólicas: 0,03%.",
+            "Produtos para usos nutricionais especiais: 0,02%; gorduras, óleos e emulsões vegetais: 0,02%; produtos à base de soja: 0,01%; produtos químicos: 0,01%; edulcorantes e mel: 0,01%."
+          ]
+        }
+      ],
+      "id": "e07-l03"
+    },
+    {
+      "title": "Comparar os agentes no recorte histórico",
+      "intro": "Observe os dez rótulos apresentados e preserve o período do gráfico.",
+      "blocks": [
+        {
+          "title": "Rótulos dos agentes mais identificados",
+          "text": "O gráfico atribuído no próprio PDF ao Sinan/SVS/Ministério da Saúde apresenta os dez rótulos abaixo. São dados históricos do material, assinalados como sujeitos a atualização; não representam uma consulta atual da situação brasileira.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Distribuição dos 10 agentes etiológicos mais identificados"
+            }
+          ],
+          "bullets": [
+            "Salmonella: 34,1%; Escherichia coli: 26,9%; Staphylococcus aureus: 17,5%.",
+            "Coliformes: 6,5%; Bacillus cereus: 5,8%; Shigella: 3,3%; Rotavírus: 2,9%.",
+            "Clostridium perfringens: 2,6%; Norovírus: 2,5%; vírus da hepatite A: 1,4%."
+          ]
+        }
+      ],
+      "id": "e07-l04"
+    },
+    {
+      "id": "e07-l05",
+      "title": "Por que os casos aumentam",
+      "intro": "Conecte mudanças populacionais, produção de alimentos e fiscalização.",
+      "blocks": [
+        {
+          "title": "População e exposição",
+          "text": "O crescimento da população e a existência de grupos vulneráveis ou mais expostos são apresentados como fatores que contribuem para o aumento dos casos.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Fatores que contribuem para o aumento dos casos"
+            }
+          ]
+        },
+        {
+          "title": "Organização da oferta de alimentos",
+          "text": "A urbanização desordenada, a necessidade de produção em grande escala, o consumo de alimentos em vias públicas e o controle deficiente da qualidade pelos setores público e privado integram a lista de fatores da aula.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Fatores de aumento: urbanização e oferta"
+            }
+          ]
+        },
+        {
+          "title": "Circulação e agentes frequentes",
+          "text": "O material inclui globalização e facilidade de deslocamento, inclusive internacional, entre os fatores de aumento. Nos aspectos gerais, informa que os agentes infecciosos mais comuns são de origem bacteriana.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Deslocamento da população e aspectos gerais"
+            },
+            {
+              "page": 8,
+              "section": "Deslocamento da população e aspectos gerais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e07-l06",
+      "title": "Diferenciar os mecanismos apresentados",
+      "intro": "Associe cada grupo aos exemplos da aula, respeitando a classificação do PDF.",
+      "blocks": [
+        {
+          "title": "Infecção alimentar",
+          "text": "O material relaciona infecção alimentar a Salmonella spp., Shigella spp. e Yersinia enterocolitica. A anotação manuscrita associa esse grupo à atuação do agente microbiológico após a ingestão.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Mecanismos patogênicos: infecção alimentar"
+            }
+          ]
+        },
+        {
+          "title": "Intoxicação alimentar",
+          "text": "Os exemplos são Staphylococcus aureus, Bacillus cereus de cepa emética e Clostridium botulinum. A mesma lista inclui metais pesados, agrotóxicos, fungos silvestres e micotoxinas. A introdução cita a ação de toxinas e substâncias tóxicas entre as causas das DTA.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Mecanismos patogênicos: intoxicação alimentar"
+            },
+            {
+              "page": 9,
+              "section": "Mecanismos patogênicos: intoxicação alimentar"
+            }
+          ]
+        },
+        {
+          "title": "Toxinfecção alimentar e limite das anotações",
+          "text": "A aula inclui Vibrio cholerae, Vibrio parahaemolyticus e Clostridium perfringens nesse grupo. As anotações manuscritas da página misturam referências a invasão, toxina e proliferação no alimento; não constituem definições impressas detalhadas e inequívocas dos três mecanismos. O estudo e as questões usam as listas impressas, preservando esse limite sem reconstruir definições por fontes externas.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Mecanismos patogênicos: toxinfecção e limite das anotações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e07-l07",
+      "title": "Da contaminação às condições de ocorrência",
+      "intro": "Observe fatores que favorecem proliferação e sobrevivência do agente.",
+      "blocks": [
+        {
+          "title": "A presença isolada não explica todo o processo",
+          "text": "A página sobre fonte de infecção afirma que a presença do agente infeccioso no alimento, por si só, não basta para explicar a ocorrência: é preciso considerar condições que favoreçam sua proliferação e sobrevivência.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Mecanismos envolvidos na determinação da fonte de infecção"
+            }
+          ]
+        },
+        {
+          "title": "Condições citadas",
+          "text": "Falta de higiene, temperaturas inadequadas de frio e calor e preparo de alimentos em grandes quantidades são as situações destacadas. O PDF não apresenta aqui limites numéricos de temperatura ou tempos de conservação; esses parâmetros não foram acrescentados.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Fatores de proliferação e sobrevivência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e07-l08",
+      "title": "Quem faz o quê na vigilância das DTA",
+      "intro": "Reconheça a investigação conjunta e as responsabilidades enumeradas.",
+      "blocks": [
+        {
+          "title": "Organização municipal",
+          "text": "A aula situa a vigilância das DTA na instância municipal de saúde, com Vigilância Epidemiológica como ponto principal, junto de Vigilância Sanitária, Vigilância Ambiental, Assistência à Saúde e Laboratório de Saúde Pública. IDAF/MAPA são mencionados quando necessário.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Vigilância das DTAs"
+            }
+          ]
+        },
+        {
+          "title": "Investigar pessoas e estabelecimentos",
+          "text": "A Vigilância Epidemiológica coordena a investigação e realiza o inquérito com dados dos comensais doentes e não doentes. A Vigilância Sanitária realiza inspeções no estabelecimento produtor ou fornecedor do alimento.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Atribuições: Vigilância Epidemiológica e Sanitária"
+            }
+          ]
+        },
+        {
+          "title": "Água, atendimento e laboratório",
+          "text": "A Vigilância Ambiental coleta amostras de água e as encaminha ao laboratório de referência. A Assistência à Saúde trata os doentes e coleta amostras clínicas, como sangue e fezes. O Laboratório de Saúde Pública analisa os materiais recebidos.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Atribuições: Ambiental, Assistência e Laboratório"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e07-f01",
+      "front": "Como a introdução define as DTA?",
+      "back": "Grupo de doenças causadas pela ingestão de alimentos e/ou água contaminados.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e07-f02",
+      "front": "As manifestações de DTA se restringem ao aparelho digestivo?",
+      "back": "Não. A aula afirma que sintomas digestivos não são as únicas manifestações.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e07-f03",
+      "front": "Que tipos de causas a introdução enumera?",
+      "back": "Toxinas bacterianas, substâncias tóxicas como metais pesados e ação direta de bactérias, vírus e parasitas.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e07-f04",
+      "front": "Quais totais aparecem na série histórica de 2000–2017?",
+      "back": "12.619 surtos, 2.371.438 expostos, 238.909 doentes e 183 óbitos; letalidade geral impressa de 0,08%.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Série histórica de surtos de DTA"
+        }
+      ]
+    },
+    {
+      "id": "e07-f05",
+      "front": "Qual local lidera o gráfico histórico de ocorrência de surtos?",
+      "back": "Residência, com 36,5%, no gráfico brasileiro de 2000–2017 do material.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Local de ocorrência"
+        }
+      ]
+    },
+    {
+      "id": "e07-f06",
+      "front": "Que limite sobressai no gráfico de alimentos incriminados?",
+      "back": "A categoria ignorado reúne 46,76%; há também inconclusivo, de modo que muitos registros não identificam um alimento específico.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Alimentos incriminados"
+        }
+      ]
+    },
+    {
+      "id": "e07-f07",
+      "front": "Quais são os três maiores rótulos no gráfico dos agentes identificados?",
+      "back": "Salmonella 34,1%, Escherichia coli 26,9% e Staphylococcus aureus 17,5%, no recorte histórico apresentado.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Agentes etiológicos mais identificados"
+        }
+      ]
+    },
+    {
+      "id": "e07-f08",
+      "front": "Quais fatores demográficos e urbanos de aumento dos casos são listados?",
+      "back": "Crescimento populacional, grupos vulneráveis ou mais expostos, urbanização desordenada e produção em grande escala.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Fatores que contribuem para o aumento dos casos"
+        }
+      ]
+    },
+    {
+      "id": "e07-f09",
+      "front": "Como deslocamento e fiscalização aparecem entre os fatores de aumento?",
+      "back": "A aula cita globalização, facilidade de deslocamento e controle público e privado deficiente da qualidade dos alimentos.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Fatores de aumento"
+        }
+      ]
+    },
+    {
+      "id": "e07-f10",
+      "front": "Quais grupos de maior risco são destacados?",
+      "back": "Crianças, idosos e imunodeprimidos; a suscetibilidade é geral.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Aspectos gerais"
+        }
+      ]
+    },
+    {
+      "id": "e07-f11",
+      "front": "O que determina a variação do período de incubação?",
+      "back": "O agente etiológico. O PDF destaca ampla variação e não traz uma tabela completa de tempos nesta aula.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Aspectos gerais"
+        }
+      ]
+    },
+    {
+      "id": "e07-f12",
+      "front": "Quais exemplos pertencem à infecção alimentar no PDF?",
+      "back": "Salmonella spp., Shigella spp. e Yersinia enterocolitica.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Infecção alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-f13",
+      "front": "Quais exemplos bacterianos pertencem à intoxicação alimentar no PDF?",
+      "back": "Staphylococcus aureus, Bacillus cereus de cepa emética e Clostridium botulinum.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Intoxicação alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-f14",
+      "front": "Que causas não bacterianas são listadas junto à intoxicação?",
+      "back": "Metais pesados, agrotóxicos, fungos silvestres e micotoxinas.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Intoxicação alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-f15",
+      "front": "Quais exemplos pertencem à toxinfecção alimentar no PDF?",
+      "back": "Vibrio cholerae, Vibrio parahaemolyticus e Clostridium perfringens.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Toxinfecção alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-f16",
+      "front": "Quais condições favorecedoras são destacadas na ocorrência de DTA?",
+      "back": "Falta de higiene, temperaturas inadequadas de frio e calor e preparo em grandes quantidades, favorecendo proliferação e sobrevivência.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Fonte de infecção"
+        }
+      ]
+    },
+    {
+      "id": "e07-f17",
+      "front": "Qual área coordena o inquérito e quem deve ser entrevistado?",
+      "back": "Vigilância Epidemiológica; comensais doentes e não doentes.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Atribuições da Vigilância Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e07-f18",
+      "front": "Como se dividem inspeção, água, atendimento e análise?",
+      "back": "Sanitária inspeciona estabelecimentos; Ambiental coleta água; Assistência trata e coleta amostras clínicas; Laboratório de Saúde Pública analisa os materiais.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Atribuições das áreas envolvidas"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e07-q01",
+      "prompt": "Uma doença após consumo de água contaminada se enquadra no grupo apresentado como DTA?",
+      "choices": [
+        "Sim, a definição inclui alimentos e/ou água contaminados.",
+        "Não, pois só alimentos sólidos são incluídos.",
+        "Não, pois água só é citada na lista de laboratórios.",
+        "Sim, mas apenas quando o quadro é exclusivamente digestivo."
+      ],
+      "answer": 0,
+      "explanation": "A introdução inclui expressamente ingestão de água contaminada e admite manifestações além das digestivas.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "e07-q02",
+      "prompt": "Qual afirmação respeita a diversidade de causas de DTA na introdução?",
+      "choices": [
+        "São sempre causadas por um único gênero bacteriano.",
+        "Nunca envolvem metais pesados.",
+        "São definidas exclusivamente por sintomas digestivos.",
+        "Podem envolver toxinas, substâncias tóxicas e ação de bactérias, vírus ou parasitas."
+      ],
+      "answer": 3,
+      "explanation": "O material apresenta causas variadas e afasta a restrição às manifestações digestivas.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução: causas"
+        }
+      ]
+    },
+    {
+      "id": "e07-q03",
+      "prompt": "Como devem ser interpretados os 12.619 surtos do quadro da aula?",
+      "choices": [
+        "Como total atualizado do ano de 2026.",
+        "Como total impresso do recorte brasileiro de 2000–2017.",
+        "Como número de óbitos em uma única cidade.",
+        "Como previsão do número de surtos futuros."
+      ],
+      "answer": 1,
+      "explanation": "A identificação temporal do quadro é Brasil, 2000 a 2017; não houve atualização externa.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Série histórica de surtos de DTA"
+        }
+      ]
+    },
+    {
+      "id": "e07-q04",
+      "prompt": "Qual categoria tem a maior participação no gráfico histórico de locais de ocorrência?",
+      "choices": [
+        "Hospital/unidade de saúde, 2,9%.",
+        "Asilo, 0,5%.",
+        "Residência, 36,5%.",
+        "Eventos, 4,5%."
+      ],
+      "answer": 2,
+      "explanation": "A coluna de residência é a mais alta no gráfico do material.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Local de ocorrência"
+        }
+      ]
+    },
+    {
+      "id": "e07-q05",
+      "prompt": "O gráfico de alimentos incriminados tem 46,76% na categoria ignorado. Que conclusão é adequada?",
+      "choices": [
+        "A identificação do alimento é limitada em parte importante dos registros.",
+        "Todos os surtos tiveram o alimento causador identificado.",
+        "Ignorado é o nome de um agente etiológico.",
+        "Ovos respondem por 46,76% no gráfico."
+      ],
+      "answer": 0,
+      "explanation": "A categoria ignorado mostra falta de identificação do alimento; ovos e produtos à base de ovos têm 7,31%.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Alimentos incriminados"
+        }
+      ]
+    },
+    {
+      "id": "e07-q06",
+      "prompt": "Quais são, na ordem, os três maiores rótulos do gráfico de agentes identificados?",
+      "choices": [
+        "Norovírus, Rotavírus e vírus da hepatite A.",
+        "Shigella, Clostridium perfringens e Norovírus.",
+        "Bacillus cereus, coliformes e Shigella.",
+        "Salmonella, Escherichia coli e Staphylococcus aureus."
+      ],
+      "answer": 3,
+      "explanation": "As proporções apresentadas são 34,1%, 26,9% e 17,5%, respectivamente, no gráfico histórico.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Agentes etiológicos mais identificados"
+        }
+      ]
+    },
+    {
+      "id": "e07-q07",
+      "prompt": "Qual combinação aparece entre os fatores de aumento dos casos?",
+      "choices": [
+        "Somente menor circulação de pessoas.",
+        "Urbanização desordenada, produção em grande escala e controle deficiente da qualidade.",
+        "Apenas consumo de alimentos na própria residência.",
+        "Exclusivamente a existência de laboratório de referência."
+      ],
+      "answer": 1,
+      "explanation": "Esses três fatores compõem a lista da página sobre aumento dos casos.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Fatores de aumento dos casos"
+        }
+      ]
+    },
+    {
+      "id": "e07-q08",
+      "prompt": "Como a facilidade de deslocamento da população aparece na aula?",
+      "choices": [
+        "Como garantia de ausência de exposição.",
+        "Como mecanismo que elimina agentes infecciosos.",
+        "Como um dos fatores associados ao aumento dos casos, inclusive no nível internacional.",
+        "Como responsabilidade exclusiva da Assistência à Saúde."
+      ],
+      "answer": 2,
+      "explanation": "O material relaciona globalização e deslocamento populacional, inclusive internacional, aos fatores de aumento.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Globalização e deslocamento"
+        }
+      ]
+    },
+    {
+      "id": "e07-q09",
+      "prompt": "Qual afirmação descreve a suscetibilidade às DTA conforme a aula?",
+      "choices": [
+        "É geral, com maior risco para crianças, idosos e imunodeprimidos.",
+        "Limita-se a crianças, sem possibilidade de outros grupos adoecerem.",
+        "É restrita aos trabalhadores de restaurantes.",
+        "É igual a uma incubação fixa de uma hora para todos os agentes."
+      ],
+      "answer": 0,
+      "explanation": "A apresentação distingue suscetibilidade geral e grupos de maior risco.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Aspectos gerais"
+        }
+      ]
+    },
+    {
+      "id": "e07-q10",
+      "prompt": "O período de incubação de todas as DTA pode ser tratado como único e fixo?",
+      "choices": [
+        "Sim, sempre dura um mês.",
+        "Sim, todos os agentes têm a mesma incubação.",
+        "Não, porque incubação depende apenas do número de restaurantes.",
+        "Não, ele depende do agente etiológico."
+      ],
+      "answer": 3,
+      "explanation": "O slide destaca ampla variação de incubação conforme o agente.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Aspectos gerais"
+        }
+      ]
+    },
+    {
+      "id": "e07-q11",
+      "prompt": "Qual conjunto é classificado como infecção alimentar no PDF?",
+      "choices": [
+        "S. aureus, B. cereus de cepa emética e C. botulinum.",
+        "Salmonella spp., Shigella spp. e Yersinia enterocolitica.",
+        "Metais pesados, agrotóxicos e micotoxinas.",
+        "V. cholerae, V. parahaemolyticus e C. perfringens."
+      ],
+      "answer": 1,
+      "explanation": "Esses são os três exemplos que o slide coloca em infecção alimentar.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Infecção alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-q12",
+      "prompt": "Qual combinação pertence aos exemplos bacterianos de intoxicação alimentar da aula?",
+      "choices": [
+        "Salmonella spp., Shigella spp. e Y. enterocolitica.",
+        "V. cholerae, V. parahaemolyticus e C. perfringens.",
+        "S. aureus, B. cereus de cepa emética e C. botulinum.",
+        "Rotavírus, Norovírus e vírus da hepatite A como lista de intoxicações."
+      ],
+      "answer": 2,
+      "explanation": "A lista de intoxicação distingue a cepa emética de B. cereus e inclui S. aureus e C. botulinum.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Intoxicação alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-q13",
+      "prompt": "Qual alternativa contém somente exemplos não bacterianos listados junto à intoxicação alimentar?",
+      "choices": [
+        "Metais pesados, agrotóxicos, fungos silvestres e micotoxinas.",
+        "Salmonella, Shigella, Yersinia e Vibrio.",
+        "S. aureus, C. botulinum, B. cereus e C. perfringens.",
+        "Rotavírus, Norovírus, Shigella e Salmonella."
+      ],
+      "answer": 0,
+      "explanation": "O slide inclui esses quatro grupos de substâncias ou fontes tóxicas no item intoxicação alimentar.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Intoxicação alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-q14",
+      "prompt": "Qual grupo contém apenas exemplos que o material associa à toxinfecção?",
+      "choices": [
+        "S. aureus, B. cereus de cepa emética e C. botulinum.",
+        "Salmonella spp., Shigella spp. e Yersinia enterocolitica.",
+        "Metais pesados, agrotóxicos e micotoxinas.",
+        "V. cholerae, V. parahaemolyticus e C. perfringens."
+      ],
+      "answer": 3,
+      "explanation": "A pergunta segue a classificação expressa no PDF, sem ampliar a lista.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Toxinfecção alimentar"
+        }
+      ]
+    },
+    {
+      "id": "e07-q15",
+      "prompt": "Uma análise verifica apenas a presença do agente no alimento. O que a aula acrescenta à investigação da ocorrência?",
+      "choices": [
+        "Desconsiderar o modo de preparo.",
+        "Considerar fatores de proliferação e sobrevivência, como higiene e temperatura.",
+        "Excluir a avaliação de temperaturas.",
+        "Presumir que quantidade preparada nunca influencia as condições."
+      ],
+      "answer": 1,
+      "explanation": "O material não limita a explicação à presença do agente: discute as condições favoráveis à ocorrência.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Fonte de infecção"
+        }
+      ]
+    },
+    {
+      "id": "e07-q16",
+      "prompt": "Qual conjunto de situações está expressamente citado como favorecedor?",
+      "choices": [
+        "Apenas existência de comensais não doentes.",
+        "Exclusivamente coleta de sangue e fezes.",
+        "Falta de higiene, frio ou calor inadequados e preparo em grandes quantidades.",
+        "Apenas elaboração de relatórios finais."
+      ],
+      "answer": 2,
+      "explanation": "Essas são as situações enumeradas no slide sobre a fonte de infecção.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Fatores de proliferação e sobrevivência"
+        }
+      ]
+    },
+    {
+      "id": "e07-q17",
+      "prompt": "Segundo a aula, em que instância se organiza a vigilância das DTA e qual área é o ponto principal?",
+      "choices": [
+        "Saúde municipal, com Vigilância Epidemiológica como ponto principal.",
+        "Somente nível internacional, sem atuação municipal.",
+        "Apenas o estabelecimento fornecedor, sem áreas de saúde.",
+        "Exclusivamente MAPA, em todos os casos."
+      ],
+      "answer": 0,
+      "explanation": "O slide situa a organização no município e cita outras áreas, com IDAF/MAPA quando necessário.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Vigilância das DTAs"
+        }
+      ]
+    },
+    {
+      "id": "e07-q18",
+      "prompt": "No inquérito dos comensais, qual participação e qual coordenação são apresentadas?",
+      "choices": [
+        "Apenas doentes, sob coordenação exclusiva do laboratório.",
+        "Somente fornecedores, sem entrevistar comensais.",
+        "Apenas não doentes, sob coordenação da Vigilância Ambiental.",
+        "Doentes e não doentes, sob coordenação da Vigilância Epidemiológica."
+      ],
+      "answer": 3,
+      "explanation": "Comparar informações dos dois grupos faz parte do inquérito coordenado pela Vigilância Epidemiológica.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Atribuições da Vigilância Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e07-q19",
+      "prompt": "Qual divisão de tarefas corresponde ao material?",
+      "choices": [
+        "Sanitária trata todos os doentes; Ambiental analisa sangue como única tarefa.",
+        "Sanitária inspeciona o estabelecimento; Ambiental coleta água e a encaminha ao laboratório.",
+        "Sanitária coordena somente a série histórica; Ambiental recolhe exclusivamente entrevistas.",
+        "Sanitária calcula apenas letalidade; Ambiental dispensa análise de água."
+      ],
+      "answer": 1,
+      "explanation": "A página de atribuições separa inspeção do produtor/fornecedor e coleta e envio de água.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Atribuições Sanitária e Ambiental"
+        }
+      ]
+    },
+    {
+      "id": "e07-q20",
+      "prompt": "Qual associação está correta para Assistência à Saúde e Laboratório de Saúde Pública?",
+      "choices": [
+        "Assistência apenas inspeciona fábricas; laboratório entrevista todos os comensais.",
+        "Assistência coleta somente água; laboratório decide o consumo dos alimentos.",
+        "Assistência trata e coleta amostras clínicas; laboratório analisa os materiais recebidos.",
+        "Assistência e laboratório não participam da investigação das DTA."
+      ],
+      "answer": 2,
+      "explanation": "A aula inclui sangue e fezes como exemplos de amostras clínicas e atribui a análise ao laboratório.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Atribuições Assistência e Laboratório"
+        }
+      ]
+    }
+  ]
+}

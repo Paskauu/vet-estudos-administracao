@@ -42,6 +42,8 @@ export function Backup({ study, onClose }) {
         questions: questions.map((q) => q.id),
         lessons: allLessons.map((l) => l.id),
         cards: flashcards.map((c) => c.id),
+        moduleCourses: Object.fromEntries(modules.map((m) => [m.id, m.courseId])),
+        questionModules: Object.fromEntries(questions.map((q) => [q.id, q.moduleId])),
       });
       setMessage(
         `Backup importado. ${total} registros estão disponíveis neste navegador.`,
@@ -60,7 +62,7 @@ export function Backup({ study, onClose }) {
         <p>
           Seu estudo é salvo automaticamente <strong>neste navegador</strong>.
           Para continuar em outro dispositivo, exporte e depois importe o
-          arquivo de backup.
+          arquivo de backup. O arquivo inclui as duas disciplinas; os estudos continuam separados em cada área.
         </p>
       </div>
       <div className="backup-actions">

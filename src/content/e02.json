@@ -1,0 +1,2048 @@
+{
+  "id": "e02",
+  "order": 2,
+  "courseId": "epidemiologia",
+  "category": "Saúde e ambiente",
+  "title": "Dinâmica do processo saúde-doença",
+  "shortTitle": "Processo saúde-doença",
+  "description": "Tríade epidemiológica, formas de apresentação da doença, agentes, hospedeiros, ambiente e os elos da cadeia de transmissão.",
+  "source": {
+    "filename": "Dinâmica do Processo Saúde Doença - Aula 2_261026_175304.pdf",
+    "pages": 76,
+    "topic": "02"
+  },
+  "lessons": [
+    {
+      "id": "e02-l01",
+      "title": "Tríade epidemiológica e história natural",
+      "intro": "Entenda a doença pelas relações entre agente, hospedeiro e ambiente.",
+      "blocks": [
+        {
+          "title": "Os três componentes",
+          "text": "A tríade epidemiológica reúne agente, ambiente e hospedeiro. O diagrama coloca a doença na interseção dos três componentes, destacando suas relações.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Tríade Epidemiológica"
+            }
+          ]
+        },
+        {
+          "title": "O exemplo da dengue",
+          "text": "Na aplicação da tríade à dengue, o agente é o vírus da dengue; o ambiente inclui a pluviosidade que favorece a multiplicação do vetor Aedes aegypti; o hospedeiro é o ser humano exposto à picada do mosquito infectado. Agente e vetor têm papéis diferentes no exemplo.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Exemplo da tríade - Dengue"
+            }
+          ]
+        },
+        {
+          "title": "Uma história de interações e evolução",
+          "text": "A aula chama de história natural da doença as relações entre o agente etiológico e os demais componentes do ecossistema. O esquema distingue período pré-patógeno e período patógeno, separa a etapa sem manifestação clínica da etapa clínica pelo horizonte clínico e apresenta possíveis desfechos como morte, cronicidade e convalescença.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "História natural da doença - Fases ou períodos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l02",
+      "title": "Como a doença se apresenta",
+      "intro": "Diferencie ausência de sinais, manifestação clínica, duração e inatividade do agente.",
+      "blocks": [
+        {
+          "title": "Pré-clínica, clínica e subclínica",
+          "text": "Na classificação da aula, a doença pré-clínica ainda não é clinicamente aparente e pode seguir para cura ou fase clínica. A clínica apresenta sinais. A subclínica também não é clinicamente aparente, mas é descrita nesse slide como uma apresentação que não evolui para a fase clínica.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Apresentação das doença"
+            }
+          ]
+        },
+        {
+          "title": "Crônica e latente",
+          "text": "A apresentação crônica é associada à permanência da infecção no hospedeiro por longo período. Na latente, o agente etiológico fica inativo durante algum tempo. Longa duração e inatividade são aspectos diferentes nessa apresentação do material.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Apresentação das doença"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l03",
+      "title": "Papéis de hospedeiros e tipos de transmissão",
+      "intro": "Separe funções no ciclo do parasita das maneiras pelas quais a doença passa entre indivíduos.",
+      "blocks": [
+        {
+          "title": "Definitivo e intermediário",
+          "text": "O hospedeiro definitivo é apresentado como aquele que abriga o parasita na forma madura e no qual o ciclo se completa por reprodução sexuada. O intermediário abriga a forma imatura e é indispensável ao ciclo; o slide o associa à reprodução assexuada. Essas são as definições utilizadas nesta aula.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Tipos de hospedeiro"
+            }
+          ]
+        },
+        {
+          "title": "Paratênico e reservatório",
+          "text": "O hospedeiro paratênico transporta o parasita até o definitivo sem que o parasita se desenvolva nele. O reservatório mantém o agente e elimina formas viáveis com capacidade infectante para o meio exterior.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Tipos de hospedeiro"
+            }
+          ]
+        },
+        {
+          "title": "Horizontal, direta, indireta e vertical",
+          "text": "O material descreve os seguintes tipos de transmissão:",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Tipos de Transmissão"
+            }
+          ],
+          "bullets": [
+            "Horizontal: de um indivíduo para outro.",
+            "Direta: por contato direto entre indivíduos.",
+            "Indireta: por um veículo em comum; o exemplo citado é a dengue.",
+            "Vertical: da mãe para a cria por via intrauterina, no parto ou na amamentação."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l04",
+      "title": "Agentes: natureza, entrada e produção de doença",
+      "intro": "Reconheça o tipo de agente e diferencie infectividade, patogenicidade e virulência.",
+      "blocks": [
+        {
+          "title": "Agentes físicos, químicos e biológicos",
+          "text": "O slide reúne agentes físicos, exemplificados por traumatismos e queimaduras; químicos, por envenenamentos e intoxicações; e biológicos, por infecções e infestações.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Agente etiológico"
+            }
+          ]
+        },
+        {
+          "title": "Morfologia e infectividade",
+          "text": "A morfologia, como o tamanho do agente, influencia penetração, meio de transmissão e adesão às células. Infectividade, também chamada infecciosidade, é a capacidade de penetrar e multiplicar-se no hospedeiro, produzindo infecção independentemente de haver agravos à saúde. O material contrapõe alta infectividade do vírus da febre aftosa e menor infectividade de Mycobacterium bovis.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Características dos agentes biológico"
+            },
+            {
+              "page": 12,
+              "section": "Características dos agentes - Morfologia"
+            },
+            {
+              "page": 13,
+              "section": "Características dos agentes - Infecciosidade ou infectividade"
+            }
+          ]
+        },
+        {
+          "title": "Patogenicidade e virulência",
+          "text": "Patogenicidade é a capacidade de produzir lesões específicas, identificada no material pela frequência de manifestação clínica; a raiva é o exemplo de elevada patogenicidade. Virulência é a intensidade ou severidade da reação patológica no hospedeiro e pode variar entre cepas do mesmo agente. Infectar, manifestar doença e causar quadros mais severos são distinções úteis para estudar esses conceitos.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Características dos agentes - Infecciosidade ou infectividade"
+            },
+            {
+              "page": 14,
+              "section": "Características dos agentes - Patogenicidade"
+            },
+            {
+              "page": 15,
+              "section": "Características dos agentes - Virulência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l05",
+      "title": "Agentes: resposta imune, adaptação e permanência",
+      "intro": "Diferencie sobreviver no ambiente de permanecer em uma população.",
+      "blocks": [
+        {
+          "title": "Imunogenicidade",
+          "text": "É a capacidade de induzir resposta imune específica no hospedeiro. A aula distingue agentes que induzem resposta intensa e duradoura daqueles associados a imunidade de curta duração.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "Características dos agentes - Imunogenicidade"
+            }
+          ]
+        },
+        {
+          "title": "Variabilidade",
+          "text": "É a capacidade de o agente adaptar-se às condições do hospedeiro e do ambiente. O slide também relaciona a variabilidade ao desenvolvimento de resistência, mas não detalha mecanismos; o estudo se mantém nesse nível de definição.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "Características dos agentes - Variabilidade"
+            }
+          ]
+        },
+        {
+          "title": "Resistência e persistência",
+          "text": "Resistência, ou viabilidade na lista inicial, refere-se à sobrevivência fora do hospedeiro. Maior sobrevivência exterior amplia oportunidades de atingir outro hospedeiro; Mycobacterium bovis é o exemplo citado de elevada resistência ambiental. Persistência é a capacidade de o agente permanecer em uma população por longo período ou indefinidamente.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Características dos agentes biológico"
+            },
+            {
+              "page": 18,
+              "section": "Características dos agentes - Resistência"
+            },
+            {
+              "page": 19,
+              "section": "Características dos agentes - Persistência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l06",
+      "title": "Características do hospedeiro",
+      "intro": "Observe o que a aula classifica como próprio e o que pode mudar com o agente ou o meio.",
+      "blocks": [
+        {
+          "title": "Hospedar e ser susceptível",
+          "text": "Hospedeiro é o indivíduo capaz de abrigar um agente causal de doença e estabelecer com ele diferentes relações. Sua susceptibilidade depende de diversas características. O material organiza essas características em próprias e variáveis.",
+          "refs": [
+            {
+              "page": 20,
+              "section": "Características dos hospedeiros"
+            },
+            {
+              "page": 21,
+              "section": "Características dos hospedeiros"
+            }
+          ]
+        },
+        {
+          "title": "Próprias e variáveis",
+          "text": "As próprias são apresentadas como não modificadas pelo agente ou ambiente; as variáveis podem sofrer essas influências. Na organização da aula:",
+          "refs": [
+            {
+              "page": 21,
+              "section": "Características dos hospedeiros"
+            },
+            {
+              "page": 22,
+              "section": "Próprias"
+            },
+            {
+              "page": 23,
+              "section": "Variáveis"
+            }
+          ],
+          "bullets": [
+            "Próprias: espécie, raça, sexo, idade e susceptibilidade individual.",
+            "Variáveis: estado fisiológico, utilização e densidade populacional.",
+            "Subalimentação e lactação aparecem como exemplos ligados ao estado fisiológico.",
+            "A utilização está ligada ao ambiente e age sobre o estado fisiológico do hospedeiro."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l07",
+      "title": "O ambiente físico",
+      "intro": "Relacione clima, água, relevo e solo às condições de agentes e hospedeiros.",
+      "blocks": [
+        {
+          "title": "Três categorias ambientais",
+          "text": "As condições do ambiente são fundamentais para o comportamento do agente em uma população susceptível. A aula divide o ambiente em componentes físicos, biológicos e socioeconômicos. Os físicos são clima, hidrografia, topografia e solo.",
+          "refs": [
+            {
+              "page": 24,
+              "section": "Características do ambiente"
+            },
+            {
+              "page": 25,
+              "section": "Características Físicas"
+            }
+          ]
+        },
+        {
+          "title": "Clima, chuva e seca",
+          "text": "Temperatura e umidade podem atuar sobre agentes e hospedeiros de modos diferentes. O PDF menciona que calor elevado pode destruir muitos vírus e favorecer a multiplicação de bactérias, enquanto a umidade pode favorecer fungos e vetores. Chuvas e secas alteram densidade e migrações dos hospedeiros e afetam indiretamente a nutrição por meio dos componentes biológicos do ambiente.",
+          "refs": [
+            {
+              "page": 26,
+              "section": "Clima"
+            },
+            {
+              "page": 27,
+              "section": "Clima"
+            },
+            {
+              "page": 28,
+              "section": "Pantanal"
+            }
+          ]
+        },
+        {
+          "title": "Hidrografia e um ciclo aquático ilustrado",
+          "text": "Cursos de água oferecem bebida, podem favorecer transmissão de agentes e multiplicação de vetores, e são pontos de concentração e migração de animais. A figura seguinte ilustra um ciclo com ovos no ambiente aquático, caramujo, plantas aquáticas e hospedeiros que ingerem formas presentes nessas plantas, reforçando a relação entre ambiente e ciclo do agente.",
+          "refs": [
+            {
+              "page": 29,
+              "section": "Hidrografia"
+            },
+            {
+              "page": 30,
+              "section": "Figura do ciclo com caramujo e plantas aquáticas"
+            }
+          ]
+        },
+        {
+          "title": "Topografia e solo",
+          "text": "Serras e montanhas podem funcionar como barreiras à difusão de agentes; a altitude pode limitar sobrevivência e multiplicação de artrópodes transmissores. O solo sustenta as interações do sistema e fornece nutrientes essenciais ao componente biológico, ajudando a determinar quais organismos estão presentes.",
+          "refs": [
+            {
+              "page": 31,
+              "section": "Topografia"
+            },
+            {
+              "page": 32,
+              "section": "Solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l08",
+      "title": "Ambiente biológico e socioeconômico",
+      "intro": "Conecte fauna, flora e ação humana à ocorrência de enfermidades.",
+      "blocks": [
+        {
+          "title": "Flora e fauna",
+          "text": "A flora determina recursos nutritivos para a fauna e influencia estado fisiológico, manejo, utilização e densidade dos hospedeiros. A fauna determina a presença de hospedeiros susceptíveis, reservatórios e vetores. O mapa da aula ilustra distribuição geográfica, sem oferecer uma contagem a ser deduzida visualmente.",
+          "refs": [
+            {
+              "page": 33,
+              "section": "Características Biológicas"
+            },
+            {
+              "page": 34,
+              "section": "Flora"
+            },
+            {
+              "page": 35,
+              "section": "Fauna"
+            }
+          ]
+        },
+        {
+          "title": "Influências humanas",
+          "text": "O ambiente socioeconômico reúne as influências que seres humanos exercem sobre agente, hospedeiro, ambiente e ocorrência da enfermidade. Os exemplos da aula são:",
+          "refs": [
+            {
+              "page": 36,
+              "section": "Características socioeconômicas"
+            }
+          ],
+          "bullets": [
+            "Estrutura de produção e manejo.",
+            "Comercialização de animais e vias de comunicação.",
+            "Consciência da comunidade e higiene ambiental.",
+            "Uso de tecnologias agropecuárias."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l09",
+      "title": "Cadeia epidemiológica e fontes de infecção",
+      "intro": "Acompanhe os elos entre uma fonte e um novo hospedeiro.",
+      "blocks": [
+        {
+          "title": "Os cinco elos",
+          "text": "A cadeia epidemiológica apresentada segue a sequência fonte de infecção, via de eliminação, meio de transmissão, porta de entrada e hospedeiro susceptível. Cada elo descreve uma parte do caminho do agente.",
+          "refs": [
+            {
+              "page": 37,
+              "section": "Cadeia epidemiológica"
+            }
+          ]
+        },
+        {
+          "title": "O que é fonte de infecção",
+          "text": "É o organismo vertebrado no qual o agente pode desenvolver-se ou multiplicar-se e do qual pode alcançar o exterior. A aula reconhece doentes, portadores e reservatórios como elementos capazes de atuar como fonte de infecção.",
+          "refs": [
+            {
+              "page": 38,
+              "section": "Fonte de Infecção"
+            },
+            {
+              "page": 39,
+              "section": "Três elementos podem atuar como fonte de infecção"
+            }
+          ]
+        },
+        {
+          "title": "Doentes e seus sinais",
+          "text": "O doente típico apresenta sinais característicos da enfermidade; o atípico apresenta sintomatologia diferente da esperada; o que está em fase prodrômica tem sinais iniciais inespecíficos. Esses indivíduos podem eliminar o agente e atuar como fonte. O slide também aproxima a expressão subclínicas dos atípicos, sem resolver sua relação com a definição anterior de ausência de sinais.",
+          "refs": [
+            {
+              "page": 40,
+              "section": "Doentes"
+            },
+            {
+              "page": 41,
+              "section": "Doentes"
+            },
+            {
+              "page": 5,
+              "section": "Apresentação das doença"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l10",
+      "title": "Portadores e reservatórios",
+      "intro": "Ausência de sinais clínicos não significa ausência de participação na cadeia.",
+      "blocks": [
+        {
+          "title": "Três tipos de portador",
+          "text": "Portador mantém o agente no organismo sem apresentar sintomas naquele momento. A aula diferencia:",
+          "refs": [
+            {
+              "page": 43,
+              "section": "Portador"
+            },
+            {
+              "page": 44,
+              "section": "Portadores"
+            }
+          ],
+          "bullets": [
+            "São: não apresenta sinais em nenhum momento do processo infeccioso; exemplos citados são tricomonose em machos bovinos e leptospirose em felinos.",
+            "Em incubação: ainda não apresenta sinais, mas já elimina o agente e os manifestará posteriormente.",
+            "Convalescente: passou por cura clínica e já não apresenta sinais, mas continua eliminando o agente; a aula cita leptospirose e febre aftosa."
+          ]
+        },
+        {
+          "title": "Por que os portadores importam",
+          "text": "O material relaciona a condição de portador são à resistência natural ou imunidade adquirida e destaca dificuldade de diagnóstico e disseminação do agente. Assim, observar apenas sinais pode deixar de revelar uma fonte de infecção.",
+          "refs": [
+            {
+              "page": 44,
+              "section": "Portadores"
+            }
+          ]
+        },
+        {
+          "title": "Reservatório na cadeia",
+          "text": "A definição geral descreve manutenção do agente e eliminação viável para o ambiente. Mais adiante, a aula especifica um hospedeiro vertebrado de espécie diferente da considerada, no qual o agente se instala, multiplica-se e é eliminado. São citados o tatu em relação a Trypanosoma cruzi e os suínos em relação à febre aftosa.",
+          "refs": [
+            {
+              "page": 42,
+              "section": "Reservatório"
+            },
+            {
+              "page": 45,
+              "section": "Reservatório"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l11",
+      "title": "Vias de eliminação",
+      "intro": "Identifique como o agente sai da fonte antes de acompanhar seu transporte.",
+      "blocks": [
+        {
+          "title": "A saída para o exterior",
+          "text": "Via de eliminação é o caminho pelo qual o agente deixa a fonte de infecção e alcança o meio exterior. Pode haver mais de uma via, mas o material ressalta que uma costuma ter maior significado. A via de saída está associada ao mecanismo de transmissão.",
+          "refs": [
+            {
+              "page": 46,
+              "section": "Via de eliminação"
+            },
+            {
+              "page": 47,
+              "section": "Via de eliminação"
+            }
+          ]
+        },
+        {
+          "title": "Secreções e excreções",
+          "text": "A aula relaciona secreções oronasais e expectorações a raiva, febre aftosa, influenza, tuberculose e garrotilho. Entre as excreções, cita fezes para salmonelose, eimeriose, verminoses, amebiose e esquistossomose; urina para leptospirose e Dioctophyme renale.",
+          "refs": [
+            {
+              "page": 48,
+              "section": "Vias de eliminação - Secreções oronasais e expectorações"
+            },
+            {
+              "page": 49,
+              "section": "Vias de eliminação - Excreções"
+            }
+          ]
+        },
+        {
+          "title": "Leite e sangue",
+          "text": "O leite aparece associado a mastite, brucelose e tuberculose. O sangue aparece associado a anemia infecciosa equina, babesiose, anaplasmose, malária, doença de Chagas e febre amarela. São exemplos de saída citados na aula, sem que uma lista isolada descreva toda a cadeia de cada doença.",
+          "refs": [
+            {
+              "page": 50,
+              "section": "Vias de eliminação - Leite"
+            },
+            {
+              "page": 51,
+              "section": "Vias de eliminação - Sangue"
+            }
+          ]
+        },
+        {
+          "title": "Outros materiais eliminados",
+          "text": "A sequência ainda relaciona outras vias e exemplos:",
+          "refs": [
+            {
+              "page": 52,
+              "section": "Vias de eliminação - Exsudatos e descargas purulentas"
+            },
+            {
+              "page": 53,
+              "section": "Vias de eliminação - Placenta"
+            },
+            {
+              "page": 54,
+              "section": "Vias de eliminação - Descamações epiteliais"
+            },
+            {
+              "page": 55,
+              "section": "Vias de eliminação - Sêmen"
+            }
+          ],
+          "bullets": [
+            "Descargas uretrais: blenorragia ou gonorreia; vaginais: brucelose e tricomonose.",
+            "Placenta: brucelose.",
+            "Descamações epiteliais: sarna e micoses.",
+            "Sêmen: brucelose suína."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l12",
+      "title": "Meios de transmissão e veículos",
+      "intro": "Diferencie contato físico direto e transporte por veículos animados ou inanimados.",
+      "blocks": [
+        {
+          "title": "A ponte entre fonte e susceptível",
+          "text": "Meio de transmissão é o conjunto de veículos animados ou inanimados que levam o agente da fonte ao hospedeiro susceptível. No contato direto, há contato físico com transferência de material infectante, como cópula na tricomonose ou mordedura na raiva. No indireto, um veículo faz a transferência entre fonte e novo hospedeiro.",
+          "refs": [
+            {
+              "page": 56,
+              "section": "Meios de transmissão"
+            },
+            {
+              "page": 57,
+              "section": "Meio de transmissão"
+            },
+            {
+              "page": 58,
+              "section": "Contato direto ou contato indireto"
+            },
+            {
+              "page": 59,
+              "section": "Contato Direto"
+            },
+            {
+              "page": 60,
+              "section": "Contato Indireto"
+            }
+          ]
+        },
+        {
+          "title": "Ar: aerossóis e poeira",
+          "text": "O ar pode transportar agentes expelidos em secreções nasofaríngeas. A aula descreve aerossóis como resultado da nebulização de secreções oronasais e poeira como partículas nas quais agentes resistentes à dessecação podem permanecer e depois ser ressuspensos por movimentação.",
+          "refs": [
+            {
+              "page": 61,
+              "section": "Ar"
+            }
+          ]
+        },
+        {
+          "title": "Alimentos e água",
+          "text": "A água oferece muitas oportunidades de contaminação e é destacada como meio de transmissão de doenças entéricas. Alimentos podem ser contaminados por manipulação inadequada ou já na origem; o exemplo é leite de animal com brucelose ou tuberculose.",
+          "refs": [
+            {
+              "page": 62,
+              "section": "Alimentos e água"
+            },
+            {
+              "page": 63,
+              "section": "Água"
+            }
+          ]
+        },
+        {
+          "title": "Solo na transmissão",
+          "text": "O solo tem importância quando o agente realiza nele parte de seu ciclo, como nas verminoses citadas. O material também o relaciona à transmissão de tétano, carbúnculo sintomático e antraz. Esse papel como meio de transmissão complementa sua descrição como componente físico do ambiente.",
+          "refs": [
+            {
+              "page": 32,
+              "section": "Solo"
+            },
+            {
+              "page": 64,
+              "section": "Solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l13",
+      "title": "Vetores, hospedeiros intercalados e fômites",
+      "intro": "Compare transporte mecânico, desenvolvimento do agente e participação no ciclo.",
+      "blocks": [
+        {
+          "title": "Vetor e transporte mecânico",
+          "text": "Vetor é apresentado como invertebrado vivo, geralmente um artrópode hematófago, que veicula o agente e participa ativamente da transmissão. No vetor mecânico não há multiplicação ou desenvolvimento do agente; o transporte pode ocorrer em patas, probóscida ou no trato intestinal. A aula cita tabanídeos na anemia infecciosa equina e a mosca doméstica.",
+          "refs": [
+            {
+              "page": 65,
+              "section": "Vetor"
+            },
+            {
+              "page": 66,
+              "section": "Vetor Mecânico"
+            },
+            {
+              "page": 67,
+              "section": "Figura da transmissão da anemia infecciosa equina por mosca"
+            }
+          ]
+        },
+        {
+          "title": "Vetor biológico",
+          "text": "Para o vetor biológico transmitir, é necessária multiplicação ou desenvolvimento do agente. O material menciona transferência por saliva durante a picada, regurgitação ou deposição de agentes na pele capazes de penetrar por ferimentos. Os exemplos listados incluem carrapatos nas babesioses e anaplasmose, e barbeiro na doença de Chagas.",
+          "refs": [
+            {
+              "page": 68,
+              "section": "Vetor biológico"
+            }
+          ]
+        },
+        {
+          "title": "Hospedeiro intercalado ou intermediário",
+          "text": "Neste trecho, o PDF descreve um invertebrado que não participa ativamente da transmissão, mas pode ser indispensável ao ciclo ou proteger o agente enquanto permanece no meio exterior. O exemplo é o caracol Lymnaea na fasciolose. A figura mostra a relação com o ambiente aquático, caramujo e plantas ingeridas por hospedeiros.",
+          "refs": [
+            {
+              "page": 69,
+              "section": "Hospedeiro Intercalado ou intermediário"
+            },
+            {
+              "page": 30,
+              "section": "Figura do ciclo com caramujo e plantas aquáticas"
+            }
+          ]
+        },
+        {
+          "title": "Fômites são objetos",
+          "text": "Fômites são objetos que eventualmente levam o agente da fonte ao susceptível. O exemplo textual são agulhas na anemia infecciosa equina; as imagens também ilustram instrumentos e equipamentos. O critério que os diferencia dos vetores é serem objetos, sem participação de um organismo vivo como veículo.",
+          "refs": [
+            {
+              "page": 70,
+              "section": "Fômites"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e02-l14",
+      "title": "Portas de entrada no novo hospedeiro",
+      "intro": "Complete a cadeia reconhecendo a via de penetração e sua relação com o meio de transmissão.",
+      "blocks": [
+        {
+          "title": "Entrada é diferente de saída",
+          "text": "Porta ou via de entrada é o caminho pelo qual o agente penetra em um novo hospedeiro. Ela está associada ao meio de transmissão. A via de eliminação se refere à saída da fonte; a porta de entrada se refere à chegada ao organismo susceptível.",
+          "refs": [
+            {
+              "page": 47,
+              "section": "Via de eliminação"
+            },
+            {
+              "page": 71,
+              "section": "Porta de entrada"
+            },
+            {
+              "page": 72,
+              "section": "Porta ou via de entrada"
+            }
+          ]
+        },
+        {
+          "title": "Mucosas e meios associados",
+          "text": "O material relaciona as seguintes portas mucosas a meios de transmissão:",
+          "refs": [
+            {
+              "page": 73,
+              "section": "Mucosas"
+            }
+          ],
+          "bullets": [
+            "Trato respiratório: gotículas e poeira.",
+            "Trato digestório: alimentos e água.",
+            "Aparelho geniturinário: contato direto.",
+            "Conjuntiva: vetores e gotículas.",
+            "Ducto galactóforo: solo e fômites."
+          ]
+        },
+        {
+          "title": "Pele",
+          "text": "A penetração pela pele pode ocorrer por contato direto, como mordedura, ou em associação com vetores, solo e fômites. Para reconstruir uma cadeia, é necessário identificar a fonte, sua saída, o veículo e a entrada no novo hospedeiro, em vez de confundir esses papéis.",
+          "refs": [
+            {
+              "page": 74,
+              "section": "Pele"
+            },
+            {
+              "page": 37,
+              "section": "Cadeia epidemiológica"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "e02-f01",
+      "front": "Quais são os componentes da tríade epidemiológica?",
+      "back": "Agente, hospedeiro e ambiente.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Tríade Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e02-f02",
+      "front": "No exemplo da dengue, qual é o agente e qual é o vetor?",
+      "back": "O vírus da dengue é o agente e Aedes aegypti é o vetor.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Exemplo da tríade - Dengue"
+        }
+      ]
+    },
+    {
+      "id": "e02-f03",
+      "front": "O que a aula chama de história natural da doença?",
+      "back": "As relações entre o agente etiológico e os demais componentes do ecossistema.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "História natural da doença - Fases ou períodos"
+        }
+      ]
+    },
+    {
+      "id": "e02-f04",
+      "front": "Como o slide diferencia pré-clínica de subclínica?",
+      "back": "Ambas não são clinicamente aparentes; a pré-clínica pode evoluir para cura ou fase clínica, e a subclínica é descrita como não evoluindo para a fase clínica.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Apresentação das doença"
+        }
+      ]
+    },
+    {
+      "id": "e02-f05",
+      "front": "Como a aula diferencia crônica de latente?",
+      "back": "Crônica permanece por longo tempo no hospedeiro; latente tem agente inativo por algum tempo.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Apresentação das doença"
+        }
+      ]
+    },
+    {
+      "id": "e02-f06",
+      "front": "O que identifica o hospedeiro definitivo na aula?",
+      "back": "A presença do parasita maduro e a conclusão do ciclo por reprodução sexuada.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Tipos de hospedeiro"
+        }
+      ]
+    },
+    {
+      "id": "e02-f07",
+      "front": "O que caracteriza o hospedeiro paratênico?",
+      "back": "Transporta o parasita até o hospedeiro definitivo sem desenvolvimento do parasita nele.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Tipos de hospedeiro"
+        }
+      ]
+    },
+    {
+      "id": "e02-f08",
+      "front": "Quais vias de transmissão vertical são citadas?",
+      "back": "Intrauterina, parto e amamentação, da mãe para a cria.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Tipos de Transmissão"
+        }
+      ]
+    },
+    {
+      "id": "e02-f09",
+      "front": "Quais naturezas de agente etiológico são apresentadas?",
+      "back": "Físicos, químicos e biológicos.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Agente etiológico"
+        }
+      ]
+    },
+    {
+      "id": "e02-f10",
+      "front": "O que é infectividade?",
+      "back": "Capacidade de penetrar e multiplicar-se no hospedeiro, causando infecção mesmo sem agravo à saúde.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Características dos agentes - Infecciosidade ou infectividade"
+        }
+      ]
+    },
+    {
+      "id": "e02-f11",
+      "front": "O que é patogenicidade na aula?",
+      "back": "Capacidade de produzir lesões específicas, identificada pela frequência de manifestação clínica.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Características dos agentes - Patogenicidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-f12",
+      "front": "O que é virulência?",
+      "back": "Grau de severidade da reação patológica provocada pelo agente no hospedeiro.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Características dos agentes - Virulência"
+        }
+      ]
+    },
+    {
+      "id": "e02-f13",
+      "front": "O que é imunogenicidade?",
+      "back": "Capacidade do agente de induzir resposta imune específica.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Características dos agentes - Imunogenicidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-f14",
+      "front": "O que é variabilidade do agente?",
+      "back": "Capacidade de adaptar-se às condições do hospedeiro e do ambiente.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Características dos agentes - Variabilidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-f15",
+      "front": "Como diferenciar resistência ambiental e persistência?",
+      "back": "Resistência é sobreviver fora do hospedeiro; persistência é permanecer por longo tempo em uma população.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Características dos agentes - Resistência"
+        },
+        {
+          "page": 19,
+          "section": "Características dos agentes - Persistência"
+        }
+      ]
+    },
+    {
+      "id": "e02-f16",
+      "front": "Quais características próprias do hospedeiro são listadas?",
+      "back": "Espécie, raça, sexo, idade e susceptibilidade individual.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "Próprias"
+        }
+      ]
+    },
+    {
+      "id": "e02-f17",
+      "front": "Quais características variáveis do hospedeiro são listadas?",
+      "back": "Estado fisiológico, utilização e densidade populacional.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Variáveis"
+        }
+      ]
+    },
+    {
+      "id": "e02-f18",
+      "front": "Quais são as três categorias de componentes ambientais?",
+      "back": "Físicos, biológicos e socioeconômicos.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Características do ambiente"
+        }
+      ]
+    },
+    {
+      "id": "e02-f19",
+      "front": "Quais componentes físicos do ambiente aparecem na aula?",
+      "back": "Clima, hidrografia, topografia e solo.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Características Físicas"
+        }
+      ]
+    },
+    {
+      "id": "e02-f20",
+      "front": "Como chuvas e secas podem afetar hospedeiros?",
+      "back": "Podem modificar densidade e migrações diretamente e nutrição indiretamente, ao alterar componentes biológicos do ambiente.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Clima"
+        }
+      ]
+    },
+    {
+      "id": "e02-f21",
+      "front": "Que papéis a aula atribui aos cursos de água?",
+      "back": "Bebida, transmissão de agentes, multiplicação de vetores, concentração de animais e favorecimento de migrações.",
+      "refs": [
+        {
+          "page": 29,
+          "section": "Hidrografia"
+        }
+      ]
+    },
+    {
+      "id": "e02-f22",
+      "front": "Como topografia e altitude podem influenciar a transmissão?",
+      "back": "Montanhas podem ser barreiras à difusão e a altitude pode limitar artrópodes transmissores.",
+      "refs": [
+        {
+          "page": 31,
+          "section": "Topografia"
+        }
+      ]
+    },
+    {
+      "id": "e02-f23",
+      "front": "Qual relação entre flora e hospedeiro é destacada?",
+      "back": "A flora determina recursos nutritivos e influencia estado fisiológico, manejo, utilização e densidade.",
+      "refs": [
+        {
+          "page": 34,
+          "section": "Flora"
+        }
+      ]
+    },
+    {
+      "id": "e02-f24",
+      "front": "Por que a fauna importa para a ocorrência de doença?",
+      "back": "Determina a presença de hospedeiros susceptíveis, reservatórios e vetores.",
+      "refs": [
+        {
+          "page": 35,
+          "section": "Fauna"
+        }
+      ]
+    },
+    {
+      "id": "e02-f25",
+      "front": "Cite três componentes socioeconômicos presentes no PDF.",
+      "back": "Por exemplo: manejo, higiene ambiental e comercialização de animais; também são citados produção, comunicação, consciência da comunidade e tecnologias agropecuárias.",
+      "refs": [
+        {
+          "page": 36,
+          "section": "Características socioeconômicas"
+        }
+      ]
+    },
+    {
+      "id": "e02-f26",
+      "front": "Qual é a sequência dos cinco elos da cadeia?",
+      "back": "Fonte de infecção, via de eliminação, meio de transmissão, porta de entrada e hospedeiro susceptível.",
+      "refs": [
+        {
+          "page": 37,
+          "section": "Cadeia epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e02-f27",
+      "front": "O que é fonte de infecção na definição da aula?",
+      "back": "Um vertebrado no qual o agente se desenvolve ou multiplica e do qual pode alcançar o exterior.",
+      "refs": [
+        {
+          "page": 38,
+          "section": "Fonte de Infecção"
+        }
+      ]
+    },
+    {
+      "id": "e02-f28",
+      "front": "Quais três elementos podem atuar como fonte?",
+      "back": "Doente, portador e reservatório.",
+      "refs": [
+        {
+          "page": 39,
+          "section": "Três elementos podem atuar como fonte de infecção"
+        }
+      ]
+    },
+    {
+      "id": "e02-f29",
+      "front": "O que distingue doente típico, atípico e prodrômico?",
+      "back": "Típico tem sinais característicos; atípico tem sinais diferentes; prodrômico tem sinais iniciais inespecíficos.",
+      "refs": [
+        {
+          "page": 41,
+          "section": "Doentes"
+        }
+      ]
+    },
+    {
+      "id": "e02-f30",
+      "front": "Como diferenciar portador são, em incubação e convalescente?",
+      "back": "São não apresenta sinais em todo o processo; em incubação já elimina antes dos sinais futuros; convalescente continua eliminando após a cura clínica.",
+      "refs": [
+        {
+          "page": 44,
+          "section": "Portadores"
+        }
+      ]
+    },
+    {
+      "id": "e02-f31",
+      "front": "Qual exemplo de reservatório aparece para Trypanosoma cruzi?",
+      "back": "O tatu, conforme os exemplos do material.",
+      "refs": [
+        {
+          "page": 42,
+          "section": "Reservatório"
+        },
+        {
+          "page": 45,
+          "section": "Reservatório"
+        }
+      ]
+    },
+    {
+      "id": "e02-f32",
+      "front": "O que é via de eliminação?",
+      "back": "A via pela qual o agente sai da fonte e alcança o meio exterior.",
+      "refs": [
+        {
+          "page": 47,
+          "section": "Via de eliminação"
+        }
+      ]
+    },
+    {
+      "id": "e02-f33",
+      "front": "Qual via de eliminação o PDF associa à leptospirose?",
+      "back": "Urina, na lista de excreções.",
+      "refs": [
+        {
+          "page": 49,
+          "section": "Vias de eliminação - Excreções"
+        }
+      ]
+    },
+    {
+      "id": "e02-f34",
+      "front": "Quais exemplos acompanham o leite como via de eliminação?",
+      "back": "Mastite, brucelose e tuberculose.",
+      "refs": [
+        {
+          "page": 50,
+          "section": "Vias de eliminação - Leite"
+        }
+      ]
+    },
+    {
+      "id": "e02-f35",
+      "front": "Quais vias são associadas a brucelose e a brucelose suína nas páginas 53 e 55?",
+      "back": "Placenta para brucelose e sêmen para brucelose suína.",
+      "refs": [
+        {
+          "page": 53,
+          "section": "Vias de eliminação - Placenta"
+        },
+        {
+          "page": 55,
+          "section": "Vias de eliminação - Sêmen"
+        }
+      ]
+    },
+    {
+      "id": "e02-f36",
+      "front": "O que caracteriza contato direto?",
+      "back": "Contato físico entre fonte e susceptível com transferência de material infectante, como mordedura na raiva.",
+      "refs": [
+        {
+          "page": 59,
+          "section": "Contato Direto"
+        }
+      ]
+    },
+    {
+      "id": "e02-f37",
+      "front": "O que caracteriza contato indireto?",
+      "back": "A transferência do agente por um veículo animado ou inanimado entre fonte e novo hospedeiro.",
+      "refs": [
+        {
+          "page": 60,
+          "section": "Contato Indireto"
+        }
+      ]
+    },
+    {
+      "id": "e02-f38",
+      "front": "Quais duas formas de transmissão pelo ar aparecem?",
+      "back": "Aerossóis e poeira.",
+      "refs": [
+        {
+          "page": 61,
+          "section": "Ar"
+        }
+      ]
+    },
+    {
+      "id": "e02-f39",
+      "front": "Como os alimentos podem ser contaminados no material?",
+      "back": "Por manipulação inadequada ou já na origem, como no leite de animal com brucelose ou tuberculose.",
+      "refs": [
+        {
+          "page": 62,
+          "section": "Alimentos e água"
+        }
+      ]
+    },
+    {
+      "id": "e02-f40",
+      "front": "O que diferencia vetor mecânico de biológico?",
+      "back": "No mecânico o agente é transportado sem multiplicação ou desenvolvimento; no biológico há multiplicação ou desenvolvimento necessário à transmissão.",
+      "refs": [
+        {
+          "page": 66,
+          "section": "Vetor Mecânico"
+        },
+        {
+          "page": 68,
+          "section": "Vetor biológico"
+        }
+      ]
+    },
+    {
+      "id": "e02-f41",
+      "front": "Qual exemplo de hospedeiro intercalado aparece?",
+      "back": "Caracol Lymnaea na fasciolose, apresentado como participante do ciclo que não atua ativamente na transmissão.",
+      "refs": [
+        {
+          "page": 69,
+          "section": "Hospedeiro Intercalado ou intermediário"
+        }
+      ]
+    },
+    {
+      "id": "e02-f42",
+      "front": "O que são fômites e qual exemplo a aula usa?",
+      "back": "Objetos que podem transportar o agente; o exemplo textual são agulhas na anemia infecciosa equina.",
+      "refs": [
+        {
+          "page": 70,
+          "section": "Fômites"
+        }
+      ]
+    },
+    {
+      "id": "e02-f43",
+      "front": "O que é porta de entrada?",
+      "back": "A via pela qual o agente penetra em um novo hospedeiro, associada ao meio de transmissão.",
+      "refs": [
+        {
+          "page": 72,
+          "section": "Porta ou via de entrada"
+        }
+      ]
+    },
+    {
+      "id": "e02-f44",
+      "front": "Que portas a aula associa a alimentos, água, gotículas e poeira?",
+      "back": "Alimentos e água ao trato digestório; gotículas e poeira ao trato respiratório.",
+      "refs": [
+        {
+          "page": 73,
+          "section": "Mucosas"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e02-q01",
+      "prompt": "Qual conjunto forma a tríade epidemiológica apresentada?",
+      "choices": [
+        "Fonte, urina e leite.",
+        "Agente, ambiente e hospedeiro.",
+        "Mucosa, pele e placenta.",
+        "Portador são, prodrômico e convalescente."
+      ],
+      "answer": 1,
+      "explanation": "O diagrama coloca a doença na interseção entre agente, ambiente e hospedeiro.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Tríade Epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e02-q02",
+      "prompt": "No exemplo da dengue, qual elemento é o agente etiológico?",
+      "choices": [
+        "Aedes aegypti.",
+        "Pluviosidade.",
+        "Ser humano susceptível.",
+        "Vírus da dengue."
+      ],
+      "answer": 3,
+      "explanation": "O mosquito é o vetor; o vírus é o agente. A pluviosidade integra o ambiente e as pessoas integram o componente hospedeiro.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Exemplo da tríade - Dengue"
+        }
+      ]
+    },
+    {
+      "id": "e02-q03",
+      "prompt": "Qual ideia corresponde à história natural da doença no material?",
+      "choices": [
+        "As relações do agente etiológico com os demais componentes do ecossistema.",
+        "A lista exclusiva de nomes de bactérias.",
+        "Apenas a duração do tratamento de um caso.",
+        "Somente o momento posterior à cura clínica."
+      ],
+      "answer": 0,
+      "explanation": "A definição da página 4 e seu esquema acompanham relações e evolução, incluindo etapas anteriores aos sinais.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "História natural da doença - Fases ou períodos"
+        }
+      ]
+    },
+    {
+      "id": "e02-q04",
+      "prompt": "Um indivíduo ainda não apresenta a doença clinicamente e poderá evoluir para cura ou para a fase clínica. Qual apresentação corresponde ao slide?",
+      "choices": [
+        "Clínica.",
+        "Latente por definição de longa duração.",
+        "Pré-clínica.",
+        "Crônica por definição de ausência de sinais."
+      ],
+      "answer": 2,
+      "explanation": "A possibilidade de cura ou de evolução para fase clínica aparece na definição de pré-clínica.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Apresentação das doença"
+        }
+      ]
+    },
+    {
+      "id": "e02-q05",
+      "prompt": "Qual característica identifica a apresentação latente na aula?",
+      "choices": [
+        "Há sempre sinais específicos visíveis.",
+        "O agente fica inativo durante algum tempo.",
+        "A doença dura obrigatoriamente poucos minutos.",
+        "O agente só existe fora do hospedeiro."
+      ],
+      "answer": 1,
+      "explanation": "A definição de latência se baseia no período de inatividade do agente.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Apresentação das doença"
+        }
+      ]
+    },
+    {
+      "id": "e02-q06",
+      "prompt": "O parasita está maduro e realiza reprodução sexuada no hospedeiro. Como a aula classifica esse hospedeiro?",
+      "choices": [
+        "Paratênico.",
+        "Fômite.",
+        "Vetor mecânico.",
+        "Definitivo."
+      ],
+      "answer": 3,
+      "explanation": "Forma madura e conclusão do ciclo por reprodução sexuada caracterizam o definitivo no slide.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Tipos de hospedeiro"
+        }
+      ]
+    },
+    {
+      "id": "e02-q07",
+      "prompt": "Um hospedeiro transporta o parasita até o definitivo sem desenvolvimento do parasita. Qual é sua classificação?",
+      "choices": [
+        "Paratênico.",
+        "Definitivo.",
+        "Vetor biológico por multiplicação obrigatória.",
+        "Objeto inanimado."
+      ],
+      "answer": 0,
+      "explanation": "O paratênico tem a função de transporte descrita, sem desenvolvimento do parasita.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Tipos de hospedeiro"
+        }
+      ]
+    },
+    {
+      "id": "e02-q08",
+      "prompt": "Uma infecção passa da mãe à cria durante a amamentação. Qual tipo de transmissão corresponde à lista da aula?",
+      "choices": [
+        "Horizontal por definição exclusiva.",
+        "Contato indireto pelo solo.",
+        "Vertical.",
+        "Transmissão por fômite obrigatória."
+      ],
+      "answer": 2,
+      "explanation": "Amamentação, parto e via intrauterina são as vias citadas para transmissão vertical.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Tipos de Transmissão"
+        }
+      ]
+    },
+    {
+      "id": "e02-q09",
+      "prompt": "Que associação de categoria de agente e exemplo respeita o material?",
+      "choices": [
+        "Biológico: queimadura.",
+        "Químico: envenenamento.",
+        "Físico: infestação.",
+        "Químico: reprodução de parasitas."
+      ],
+      "answer": 1,
+      "explanation": "O slide associa envenenamentos e intoxicações aos agentes químicos; traumatismos e queimaduras aos físicos.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Agente etiológico"
+        }
+      ]
+    },
+    {
+      "id": "e02-q10",
+      "prompt": "Qual característica do agente envolve penetrar e multiplicar-se no hospedeiro mesmo sem agravos à saúde?",
+      "choices": [
+        "Virulência.",
+        "Topografia.",
+        "Densidade.",
+        "Infectividade."
+      ],
+      "answer": 3,
+      "explanation": "Infectividade descreve a capacidade de produzir infecção; não exige, nessa definição, manifestação de doença.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Características dos agentes - Infecciosidade ou infectividade"
+        }
+      ]
+    },
+    {
+      "id": "e02-q11",
+      "prompt": "Um estudo compara a frequência de manifestação clínica e a capacidade de produzir lesões específicas. Qual característica está em foco na aula?",
+      "choices": [
+        "Patogenicidade.",
+        "Persistência.",
+        "Morfologia apenas pelo tamanho.",
+        "Hidrografia."
+      ],
+      "answer": 0,
+      "explanation": "Patogenicidade é definida pela capacidade de produzir lesões e relacionada à frequência de manifestação clínica.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Características dos agentes - Patogenicidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-q12",
+      "prompt": "Duas cepas de um agente provocam reações patológicas de severidade diferente. Qual conceito é mais diretamente pertinente?",
+      "choices": [
+        "Via de entrada.",
+        "Hospedeiro paratênico.",
+        "Virulência.",
+        "Flora."
+      ],
+      "answer": 2,
+      "explanation": "Virulência é o grau de severidade da reação patológica e pode variar entre cepas do mesmo agente.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Características dos agentes - Virulência"
+        }
+      ]
+    },
+    {
+      "id": "e02-q13",
+      "prompt": "Um agente induz resposta imune específica intensa e duradoura. Qual propriedade o exemplo evidencia?",
+      "choices": [
+        "Via de eliminação.",
+        "Imunogenicidade.",
+        "Densidade populacional.",
+        "Contato direto."
+      ],
+      "answer": 1,
+      "explanation": "A imunogenicidade descreve a capacidade de induzir resposta imune específica e sua intensidade ou duração é discutida no slide.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "Características dos agentes - Imunogenicidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-q14",
+      "prompt": "A capacidade do agente de adaptar-se ao hospedeiro e ao ambiente recebe qual nome?",
+      "choices": [
+        "Porta de entrada.",
+        "Patogenicidade definida por lesões.",
+        "Convalescença.",
+        "Variabilidade."
+      ],
+      "answer": 3,
+      "explanation": "Essa é a definição de variabilidade apresentada.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "Características dos agentes - Variabilidade"
+        }
+      ]
+    },
+    {
+      "id": "e02-q15",
+      "prompt": "Um agente sobrevive por longo tempo no meio exterior. Qual propriedade está sendo descrita?",
+      "choices": [
+        "Resistência ambiental.",
+        "Persistência definida apenas pela permanência em uma população.",
+        "Reprodução sexuada no hospedeiro definitivo.",
+        "Transmissão vertical."
+      ],
+      "answer": 0,
+      "explanation": "Resistência ou viabilidade se refere à sobrevivência fora do hospedeiro; persistência é permanência na população.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "Características dos agentes - Resistência"
+        },
+        {
+          "page": 19,
+          "section": "Características dos agentes - Persistência"
+        }
+      ]
+    },
+    {
+      "id": "e02-q16",
+      "prompt": "Um agente se mantém em uma população por período prolongado. Que característica corresponde a isso?",
+      "choices": [
+        "Morfologia.",
+        "Porta de entrada.",
+        "Persistência.",
+        "Cópula."
+      ],
+      "answer": 2,
+      "explanation": "A permanência prolongada ou indefinida na população é a definição de persistência do slide.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Características dos agentes - Persistência"
+        }
+      ]
+    },
+    {
+      "id": "e02-q17",
+      "prompt": "Qual conjunto contém apenas características próprias do hospedeiro na classificação da aula?",
+      "choices": [
+        "Lactação, utilização e densidade.",
+        "Espécie, raça e sexo.",
+        "Higiene ambiental, manejo e comércio.",
+        "Chuva, solo e altitude."
+      ],
+      "answer": 1,
+      "explanation": "Espécie, raça, sexo, idade e susceptibilidade individual estão na lista de características próprias.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "Características dos hospedeiros"
+        },
+        {
+          "page": 22,
+          "section": "Próprias"
+        }
+      ]
+    },
+    {
+      "id": "e02-q18",
+      "prompt": "Qual par contém características variáveis do hospedeiro no material?",
+      "choices": [
+        "Espécie e raça.",
+        "Sexo e espécie.",
+        "Topografia e hidrografia.",
+        "Estado fisiológico e densidade."
+      ],
+      "answer": 3,
+      "explanation": "Estado fisiológico, utilização e densidade são as variáveis destacadas.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "Variáveis"
+        }
+      ]
+    },
+    {
+      "id": "e02-q19",
+      "prompt": "Qual grupo corresponde aos componentes físicos do ambiente?",
+      "choices": [
+        "Clima, hidrografia, topografia e solo.",
+        "Portador, reservatório e doente.",
+        "Flora, fauna e imunogenicidade.",
+        "Manejo, comércio e consciência comunitária."
+      ],
+      "answer": 0,
+      "explanation": "Esses quatro componentes aparecem juntos no slide Características Físicas.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "Características Físicas"
+        }
+      ]
+    },
+    {
+      "id": "e02-q20",
+      "prompt": "Segundo a aula, como chuvas e secas podem afetar o hospedeiro?",
+      "choices": [
+        "Apenas mudando a raiz etimológica dos agentes.",
+        "Eliminando toda possibilidade de transmissão.",
+        "Alterando densidade e migrações e influenciando indiretamente a nutrição.",
+        "Transformando automaticamente qualquer hospedeiro em definitivo."
+      ],
+      "answer": 2,
+      "explanation": "A aula descreve efeitos diretos sobre os hospedeiros e indiretos por meio do ambiente biológico e da nutrição.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Clima"
+        }
+      ]
+    },
+    {
+      "id": "e02-q21",
+      "prompt": "Qual afirmação corresponde ao papel da hidrografia na aula?",
+      "choices": [
+        "A água aparece apenas como barreira sem qualquer papel na transmissão.",
+        "Cursos de água podem concentrar animais e favorecer transmissão e multiplicação de vetores.",
+        "Cursos de água são objetos e recebem o nome de fômites.",
+        "Hidrografia é uma característica própria do hospedeiro."
+      ],
+      "answer": 1,
+      "explanation": "Disponibilidade de bebida, concentração de animais, migrações e transmissão estão associados à hidrografia.",
+      "refs": [
+        {
+          "page": 29,
+          "section": "Hidrografia"
+        }
+      ]
+    },
+    {
+      "id": "e02-q22",
+      "prompt": "Uma serra funciona como barreira à difusão de agentes. Qual componente ambiental está em destaque?",
+      "choices": [
+        "Imunogenicidade.",
+        "Portador são.",
+        "Via de eliminação.",
+        "Topografia."
+      ],
+      "answer": 3,
+      "explanation": "Serras e montanhas aparecem no slide de topografia como barreiras naturais.",
+      "refs": [
+        {
+          "page": 31,
+          "section": "Topografia"
+        }
+      ]
+    },
+    {
+      "id": "e02-q23",
+      "prompt": "A oferta de recursos nutritivos vegetais modifica estado fisiológico e densidade dos animais. Qual relação da aula isso representa?",
+      "choices": [
+        "Influência da flora sobre a fauna e os hospedeiros.",
+        "Definição de fômite.",
+        "Multiplicação obrigatória em vetor mecânico.",
+        "Exclusivamente transmissão vertical."
+      ],
+      "answer": 0,
+      "explanation": "A flora é relacionada aos recursos nutritivos e a estado fisiológico, manejo, utilização e densidade.",
+      "refs": [
+        {
+          "page": 34,
+          "section": "Flora"
+        }
+      ]
+    },
+    {
+      "id": "e02-q24",
+      "prompt": "Qual item pertence aos componentes socioeconômicos descritos?",
+      "choices": [
+        "Altitude.",
+        "Espécie do hospedeiro.",
+        "Comercialização de animais.",
+        "Tamanho do agente."
+      ],
+      "answer": 2,
+      "explanation": "Comércio, manejo, produção, higiene, comunicação e tecnologias são exemplos de influências humanas no ambiente.",
+      "refs": [
+        {
+          "page": 36,
+          "section": "Características socioeconômicas"
+        }
+      ]
+    },
+    {
+      "id": "e02-q25",
+      "prompt": "Qual sequência corresponde à cadeia epidemiológica da aula?",
+      "choices": [
+        "Porta de entrada, fonte, susceptível, eliminação, meio de transmissão.",
+        "Fonte de infecção, via de eliminação, meio de transmissão, porta de entrada, hospedeiro susceptível.",
+        "Agente químico, raça, flora, altitude, diagnóstico.",
+        "Portador são, convalescente, prodrômico, latente, definitivo."
+      ],
+      "answer": 1,
+      "explanation": "A cadeia acompanha a saída do agente da fonte, seu transporte e a entrada no novo hospedeiro.",
+      "refs": [
+        {
+          "page": 37,
+          "section": "Cadeia epidemiológica"
+        }
+      ]
+    },
+    {
+      "id": "e02-q26",
+      "prompt": "Qual alternativa corresponde à definição de fonte de infecção utilizada?",
+      "choices": [
+        "Qualquer objeto sem vida que transporta o agente.",
+        "Apenas o orifício pelo qual o agente entra.",
+        "Exclusivamente uma condição climática.",
+        "Organismo vertebrado em que o agente se desenvolve ou multiplica e do qual alcança o exterior."
+      ],
+      "answer": 3,
+      "explanation": "A fonte é definida como um vertebrado; os demais itens representam outros papéis ou componentes.",
+      "refs": [
+        {
+          "page": 38,
+          "section": "Fonte de Infecção"
+        }
+      ]
+    },
+    {
+      "id": "e02-q27",
+      "prompt": "Quais elementos podem atuar como fonte de infecção na lista da aula?",
+      "choices": [
+        "Doente, portador e reservatório.",
+        "Somente animais com sinais típicos.",
+        "Apenas água e solo.",
+        "Somente vetores e agulhas."
+      ],
+      "answer": 0,
+      "explanation": "A presença de portadores e reservatórios mostra que a fonte não se restringe ao doente com sinais visíveis.",
+      "refs": [
+        {
+          "page": 39,
+          "section": "Três elementos podem atuar como fonte de infecção"
+        }
+      ]
+    },
+    {
+      "id": "e02-q28",
+      "prompt": "Um animal apresenta sinais inespecíficos no início da enfermidade. Qual classificação de doente corresponde à aula?",
+      "choices": [
+        "Obrigatoriamente portador convalescente.",
+        "Fômite.",
+        "Em fase prodrômica.",
+        "Definitivo por ausência de reprodução."
+      ],
+      "answer": 2,
+      "explanation": "A fase prodrômica é definida por sintomatologia inespecífica no início da doença.",
+      "refs": [
+        {
+          "page": 41,
+          "section": "Doentes"
+        }
+      ]
+    },
+    {
+      "id": "e02-q29",
+      "prompt": "Um animal já elimina o agente, ainda não tem sinais e irá apresentá-los depois. Qual tipo de portador é esse?",
+      "choices": [
+        "Convalescente.",
+        "Em incubação.",
+        "São, sem sinais em todo o processo.",
+        "Vetor mecânico."
+      ],
+      "answer": 1,
+      "explanation": "O portador em incubação elimina antes da manifestação posterior dos sinais.",
+      "refs": [
+        {
+          "page": 44,
+          "section": "Portadores"
+        }
+      ]
+    },
+    {
+      "id": "e02-q30",
+      "prompt": "Após a cura clínica, um indivíduo continua eliminando o agente. Como a aula o classifica?",
+      "choices": [
+        "Hospedeiro paratênico.",
+        "Portador em incubação.",
+        "Fômite.",
+        "Portador convalescente."
+      ],
+      "answer": 3,
+      "explanation": "A cura clínica com continuidade da eliminação caracteriza o portador convalescente.",
+      "refs": [
+        {
+          "page": 44,
+          "section": "Portadores"
+        }
+      ]
+    },
+    {
+      "id": "e02-q31",
+      "prompt": "Qual exemplo de reservatório está explicitamente citado para Trypanosoma cruzi?",
+      "choices": [
+        "Tatu.",
+        "Agulha.",
+        "Leite.",
+        "Poeira."
+      ],
+      "answer": 0,
+      "explanation": "O tatu é o exemplo escrito nas páginas sobre reservatório.",
+      "refs": [
+        {
+          "page": 42,
+          "section": "Reservatório"
+        },
+        {
+          "page": 45,
+          "section": "Reservatório"
+        }
+      ]
+    },
+    {
+      "id": "e02-q32",
+      "prompt": "Como diferenciar via de eliminação de porta de entrada?",
+      "choices": [
+        "Ambas são exclusivamente objetos inanimados.",
+        "A primeira é sempre água e a segunda sempre ar.",
+        "A primeira é a saída da fonte; a segunda é a penetração no novo hospedeiro.",
+        "A primeira é reprodução sexuada e a segunda assexuada."
+      ],
+      "answer": 2,
+      "explanation": "A distinção acompanha a direção do agente ao deixar a fonte e alcançar um novo organismo.",
+      "refs": [
+        {
+          "page": 47,
+          "section": "Via de eliminação"
+        },
+        {
+          "page": 72,
+          "section": "Porta ou via de entrada"
+        }
+      ]
+    },
+    {
+      "id": "e02-q33",
+      "prompt": "Qual associação de via de eliminação e exemplo aparece na aula?",
+      "choices": [
+        "Descamação epitelial e brucelose suína.",
+        "Urina e leptospirose.",
+        "Placenta e raiva.",
+        "Sêmen e sarna."
+      ],
+      "answer": 1,
+      "explanation": "A leptospirose está listada entre os exemplos ligados à urina.",
+      "refs": [
+        {
+          "page": 49,
+          "section": "Vias de eliminação - Excreções"
+        }
+      ]
+    },
+    {
+      "id": "e02-q34",
+      "prompt": "Qual conjunto acompanha o leite na lista de vias de eliminação?",
+      "choices": [
+        "Sarna, micoses e tétano.",
+        "Anaplasmose, malária e febre amarela.",
+        "Raiva, influenza e garrotilho.",
+        "Mastite, brucelose e tuberculose."
+      ],
+      "answer": 3,
+      "explanation": "Essas três enfermidades são as nomeadas na página do leite.",
+      "refs": [
+        {
+          "page": 50,
+          "section": "Vias de eliminação - Leite"
+        }
+      ]
+    },
+    {
+      "id": "e02-q35",
+      "prompt": "Qual relação de via e enfermidade corresponde às páginas finais de eliminação?",
+      "choices": [
+        "Descamações epiteliais: sarna e micoses.",
+        "Sêmen: tuberculose e malária.",
+        "Placenta: sarna e micoses.",
+        "Descargas vaginais: febre amarela e antraz."
+      ],
+      "answer": 0,
+      "explanation": "Sarna e micoses acompanham descamações; placenta e sêmen têm outros exemplos no material.",
+      "refs": [
+        {
+          "page": 54,
+          "section": "Vias de eliminação - Descamações epiteliais"
+        }
+      ]
+    },
+    {
+      "id": "e02-q36",
+      "prompt": "Uma mordedura transfere material infectante da fonte ao susceptível. Que mecanismo é exemplificado?",
+      "choices": [
+        "Fômite por ser obrigatoriamente objeto.",
+        "Contato indireto por água.",
+        "Contato direto.",
+        "Transmissão vertical pela placenta."
+      ],
+      "answer": 2,
+      "explanation": "A mordedura na raiva é o exemplo de contato físico direto fornecido.",
+      "refs": [
+        {
+          "page": 59,
+          "section": "Contato Direto"
+        }
+      ]
+    },
+    {
+      "id": "e02-q37",
+      "prompt": "Qual afirmação descreve o contato indireto?",
+      "choices": [
+        "Exige sempre contato físico imediato entre os dois indivíduos.",
+        "O agente é transferido por um veículo animado ou inanimado entre fonte e novo hospedeiro.",
+        "Não utiliza nenhum meio de transmissão.",
+        "Ocorre apenas por amamentação."
+      ],
+      "answer": 1,
+      "explanation": "A existência de um veículo intermediando a transferência define o contato indireto na aula.",
+      "refs": [
+        {
+          "page": 60,
+          "section": "Contato Indireto"
+        }
+      ]
+    },
+    {
+      "id": "e02-q38",
+      "prompt": "Agentes que resistem à dessecação ficam em partículas ressuspensas pela movimentação. Qual meio descrito está em foco?",
+      "choices": [
+        "Sêmen.",
+        "Placenta.",
+        "Reprodução no hospedeiro definitivo.",
+        "Poeira no ar."
+      ],
+      "answer": 3,
+      "explanation": "O slide do ar distingue aerossóis de secreções nebulizadas e poeira com agentes resistentes ressuspensos.",
+      "refs": [
+        {
+          "page": 61,
+          "section": "Ar"
+        }
+      ]
+    },
+    {
+      "id": "e02-q39",
+      "prompt": "Qual situação ilustra contaminação de alimento na origem, conforme a aula?",
+      "choices": [
+        "Leite proveniente de animal com brucelose ou tuberculose.",
+        "Somente manipulação inadequada depois de pronto.",
+        "Serra funcionando como barreira natural.",
+        "Tamanho do agente alterando sua adesão."
+      ],
+      "answer": 0,
+      "explanation": "O material separa contaminação por manejo inadequado da contaminação já presente na origem do alimento.",
+      "refs": [
+        {
+          "page": 62,
+          "section": "Alimentos e água"
+        }
+      ]
+    },
+    {
+      "id": "e02-q40",
+      "prompt": "No corpo de um invertebrado, o agente é apenas transportado, sem multiplicação ou desenvolvimento. Qual classificação corresponde?",
+      "choices": [
+        "Vetor biológico.",
+        "Fômite.",
+        "Vetor mecânico.",
+        "Hospedeiro definitivo por reprodução sexuada."
+      ],
+      "answer": 2,
+      "explanation": "O critério do vetor mecânico é o transporte sem modificação por desenvolvimento ou multiplicação do agente.",
+      "refs": [
+        {
+          "page": 66,
+          "section": "Vetor Mecânico"
+        }
+      ]
+    },
+    {
+      "id": "e02-q41",
+      "prompt": "Qual característica diferencia o vetor biológico do mecânico na aula?",
+      "choices": [
+        "Ser obrigatoriamente um objeto inanimado.",
+        "A necessidade de multiplicação ou desenvolvimento do agente para a transmissão.",
+        "Não participar da transmissão de modo algum.",
+        "Transportar somente por patas sem desenvolvimento do agente."
+      ],
+      "answer": 1,
+      "explanation": "A multiplicação ou o desenvolvimento é a exigência descrita para vetor biológico.",
+      "refs": [
+        {
+          "page": 68,
+          "section": "Vetor biológico"
+        }
+      ]
+    },
+    {
+      "id": "e02-q42",
+      "prompt": "Qual exemplo é usado para hospedeiro intercalado ou intermediário no trecho sobre meios de transmissão?",
+      "choices": [
+        "Agulha na anemia infecciosa equina.",
+        "Poeira com agente resistente.",
+        "Secreção oronasal na influenza.",
+        "Caracol Lymnaea na fasciolose."
+      ],
+      "answer": 3,
+      "explanation": "O caracol é o exemplo de invertebrado associado ao ciclo, sem participação ativa na transmissão nesse trecho.",
+      "refs": [
+        {
+          "page": 69,
+          "section": "Hospedeiro Intercalado ou intermediário"
+        }
+      ]
+    },
+    {
+      "id": "e02-q43",
+      "prompt": "Uma agulha leva o agente da fonte a outro equino. Qual nome corresponde a esse objeto na aula?",
+      "choices": [
+        "Fômite.",
+        "Vetor biológico.",
+        "Hospedeiro definitivo.",
+        "Portador são."
+      ],
+      "answer": 0,
+      "explanation": "Fômites são objetos; a agulha na anemia infecciosa equina é o exemplo textual.",
+      "refs": [
+        {
+          "page": 70,
+          "section": "Fômites"
+        }
+      ]
+    },
+    {
+      "id": "e02-q44",
+      "prompt": "Qual associação entre porta de entrada e meio aparece na lista de mucosas?",
+      "choices": [
+        "Trato respiratório: apenas sêmen.",
+        "Conjuntiva: apenas solo.",
+        "Trato digestório: alimentos e água.",
+        "Ducto galactóforo: exclusivamente parto."
+      ],
+      "answer": 2,
+      "explanation": "A lista associa alimentos e água ao trato digestório, gotículas e poeira ao respiratório, e outros meios às demais portas.",
+      "refs": [
+        {
+          "page": 73,
+          "section": "Mucosas"
+        }
+      ]
+    }
+  ]
+}

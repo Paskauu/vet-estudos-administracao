@@ -1,0 +1,149 @@
+.discipline-switcher {
+  margin-bottom: 30px;
+}
+.discipline-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  color: var(--muted);
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.discipline-heading .eyebrow { margin: 0; }
+.discipline-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.discipline-option {
+  --discipline-color: #205748;
+  --discipline-tint: #edf3e9;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  min-height: 88px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 15px 17px;
+  background: var(--paper);
+  text-align: left;
+  color: var(--ink);
+}
+.discipline-epidemiologia {
+  --discipline-color: #185e78;
+  --discipline-tint: #e8f2f7;
+}
+.discipline-option.active {
+  border: 2px solid var(--discipline-color);
+  padding: 14px 16px;
+  background: var(--discipline-tint);
+}
+.discipline-option:hover { border-color: var(--discipline-color); }
+.discipline-number {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 36px;
+  height: 38px;
+  color: var(--discipline-color);
+  background: var(--discipline-tint);
+  border-radius: 9px;
+  font-size: 14px;
+}
+.discipline-option.active .discipline-number {
+  color: white;
+  background: var(--discipline-color);
+}
+.discipline-option > span:nth-child(2) { flex: 1; min-width: 0; }
+.discipline-option strong { display: block; font-size: 14px; line-height: 1.5; font-weight: 650; }
+.discipline-option small { display: block; font-size: 11px; line-height: 1.5; color: var(--muted); margin-top: 3px; }
+.discipline-option > svg { color: var(--discipline-color); }
+.active-discipline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  align-items: baseline;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-top: 11px;
+}
+.active-discipline strong { color: var(--green); font-weight: 600; }
+.active-discipline > span { width: 6px; height: 6px; background: var(--green); border-radius: 50%; margin-right: 3px; }
+.course-material-note { font-size: 12px; color: var(--muted); line-height: 1.7; margin: -3px 0 20px; }
+.library-tools { flex-wrap: wrap; }
+.filter-tabs { flex-wrap: wrap; }
+.module-category { line-height: 1.5; }
+.hero-footnote { max-width: 420px; line-height: 1.6; }
+
+[data-course="epidemiologia"] .study-hero { background: #164e68; }
+[data-course="epidemiologia"] .garden-art { filter: hue-rotate(43deg) saturate(.65); }
+[data-course="epidemiologia"] .sidebar,
+[data-course="epidemiologia"] .app-header,
+[data-course="epidemiologia"] .bottom-nav { background: #fbfdfe; }
+[data-course="epidemiologia"] .sidebar nav button.active,
+[data-course="epidemiologia"] .filter-tabs button.active,
+[data-course="epidemiologia"] .bottom-nav button.active,
+[data-course="epidemiologia"] .sidebar-quote,
+[data-course="epidemiologia"] .sage,
+[data-course="epidemiologia"] .memory-check,
+[data-course="epidemiologia"] .flashcard.flipped,
+[data-course="epidemiologia"] .module-option.selected,
+[data-course="epidemiologia"] .resume-banner,
+[data-course="epidemiologia"] .practice-modes button.active,
+[data-course="epidemiologia"] .subtle-badge { background: #e6f0f5; color: #205c75; border-color: #c6dee8; }
+[data-course="epidemiologia"] .sidebar-quote p,
+[data-course="epidemiologia"] .sidebar-quote > svg,
+[data-course="epidemiologia"] .memory-check summary,
+[data-course="epidemiologia"] .memory-check summary strong,
+[data-course="epidemiologia"] .module-progress > span,
+[data-course="epidemiologia"] .stat-icon,
+[data-course="epidemiologia"] .module-category,
+[data-course="epidemiologia"] .eyebrow,
+[data-course="epidemiologia"] .note-card h3 { color: #34647b; }
+[data-course="epidemiologia"] .section-heading p,
+[data-course="epidemiologia"] .page-heading p,
+[data-course="epidemiologia"] .module-card > p,
+[data-course="epidemiologia"] .module-bottom,
+[data-course="epidemiologia"] .sidebar nav button,
+[data-course="epidemiologia"] .sidebar-help,
+[data-course="epidemiologia"] .storage-label,
+[data-course="epidemiologia"] .filter-tabs button,
+[data-course="epidemiologia"] .stat-card div > span { color: #59717e; }
+[data-course="epidemiologia"] .hero-kicker,
+[data-course="epidemiologia"] .hero-footnote,
+[data-course="epidemiologia"] .study-hero p { color: #d8eaf3; }
+[data-course="epidemiologia"] .progress-track { background: #e0ebf1; }
+[data-course="epidemiologia"] .progress-track > span,
+[data-course="epidemiologia"] .nav-dot,
+[data-course="epidemiologia"] .step-number.complete { background: #43819a; }
+[data-course="epidemiologia"] .note-card,
+[data-course="epidemiologia"] .study-tip { background: #eaf2f6; border-color: #d5e4ec; }
+[data-course="epidemiologia"] .button.primary:hover:not(:disabled) { background: #103f54; }
+[data-course="epidemiologia"] .button.cream { background: #e1edf4; color: #164e68; }
+[data-course="epidemiologia"] .tone-0 { background: #e0eef5; color: #36657d; }
+[data-course="epidemiologia"] .tone-1 { background: #e6eaf7; color: #596f99; }
+[data-course="epidemiologia"] .tone-2 { background: #e0f0ef; color: #407b7a; }
+[data-course="epidemiologia"] .tone-3 { background: #f0eaf6; color: #806394; }
+[data-course="epidemiologia"] button:focus-visible,
+[data-course="epidemiologia"] a:focus-visible,
+[data-course="epidemiologia"] input:focus-visible,
+[data-course="epidemiologia"] select:focus-visible { outline-color: #43819a; }
+
+@media (max-width: 850px) {
+  .discipline-option { padding: 12px; gap: 10px; }
+  .discipline-option.active { padding: 11px; }
+  .discipline-option strong { font-size: 13px; }
+}
+@media (max-width: 620px) {
+  .discipline-switcher { margin-bottom: 24px; }
+  .discipline-heading { display: block; }
+  .discipline-heading > span:last-child { display: none; }
+  .discipline-options { grid-template-columns: 1fr; gap: 8px; }
+  .discipline-option { min-height: 73px; }
+  .discipline-option small { font-size: 11px; }
+  .active-discipline { font-size: 11px; }
+  .filter-tabs { gap: 2px; }
+  .filter-tabs button { padding: 10px; }
+}

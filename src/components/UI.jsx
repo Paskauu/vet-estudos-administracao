@@ -141,7 +141,7 @@ export function ModulePicker({ modules, selected, onChange }) {
               }
             />
             <span className="option-number">
-              {String(m.order).padStart(2, "0")}
+              {m.source.topic}
             </span>
             <span>{m.shortTitle}</span>
             {selected.includes(m.id) && <Check size={16} />}

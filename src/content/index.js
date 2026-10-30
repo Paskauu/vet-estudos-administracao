@@ -1,5 +1,9 @@
-const files = import.meta.glob("./m*.json", { eager: true, import: "default" });
-export const modules = Object.values(files).sort((a, b) => a.order - b.order);
+const files = import.meta.glob(["./m*.json", "./e*.json"], { eager: true, import: "default" });
+export const modules = Object.values(files).map((m) => ({
+  ...m,
+  courseId: m.courseId || "administracao",
+  category: m.category || (m.order <= 6 ? "Administração" : "Aspectos legais"),
+})).sort((a, b) => a.courseId.localeCompare(b.courseId) || a.order - b.order);
 export const questions = modules.flatMap((m) =>
   m.questions.map((q) => ({ ...q, moduleId: m.id })),
 );
