@@ -1,0 +1,872 @@
+{
+  "id": "m02",
+  "order": 2,
+  "title": "Ambientes e culturas organizacionais",
+  "shortTitle": "Ambientes e cultura",
+  "description": "Burocracia, sistemas abertos, contingência e desenvolvimento: como estruturas, pessoas, contexto e cultura se relacionam.",
+  "source": {
+    "filename": "Ambientes e culturas organizacionais.pdf",
+    "pages": 18,
+    "topic": "02"
+  },
+  "lessons": [
+    {
+      "id": "m02-l01",
+      "title": "Estruturas e burocracia: conceitos de partida",
+      "intro": "Analise as relações entre os elementos de uma organização e diferencie burocracia de suas disfunções.",
+      "blocks": [
+        {
+          "title": "O olhar estruturalista",
+          "text": "O estruturalismo é apresentado como uma maneira de examinar uma totalidade, identificando elementos internos, inter-relações e disposição. Essa análise ajuda a compreender e comparar sistemas organizacionais.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "1. Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Burocracia e disfunções",
+          "text": "A burocracia busca organizar racionalmente o funcionamento e o alcance de objetivos. As disfunções aparecem quando excessos de formalidades, regras, desvios e desqualificação tornam os processos lentos e ineficientes. Ter regras não basta para concluir que uma organização funciona mal.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "2. Descortinando a teoria da burocracia"
+            },
+            {
+              "page": 3,
+              "section": "2. Descortinando a teoria da burocracia"
+            }
+          ]
+        },
+        {
+          "title": "O tipo ideal de Weber",
+          "text": "A organização burocrática é apresentada como um tipo ideal orientado a objetivos explícitos. O texto a associa a regras legalmente definidas e a profissionais preparados para executar suas atividades com precisão.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "2. Descortinando a teoria da burocracia"
+            },
+            {
+              "page": 4,
+              "section": "2. Descortinando a teoria da burocracia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m02-l02",
+      "title": "Racionalidade, impessoalidade e limites da burocracia",
+      "intro": "Entenda como a coordenação formal sustenta a organização e por que o contexto de mudanças exige atenção.",
+      "blocks": [
+        {
+          "title": "Coordenação e critérios formais",
+          "text": "A abordagem burocrática considera a organização de forma ampla, com racionalidade legal, autoridade formal, controle e processos. A conclusão destaca processos delineados, profissionais capacitados, hierarquia formal e descrição de cargos.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. Teoria da burocracia e 6. Conclusão"
+            },
+            {
+              "page": 15,
+              "section": "2. Teoria da burocracia e 6. Conclusão"
+            }
+          ]
+        },
+        {
+          "title": "Separar o pessoal do profissional",
+          "text": "A impessoalidade significa separar as esferas pessoal, privada e familiar da esfera profissional. Esse princípio se relaciona à coordenação estável das pessoas, dos processos e da estrutura em torno de objetivos formais.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. Descortinando a teoria da burocracia"
+            }
+          ]
+        },
+        {
+          "title": "Estabilidade e necessidade de adaptação",
+          "text": "O PDF apresenta a burocracia como modelo de funcionamento estável e padronizado. Sua crítica contrapõe essa estabilidade às exigências de mudança da era do conhecimento e da informação, lembrando o funcionamento do modelo em grandes organizações e ambientes mais estáveis.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. Descortinando a teoria da burocracia"
+            },
+            {
+              "page": 6,
+              "section": "2. Descortinando a teoria da burocracia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m02-l03",
+      "title": "Sistemas abertos e integração sociotécnica",
+      "intro": "Observe a organização como um conjunto integrado e relacione elementos humanos, métodos e ferramentas.",
+      "blocks": [
+        {
+          "title": "Da máquina ao organismo",
+          "text": "A exposição usa o sistema fechado como analogia da organização mecanicista. Na perspectiva orgânica do sistema aberto, a organização é comparada a um corpo: departamentos e direção precisam funcionar de forma integrada.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "3. A organização como um sistema aberto"
+            },
+            {
+              "page": 7,
+              "section": "3. A organização como um sistema aberto"
+            }
+          ]
+        },
+        {
+          "title": "Adaptação, criatividade e inovação",
+          "text": "A organização orgânica é associada à capacidade de se ajustar a mudanças. O material liga essa flexibilidade a um ambiente em que criatividade e inovação podem favorecer o desenvolvimento.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "3. A organização como um sistema aberto"
+            },
+            {
+              "page": 8,
+              "section": "3. A organização como um sistema aberto"
+            }
+          ]
+        },
+        {
+          "title": "O sistema sociotécnico",
+          "text": "A abordagem sociotécnica integra a dimensão humana e os recursos técnicos-materiais. O desempenho depende da relação entre esses elementos.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "3. A organização como um sistema aberto"
+            }
+          ],
+          "bullets": [
+            "Dimensão social: comportamento, personalidade, relações, desejos, crenças e visões de mundo.",
+            "Dimensão técnica: métodos de trabalho, ferramentas e técnicas utilizadas pelo grupo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m02-l04",
+      "title": "Contingência: decidir conforme a situação",
+      "intro": "Relacione o diagnóstico do contexto às escolhas de estruturas, práticas e alternativas para a organização.",
+      "blocks": [
+        {
+          "title": "Não há uma estrutura única para todos os casos",
+          "text": "A teoria da contingência considera o ambiente, as pessoas e a situação específica. A escolha de estruturas, estilos gerenciais e práticas exige diagnóstico cuidadoso antes da decisão.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4. A teoria da contingência"
+            },
+            {
+              "page": 10,
+              "section": "4. A teoria da contingência"
+            }
+          ]
+        },
+        {
+          "title": "Olhar para o ambiente externo",
+          "text": "O PDF aproxima a contingência da busca externa de melhores práticas, métodos e modelos. A relação com benchmarking reforça o interesse por alternativas que possam apoiar o funcionamento da organização.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4. A teoria da contingência"
+            },
+            {
+              "page": 11,
+              "section": "4. A teoria da contingência"
+            }
+          ]
+        },
+        {
+          "title": "Preparar alternativas de ação",
+          "text": "O exemplo da pandemia mostra como mudanças externas podem exigir reinvenção, como o uso do teletrabalho. O plano de contingência representa a preparação de alternativas diante de situações que afetam o funcionamento e os resultados.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4. A teoria da contingência"
+            },
+            {
+              "page": 10,
+              "section": "4. A teoria da contingência"
+            },
+            {
+              "page": 11,
+              "section": "4. A teoria da contingência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m02-l05",
+      "title": "Desenvolvimento, mudança e inovação",
+      "intro": "Explore as perspectivas tecnológica e comportamental do desenvolvimento organizacional.",
+      "blocks": [
+        {
+          "title": "Diferentes sentidos do desenvolvimento",
+          "text": "O capítulo apresenta autores que aproximam desenvolvimento e mudança e outros que o relacionam à aplicação sistemática de técnicas de dinâmica grupal. Ambas as perspectivas ajudam a compreender processos de transformação organizacional.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            }
+          ]
+        },
+        {
+          "title": "Criatividade e transformação digital",
+          "text": "Acompanhar mudanças e tendências envolve investir recursos, tempo e dedicação em criatividade e soluções inovadoras. No contexto de transformação digital descrito, soluções disruptivas rompem padrões usuais e apresentam novas experiências ao consumidor.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            },
+            {
+              "page": 13,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            }
+          ]
+        },
+        {
+          "title": "Mudança comportamental dirigida",
+          "text": "O desenvolvimento também pode ser visto pela interação entre grupos para resolver problemas. Nessa perspectiva, a implementação de planos tem direção e objetivos específicos, aproximando mudança comportamental e desenvolvimento organizacional.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m02-l06",
+      "title": "Cultura: aprender a conviver e a se adaptar",
+      "intro": "Entenda a cultura como aprendizagem coletiva e reconheça suas relações com normas, valores e desenvolvimento.",
+      "blocks": [
+        {
+          "title": "Aprendizado ao longo do tempo",
+          "text": "A definição atribuída a Schein relaciona cultura ao que um grupo aprende ao resolver problemas de sobrevivência no ambiente externo e de integração interna. Esse aprendizado tem dimensões cognitivas e emocionais.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            },
+            {
+              "page": 14,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            }
+          ]
+        },
+        {
+          "title": "O que o grupo compartilha",
+          "text": "Percepções, linguagem e formas de pensar compartilhadas se relacionam aos sentimentos, atitudes, valores e comportamentos. A conclusão sintetiza cultura como normas, valores, crenças e comportamentos que orientam a organização.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "5. Cultura organizacional e 6. Conclusão"
+            },
+            {
+              "page": 16,
+              "section": "5. Cultura organizacional e 6. Conclusão"
+            }
+          ]
+        },
+        {
+          "title": "Toda organização desenvolve cultura",
+          "text": "A presença de características negativas não significa ausência de cultura. O capítulo destaca que cada organização tem peculiaridades e relaciona desenvolvimento à capacidade de aprender e solucionar problemas de adaptação ao ambiente e convivência interna.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m02-f01",
+      "front": "O que o estruturalismo examina, segundo a introdução?",
+      "back": "Os elementos internos de uma totalidade, suas inter-relações e disposição, permitindo analisar sistemas organizacionais.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m02-f02",
+      "front": "Qual a diferença entre burocracia e disfunções da burocracia?",
+      "back": "A burocracia busca coordenação racional e objetivos; suas disfunções envolvem excessos e desvios que geram lentidão e ineficiência.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. Descortinando a teoria da burocracia"
+        },
+        {
+          "page": 4,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-f03",
+      "front": "A quem o PDF associa a teoria da burocracia?",
+      "back": "A Max Weber.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. Descortinando a teoria da burocracia"
+        },
+        {
+          "page": 4,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-f04",
+      "front": "Como a organização burocrática é caracterizada no texto?",
+      "back": "Um tipo ideal voltado a objetivos explícitos, com regras legalmente definidas e profissionais qualificados.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-f05",
+      "front": "O que significa impessoalidade na exposição do capítulo?",
+      "back": "Separar a esfera pessoal, privada e familiar da esfera profissional.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-f06",
+      "front": "Que limitação da burocracia em contextos mutáveis é discutida?",
+      "back": "A dificuldade de um modelo estável acompanhar as mudanças da era do conhecimento e da informação.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-f07",
+      "front": "O que a metáfora do corpo mostra sobre sistemas abertos?",
+      "back": "A necessidade de integração e bom funcionamento conjunto dos departamentos e da direção.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-f08",
+      "front": "O que compõe a dimensão social de um sistema sociotécnico?",
+      "back": "Comportamentos, personalidade, relações sociais e aspectos humanos como desejos, crenças e visões de mundo.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-f09",
+      "front": "O que compõe a dimensão técnica de um sistema sociotécnico?",
+      "back": "Métodos de trabalho, ferramentas e técnicas, integrados aos elementos humanos.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-f10",
+      "front": "Qual é a ideia central da teoria da contingência?",
+      "back": "Não há uma única estrutura ou decisão certa para todos os casos; a melhor alternativa depende do ambiente, das pessoas e da situação.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. A teoria da contingência"
+        }
+      ]
+    },
+    {
+      "id": "m02-f11",
+      "front": "Qual atitude a contingência recomenda antes das decisões?",
+      "back": "Diagnosticar cuidadosamente a situação.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. A teoria da contingência"
+        }
+      ]
+    },
+    {
+      "id": "m02-f12",
+      "front": "Como o PDF relaciona benchmarking e contingência?",
+      "back": "Pela busca, no ambiente externo, de melhores práticas, métodos e modelos para a organização.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. A teoria da contingência"
+        },
+        {
+          "page": 11,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-f13",
+      "front": "Quais duas interpretações de desenvolvimento organizacional são apresentadas?",
+      "back": "Desenvolvimento como mudança e desenvolvimento como aplicação sistemática de técnicas de dinâmica grupal.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-f14",
+      "front": "O que caracteriza uma solução disruptiva na descrição do capítulo?",
+      "back": "Romper padrões usuais de mercado e oferecer uma nova experiência ao consumidor.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        },
+        {
+          "page": 13,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-f15",
+      "front": "Que dois problemas coletivos se destacam na definição de cultura?",
+      "back": "Adaptação/sobrevivência no ambiente externo e integração/convivência interna.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        },
+        {
+          "page": 14,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-f16",
+      "front": "Uma empresa com práticas negativas deixa de ter cultura?",
+      "back": "Não. Toda organização desenvolve cultura; ela pode ter características positivas ou negativas e precisa aprender a resolver seus problemas.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m02-q01",
+      "prompt": "Uma análise procura identificar os elementos de um sistema, suas relações e sua disposição interna. Qual conceito da introdução está mais diretamente envolvido?",
+      "choices": [
+        "Estruturalismo.",
+        "Produção em massa.",
+        "Autorrealização.",
+        "Remuneração por peça."
+      ],
+      "answer": 0,
+      "explanation": "O estruturalismo é apresentado pela análise de uma totalidade e das relações entre seus componentes.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m02-q02",
+      "prompt": "Uma empresa tem processos claros e profissionais preparados. Outra impõe formalidades excessivas, atrasos e desvios. Qual leitura respeita a distinção do material?",
+      "choices": [
+        "Ambas são ineficientes necessariamente, pois têm regras.",
+        "A primeira não pode ser burocrática, pois funciona.",
+        "A segunda evidencia disfunções da burocracia, que não se confundem com a burocracia em si.",
+        "O excesso de formalidades é o objetivo central do tipo ideal."
+      ],
+      "answer": 2,
+      "explanation": "A apostila diferencia a organização racional voltada a objetivos das disfunções que geram lentidão e ineficiência.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. Descortinando a teoria da burocracia"
+        },
+        {
+          "page": 4,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-q03",
+      "prompt": "Qual combinação corresponde à organização burocrática descrita no capítulo?",
+      "choices": [
+        "Preferências familiares e ausência de regras.",
+        "Improvisação permanente e contratação sem qualificação.",
+        "Decisões sem objetivos e processos ocultos.",
+        "Regras legalmente definidas e profissionais qualificados para executar atividades com precisão."
+      ],
+      "answer": 3,
+      "explanation": "Esses são elementos usados para explicar o tipo ideal de organização e sua orientação a objetivos explícitos.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-q04",
+      "prompt": "Uma responsável por contratações separa seus vínculos familiares dos critérios profissionais. Qual princípio mencionado no PDF essa conduta exemplifica?",
+      "choices": [
+        "Produção em massa.",
+        "Impessoalidade.",
+        "Sistema fechado.",
+        "Disrupção."
+      ],
+      "answer": 1,
+      "explanation": "A impessoalidade é explicitada como separação da esfera pessoal, privada e familiar em relação à esfera profissional.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-q05",
+      "prompt": "Segundo a crítica apresentada, em qual situação o modelo burocrático tende a enfrentar maior dificuldade?",
+      "choices": [
+        "Em contextos de mudanças frequentes que exigem adaptação da organização.",
+        "Em ambientes estáveis nos quais pouco se precisa mudar.",
+        "Quando se busca clareza de cargos e de objetivos.",
+        "Quando profissionais qualificados executam regras definidas."
+      ],
+      "answer": 0,
+      "explanation": "O PDF contrasta o funcionamento em ambientes estáveis com as exigências de mudança da era do conhecimento e da informação. Trata-se da crítica discutida na fonte.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Descortinando a teoria da burocracia"
+        }
+      ]
+    },
+    {
+      "id": "m02-q06",
+      "prompt": "Ao comparar a organização a um corpo humano, o capítulo pretende destacar principalmente:",
+      "choices": [
+        "A independência absoluta dos departamentos.",
+        "A eliminação da direção geral.",
+        "A integração e o bom funcionamento das partes de um sistema orgânico.",
+        "A impossibilidade de mudanças."
+      ],
+      "answer": 2,
+      "explanation": "A metáfora associa membros a departamentos e cabeça à direção, enfatizando sua integração.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-q07",
+      "prompt": "Qual característica é associada ao sistema orgânico/aberto no material?",
+      "choices": [
+        "Repetir indefinidamente a mesma estrutura, qualquer que seja o contexto.",
+        "Impedir a criatividade das pessoas.",
+        "Manter todos os departamentos isolados.",
+        "Adaptar-se às mudanças e favorecer criatividade e inovação."
+      ],
+      "answer": 3,
+      "explanation": "A apostila vincula a perspectiva orgânica à adequação às mudanças e a um ambiente propício à criatividade e à inovação.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. A organização como um sistema aberto"
+        },
+        {
+          "page": 8,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-q08",
+      "prompt": "Uma análise considera desejos, crenças, relações e comportamento dos trabalhadores. Qual dimensão do sistema sociotécnico ela está examinando?",
+      "choices": [
+        "Apenas a técnica.",
+        "A social.",
+        "Apenas a legal.",
+        "A produção em massa."
+      ],
+      "answer": 1,
+      "explanation": "Esses aspectos pertencem à perspectiva social descrita no capítulo.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-q09",
+      "prompt": "Uma organização investe em ferramentas e métodos de trabalho, mas percebe que precisa integrá-los aos aspectos humanos para melhorar o desempenho. Qual abordagem ajuda a interpretar essa necessidade?",
+      "choices": [
+        "A sociotécnica.",
+        "A substituição da dimensão social por equipamentos.",
+        "A identificação de cultura com ausência de mudanças.",
+        "A associação automática entre regras e ineficiência."
+      ],
+      "answer": 0,
+      "explanation": "O sistema sociotécnico integra elementos humanos e recursos técnicos-materiais para o desempenho organizacional.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. A organização como um sistema aberto"
+        }
+      ]
+    },
+    {
+      "id": "m02-q10",
+      "prompt": "Duas empresas atuam em ambientes diferentes e têm equipes e condições distintas. Segundo a teoria da contingência, qual atitude é mais adequada?",
+      "choices": [
+        "Impor sempre a mesma estrutura às duas.",
+        "Escolher apenas pela preferência pessoal do gestor.",
+        "Diagnosticar cada situação para escolher estruturas e práticas compatíveis.",
+        "Ignorar o ambiente externo e analisar somente máquinas."
+      ],
+      "answer": 2,
+      "explanation": "O melhor estilo gerencial e as decisões dependem do ambiente, das pessoas e da situação específica.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. A teoria da contingência"
+        }
+      ]
+    },
+    {
+      "id": "m02-q11",
+      "prompt": "Uma equipe procura no mercado boas práticas que possam orientar melhorias em sua organização. Que relação estabelecida no capítulo está em jogo?",
+      "choices": [
+        "A equivalência entre cultura e organograma.",
+        "A redução da organização à linha de montagem.",
+        "A definição de necessidades fisiológicas.",
+        "A aproximação entre benchmarking e busca contingencial de alternativas externas."
+      ],
+      "answer": 3,
+      "explanation": "O material associa a abordagem contingencial à busca externa de melhores práticas, métodos e modelos.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. A teoria da contingência"
+        },
+        {
+          "page": 11,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q12",
+      "prompt": "No exemplo da pandemia apresentado pelo material, por que a ausência de um plano de contingência é problemática?",
+      "choices": [
+        "Porque qualquer mudança externa deve ser ignorada.",
+        "Porque a organização pode ficar sem alternativas diante de mudanças como o fechamento presencial e o teletrabalho.",
+        "Porque todos os setores têm de adotar um único modelo, permanentemente.",
+        "Porque planejar impede a adaptação."
+      ],
+      "answer": 1,
+      "explanation": "A fonte usa a necessidade de reinvenção e de um plano alternativo para ilustrar o impacto das mudanças do cenário externo.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. A teoria da contingência"
+        }
+      ]
+    },
+    {
+      "id": "m02-q13",
+      "prompt": "Qual afirmação corresponde às interpretações de desenvolvimento organizacional citadas pelo PDF?",
+      "choices": [
+        "Pode ser relacionado à mudança e também à aplicação sistemática de técnicas de dinâmica grupal.",
+        "Significa exclusivamente crescimento do espaço físico.",
+        "Ocorre apenas quando a empresa elimina seus grupos.",
+        "É definido somente pela compra de computadores."
+      ],
+      "answer": 0,
+      "explanation": "O capítulo apresenta essas duas perspectivas antes de relacionar desenvolvimento, criatividade, inovação e comportamento.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q14",
+      "prompt": "Uma empresa dedica recursos e tempo a uma solução que rompe padrões usuais e oferece nova experiência ao consumidor. Qual ideia do capítulo essa descrição ilustra?",
+      "choices": [
+        "Excesso de formalidades.",
+        "Impossibilidade de mudança.",
+        "Inovação disruptiva no contexto de transformação digital.",
+        "Ausência de cultura."
+      ],
+      "answer": 2,
+      "explanation": "O texto associa transformação digital ao desenvolvimento de soluções inovadoras e disruptivas que rompem padrões de mercado.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        },
+        {
+          "page": 13,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q15",
+      "prompt": "Uma organização prepara um plano para que grupos interajam e resolvam problemas de funcionamento. Qual perspectiva de desenvolvimento está aplicando?",
+      "choices": [
+        "Apenas a da estrutura física.",
+        "A do isolamento entre departamentos.",
+        "A da eficiência por remuneração exclusiva.",
+        "A comportamental, com mudança dirigida a objetivos."
+      ],
+      "answer": 3,
+      "explanation": "O PDF relaciona a perspectiva comportamental à interação dos grupos, à solução de problemas e à implementação de planos de desenvolvimento.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q16",
+      "prompt": "Qual par corresponde aos problemas enfrentados pelos grupos na definição de cultura atribuída a Schein?",
+      "choices": [
+        "Produção em massa e variedade de cores.",
+        "Adaptação/sobrevivência externa e integração interna.",
+        "Salário individual e salário coletivo, exclusivamente.",
+        "Unidade de comando e unidade de direção, exclusivamente."
+      ],
+      "answer": 1,
+      "explanation": "A definição trata do que o grupo aprende ao resolver problemas no ambiente externo e na convivência interna.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        },
+        {
+          "page": 14,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q17",
+      "prompt": "Uma empresa mantém crenças e práticas consideradas desatualizadas. Segundo o capítulo, qual conclusão é adequada?",
+      "choices": [
+        "Ela tem cultura, embora suas características possam dificultar o desenvolvimento.",
+        "Ela não possui cultura, pois cultura é sempre positiva.",
+        "Somente organizações inovadoras podem ter cultura.",
+        "Cultura se limita à existência de equipamentos novos."
+      ],
+      "answer": 0,
+      "explanation": "Toda organização desenvolve cultura, com aspectos positivos ou negativos; a capacidade de aprender e resolver problemas é relevante ao desenvolvimento.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q18",
+      "prompt": "Uma equipe compartilha formas de perceber, falar e pensar que influenciam seus valores, atitudes e comportamentos. O que essa descrição ajuda a explicar?",
+      "choices": [
+        "Somente a distribuição de máquinas da fábrica.",
+        "A ausência de aprendizagem coletiva.",
+        "A dimensão cognitiva e compartilhada da cultura organizacional.",
+        "A impossibilidade de integração interna."
+      ],
+      "answer": 2,
+      "explanation": "A definição citada relaciona percepções, linguagem e processos de pensamento compartilhados aos sentimentos, valores, atitudes e comportamentos do grupo.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Desenvolvimento organizacional e seus desdobramentos"
+        }
+      ]
+    },
+    {
+      "id": "m02-q19",
+      "prompt": "Na síntese do módulo, qual combinação caracteriza a busca de resultados pela organização burocrática?",
+      "choices": [
+        "Cargos indefinidos, preferências pessoais e ausência de processos.",
+        "Excesso de formulários e profissionais sem preparação.",
+        "Falta de hierarquia e abandono dos objetivos.",
+        "Processos delineados, profissionais capacitados, hierarquia formal e descrição de cargos."
+      ],
+      "answer": 3,
+      "explanation": "A conclusão reúne esses elementos e distingue seu funcionamento das disfunções causadas por desvios.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "6. Conclusão"
+        }
+      ]
+    },
+    {
+      "id": "m02-q20",
+      "prompt": "Qual conjunto de elementos é usado na conclusão para sintetizar cultura organizacional?",
+      "choices": [
+        "Somente prédios, máquinas e estoques.",
+        "Normas, valores, crenças e comportamentos.",
+        "Apenas cargos e salários.",
+        "Exclusivamente produtos e serviços digitais."
+      ],
+      "answer": 1,
+      "explanation": "A conclusão apresenta a cultura como conjunto desses elementos que orientam a organização em seu desenvolvimento.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "6. Conclusão"
+        }
+      ]
+    }
+  ]
+}

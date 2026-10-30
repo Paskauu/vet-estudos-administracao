@@ -1,0 +1,890 @@
+{
+  "id": "m01",
+  "order": 1,
+  "title": "Administração: conceito, funções e papéis",
+  "shortTitle": "Fundamentos da administração",
+  "description": "Recursos, objetivos e escolas clássicas: Taylor, Ford e Fayol, seus métodos, funções administrativas e principais diferenças.",
+  "source": {
+    "filename": "Administração- conceito, funções e papéis.pdf",
+    "pages": 20,
+    "topic": "01"
+  },
+  "lessons": [
+    {
+      "id": "m01-l01",
+      "title": "Administrar recursos para alcançar objetivos",
+      "intro": "Entenda por que a administração atravessa profissões e se organiza em torno de decisões, recursos e resultados.",
+      "blocks": [
+        {
+          "title": "Administração em diferentes contextos",
+          "text": "Administrar envolve métodos, práticas, processos e decisões para alcançar resultados organizacionais. Esse conhecimento pode ser aplicado em empresas, órgãos públicos e organizações do terceiro setor.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "1. Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Conhecimento transversal",
+          "text": "Uma pessoa pode ser especialista em saúde, engenharia ou gastronomia e, ainda assim, precisar gerir equipes, agendas, operações e recursos. O caráter multidisciplinar da administração explica sua presença em atividades profissionais diversas.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "1. Introdução"
+            },
+            {
+              "page": 2,
+              "section": "1. Introdução"
+            }
+          ]
+        },
+        {
+          "title": "O contexto das escolas clássicas",
+          "text": "O material situa as escolas clássicas no contexto de industrialização e destaca a busca de produtividade e eficiência. O paradigma funcionalista, nessa apresentação, está voltado ao funcionamento e à eficiência dos meios de produção.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "1. Introdução"
+            },
+            {
+              "page": 3,
+              "section": "1. Introdução"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m01-l02",
+      "title": "Taylor: tarefas, tempos e produtividade",
+      "intro": "Observe a racionalização do trabalho operacional e a concepção de motivação adotada pela administração científica.",
+      "blocks": [
+        {
+          "title": "A ênfase nas tarefas",
+          "text": "A administração científica de Taylor concentra-se no trabalho operacional. O estudo de tempos e movimentos examina a execução das tarefas para racionalizar movimentos e duração, buscando aumentar a produção e reduzir desperdícios de tempo e materiais.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "2. Escolas clássicas: Taylorismo"
+            },
+            {
+              "page": 5,
+              "section": "2. Escolas clássicas: Taylorismo"
+            }
+          ]
+        },
+        {
+          "title": "Organização Racional do Trabalho",
+          "text": "O PDF apresenta a ORT como uma forma de estruturar o aperfeiçoamento do trabalho. Os quatro princípios enumerados no material são:",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. Escolas clássicas: Taylorismo"
+            }
+          ],
+          "bullets": [
+            "Padronização de instrumentos e métodos.",
+            "Estudo de tempos e movimentos.",
+            "Psicologia dos trabalhadores, associada ao homo economicus.",
+            "Eficiência do trabalhador."
+          ]
+        },
+        {
+          "title": "Homo economicus e a crítica mecanicista",
+          "text": "Na concepção estudada, recompensas salariais e materiais seriam determinantes do esforço do trabalhador. O material também apresenta a crítica de que essa abordagem aproxima o ser humano de uma máquina ou de uma peça dela. Estudar essa premissa significa compreender a teoria, sem tratar a motivação econômica exclusiva como descrição universal das pessoas.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. Escolas clássicas: Taylorismo"
+            },
+            {
+              "page": 6,
+              "section": "2. Escolas clássicas: Taylorismo"
+            },
+            {
+              "page": 7,
+              "section": "2. Escolas clássicas: Taylorismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m01-l03",
+      "title": "Ford: padronização e produção em massa",
+      "intro": "Relacione linha de montagem, escala produtiva e custos, considerando também os limites de um modelo rígido.",
+      "blocks": [
+        {
+          "title": "A linha móvel de montagem",
+          "text": "Ford é associado à linha móvel de montagem. A organização da produção em tarefas simples e repetidas permite ampliar o volume produzido e aproxima o fordismo da preocupação de Taylor com a eficiência.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "3. Escolas clássicas: Fordismo"
+            }
+          ]
+        },
+        {
+          "title": "O Modelo T e a redução da variedade",
+          "text": "O capítulo usa o Modelo T para explicar como a padronização favorecia a produção em escala. Reduzir opções de modelo e cor simplificava o sistema e apoiava a redução dos custos de produção.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "3. Escolas clássicas: Fordismo"
+            }
+          ]
+        },
+        {
+          "title": "Ganhos e limites da escala",
+          "text": "A produção em massa é relacionada à minimização de custos e à maximização dos resultados. A crítica apresentada ao fordismo destaca que a rigidez do modelo dificultava inovação e adaptação ao mercado, além de envolver problemas de controle de pessoal.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "3. Escolas clássicas: Fordismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m01-l04",
+      "title": "Fayol: estrutura e princípios de gestão",
+      "intro": "Conheça a visão da alta administração e diferencie princípios que organizam o trabalho, a coordenação e as relações entre pessoas.",
+      "blocks": [
+        {
+          "title": "A visão do conjunto",
+          "text": "A abordagem de Fayol tem ênfase na estrutura organizacional e na alta administração. O gestor dirige a organização com foco em objetivos e no melhor uso dos recursos disponíveis, enquanto o texto distingue capacidades de gestão e competências técnicas.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 11,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 12,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 13,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ]
+        },
+        {
+          "title": "Trabalho, autoridade e coordenação",
+          "text": "Os primeiros princípios ajudam a organizar esforços e a evitar conflitos de comando e de objetivos. Unidade de comando e unidade de direção tratam de questões diferentes:",
+          "refs": [
+            {
+              "page": 11,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ],
+          "bullets": [
+            "Divisão do trabalho: produzir mais e melhor com o mesmo esforço.",
+            "Autoridade: direito de comandar e ser obedecido.",
+            "Disciplina: observância das exigências de conduta e respeito.",
+            "Unidade de comando: cada empregado recebe ordens de apenas um chefe.",
+            "Unidade de direção: atividades com o mesmo objetivo têm um chefe e um programa.",
+            "Subordinação dos interesses individuais aos gerais: preservar o interesse do conjunto."
+          ]
+        },
+        {
+          "title": "Estrutura e relações de trabalho",
+          "text": "Outros princípios tratam de remuneração, posição na estrutura e relações entre gestores e empregados:",
+          "refs": [
+            {
+              "page": 11,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ],
+          "bullets": [
+            "Remuneração pessoal: buscar equidade e satisfação para empregado e empregador.",
+            "Centralização: na descrição do PDF, buscar a melhor utilização possível da capacidade de cada empregado.",
+            "Hierarquia: conhecer a posição de cada pessoa e seguir as linhas de ordens e informações.",
+            "Ordem: organizar posições e pessoas, apoiando-se também no recrutamento.",
+            "Equidade: combinar justiça e bondade, sem preferências pessoais."
+          ]
+        },
+        {
+          "title": "Permanência, iniciativa e união",
+          "text": "Os princípios finais valorizam a continuidade das pessoas, a elaboração de planos e a harmonia do grupo:",
+          "refs": [
+            {
+              "page": 11,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 12,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ],
+          "bullets": [
+            "Estabilidade do pessoal: evitar os prejuízos da rotatividade para a eficiência.",
+            "Iniciativa: conceber um plano e assegurar seu sucesso.",
+            "Espírito de equipe: fortalecer a harmonia e a união como fontes de vitalidade."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m01-l05",
+      "title": "Funções administrativas e estrutura organizacional",
+      "intro": "Reconheça as cinco funções de Fayol e o que um organograma permite compreender sobre cargos e subordinação.",
+      "blocks": [
+        {
+          "title": "As cinco funções de Fayol",
+          "text": "O material apresenta administrar como planejar, organizar, comandar, coordenar e controlar a organização. Essas cinco funções sustentam a atuação de direção voltada a objetivos e ao uso dos recursos.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ]
+        },
+        {
+          "title": "O organograma",
+          "text": "O organograma permite visualizar cargos, atividades e relações de subordinação. Ele ajuda a compreender como as posições se organizam e quem se reporta a quem.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ]
+        },
+        {
+          "title": "Os sentidos de organização",
+          "text": "No capítulo, organização designa tanto uma função administrativa quanto o conjunto de elementos e ações coletivamente organizados em um empreendimento. A ideia se relaciona à coordenação dos esforços para produzir bens, serviços e resultados.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 16,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 17,
+              "section": "5. Conclusão"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m01-l06",
+      "title": "Comparar abordagens e mudar de perspectiva",
+      "intro": "Diferencie os nomes das escolas e use a metáfora das lentes para perceber que uma organização admite diferentes interpretações.",
+      "blocks": [
+        {
+          "title": "Científica, clássica e escolas clássicas",
+          "text": "Administração científica é a abordagem associada a Taylor; administração clássica é associada a Fayol. A expressão escolas clássicas reúne, no material, as abordagens de Taylor, Ford e Fayol.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "4. Escolas clássicas: Fayol"
+            },
+            {
+              "page": 16,
+              "section": "4. Escolas clássicas: Fayol"
+            }
+          ]
+        },
+        {
+          "title": "Lentes para compreender a organização",
+          "text": "A conclusão compara perspectivas de estudo a lentes. As abordagens clássicas se concentram em analisar e aperfeiçoar regras e estruturas; perspectivas críticas e informativas permitem questionar premissas como a motivação exclusivamente econômica e a imagem do trabalhador como parte da máquina.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "5. Conclusão"
+            },
+            {
+              "page": 18,
+              "section": "5. Conclusão"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m01-f01",
+      "front": "Qual é a finalidade dos métodos e decisões da administração?",
+      "back": "Organizar recursos e ações para atingir objetivos e resultados organizacionais.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        },
+        {
+          "page": 2,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m01-f02",
+      "front": "Por que o material chama a administração de transversal e multidisciplinar?",
+      "back": "Porque seus conhecimentos são utilizados por várias áreas profissionais para gerir pessoas, processos, rotinas e recursos.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m01-f03",
+      "front": "Qual é a ênfase da administração científica de Taylor?",
+      "back": "As tarefas e o aperfeiçoamento do trabalho operacional para aumentar a produção e reduzir desperdícios.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Escolas clássicas: Taylorismo"
+        },
+        {
+          "page": 5,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f04",
+      "front": "Para que serve o estudo de tempos e movimentos?",
+      "back": "Examinar e racionalizar movimentos e tempos de execução das tarefas, tornando o trabalho passível de descrição, medição e ensino.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f05",
+      "front": "Quais são os quatro princípios da ORT listados no PDF?",
+      "back": "Padronização de instrumentos e métodos; tempos e movimentos; psicologia dos trabalhadores/homo economicus; eficiência do trabalhador.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f06",
+      "front": "O que significa homo economicus na abordagem estudada?",
+      "back": "A concepção de que o esforço do trabalhador é motivado por recompensas salariais, econômicas e materiais.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Escolas clássicas: Taylorismo"
+        },
+        {
+          "page": 6,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f07",
+      "front": "Qual crítica o material faz à visão mecanicista de Taylor?",
+      "back": "A de tratar o trabalhador como máquina ou como peça/apêndice dela.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f08",
+      "front": "Qual técnica produtiva o material associa especialmente a Ford?",
+      "back": "A linha móvel de montagem, vinculada à produção em massa e à padronização.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f09",
+      "front": "Como a padronização do Modelo T apoiava a produção em escala?",
+      "back": "A redução da variedade de modelos e cores facilitava o sistema produtivo e a redução de custos.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f10",
+      "front": "Qual limite do fordismo é destacado no capítulo?",
+      "back": "A rigidez do modelo dificultava inovação e adaptação ao mercado.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-f11",
+      "front": "Qual é o foco da abordagem de Fayol?",
+      "back": "A estrutura organizacional e a atuação da alta administração na direção da organização.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "3. Escolas clássicas: Fordismo"
+        },
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-f12",
+      "front": "Como diferenciar unidade de comando de unidade de direção?",
+      "back": "Comando: um chefe para cada empregado. Direção: um chefe e um programa para atividades com o mesmo objetivo.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-f13",
+      "front": "O que Fayol denomina equidade?",
+      "back": "Combinação de justiça e bondade na relação com empregados, sem preferências pessoais.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-f14",
+      "front": "Quais são as cinco funções administrativas de Fayol no PDF?",
+      "back": "Planejar, organizar, comandar, coordenar e controlar.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-f15",
+      "front": "O que um organograma permite visualizar?",
+      "back": "Cargos, organização das atividades e relações de subordinação: quem se reporta a quem.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-f16",
+      "front": "Qual é a diferença entre administração científica, clássica e escolas clássicas?",
+      "back": "Científica: Taylor. Clássica: Fayol. Escolas clássicas: conjunto em que o material reúne Taylor, Ford e Fayol.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "4. Escolas clássicas: Fayol"
+        },
+        {
+          "page": 16,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m01-q01",
+      "prompt": "Uma médica precisa organizar a agenda da clínica, coordenar sua equipe e acompanhar resultados. Qual ideia do capítulo esse caso ilustra?",
+      "choices": [
+        "A administração se aplica somente a indústrias.",
+        "A administração tem caráter transversal e pode ser utilizada por profissionais de diversas áreas.",
+        "Os conhecimentos administrativos dispensam objetivos.",
+        "A administração trata exclusivamente de propaganda."
+      ],
+      "answer": 1,
+      "explanation": "O capítulo usa profissionais de outras áreas para mostrar que a gestão de pessoas, processos e recursos atravessa diferentes campos de atuação.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m01-q02",
+      "prompt": "Uma equipe administrativa escolhe quais recursos utilizar para alcançar uma meta. Qual elemento central da definição apresentada ela está exercendo?",
+      "choices": [
+        "A substituição de todos os processos por improvisação.",
+        "A elaboração exclusiva de regras de vestuário.",
+        "A tomada de decisões sobre recursos e objetivos.",
+        "A recusa da mensuração de resultados."
+      ],
+      "answer": 2,
+      "explanation": "A definição apresentada associa administração ao processo decisório sobre os recursos e os objetivos que a organização deseja atingir.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "1. Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m01-q03",
+      "prompt": "Um estudo observa cada movimento de uma tarefa, mede sua duração e busca eliminar desperdícios. A qual abordagem ele corresponde mais diretamente?",
+      "choices": [
+        "Administração científica de Taylor.",
+        "Perspectiva crítica citada na conclusão.",
+        "Unidade de direção de Fayol.",
+        "Metáfora das lentes de Reed."
+      ],
+      "answer": 0,
+      "explanation": "O estudo de tempos e movimentos é apresentado no contexto da racionalização do trabalho operacional por Taylor.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q04",
+      "prompt": "Qual alternativa reúne apenas princípios da ORT conforme a lista do PDF?",
+      "choices": [
+        "Autoridade, equidade, iniciativa e espírito de equipe.",
+        "Hierarquia, ordem, unidade de direção e estabilidade.",
+        "Liberdade de modelos, inovação contínua, participação social e descentralização.",
+        "Padronização de instrumentos e métodos, tempos e movimentos, psicologia dos trabalhadores e eficiência do trabalhador."
+      ],
+      "answer": 3,
+      "explanation": "Essa é a lista de quatro princípios apresentada no capítulo; a redação deve seguir a fonte usada no estudo.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q05",
+      "prompt": "Um gerente afirma que recompensas materiais são o único fator que leva alguém a produzir satisfatoriamente. Essa afirmação reproduz qual concepção descrita no PDF?",
+      "choices": [
+        "Espírito de equipe.",
+        "Homo economicus.",
+        "Equidade.",
+        "Unidade de comando."
+      ],
+      "answer": 1,
+      "explanation": "A concepção econômica associada a Taylor considera a motivação pelo salário e por recompensas materiais. A pergunta identifica uma premissa da abordagem estudada.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. Escolas clássicas: Taylorismo"
+        },
+        {
+          "page": 6,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q06",
+      "prompt": "Qual crítica ao taylorismo o capítulo destaca?",
+      "choices": [
+        "O abandono completo da produtividade.",
+        "A ausência de qualquer interesse nas tarefas.",
+        "O tratamento do trabalhador como máquina ou peça da máquina.",
+        "O excesso de foco em atividades coletivas de lazer."
+      ],
+      "answer": 2,
+      "explanation": "O texto identifica esse tratamento como o sentido mecanicista criticado por diversos autores.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "2. Escolas clássicas: Taylorismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q07",
+      "prompt": "Em uma fábrica, um produto passa por uma linha móvel e cada operário executa tarefas simples e repetidas. Qual associação é mais adequada ao conteúdo?",
+      "choices": [
+        "Fordismo e produção em massa.",
+        "Equidade e julgamento sem preferências.",
+        "Perspectiva informativa e crítica.",
+        "Iniciativa e elaboração livre de planos."
+      ],
+      "answer": 0,
+      "explanation": "A linha móvel de montagem e a repetição padronizada são características vinculadas a Ford no capítulo.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q08",
+      "prompt": "Por que a oferta do Modelo T em modelo e cor padronizados atendia à estratégia produtiva descrita?",
+      "choices": [
+        "Porque transformava cada automóvel em peça exclusiva sob encomenda.",
+        "Porque ampliava a variedade para cada comprador.",
+        "Porque substituía a produção por atividades apenas comerciais.",
+        "Porque reduzia a complexidade da variedade e favorecia a escala de produção."
+      ],
+      "answer": 3,
+      "explanation": "O texto explica que muitas opções de modelos e cores dificultariam o sistema de produção em escala.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q09",
+      "prompt": "Qual combinação expressa um benefício e uma limitação do fordismo apresentados no capítulo?",
+      "choices": [
+        "Produção artesanal exclusiva; facilidade ilimitada de personalização.",
+        "Redução de custos pela escala; rigidez que dificulta inovação e adaptação.",
+        "Abandono da linha de montagem; ausência de controle de pessoal.",
+        "Substituição dos produtos por serviços; eliminação da repetição."
+      ],
+      "answer": 1,
+      "explanation": "O material relaciona produção em massa à minimização de custos e registra a dificuldade de adaptação e inovação do modelo rígido.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "3. Escolas clássicas: Fordismo"
+        }
+      ]
+    },
+    {
+      "id": "m01-q10",
+      "prompt": "Em comparação com a ênfase de Taylor nas tarefas, qual é o foco de Fayol?",
+      "choices": [
+        "A remuneração como único motivo humano.",
+        "A variedade de cores na linha de montagem.",
+        "A estrutura organizacional e a visão da alta administração.",
+        "A eliminação da figura do gestor."
+      ],
+      "answer": 2,
+      "explanation": "Fayol é apresentado a partir da perspectiva da administração de cúpula e da estrutura organizacional.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "3. Escolas clássicas: Fordismo"
+        },
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q11",
+      "prompt": "Uma colaboradora recebe ordens conflitantes de dois chefes para a mesma tarefa. Qual princípio de Fayol é diretamente contrariado?",
+      "choices": [
+        "Unidade de comando.",
+        "Remuneração pessoal.",
+        "Estabilidade do pessoal.",
+        "Espírito de equipe."
+      ],
+      "answer": 0,
+      "explanation": "Pela unidade de comando, cada empregado deve receber ordens de apenas um chefe.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q12",
+      "prompt": "Uma organização reúne atividades de mesmo objetivo sob um único chefe e um único programa. Qual princípio está aplicando?",
+      "choices": [
+        "Divisão do trabalho.",
+        "Disciplina.",
+        "Ordem.",
+        "Unidade de direção."
+      ],
+      "answer": 3,
+      "explanation": "A unidade de direção refere-se ao conjunto de atividades com o mesmo objetivo, sob uma chefia e um programa.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q13",
+      "prompt": "Uma gestora trata os subordinados com justiça e evita favorecer amigos. Qual princípio do capítulo corresponde a essa conduta?",
+      "choices": [
+        "Hierarquia.",
+        "Equidade.",
+        "Autoridade.",
+        "Divisão do trabalho."
+      ],
+      "answer": 1,
+      "explanation": "O PDF define equidade como combinação de justiça e bondade sem preferências pessoais.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q14",
+      "prompt": "Uma equipe é incentivada a conceber planos e assegurar sua execução com sucesso. Qual princípio está especialmente envolvido?",
+      "choices": [
+        "Remuneração pessoal.",
+        "Centralização.",
+        "Iniciativa.",
+        "Unidade de comando."
+      ],
+      "answer": 2,
+      "explanation": "A iniciativa é associada à possibilidade de conceber um plano e assegurar seu sucesso.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q15",
+      "prompt": "Qual sequência corresponde às cinco funções do processo administrativo apresentadas no PDF?",
+      "choices": [
+        "Planejar, organizar, comandar, coordenar e controlar.",
+        "Recrutar, selecionar, contratar, treinar e remunerar.",
+        "Produzir, vender, transportar, cobrar e arquivar.",
+        "Inovar, pesquisar, divulgar, competir e exportar."
+      ],
+      "answer": 0,
+      "explanation": "O texto enumera essas cinco funções ao explicar o significado de administrar para Fayol.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q16",
+      "prompt": "Uma pessoa recém-contratada deseja saber a quem cada cargo se reporta. Qual instrumento apresentado no capítulo é o mais diretamente útil?",
+      "choices": [
+        "Estudo de tempos e movimentos.",
+        "Modelo T.",
+        "Slogan de padronização.",
+        "Organograma."
+      ],
+      "answer": 3,
+      "explanation": "O organograma mostra cargos, atividades e relações de subordinação.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q17",
+      "prompt": "Qual associação de nomes e abordagens respeita a distinção expressa no material?",
+      "choices": [
+        "Taylor: administração clássica; Fayol: administração científica.",
+        "Taylor: administração científica; Fayol: administração clássica; ambos integram as escolas clássicas.",
+        "Ford: administração clássica; Taylor: teoria crítica.",
+        "Fayol: fordismo; Ford: estudo de tempos e movimentos."
+      ],
+      "answer": 1,
+      "explanation": "O PDF alerta explicitamente para a diferença entre esses nomes e reúne Taylor, Ford e Fayol sob a expressão escolas clássicas.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "4. Escolas clássicas: Fayol"
+        },
+        {
+          "page": 16,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q18",
+      "prompt": "Na conclusão, para que serve a metáfora das lentes ao estudar organizações?",
+      "choices": [
+        "Para afirmar que somente uma perspectiva pode existir.",
+        "Para substituir a análise organizacional por observação física.",
+        "Para compreender que abordagens distintas permitem interpretar a organização por perspectivas diferentes.",
+        "Para provar que todas as teorias administrativas são idênticas."
+      ],
+      "answer": 2,
+      "explanation": "O texto compara o uso de lentes às perspectivas informativa, analítica, crítica e prática de compreensão da organização.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "5. Conclusão"
+        },
+        {
+          "page": 18,
+          "section": "5. Conclusão"
+        }
+      ]
+    },
+    {
+      "id": "m01-q19",
+      "prompt": "Uma gestora investe na harmonia e na união entre as pessoas por considerar que elas fortalecem a organização. Qual princípio de Fayol ela está valorizando?",
+      "choices": [
+        "Espírito de equipe.",
+        "Autoridade.",
+        "Centralização.",
+        "Divisão do trabalho."
+      ],
+      "answer": 0,
+      "explanation": "O espírito de equipe é apresentado como harmonia e união do pessoal, fontes de vitalidade organizacional.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    },
+    {
+      "id": "m01-q20",
+      "prompt": "Qual alternativa respeita os dois sentidos de organização utilizados no capítulo?",
+      "choices": [
+        "É apenas o nome de uma empresa com fins lucrativos.",
+        "É exclusivamente uma técnica de cronometragem.",
+        "É um sinônimo de produção em massa.",
+        "É uma função administrativa e também uma designação para elementos e ações coletivamente organizados no empreendimento."
+      ],
+      "answer": 3,
+      "explanation": "O material apresenta organização entre as funções de Fayol e também como conjunto organizado associado a uma empresa ou empreendimento.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "4. Escolas clássicas: Fayol"
+        }
+      ]
+    }
+  ]
+}

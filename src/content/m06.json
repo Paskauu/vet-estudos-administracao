@@ -1,0 +1,894 @@
+{
+  "id": "m06",
+  "order": 6,
+  "title": "Inovação e mudança",
+  "shortTitle": "Inovação",
+  "description": "Conhecimento, estratégia tecnológica, proteção, cooperação, inovação aberta e Sistema Nacional de Inovação.",
+  "source": {
+    "filename": "Inovação e mudança.pdf",
+    "pages": 17,
+    "topic": "06"
+  },
+  "lessons": [
+    {
+      "id": "m06-l01",
+      "title": "Inovação, conhecimento e novos negócios",
+      "intro": "Entenda a inovação como resultado de interação e como componente da estratégia.",
+      "blocks": [
+        {
+          "title": "Empreender envolve adaptação e criatividade",
+          "text": "A introdução relaciona empreender à concepção de produto ou serviço e à criação de um novo negócio. Adaptação às mudanças, criatividade e inovação são apontadas como elementos centrais. A inovação é apresentada como componente estratégico para posicionar e consolidar novos negócios e é relacionada a escalabilidade e crescimento.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Concretizar ideias pela troca de conhecimentos",
+          "text": "A inovação é descrita por processos interativos de criação e troca de conhecimentos entre empresas, ensino e mercado. A ideia se concretiza em novos produtos, processos, serviços, modelos de negócio ou novos negócios. A explicação destaca o relacionamento entre atores, em vez de restringir o tema a uma invenção isolada.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Introdução"
+            },
+            {
+              "page": 2,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Dimensões e alcance econômico",
+          "text": "O diagrama apresenta inovações de produto, de processo, de marketing e organizacionais. Ele relaciona organizações, pesquisa e educação, infraestrutura institucional, políticas de inovação e demanda. O texto atribuído a Mazzucato também liga P&D, invenções e patentes às políticas econômicas, mostrando a inovação como indicador de desenvolvimento das empresas e do contexto macroeconômico.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Introdução"
+            }
+          ],
+          "bullets": [
+            "Inovação de produto.",
+            "Inovação de processo.",
+            "Inovação de marketing.",
+            "Inovação organizacional."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m06-l02",
+      "title": "Escolhas tecnológicas e barreiras",
+      "intro": "Relacione tecnologia, estratégia e proteção contra a imitação.",
+      "blocks": [
+        {
+          "title": "Selecionar tecnologias com sentido estratégico",
+          "text": "As escolhas tecnológicas afetam aspectos técnicos e humanos das operações. Uma tecnologia apropriada deve impulsionar a estratégia e proporcionar vantagem sustentável. A estratégia tecnológica não se limita à seleção: inclui a orientação entre liderar ou seguir a mudança e a avaliação de tecnologias radicalmente novas, para as quais análises financeiras convencionais podem não bastar.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Introdução"
+            },
+            {
+              "page": 4,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Barreiras podem mudar com a tecnologia",
+          "text": "Barreiras técnicas são apresentadas como métodos para bloquear ou dificultar cópias e imitações. O caso da IBM ilustra sua possível perda de eficácia: mudanças como o microprocessador e o software padrão reduziram antigas barreiras e ampliaram a concorrência de produtos similares. O exemplo ensina a observar a mudança tecnológica ao pensar a proteção da inovação.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Introdução"
+            },
+            {
+              "page": 5,
+              "section": "Introdução"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m06-l03",
+      "title": "Propriedade intelectual no quadro da aula",
+      "intro": "Revise a classificação e as formas de proteção descritas no PDF.",
+      "blocks": [
+        {
+          "title": "Autoral e industrial",
+          "text": "A aula divide a propriedade intelectual em cunho autoral e industrial e se concentra na propriedade industrial. Apresenta patentes como certificações governamentais que podem atuar contra cópia e imitação. Também relaciona pesquisa, criação e desenvolvimento a uma cultura de inovação e à busca de registros quando as exigências descritas são atendidas.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            },
+            {
+              "page": 6,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            },
+            {
+              "page": 7,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            }
+          ]
+        },
+        {
+          "title": "PI e MU: diferenças apresentadas",
+          "text": "No quadro do PDF, a Patente de Invenção envolve produto ou processo com atividade inventiva, novidade e aplicação industrial e tem duração indicada de 20 anos desde o depósito. O Modelo de Utilidade envolve objeto prático, ou parte dele, com nova forma ou disposição e melhoria funcional no uso ou fabricação; o prazo indicado é de 15 anos desde o depósito. Esses são os requisitos e os prazos apresentados pelo material de estudo.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            },
+            {
+              "page": 6,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            }
+          ],
+          "bullets": [
+            "PI: produto ou processo; atividade inventiva, novidade e aplicação industrial.",
+            "MU: objeto prático com nova forma ou disposição e melhoria funcional.",
+            "Prazos indicados pelo PDF: PI, 20 anos; MU, 15 anos; ambos desde o depósito."
+          ]
+        },
+        {
+          "title": "Certificado de Adição",
+          "text": "O Certificado de Adição de Invenção é descrito como aperfeiçoamento ou desenvolvimento introduzido no objeto da invenção, dentro do mesmo conceito inventivo. Ele é acessório à patente e compartilha sua data final de vigência. O quadro admite que o aperfeiçoamento seja destituído de atividade inventiva, desde que permaneça no mesmo conceito inventivo.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m06-l04",
+      "title": "Transferência e ecossistema de inovação",
+      "intro": "Conhecimento e cooperação conectam os diferentes atores da inovação.",
+      "blocks": [
+        {
+          "title": "Cooperar para incorporar novos conhecimentos",
+          "text": "A transferência de tecnologia é relacionada à transferência de conhecimentos. Para gerar algo inovador, o texto enfatiza novos conhecimentos associados à criatividade. Esses conhecimentos circulam entre atores de Ciência, Tecnologia e Inovação, e a transferência ocorre em relações de cooperação. Empresas parceiras, incubadoras, programas de fomento, aceleradoras e instituições de ensino são exemplos citados.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            },
+            {
+              "page": 8,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            }
+          ]
+        },
+        {
+          "title": "Um ambiente de interação",
+          "text": "O ecossistema de inovação reúne diferentes atores que interagem e colaboram para favorecer a inovação. O material cita empresas de tecnologia, universidades, fundações, governo e sociedade. A interação pode acontecer ao acaso, mas a aula explica que costuma ser promovida e estimulada. A figura de atores da p. 8 não aparece no PDF; os atores desta síntese são os mencionados nos parágrafos disponíveis.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "Propriedades intelectuais e transferência de tecnologia"
+            },
+            {
+              "page": 8,
+              "section": "Inovação aberta"
+            },
+            {
+              "page": 9,
+              "section": "Inovação aberta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m06-l05",
+      "title": "Inovação aberta, disrupção e hubs",
+      "intro": "Diferencie a origem colaborativa de ideias, a ruptura de padrões e os espaços de ideação.",
+      "blocks": [
+        {
+          "title": "Ideias valiosas podem vir de dentro ou de fora",
+          "text": "A inovação aberta reconhece que ideias e caminhos para o mercado podem vir tanto da própria empresa quanto de fontes externas. O conceito se relaciona à transferência de tecnologia e à cooperação entre atores do ecossistema. A capacidade de absorver ideias aparece como parte desse processo, sem exigir que toda ideia surja internamente.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Inovação aberta"
+            },
+            {
+              "page": 9,
+              "section": "Inovação aberta"
+            },
+            {
+              "page": 10,
+              "section": "Inovação aberta"
+            }
+          ]
+        },
+        {
+          "title": "Disrupção: a ideia de ruptura",
+          "text": "O material associa inovação disruptiva à criação de algo concebido de modo muito diferente do padrão anterior. A noção de ruptura é o centro da explicação. O texto aproxima inovação aberta de modelos de negócio disruptivos e cita aplicativos como exemplos, mas não fornece métricas de crescimento ou uma tipologia detalhada de disrupção.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Inovação aberta"
+            },
+            {
+              "page": 11,
+              "section": "Inovação aberta"
+            }
+          ]
+        },
+        {
+          "title": "Hubs: espaços de colaboração",
+          "text": "Os hubs são apresentados como espaços físicos ajustados para brainstorming, workshops de cocriação, idealização de soluções e encontros sobre projetos de inovação. A aula relaciona sua organização à inovação aberta, pois favorecem a construção colaborativa de ideias e soluções.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Inovação aberta"
+            },
+            {
+              "page": 12,
+              "section": "Inovação aberta"
+            }
+          ],
+          "bullets": [
+            "Brainstorming e tempestade de ideias.",
+            "Workshops de cocriação.",
+            "Idealização de soluções.",
+            "Encontros sobre projetos de inovação."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m06-l06",
+      "title": "Sistema Nacional de Inovação",
+      "intro": "Observe como instituições, aprendizado e políticas são ligados à capacidade de inovar.",
+      "blocks": [
+        {
+          "title": "Um arranjo articulado de instituições",
+          "text": "O Sistema Nacional de Inovação é apresentado como um conjunto articulado de instituições públicas e privadas. Suas atividades e interações geram, adotam, importam, modificam e difundem tecnologias. Inovação e aprendizagem são aspectos centrais. Embora o título impresso da seção diga sistema nacional de informação, o conteúdo das páginas trata de inovação.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Sistema Nacional de Inovação"
+            },
+            {
+              "page": 14,
+              "section": "Sistema Nacional de Inovação"
+            }
+          ]
+        },
+        {
+          "title": "A interação importa",
+          "text": "O material relaciona a capacidade de gerar inovação ao nível de articulação dos atores. A interação entre agentes econômicos, sociais e políticos fortalece capacitações e favorece a difusão de inovações no país. Assim, o sistema não se resume à presença isolada de instituições: seus vínculos e atividades fazem parte da explicação.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Sistema Nacional de Inovação"
+            },
+            {
+              "page": 14,
+              "section": "Sistema Nacional de Inovação"
+            }
+          ]
+        },
+        {
+          "title": "A perspectiva sobre o papel do Estado",
+          "text": "Na passagem atribuída a Mazzucato, redes horizontais e verticais de aprendizagem e interação não bastam. A autora é apresentada como defensora de que o Estado conduza o desenvolvimento industrial e formule estratégias para o avanço tecnológico em áreas prioritárias. Essa é uma perspectiva atribuída no material e deve ser lida com essa identificação.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Sistema Nacional de Inovação"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m06-f01",
+      "front": "Quais elementos a introdução relaciona ao ato de empreender?",
+      "back": "Adaptação às mudanças, criatividade e inovação, no contexto de conceber produtos ou serviços e iniciar negócios.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f02",
+      "front": "Como a inovação conecta ideias e conhecimento ao mercado?",
+      "back": "Pela interação e troca de conhecimentos que concretizam ideias em produtos, processos, serviços, modelos de negócio ou novos negócios.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f03",
+      "front": "Quais quatro dimensões de inovação aparecem na figura?",
+      "back": "Produto, processo, marketing e organizacional.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f04",
+      "front": "O que torna uma tecnologia apropriada, na explicação da aula?",
+      "back": "Apoiar a estratégia e proporcionar vantagem sustentável à empresa.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f05",
+      "front": "Estratégia tecnológica vai além de selecionar tecnologias em que sentido?",
+      "back": "Também considera liderar ou seguir mudanças e avaliar tecnologias radicalmente novas.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f06",
+      "front": "Para que servem as barreiras técnicas?",
+      "back": "Para dificultar a imitação ou a cópia; mudanças tecnológicas podem reduzir sua eficácia.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        },
+        {
+          "page": 5,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-f07",
+      "front": "Quais dois cunhos de propriedade intelectual são apresentados?",
+      "back": "Autoral e industrial.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-f08",
+      "front": "Quais requisitos e duração o PDF atribui à Patente de Invenção?",
+      "back": "Atividade inventiva, novidade e aplicação industrial; 20 anos desde o depósito, no quadro didático do material.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-f09",
+      "front": "O que caracteriza o Modelo de Utilidade no PDF?",
+      "back": "Nova forma ou disposição em objeto de uso prático, com melhoria funcional; duração indicada de 15 anos desde o depósito.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-f10",
+      "front": "Como o Certificado de Adição se relaciona à patente?",
+      "back": "É acessório, refere-se a aperfeiçoamento no mesmo conceito inventivo e tem a mesma data final de vigência.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-f11",
+      "front": "Como ocorre a transferência de tecnologia descrita?",
+      "back": "Pela cooperação entre atores do ecossistema, transferindo tecnologias e conhecimentos para gerar inovação.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 8,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-f12",
+      "front": "O que é um ecossistema de inovação?",
+      "back": "Um ambiente de interação e colaboração entre atores como empresas, ensino, governo e sociedade para favorecer a inovação.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 9,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-f13",
+      "front": "O que caracteriza a inovação aberta?",
+      "back": "Reconhecer valor em ideias e caminhos para o mercado que vêm de dentro e de fora da empresa.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Inovação aberta"
+        },
+        {
+          "page": 10,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-f14",
+      "front": "Como diferenciar disrupção e hub na aula?",
+      "back": "Disrupção é a ruptura de um padrão; hub é um espaço físico que favorece colaboração e ideação.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Inovação aberta"
+        },
+        {
+          "page": 12,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-f15",
+      "front": "O que caracteriza o Sistema Nacional de Inovação?",
+      "back": "A articulação de instituições públicas e privadas que aprendem, interagem e geram ou difundem tecnologias.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Sistema Nacional de Inovação"
+        },
+        {
+          "page": 14,
+          "section": "Sistema Nacional de Inovação"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m06-q01",
+      "prompt": "Qual conjunto reúne os elementos centrais associados ao empreendedorismo na introdução?",
+      "choices": [
+        "Somente imitação, estabilidade e repetição.",
+        "Apenas recursos financeiros, sem novas ideias.",
+        "Adaptação às mudanças, criatividade e inovação.",
+        "Exclusivamente publicidade, preço e praça."
+      ],
+      "answer": 2,
+      "explanation": "A introdução relaciona esses três elementos à concepção de produtos e serviços e à criação de novos negócios.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q02",
+      "prompt": "Uma empresa troca conhecimentos com instituições de ensino e outros atores e concretiza uma ideia em um novo serviço. Qual interpretação corresponde à definição da aula?",
+      "choices": [
+        "Só existe inovação se a empresa nunca interagir com outros atores.",
+        "O serviço não pode ser inovação, pois o conceito é restrito a objetos físicos.",
+        "Ideias só podem ser consideradas inovação enquanto não chegam ao mercado.",
+        "A inovação envolve interação e conhecimento e pode se concretizar em novo serviço."
+      ],
+      "answer": 3,
+      "explanation": "O material apresenta processos interativos e menciona, entre seus resultados, produtos, processos, serviços, modelos de negócio e novos negócios.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q03",
+      "prompt": "Quais dimensões aparecem no centro da estrutura de inovação da p. 2?",
+      "choices": [
+        "Produto, processo, marketing e organizacional.",
+        "Financeira, clientes, processos internos e aprendizagem.",
+        "Forças, fraquezas, oportunidades e ameaças.",
+        "Autoral, industrial, institucional e tática."
+      ],
+      "answer": 0,
+      "explanation": "Tanto a legenda quanto o diagrama apresentam essas quatro dimensões de inovação.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q04",
+      "prompt": "Uma empresa avalia tecnologias alternativas. Qual critério é central na passagem apresentada sobre tecnologia apropriada?",
+      "choices": [
+        "Escolher a tecnologia apenas por ser a mais recente, sem considerar objetivos.",
+        "Verificar como ela impulsiona a estratégia e contribui para vantagem sustentável.",
+        "Ignorar os efeitos técnicos e humanos da escolha.",
+        "Selecionar apenas a que exige menos reflexão dos gestores."
+      ],
+      "answer": 1,
+      "explanation": "A tecnologia apropriada é avaliada por sua contribuição à estratégia e à vantagem competitiva sustentável, considerando as consequências das escolhas.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Introdução"
+        },
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q05",
+      "prompt": "Uma diretora afirma que definir estratégia tecnológica é apenas escolher um equipamento. Qual complemento da aula amplia essa compreensão?",
+      "choices": [
+        "A estratégia tecnológica exclui qualquer avaliação das mudanças.",
+        "Basta copiar uma decisão de outra empresa sem considerar o contexto.",
+        "Também é preciso considerar liderar ou seguir mudanças e avaliar tecnologias radicalmente novas.",
+        "A seleção deve ser feita sempre fora da estratégia corporativa."
+      ],
+      "answer": 2,
+      "explanation": "O texto amplia a estratégia tecnológica para incluir orientação diante da mudança e avaliação de tecnologias cujas implicações podem ultrapassar análises financeiras convencionais.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q06",
+      "prompt": "No caso didático da IBM apresentado, novas tecnologias contribuíram para o surgimento de concorrentes que fabricavam produtos similares. Qual aprendizagem o exemplo sustenta?",
+      "choices": [
+        "Barreiras técnicas permanecem igualmente eficazes em qualquer mudança.",
+        "Tecnologia nunca influencia a capacidade de imitar produtos.",
+        "Uma empresa grande não precisa observar concorrência.",
+        "Mudanças tecnológicas podem enfraquecer barreiras antes eficazes contra a imitação."
+      ],
+      "answer": 3,
+      "explanation": "A passagem relaciona a perda das antigas barreiras da IBM ao microprocessador e ao software padrão, ampliando a concorrência de similares.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        },
+        {
+          "page": 5,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q07",
+      "prompt": "Qual divisão da propriedade intelectual a aula apresenta antes de aprofundar o registro das inovações?",
+      "choices": [
+        "Cunho autoral e cunho industrial.",
+        "Apenas propriedade financeira e operacional.",
+        "Apenas microambiente e macroambiente.",
+        "Produto e promoção, sem qualquer outra categoria."
+      ],
+      "answer": 0,
+      "explanation": "O material separa propriedade intelectual autoral e industrial e concentra a exposição na segunda.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-q08",
+      "prompt": "No quadro didático do PDF, qual alternativa descreve a Patente de Invenção?",
+      "choices": [
+        "Qualquer melhoria acessória, sempre com prazo próprio de cinco anos.",
+        "Produto ou processo com atividade inventiva, novidade e aplicação industrial, com duração indicada de 20 anos desde o depósito.",
+        "Qualquer ideia sem concretização ou requisito, com duração ilimitada.",
+        "Somente objeto com nova forma, sempre com 15 anos desde a venda."
+      ],
+      "answer": 1,
+      "explanation": "São os requisitos e a duração descritos entre as páginas 5 e 6. A pergunta avalia o conteúdo do PDF, sem atualizar ou ampliar sua exposição normativa.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-q09",
+      "prompt": "Considerando apenas o quadro do PDF, qual situação se aproxima do Modelo de Utilidade?",
+      "choices": [
+        "Um nome de campanha, sem objeto de uso prático.",
+        "Uma escolha de segmento de mercado, sem alteração de objeto.",
+        "Um objeto de uso prático com nova forma e ato inventivo que melhore seu uso ou fabricação.",
+        "Um programa de reunião que substitui todos os registros de inovação."
+      ],
+      "answer": 2,
+      "explanation": "O Modelo de Utilidade é apresentado como nova forma ou disposição em objeto prático, com aplicação industrial e melhoria funcional; o prazo indicado é de 15 anos desde o depósito.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-q10",
+      "prompt": "Qual relação entre Certificado de Adição de Invenção e patente é descrita na aula?",
+      "choices": [
+        "O certificado é sempre independente e tem duração ilimitada.",
+        "O certificado não pode ter relação com aperfeiçoamento.",
+        "O certificado dispensa qualquer relação com o conceito inventivo.",
+        "O certificado é acessório à patente e compartilha sua data final de vigência."
+      ],
+      "answer": 3,
+      "explanation": "O quadro associa o certificado a aperfeiçoamento ou desenvolvimento no mesmo conceito inventivo, com caráter acessório e mesma data final.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-q11",
+      "prompt": "Como o PDF relaciona patentes e barreiras técnicas?",
+      "choices": [
+        "Apresenta as patentes como proteção que pode ajudar a inibir cópias e imitações.",
+        "Afirma que a patente torna dispensável qualquer pesquisa ou desenvolvimento.",
+        "Trata as patentes como campanhas promocionais sem proteção.",
+        "Afirma que toda ideia é automaticamente patenteada, sem exigências."
+      ],
+      "answer": 0,
+      "explanation": "A aula descreve patentes certificadas por instituições governamentais como barreiras e menciona a busca pelo registro quando os processos atendem às exigências.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 7,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        }
+      ]
+    },
+    {
+      "id": "m06-q12",
+      "prompt": "Uma empresa coopera com uma incubadora e uma instituição de ensino para incorporar novos conhecimentos a um produto inovador. Qual processo da aula está diretamente representado?",
+      "choices": [
+        "Posicionamento de marca como nome de produto.",
+        "Transferência de tecnologia e conhecimentos entre atores do ecossistema.",
+        "Controle completo do ambiente externo por uma única empresa.",
+        "Isolamento das atividades de Ciência, Tecnologia e Inovação."
+      ],
+      "answer": 1,
+      "explanation": "A aula associa transferência de tecnologia a conhecimento e cooperação entre atores da CTI, incluindo incubadoras e instituições de ensino.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Propriedades intelectuais e transferência de tecnologia"
+        },
+        {
+          "page": 8,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-q13",
+      "prompt": "Empresas, universidade, fundação, governo e sociedade passam a interagir para favorecer a inovação. Como interpretar esse ambiente?",
+      "choices": [
+        "É necessariamente um único departamento da mesma empresa.",
+        "Só pode surgir sem qualquer estímulo ou organização.",
+        "É um ecossistema de inovação, baseado em interação e colaboração de atores.",
+        "É uma patente, por reunir instituições diferentes."
+      ],
+      "answer": 2,
+      "explanation": "A aula caracteriza o ecossistema pela interação de diferentes atores que inovam e observa que essa aproximação é frequentemente promovida e estimulada.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-q14",
+      "prompt": "Qual conduta expressa o conceito de inovação aberta apresentado?",
+      "choices": [
+        "Rejeitar qualquer ideia que venha de fora da empresa.",
+        "Proibir toda cooperação com outras instituições.",
+        "Considerar valiosas apenas ideias já produzidas pelo mesmo departamento.",
+        "Reconhecer valor em ideias e caminhos para o mercado tanto internos quanto externos."
+      ],
+      "answer": 3,
+      "explanation": "A inovação aberta atribui importância às fontes e aos caminhos externos ao lado dos internos, envolvendo cooperação e absorção de ideias.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Inovação aberta"
+        },
+        {
+          "page": 10,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-q15",
+      "prompt": "Qual característica a aula associa à inovação disruptiva?",
+      "choices": [
+        "Romper um padrão pela criação de algo concebido de forma muito diferente da anterior.",
+        "Repetir uma solução sem qualquer diferença, em todas as situações.",
+        "Limitar-se a mudar a data de uma reunião.",
+        "Ser o mesmo conceito que uma patente de modelo de utilidade."
+      ],
+      "answer": 0,
+      "explanation": "A explicação da p. 11 enfatiza ruptura de padrão e diferença radical na forma de conceber a solução.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-q16",
+      "prompt": "Um espaço físico é organizado para brainstorming, workshops de cocriação e reuniões sobre soluções inovadoras. Qual conceito o descreve melhor no PDF?",
+      "choices": [
+        "Macroambiente econômico.",
+        "Hub de inovação.",
+        "Certificado de Adição de Invenção.",
+        "Planejamento institucional, necessariamente acima de cinco anos."
+      ],
+      "answer": 1,
+      "explanation": "Hubs são apresentados como espaços físicos ajustados para ideação e colaboração em projetos de inovação.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Inovação aberta"
+        },
+        {
+          "page": 12,
+          "section": "Inovação aberta"
+        }
+      ]
+    },
+    {
+      "id": "m06-q17",
+      "prompt": "Qual alternativa caracteriza o Sistema Nacional de Inovação descrito?",
+      "choices": [
+        "Uma única empresa que atua sem interação com instituições.",
+        "Somente um banco de dados, sem geração ou difusão de tecnologias.",
+        "Um grupo articulado de instituições públicas e privadas cujas interações geram, adotam, modificam e difundem tecnologias.",
+        "Um documento de marketing restrito à promoção de um produto."
+      ],
+      "answer": 2,
+      "explanation": "O SNI é apresentado como arranjo institucional articulado, em que inovação, aprendizagem e interações têm papel central.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Sistema Nacional de Inovação"
+        },
+        {
+          "page": 14,
+          "section": "Sistema Nacional de Inovação"
+        }
+      ]
+    },
+    {
+      "id": "m06-q18",
+      "prompt": "Na perspectiva atribuída a Mazzucato pela aula, o que deve acompanhar redes de aprendizagem e interação no SNI?",
+      "choices": [
+        "A eliminação das prioridades de avanço tecnológico.",
+        "A interrupção da articulação entre os atores.",
+        "O afastamento do Estado de qualquer estratégia industrial.",
+        "A direção estatal do desenvolvimento industrial e estratégias tecnológicas para áreas prioritárias."
+      ],
+      "answer": 3,
+      "explanation": "A passagem afirma que redes, por si, não bastam e atribui ao Estado a condução do desenvolvimento industrial e a definição de estratégias em áreas prioritárias. Essa resposta é a perspectiva do texto apresentado.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Sistema Nacional de Inovação"
+        }
+      ]
+    },
+    {
+      "id": "m06-q19",
+      "prompt": "Segundo a explicação atribuída a Mazzucato na introdução, o uso de indicadores de P&D, invenções e patentes nas políticas econômicas mostra que a inovação:",
+      "choices": [
+        "Também se relaciona ao desenvolvimento macroeconômico, além do desenvolvimento das empresas.",
+        "Interessa apenas à aparência visual de produtos.",
+        "Dispensa processos de pesquisa e conhecimento.",
+        "É necessariamente uma decisão sem efeitos fora de uma empresa."
+      ],
+      "answer": 0,
+      "explanation": "A aula relaciona a presença desses indicadores nas políticas econômicas à dimensão macroeconômica da inovação.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m06-q20",
+      "prompt": "De acordo com a descrição do SNI, por que não basta apenas enumerar suas instituições?",
+      "choices": [
+        "Porque instituições públicas e privadas não podem atuar no mesmo arranjo.",
+        "Porque a articulação e a interação entre os atores são relacionadas à capacidade de gerar inovação.",
+        "Porque o aprendizado é excluído do sistema.",
+        "Porque o sistema não envolve adoção ou difusão de tecnologias."
+      ],
+      "answer": 1,
+      "explanation": "O material enfatiza as atividades, o aprendizado e o nível de articulação entre os atores, não apenas sua presença nominal.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Sistema Nacional de Inovação"
+        },
+        {
+          "page": 14,
+          "section": "Sistema Nacional de Inovação"
+        }
+      ]
+    }
+  ]
+}

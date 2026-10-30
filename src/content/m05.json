@@ -1,0 +1,851 @@
+{
+  "id": "m05",
+  "order": 5,
+  "title": "Marketing e estratégia organizacional",
+  "shortTitle": "Marketing",
+  "description": "Necessidades, valor, ambientes, 4Ps, aplicação estratégica, posicionamento e segmentação de públicos.",
+  "source": {
+    "filename": "Marketing E Estratégia Organizacional.pdf",
+    "pages": 19,
+    "topic": "05"
+  },
+  "lessons": [
+    {
+      "id": "m05-l01",
+      "title": "Marketing conecta necessidades e valor",
+      "intro": "Amplie a compreensão do marketing para além de anúncios e promoções.",
+      "blocks": [
+        {
+          "title": "Uma área mais ampla que a promoção",
+          "text": "Anunciar produtos e promover ofertas fazem parte do marketing, mas não encerram sua definição. A aula situa o início de sua discussão no ensino brasileiro na FGV, em 1954, com os nomes administração mercadológica e mercadologia. Também relata a adoção do termo marketing pelas instituições de ensino nas décadas de 1980 e 1990.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "Necessidades, lucro e troca",
+          "text": "A definição sucinta apresentada relaciona o atendimento de necessidades à geração de lucro. Pela perspectiva social, marketing envolve indivíduos e grupos que obtêm o que precisam e desejam por criação, oferta e livre troca de produtos de valor. O texto também liga o tema aos aspectos emocionais de encantamento, fidelidade e desejo de compra.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Definição do marketing"
+            },
+            {
+              "page": 3,
+              "section": "Definição do marketing"
+            }
+          ]
+        },
+        {
+          "title": "Empatia para perceber demandas",
+          "text": "Colocar-se na posição do consumidor ajuda a compreender sua percepção e suas necessidades. Na explicação da aula, esse exercício pode orientar a criação ou a reformulação de produtos e serviços com características que agreguem valor. O marketing conecta a oferta de soluções ao atendimento dos desejos das pessoas.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "Definição do marketing"
+            },
+            {
+              "page": 4,
+              "section": "Definição do marketing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m05-l02",
+      "title": "Demanda e contextos de aplicação",
+      "intro": "Entenda o papel atribuído ao marketing e os limites do que está disponível no PDF.",
+      "blocks": [
+        {
+          "title": "Administrar a demanda",
+          "text": "O papel do marketing é apresentado como administrar a demanda de bens e serviços. O estímulo ao consumo é relacionado às características de uma oferta que atende necessidades e desejos específicos de determinadas pessoas. Isso exige atenção às demandas dos clientes, em vez de resumir toda a atividade a uma promoção isolada.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Definição do marketing"
+            },
+            {
+              "page": 5,
+              "section": "Definição do marketing"
+            }
+          ]
+        },
+        {
+          "title": "Organizações com diferentes objetivos",
+          "text": "A aula reconhece o marketing em atividades lucrativas e também em organizações sem fins lucrativos. As estratégias são descritas como relevantes para os objetivos de ambos os contextos. O PDF anuncia seis tipos de marketing, mas a figura com sua enumeração não aparece no arquivo. Por isso, o conteúdo disponível não permite recuperar os seis nomes.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "Definição do marketing"
+            },
+            {
+              "page": 6,
+              "section": "Definição do marketing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m05-l03",
+      "title": "Micro e macroambiente no material",
+      "intro": "Analise o contexto que pode influenciar os planos de marketing.",
+      "blocks": [
+        {
+          "title": "Forças externas e seus efeitos",
+          "text": "O macroambiente é descrito como um conjunto de forças externas que interfere nos negócios e escapa ao controle da empresa. A aula cita fatores climáticos, políticos e econômicos e usa a pandemia como exemplo de efeito amplo. Pela relação com a SWOT, o estudo externo envolve oportunidades e ameaças.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "Micro e macroambiente"
+            },
+            {
+              "page": 7,
+              "section": "Micro e macroambiente"
+            }
+          ]
+        },
+        {
+          "title": "Recursos e capacidades internas",
+          "text": "No recorte adotado pela aula, microambiente é aproximado do contexto interno e das forças e fraquezas da organização. O texto cita recursos humanos, materiais e financeiros, competências e conhecimentos, métodos, gestão dos processos e capacidade produtiva. Também o descreve como forças do ambiente imediato que afetam o planejamento estratégico.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Micro e macroambiente"
+            }
+          ],
+          "bullets": [
+            "Recursos humanos, materiais e financeiros.",
+            "Competências, conhecimentos e métodos.",
+            "Processos e capacidade produtiva."
+          ]
+        },
+        {
+          "title": "Conhecer o ambiente para rever objetivos",
+          "text": "A identificação das forças que agem sobre o negócio ajuda a reavaliar a missão corporativa e os objetivos. O material relaciona o contexto externo também a aspectos físicos, culturais e tecnológicos e destaca que novas forças sociais mudam comportamentos, modelos de negócio e formas de consumo, criando desafios ao marketing.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Micro e macroambiente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m05-l04",
+      "title": "Transformações sociais e marketing digital",
+      "intro": "Veja como as mudanças do contexto são ligadas ao Marketing 3.0 e ao 4.0.",
+      "blocks": [
+        {
+          "title": "Cinco forças listadas na aula",
+          "text": "O quadro apresenta forças que transformam o ambiente de marketing: tecnologia da informação, globalização, desregulamentação, maior poder de compra e informação ao consumidor. A revolução digital influencia comunicações e produção; a globalização facilita negócios e compras entre países; o acesso à informação permite que consumidores pesquisem mais sobre suas escolhas.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Micro e macroambiente"
+            }
+          ],
+          "bullets": [
+            "Rede de tecnologia da informação.",
+            "Globalização.",
+            "Desregulamentação.",
+            "Maior poder de compra do cliente.",
+            "Informação ao consumidor."
+          ]
+        },
+        {
+          "title": "Marketing 3.0: participação e criatividade",
+          "text": "O material destaca três grandes forças no Marketing 3.0: participação, paradoxo da globalização e criatividade. Elas são relacionadas à transformação dos clientes, que passam a ser descritos como mais colaborativos, culturais e voltados ao espírito. Essas são as forças desenvolvidas nesse trecho, sem acrescentar fases ausentes do conteúdo local.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Micro e macroambiente"
+            },
+            {
+              "page": 10,
+              "section": "Micro e macroambiente"
+            }
+          ]
+        },
+        {
+          "title": "Marketing 4.0: tecnologia e economia digital",
+          "text": "A aula apresenta o Marketing 4.0 com foco na revolução digital e no papel da tecnologia no cenário da economia digital. Ela afirma que esse conceito não substitui nem descaracteriza o Marketing 3.0. O marketing digital é situado nesse contexto. Há uma chamada externa para diferenças entre versões anteriores, mas o PDF não desenvolve Marketing 1.0 e 2.0.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Micro e macroambiente"
+            },
+            {
+              "page": 11,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m05-l05",
+      "title": "Os 4Ps e a aplicação da estratégia",
+      "intro": "Relacione o composto de marketing ao planejamento e ao acompanhamento das ações.",
+      "blocks": [
+        {
+          "title": "Produto, preço, praça e promoção",
+          "text": "O composto, ou mix de marketing, é formado pelos quatro elementos usados para estruturar estratégias de mercado: produto, preço, praça e promoção. A aula os relaciona às atividades de criar, capturar, entregar e comunicar valor ao público a que o produto ou serviço se dirige. O PDF atribui a formulação do mix a Jerome McCarthy, em 1960.",
+          "refs": [
+            {
+              "page": 11,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            },
+            {
+              "page": 12,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ],
+          "bullets": ["Produto.", "Preço.", "Praça.", "Promoção."]
+        },
+        {
+          "title": "O que o arquivo permite estudar",
+          "text": "O texto menciona outras abordagens, como os 8Ps, mas não fornece sua enumeração. A figura de variáveis sob cada um dos 4Ps também não aparece na p. 12 do PDF. A revisão se apoia nos quatro nomes, em sua finalidade geral e no modelo de aplicação estratégica escrito nas páginas seguintes.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            },
+            {
+              "page": 13,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ]
+        },
+        {
+          "title": "Da oportunidade à ação acompanhada",
+          "text": "O modelo apresentado começa pelo mapeamento de oportunidades com pesquisa de mercado e pela seleção do mercado-alvo. Depois desenvolve estratégias com ferramentas do composto e programas de apoio à implantação. Por fim, a implementação transforma a estratégia em rotinas e ações, acompanha resultados e novidades e exige revisão em relação ao planejamento estratégico da empresa.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ],
+          "bullets": [
+            "1. Mapear e identificar oportunidades.",
+            "2. Pesquisar e selecionar o mercado-alvo.",
+            "3. Desenvolver estratégias de marketing.",
+            "4. Desenvolver programas de apoio.",
+            "5. Implementar e acompanhar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m05-l06",
+      "title": "Posicionamento, segmentos e nichos",
+      "intro": "Compreenda a relação entre público escolhido, oferta diferenciada e percepção da marca.",
+      "blocks": [
+        {
+          "title": "Como a marca quer ser percebida",
+          "text": "Posicionamento de mercado é a definição de como uma marca, um produto ou um serviço deve ser percebido pelo público-alvo. O material usa marcas conhecidas para mostrar como uma presença consolidada pode fazer com que o nome da marca seja usado pelas pessoas para se referir ao produto. São exemplos didáticos do PDF, sem análise atual dessas empresas.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            },
+            {
+              "page": 14,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ]
+        },
+        {
+          "title": "Diferenciar a oferta para grupos",
+          "text": "A segmentação direciona uma oferta específica a um grupo de consumidores. A pesquisa de mercado auxilia a empresa a reconhecer e selecionar esses públicos. Na explicação da aula, diferenciar a oferta contribui para a especialização do produto ou marca e seu reconhecimento pelo público-alvo.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            },
+            {
+              "page": 15,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ]
+        },
+        {
+          "title": "Um nicho dentro de um segmento",
+          "text": "Nicho é um recorte ainda mais específico dentro de um segmento. O exemplo do PDF compara o segmento de aplicativos de mobilidade urbana a um serviço destinado apenas a mulheres, com motoristas e passageiras mulheres. O segundo caso ilustra o nicho pela maior especificidade de seu público.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "Composto de marketing e sua aplicação estratégica"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m05-f01",
+      "front": "Por que anúncios e promoções não definem todo o marketing?",
+      "back": "Porque o conceito também envolve necessidades, desejos, valor, trocas e a relação da oferta com o consumidor.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Definição do marketing"
+        },
+        {
+          "page": 3,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-f02",
+      "front": "Que nomes antecederam o uso corrente de marketing no ensino brasileiro descrito?",
+      "back": "Administração mercadológica e mercadologia.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m05-f03",
+      "front": "Qual é a definição sucinta apresentada para marketing?",
+      "back": "Atender necessidades gerando lucro.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-f04",
+      "front": "O que caracteriza a perspectiva social do marketing?",
+      "back": "A criação, a oferta e a livre troca de produtos de valor para atender necessidades e desejos de indivíduos e grupos.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-f05",
+      "front": "Como a empatia contribui para o marketing?",
+      "back": "Ajuda a enxergar a necessidade do consumidor e a desenvolver ou reformular soluções que agreguem valor.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-f06",
+      "front": "Qual é o papel do marketing em relação à demanda, na aula?",
+      "back": "Administrar a demanda de bens e serviços, estimulando o consumo conforme necessidades e desejos específicos.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-f07",
+      "front": "Como reconhecer forças do macroambiente?",
+      "back": "São forças externas que interferem nos negócios e escapam ao controle da empresa, como fatores políticos, econômicos e climáticos.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-f08",
+      "front": "Que elementos internos a aula associa ao microambiente?",
+      "back": "Recursos humanos, materiais e financeiros; competências e conhecimentos; métodos; processos e capacidade produtiva.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-f09",
+      "front": "Quais três forças são destacadas no Marketing 3.0?",
+      "back": "Participação, paradoxo da globalização e criatividade.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-f10",
+      "front": "Como o Marketing 4.0 se relaciona ao 3.0 na aula?",
+      "back": "Dá destaque à revolução digital e à tecnologia, sem substituir ou descaracterizar o Marketing 3.0.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-f11",
+      "front": "Quais são os 4Ps do composto de marketing?",
+      "back": "Produto, preço, praça e promoção.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-f12",
+      "front": "Qual instrumento é central para identificar oportunidades e selecionar públicos?",
+      "back": "A pesquisa de mercado, que apoia tanto a identificação de oportunidades quanto a segmentação do mercado-alvo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-f13",
+      "front": "Por que acompanhar resultados e mudanças de mercado?",
+      "back": "Para revisar estratégias e planos de marketing, mantendo sua relação com o planejamento estratégico da empresa.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-f14",
+      "front": "O que significa posicionamento de mercado?",
+      "back": "Definir como uma marca, um serviço ou um produto deve ser percebido pelo público-alvo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        },
+        {
+          "page": 14,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-f15",
+      "front": "Qual é a relação entre segmento e nicho?",
+      "back": "O nicho é um recorte mais específico de consumidores dentro de um segmento.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m05-q01",
+      "prompt": "Uma pessoa afirma que marketing se resume a anunciar produtos e realizar promoções. Como a aula avalia essa compreensão?",
+      "choices": [
+        "É completa, pois marketing não se relaciona com necessidades.",
+        "É parcialmente correta, mas não abrange todo o conceito.",
+        "É inválida, pois publicidade nunca tem relação com marketing.",
+        "É completa apenas para organizações sem fins lucrativos."
+      ],
+      "answer": 1,
+      "explanation": "A introdução reconhece anúncios e promoções como parte do tema, mas apresenta uma compreensão mais ampla ao longo da definição.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Definição do marketing"
+        },
+        {
+          "page": 3,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-q02",
+      "prompt": "Segundo o histórico apresentado, como o tema era inicialmente abordado no ensino brasileiro?",
+      "choices": [
+        "Sistema Nacional de Inovação.",
+        "Engenharia de processos.",
+        "Administração mercadológica ou mercadologia.",
+        "Planejamento exclusivamente operacional."
+      ],
+      "answer": 2,
+      "explanation": "Esses são os nomes atribuídos à disciplina antes da adoção corrente de marketing no histórico da aula.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m05-q03",
+      "prompt": "Qual situação traduz melhor a perspectiva social do marketing apresentada?",
+      "choices": [
+        "Uma organização calcula custos sem considerar pessoas ou trocas.",
+        "Um departamento usa somente equipamentos para determinar seus prazos.",
+        "Uma empresa identifica ameaças, mas impede qualquer oferta de produtos.",
+        "Indivíduos e grupos atendem necessidades e desejos por criação, oferta e livre troca de produtos de valor."
+      ],
+      "answer": 3,
+      "explanation": "A perspectiva social relaciona o marketing ao processo de obtenção do que se necessita e deseja por criação, oferta e troca de valor.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-q04",
+      "prompt": "Antes de reformular um serviço, uma profissional procura perceber as necessidades do consumidor pela perspectiva dele. Qual contribuição do marketing está sendo aplicada?",
+      "choices": [
+        "A empatia, que ajuda a perceber demandas e criar valor para o cliente.",
+        "O abandono da percepção do público em favor de cópias automáticas.",
+        "O controle direto de todos os fatores políticos externos.",
+        "A substituição da necessidade do cliente pelo organograma da empresa."
+      ],
+      "answer": 0,
+      "explanation": "A aula relaciona empatia à capacidade de perceber necessidades do outro e criar ou reformular soluções diferenciadas.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-q05",
+      "prompt": "Qual conclusão sobre organizações sem fins lucrativos está de acordo com a aula?",
+      "choices": [
+        "Não podem aplicar estratégias de marketing.",
+        "Também podem utilizar marketing para alcançar seus objetivos.",
+        "Só podem trabalhar com propaganda, sem compreender públicos.",
+        "São o único contexto de aplicação do marketing."
+      ],
+      "answer": 1,
+      "explanation": "O material reconhece as estratégias de marketing como essenciais tanto em contextos lucrativos quanto em organizações sem fins lucrativos.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-q06",
+      "prompt": "Uma alteração econômica ampla, fora do controle de uma empresa, interfere na implantação de seu plano de marketing. No recorte da aula, trata-se de um fator:",
+      "choices": [
+        "Exclusivamente interno, como um método de produção.",
+        "Limitado à competência individual de um funcionário.",
+        "Do macroambiente, associado às oportunidades e ameaças externas.",
+        "Do composto de marketing, equivalente ao produto."
+      ],
+      "answer": 2,
+      "explanation": "Forças econômicas, políticas e climáticas externas são exemplos do macroambiente e são relacionadas ao par oportunidades/ameaças da SWOT.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-q07",
+      "prompt": "Qual conjunto reúne elementos que o PDF associa ao contexto interno ou microambiente?",
+      "choices": [
+        "Apenas clima e política internacional.",
+        "Somente tendências globais fora do alcance da empresa.",
+        "Participação, globalização e criatividade, exclusivamente.",
+        "Recursos humanos e financeiros, competências, métodos e capacidade produtiva."
+      ],
+      "answer": 3,
+      "explanation": "A lista reúne exemplos internos citados na aula. Esta questão usa a nomenclatura específica adotada pelo material.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-q08",
+      "prompt": "Qual conjunto contém apenas forças listadas no quadro de mudanças do ambiente de marketing?",
+      "choices": [
+        "Tecnologia da informação, globalização, desregulamentação, poder de compra e informação ao consumidor.",
+        "Produto, preço, praça, promoção e patente.",
+        "Exclusivamente hierarquia, organograma e supervisão.",
+        "Institucionalização, patente, certificado de adição, hub e SNI."
+      ],
+      "answer": 0,
+      "explanation": "As cinco forças constam do quadro da p. 9; a aula relaciona as mudanças sociais a comportamentos, negócios e consumo.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Micro e macroambiente"
+        },
+        {
+          "page": 9,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-q09",
+      "prompt": "Quais forças são destacadas na apresentação do Marketing 3.0?",
+      "choices": [
+        "Produto, preço e praça.",
+        "Participação, paradoxo da globalização e criatividade.",
+        "Patentes, licenças e certificados.",
+        "Desenho, comando e fiscalização."
+      ],
+      "answer": 1,
+      "explanation": "A aula identifica essas três forças sociais e as relaciona à transformação dos clientes.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-q10",
+      "prompt": "Como a aula relaciona Marketing 4.0 e Marketing 3.0?",
+      "choices": [
+        "O 4.0 elimina toda a base do 3.0.",
+        "O 4.0 exclui a tecnologia das decisões de marketing.",
+        "O 4.0 enfatiza a revolução digital sem substituir ou descaracterizar o 3.0.",
+        "Os dois são definidos como os seis tipos de marketing da figura."
+      ],
+      "answer": 2,
+      "explanation": "O texto atribui papel importante à tecnologia no cenário da economia digital e afirma expressamente a continuidade em relação ao 3.0.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Micro e macroambiente"
+        }
+      ]
+    },
+    {
+      "id": "m05-q11",
+      "prompt": "Qual lista corresponde aos quatro elementos do composto de marketing estudado?",
+      "choices": [
+        "Pessoas, patentes, processos e políticas.",
+        "Forças, fraquezas, oportunidades e ameaças.",
+        "Financeiro, clientes, aprendizagem e processos internos.",
+        "Produto, preço, praça e promoção."
+      ],
+      "answer": 3,
+      "explanation": "Esses são os 4Ps apresentados pela aula como base para estruturar estratégias de mercado.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q12",
+      "prompt": "Qual finalidade o PDF associa ao uso dos elementos do composto de marketing?",
+      "choices": [
+        "Criar, capturar, entregar e comunicar valor ao público a que a oferta se dirige.",
+        "Eliminar a necessidade de conhecer o público.",
+        "Garantir controle sobre todas as forças do macroambiente.",
+        "Substituir qualquer acompanhamento dos resultados."
+      ],
+      "answer": 0,
+      "explanation": "Os quatro elementos são apresentados em relação à geração e à comunicação de valor aos clientes.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q13",
+      "prompt": "Uma empresa quer identificar oportunidades e escolher um público específico para atender. Qual instrumento recebe destaque nos dois primeiros passos da aplicação estratégica apresentada?",
+      "choices": [
+        "Registro de patentes.",
+        "Pesquisa de mercado.",
+        "Apenas demonstrações financeiras passadas.",
+        "Cópia automática das decisões dos concorrentes."
+      ],
+      "answer": 1,
+      "explanation": "A pesquisa de mercado apoia o mapeamento de oportunidades e a seleção do mercado-alvo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q14",
+      "prompt": "Depois de definir claramente suas estratégias de marketing, qual passo de apoio à implantação é explicitamente indicado no modelo apresentado?",
+      "choices": [
+        "Encerrar o acompanhamento de resultados.",
+        "Trocar a missão por qualquer tendência passageira.",
+        "Desenvolver programas de marketing que suportem a implantação das estratégias.",
+        "Dispensar programas porque estratégia e execução são a mesma atividade."
+      ],
+      "answer": 2,
+      "explanation": "O quarto passo prevê programas de apoio à implantação das estratégias já definidas.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q15",
+      "prompt": "O mercado mudou depois que o plano de marketing começou a ser executado. Qual ação se alinha ao quinto passo apresentado?",
+      "choices": [
+        "Manter o plano sem observar resultados, pois o mercado deve adaptar-se à empresa.",
+        "Rever somente a identidade visual, sem considerar a estratégia da empresa.",
+        "Abandonar todas as pesquisas de mercado feitas anteriormente.",
+        "Acompanhar resultados e novidades e revisar o plano com base no planejamento estratégico da empresa."
+      ],
+      "answer": 3,
+      "explanation": "O material liga implementação a rotinas e ações reais, acompanhamento a resultados e mudanças e revisão ao planejamento estratégico da empresa.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q16",
+      "prompt": "Uma empresa define como quer que seu serviço seja percebido pelo público-alvo. Qual conceito está aplicando?",
+      "choices": [
+        "Posicionamento de mercado.",
+        "Certificado de adição.",
+        "Transferência de tecnologia.",
+        "Planejamento operacional como sinônimo de macroambiente."
+      ],
+      "answer": 0,
+      "explanation": "A percepção desejada pelo público-alvo define o posicionamento de marca, produto ou serviço na aula.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        },
+        {
+          "page": 14,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q17",
+      "prompt": "Seguindo o exemplo da aula, aplicativos de mobilidade urbana constituem um segmento. Um serviço desse setor voltado apenas a mulheres representa:",
+      "choices": [
+        "Todo o macroambiente econômico.",
+        "Um nicho, por ser um recorte mais específico dentro do segmento.",
+        "A ausência de público-alvo.",
+        "Uma das quatro perspectivas do BSC."
+      ],
+      "answer": 1,
+      "explanation": "O exemplo do PDF diferencia o segmento amplo do recorte específico atendido por um serviço direcionado a um grupo.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q18",
+      "prompt": "Uma marca diferencia sua oferta para atender melhor a um grupo de consumidores, buscando especialização e reconhecimento por esse público. Qual estratégia é diretamente coerente com essa escolha?",
+      "choices": [
+        "Ignorar as diferenças de necessidades entre consumidores.",
+        "Usar posicionamento como sinônimo de contexto político.",
+        "Segmentar o mercado e orientar a oferta para esse grupo.",
+        "Considerar que só o mercado inteiro pode ser um público-alvo."
+      ],
+      "answer": 2,
+      "explanation": "A segmentação diferencia a oferta para grupos e, segundo a aula, essa diferenciação contribui para especialização e reconhecimento do público-alvo.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    },
+    {
+      "id": "m05-q19",
+      "prompt": "Como a aula apresenta o papel do marketing ao administrar a demanda?",
+      "choices": [
+        "Estimular qualquer consumo sem relação com necessidades.",
+        "Substituir o conhecimento dos clientes pelo controle do clima.",
+        "Limitar a demanda a atividades sem objetivos.",
+        "Estimular o consumo de bens e serviços que atendam necessidades e desejos específicos."
+      ],
+      "answer": 3,
+      "explanation": "O trecho relaciona a administração da demanda às características dos bens e serviços e às necessidades e desejos de determinadas pessoas.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "Definição do marketing"
+        }
+      ]
+    },
+    {
+      "id": "m05-q20",
+      "prompt": "Uma pesquisa identifica um grupo específico de consumidores; em seguida, a marca define como quer ser percebida por esse grupo. Qual associação está correta?",
+      "choices": [
+        "A escolha do grupo se relaciona à segmentação; a percepção desejada se relaciona ao posicionamento.",
+        "As duas decisões são chamadas de patente de invenção.",
+        "A escolha do grupo é apenas macroambiente; a percepção desejada é apenas capacidade produtiva.",
+        "A segmentação elimina o público-alvo e o posicionamento elimina a marca."
+      ],
+      "answer": 0,
+      "explanation": "A seleção de públicos específicos é ligada à segmentação, enquanto o posicionamento define a percepção pretendida pelo público-alvo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        },
+        {
+          "page": 15,
+          "section": "Composto de marketing e sua aplicação estratégica"
+        }
+      ]
+    }
+  ]
+}

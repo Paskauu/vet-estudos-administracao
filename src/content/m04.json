@@ -1,0 +1,916 @@
+{
+  "id": "m04",
+  "order": 4,
+  "title": "Planejamento e tomada de decisões",
+  "shortTitle": "Planejamento",
+  "description": "Do pensamento estratégico aos níveis de planejamento, à tomada de decisões e ao acompanhamento com BSC e SWOT.",
+  "source": {
+    "filename": "Planejamento E Tomada De Decisões.pdf",
+    "pages": 18,
+    "topic": "04"
+  },
+  "lessons": [
+    {
+      "id": "m04-l01",
+      "title": "Planejar diante da incerteza",
+      "intro": "Entenda por que o planejamento prepara a organização para agir e como se relaciona à estratégia.",
+      "blocks": [
+        {
+          "title": "Preparar as próximas ações",
+          "text": "O planejamento estratégico organiza racionalmente as ações futuras e ajuda a reduzir incertezas. A aula relaciona sua consolidação nos estudos empresariais, por volta da década de 1960, à busca de apoio para as atividades das empresas. A ligação com a teoria contingencial lembra que não existe uma única forma de gerir todas as organizações.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "Introdução"
+            },
+            {
+              "page": 2,
+              "section": "Introdução"
+            },
+            {
+              "page": 3,
+              "section": "Introdução"
+            }
+          ],
+          "bullets": [
+            "Antecipar processos e se preparar para o futuro.",
+            "Organizar a ação de modo preventivo.",
+            "Reduzir incertezas sem pressupor que toda empresa deve ser gerida da mesma forma."
+          ]
+        },
+        {
+          "title": "Estratégia como plano e padrão de ação",
+          "text": "A estratégia pode ser entendida como um plano consciente, com diretrizes e objetivos, e como um padrão de ação. O segundo sentido chama atenção para o comportamento de quem coloca o plano em prática. Assim, compreender uma estratégia envolve tanto a intenção quanto o modo como ela é executada.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "Introdução"
+            }
+          ]
+        },
+        {
+          "title": "O plano dentro do planejamento",
+          "text": "Na distinção da aula, um plano reúne recursos e métodos de trabalho de curto prazo para atingir resultados. Ele pode fazer parte de um planejamento maior. O planejamento estratégico abrange a organização de forma macro e costuma envolver médio e longo prazo. Essa diferença ajuda a relacionar uma ação específica aos resultados mais amplos da empresa.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "Introdução"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m04-l02",
+      "title": "Três perspectivas para pensar a estratégia",
+      "intro": "Compare os focos prescritivo, descritivo e de configuração apresentados no material.",
+      "blocks": [
+        {
+          "title": "Prescritiva: estruturar a formulação",
+          "text": "A perspectiva prescritiva enfatiza como a estratégia é elaborada. A aula destaca o design, o planejamento formal e o posicionamento. O design pode usar a matriz SWOT como diagnóstico; o planejamento formal organiza metas e objetivos; o posicionamento considera recursos e capacidades internas junto das condições do ambiente competitivo. A estratégia conecta esses meios aos fins pretendidos.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "As escolas do pensamento estratégico"
+            },
+            {
+              "page": 6,
+              "section": "As escolas do pensamento estratégico"
+            }
+          ],
+          "bullets": [
+            "Design: estruturar a formulação.",
+            "Planejamento formal: sistematizar metas e objetivos.",
+            "Posicionamento: considerar capacidades internas e ambiente competitivo."
+          ]
+        },
+        {
+          "title": "Descritiva: compreender a formação",
+          "text": "A perspectiva descritiva procura entender o contexto e a formação da estratégia, incluindo a mente do estrategista. Aprendizagem e cooperação entre os pares recebem destaque. A aula aproxima essa perspectiva da gestão estratégica, em que gestores e membros de diversas áreas participam continuamente da formulação e são incentivados a pensar em questões de longo prazo.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "As escolas do pensamento estratégico"
+            },
+            {
+              "page": 7,
+              "section": "As escolas do pensamento estratégico"
+            }
+          ]
+        },
+        {
+          "title": "Configuração: integrar e transformar",
+          "text": "A configuração combina as perspectivas prescritiva e descritiva. A analogia do elefante sugere compreender o conjunto, em vez de se limitar a uma parte. A leitura torna-se ampla: considera contextos interno e externo, as forças, fraquezas, oportunidades e ameaças e também mudanças estratégicas e ambientes de transformação. Essa é a organização didática das escolas adotada pelo PDF.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "As escolas do pensamento estratégico"
+            },
+            {
+              "page": 5,
+              "section": "As escolas do pensamento estratégico"
+            },
+            {
+              "page": 7,
+              "section": "As escolas do pensamento estratégico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m04-l03",
+      "title": "Do rumo da organização aos planos de ação",
+      "intro": "Relacionar os três níveis ajuda a perceber como o planejamento se torna execução.",
+      "blocks": [
+        {
+          "title": "Institucional: o rumo de longo prazo",
+          "text": "No nível institucional está a alta administração. O planejamento estabelece o rumo global da organização, tem forte orientação para o contexto externo e se desdobra nos níveis inferiores. A aula o caracteriza como top down, de cima para baixo, e usa como referência objetivos acima de cinco anos. Esse horizonte é o recorte temporal apresentado pelo material.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "Tipos de planejamento"
+            },
+            {
+              "page": 9,
+              "section": "Tipos de planejamento"
+            }
+          ]
+        },
+        {
+          "title": "Tático: as decisões dos departamentos",
+          "text": "O nível intermediário reúne gerências, coordenações de área e supervisões. Seus planejamentos são chamados de táticos: envolvem decisões departamentais de médio prazo e são mais detalhados que o planejamento institucional. A aula cita áreas como finanças, marketing, recursos humanos e pesquisa em inovação. Os diversos planejamentos precisam estar alinhados entre si e com a conjuntura econômica.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Tipos de planejamento"
+            },
+            {
+              "page": 10,
+              "section": "Tipos de planejamento"
+            }
+          ]
+        },
+        {
+          "title": "Operacional: transformar planos em prática",
+          "text": "O planejamento operacional é ligado à execução, ao curto prazo e aos planos de ação. No exemplo do material, o departamento de marketing executa seu planejamento tático por planos de pesquisa de mercado, vendas e promoções. Esse desdobramento mostra como as orientações institucionais e táticas chegam às ações práticas de um departamento.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "Tipos de planejamento"
+            },
+            {
+              "page": 11,
+              "section": "Tipos de planejamento"
+            }
+          ],
+          "bullets": [
+            "Institucional: rumo global e longo prazo.",
+            "Tático: decisões departamentais e médio prazo.",
+            "Operacional: execução e planos de ação de curto prazo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m04-l04",
+      "title": "Elaborar, decidir e implementar",
+      "intro": "Acompanhe as etapas que levam do diagnóstico às prioridades e à execução.",
+      "blocks": [
+        {
+          "title": "Começar pelo contexto e pelo destino",
+          "text": "O processo de planejamento procura responder onde a organização está, para onde deseja ir, o que pode encontrar adiante, qual percurso escolher e como percorrê-lo. A análise da situação examina a conjuntura, incluindo condições econômicas, políticas e restrições de recursos. Esse trabalho prepara a definição de metas e objetivos.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Processo do planejamento e tomada de decisões"
+            }
+          ]
+        },
+        {
+          "title": "Construir, avaliar e selecionar metas",
+          "text": "Após analisar a situação, o processo constrói metas e define objetivos, avalia metas e planos e depois os seleciona. Na distinção do PDF, meta é a mensuração ou quantidade estipulada, e objetivo é apresentado como resultado alcançado. A avaliação examina potencial e desvantagens; a seleção define prioridades e decide quais metas e objetivos serão buscados.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "Processo do planejamento e tomada de decisões"
+            },
+            {
+              "page": 13,
+              "section": "Processo do planejamento e tomada de decisões"
+            }
+          ],
+          "bullets": [
+            "1. Analisar a situação.",
+            "2. Construir metas e definir objetivos.",
+            "3. Avaliar metas e planos.",
+            "4. Selecionar metas e planos."
+          ]
+        },
+        {
+          "title": "Da formulação à decisão e à execução",
+          "text": "A formulação constrói metas, indicadores e objetivos. Depois, é necessário decidir sobre a implementação. A aula atribui a validação institucional a diretores e presidente; no nível intermediário, a decisão cabe aos gestores dos departamentos, que também respondem pelos planos de ação operacionais. Implementar é colocar o planejamento em prática.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Processo do planejamento e tomada de decisões"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m04-l05",
+      "title": "Acompanhar a estratégia com o BSC",
+      "intro": "Conheça as quatro perspectivas que o material relaciona à implementação e ao controle.",
+      "blocks": [
+        {
+          "title": "Quatro perspectivas de desempenho",
+          "text": "O Balanced Scorecard é apresentado como uma metodologia de Robert Kaplan e David Norton. Ele organiza indicadores sob quatro perspectivas para apoiar a implementação da estratégia: financeira, clientes, processos internos e aprendizagem/crescimento. Acompanhar indicadores permite analisar o desempenho enquanto o planejamento é executado.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Processo do planejamento e tomada de decisões"
+            },
+            {
+              "page": 14,
+              "section": "Processo do planejamento e tomada de decisões"
+            }
+          ],
+          "bullets": [
+            "Financeira.",
+            "Clientes.",
+            "Processos internos.",
+            "Aprendizagem/crescimento."
+          ]
+        },
+        {
+          "title": "Ligar indicadores às perguntas da organização",
+          "text": "A perspectiva de clientes considera como o público vê a empresa; processos internos apontam quais processos precisam ser mais ágeis; aprendizagem trata do aprimoramento e desenvolvimento; a financeira se volta aos interesses dos acionistas ou da direção. A aula também usa a expressão aprendizagem/desenvolvimento ao explicar essa mesma perspectiva.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "Processo do planejamento e tomada de decisões"
+            },
+            {
+              "page": 14,
+              "section": "Processo do planejamento e tomada de decisões"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m04-l06",
+      "title": "Diagnosticar e manter o alinhamento",
+      "intro": "Use a distinção entre os ambientes para conectar diagnóstico, estratégia e revisão.",
+      "blocks": [
+        {
+          "title": "SWOT: dois ambientes, quatro elementos",
+          "text": "A matriz SWOT reúne forças, fraquezas, oportunidades e ameaças. Forças e fraquezas dizem respeito ao contexto interno da empresa. Oportunidades e ameaças pertencem ao contexto externo e podem afetar a implementação da estratégia. Conhecer os dois ambientes apoia a elaboração estratégica em relação à visão e à missão da organização.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "Processo do planejamento e tomada de decisões"
+            },
+            {
+              "page": 15,
+              "section": "SWOT e conclusão"
+            }
+          ],
+          "bullets": [
+            "Interno: forças e fraquezas.",
+            "Externo: oportunidades e ameaças."
+          ]
+        },
+        {
+          "title": "Decisões apoiadas em informações",
+          "text": "A aula enfatiza que o planejamento precisa se apoiar em informações, métodos e estudos. Os níveis devem permanecer alinhados entre si e com a conjuntura. A empresa não controla diretamente todos os segmentos do ambiente geral, e mudanças externas podem afetar seu planejamento. O alinhamento entre as decisões dos diferentes níveis é parte importante dessa preparação.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "Tipos de planejamento"
+            },
+            {
+              "page": 16,
+              "section": "Conclusão"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m04-f01",
+      "front": "Para que serve o planejamento estratégico diante da incerteza?",
+      "back": "Para preparar ações futuras de modo racional e reduzir incertezas do processo organizacional.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Introdução"
+        },
+        {
+          "page": 3,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-f02",
+      "front": "Como diferenciar estratégia como plano e como padrão de ação?",
+      "back": "Plano é o conjunto pretendido de diretrizes e objetivos; padrão de ação inclui o comportamento de quem executa.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-f03",
+      "front": "Qual é a diferença de abrangência entre plano e planejamento, segundo a aula?",
+      "back": "Planos são recursos e métodos de curto prazo; o planejamento estratégico é mais amplo e geralmente alcança médio e longo prazo.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-f04",
+      "front": "O que a estratégia conecta?",
+      "back": "Os meios disponíveis, como trabalho e recursos, aos fins ou objetivos do planejamento.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-f05",
+      "front": "Qual é o foco da perspectiva prescritiva?",
+      "back": "Estruturar como a estratégia deve ser formulada, com design, planejamento formal e posicionamento.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "As escolas do pensamento estratégico"
+        },
+        {
+          "page": 6,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-f06",
+      "front": "Qual é o foco da perspectiva descritiva?",
+      "back": "Compreender a formação da estratégia, incluindo contexto, mente do estrategista, aprendizagem e cooperação.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "As escolas do pensamento estratégico"
+        },
+        {
+          "page": 7,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-f07",
+      "front": "O que caracteriza a escola da configuração?",
+      "back": "A combinação das perspectivas prescritiva e descritiva, com visão ampla e atenção à transformação estratégica.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-f08",
+      "front": "Quem atua no planejamento institucional e qual sua orientação?",
+      "back": "A alta administração define o rumo global de longo prazo, com forte orientação para o ambiente externo.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Tipos de planejamento"
+        },
+        {
+          "page": 9,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-f09",
+      "front": "Como reconhecer um planejamento tático?",
+      "back": "É departamental, ligado ao nível intermediário, de médio prazo e mais detalhado que o institucional.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Tipos de planejamento"
+        },
+        {
+          "page": 10,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-f10",
+      "front": "Como o planejamento operacional transforma os demais em prática?",
+      "back": "Por planos de ação de curto prazo ligados à execução de atividades.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "Tipos de planejamento"
+        },
+        {
+          "page": 11,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-f11",
+      "front": "Quais são as quatro etapas de elaboração apresentadas?",
+      "back": "Análise da situação; construção de metas e definição de objetivos; avaliação de metas e planos; seleção de metas e planos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-f12",
+      "front": "Como a aula distingue meta e objetivo?",
+      "back": "Meta corresponde à mensuração ou quantidade; objetivo é apresentado como o resultado alcançado.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-f13",
+      "front": "O que distingue formulação de implementação?",
+      "back": "Formulação elabora metas, indicadores e objetivos; implementação coloca o planejamento em execução.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-f14",
+      "front": "Quais são as quatro perspectivas do BSC na aula?",
+      "back": "Financeira; clientes; processos internos; aprendizagem/crescimento.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 14,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-f15",
+      "front": "Como a SWOT separa ambiente interno e externo?",
+      "back": "Interno: forças e fraquezas. Externo: oportunidades e ameaças.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 15,
+          "section": "SWOT e conclusão"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m04-q01",
+      "prompt": "Uma empresa enfrenta um cenário imprevisível. Qual conduta corresponde à função do planejamento estratégico apresentada na aula?",
+      "choices": [
+        "Preparar antecipadamente ações racionais para reduzir as incertezas.",
+        "Suspender a análise porque só é possível planejar em cenários estáveis.",
+        "Garantir que nenhuma condição externa afete os resultados.",
+        "Aplicar a mesma forma de gestão a toda empresa, independentemente do contexto."
+      ],
+      "answer": 0,
+      "explanation": "O planejamento prepara a organização para o futuro e reduz incertezas; a relação com a contingência reconhece que não há uma única forma de gestão. O texto não promete controle total do ambiente.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "Introdução"
+        },
+        {
+          "page": 2,
+          "section": "Introdução"
+        },
+        {
+          "page": 3,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-q02",
+      "prompt": "Uma equipe registra diretrizes em um documento e, depois, passa a executá-las com um comportamento recorrente. Qual associação corresponde aos dois sentidos de estratégia apresentados?",
+      "choices": [
+        "Documento: padrão de ação; comportamento: planejamento institucional.",
+        "Documento: plano; comportamento de execução: padrão de ação.",
+        "Documento: ambiente externo; comportamento: posicionamento de mercado.",
+        "Documento e comportamento são apenas recursos financeiros."
+      ],
+      "answer": 1,
+      "explanation": "O sentido de plano envolve diretrizes conscientes e pretendidas; o padrão de ação envolve o comportamento de quem coloca o plano em prática.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-q03",
+      "prompt": "Segundo a distinção da aula, como um plano de curto prazo pode se relacionar com um planejamento estratégico mais amplo?",
+      "choices": [
+        "O plano elimina a necessidade dos objetivos gerais.",
+        "O planejamento estratégico só existe depois que todos os planos terminam.",
+        "O plano pode ser um recurso ou método para alcançar resultados previstos no planejamento maior.",
+        "Plano e planejamento sempre têm a mesma abrangência e duração."
+      ],
+      "answer": 2,
+      "explanation": "O material situa os planos dentro de um planejamento maior e associa o planejamento estratégico à organização em escala macro.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "Introdução"
+        }
+      ]
+    },
+    {
+      "id": "m04-q04",
+      "prompt": "Uma gestora precisa ligar recursos humanos, equipamentos e orçamento aos objetivos descritos no planejamento. Qual papel da estratégia está em evidência?",
+      "choices": [
+        "Transformar todos os objetivos em ameaças externas.",
+        "Substituir os recursos por intenções sem execução.",
+        "Restringir a empresa a atividades sem metas.",
+        "Conectar os meios disponíveis aos fins pretendidos."
+      ],
+      "answer": 3,
+      "explanation": "A aula apresenta a estratégia como a ligação entre os recursos e os objetivos do planejamento.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-q05",
+      "prompt": "Um estudo se concentra em estruturar a formulação da estratégia, elaborar um planejamento formal e definir o posicionamento. Qual perspectiva melhor o representa?",
+      "choices": [
+        "Prescritiva.",
+        "Descritiva, exclusivamente por estudar a mente do estrategista.",
+        "Operacional, por definir apenas ações de curtíssimo prazo.",
+        "Ambiental, como uma quarta escola listada na aula."
+      ],
+      "answer": 0,
+      "explanation": "Design, planejamento formal e posicionamento são destacados na apresentação da escola prescritiva. A aula organiza esta discussão em prescritiva, descritiva e configuração.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "As escolas do pensamento estratégico"
+        },
+        {
+          "page": 6,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-q06",
+      "prompt": "Uma organização quer entender como sua estratégia se formou e promove aprendizagem e cooperação entre gestores de várias áreas. Qual perspectiva está mais próxima dessa prática?",
+      "choices": [
+        "Prescritiva, porque dispensa o contexto de formação.",
+        "Descritiva, porque investiga a formação da estratégia e a aprendizagem.",
+        "Institucional, como nome de uma escola do pensamento.",
+        "Financeira, como única perspectiva estratégica."
+      ],
+      "answer": 1,
+      "explanation": "A perspectiva descritiva busca entender o contexto e a formação da estratégia, valorizando aprendizagem e cooperação; a aula relaciona isso à gestão estratégica contínua.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "As escolas do pensamento estratégico"
+        },
+        {
+          "page": 7,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-q07",
+      "prompt": "Qual leitura corresponde à escola da configuração apresentada na aula?",
+      "choices": [
+        "Examinar apenas uma parte da estratégia e excluir mudanças.",
+        "Substituir toda formulação por indicadores financeiros.",
+        "Integrar aspectos prescritivos e descritivos e considerar transformações estratégicas.",
+        "Tratar aprendizagem e planejamento formal como assuntos incompatíveis."
+      ],
+      "answer": 2,
+      "explanation": "A configuração combina as duas perspectivas e amplia o entendimento da estratégia, incluindo mudanças e transformação.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "As escolas do pensamento estratégico"
+        }
+      ]
+    },
+    {
+      "id": "m04-q08",
+      "prompt": "O presidente e a diretoria estabelecem o rumo global da empresa para um horizonte superior a cinco anos, com atenção ao contexto externo. Qual tipo de planejamento corresponde ao exemplo da aula?",
+      "choices": [
+        "Operacional.",
+        "Tático de um único departamento.",
+        "Plano de promoção de curto prazo.",
+        "Institucional."
+      ],
+      "answer": 3,
+      "explanation": "A alta administração, o longo prazo, a escala global da organização e a orientação externa caracterizam o nível institucional no material. O horizonte acima de cinco anos é o recorte utilizado pela aula.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "Tipos de planejamento"
+        },
+        {
+          "page": 9,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-q09",
+      "prompt": "A gerência de marketing detalha decisões departamentais para o médio prazo, alinhadas ao rumo geral da empresa. Esse é um planejamento:",
+      "choices": [
+        "Tático, situado no nível intermediário.",
+        "Institucional, porque qualquer decisão de marketing é de alta administração.",
+        "Operacional, porque todo departamento só planeja o curto prazo.",
+        "Externo, porque o departamento está fora da organização."
+      ],
+      "answer": 0,
+      "explanation": "Planejamentos departamentais de médio prazo, elaborados pelo nível intermediário, são táticos.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Tipos de planejamento"
+        },
+        {
+          "page": 10,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-q10",
+      "prompt": "Para executar seu planejamento tático, o departamento organiza planos de pesquisa de mercado, vendas e promoções. Qual característica fundamenta sua classificação operacional?",
+      "choices": [
+        "Definir o rumo da organização acima dos demais níveis.",
+        "Desdobrar a estratégia em planos de ação ligados à execução de curto prazo.",
+        "Desconsiderar as atividades do departamento.",
+        "Controlar diretamente a conjuntura econômica."
+      ],
+      "answer": 1,
+      "explanation": "A aula usa justamente planos de pesquisa de mercado, vendas e promoções para mostrar como o planejamento tático se torna ação operacional.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-q11",
+      "prompt": "Uma crise externa afeta a empresa, e cada departamento revê seus planos de maneira desconectada dos demais. Qual orientação da aula merece ser retomada?",
+      "choices": [
+        "O ambiente geral pode ser controlado diretamente por qualquer departamento.",
+        "Planejamentos só precisam se alinhar ao orçamento do mês.",
+        "Os planejamentos devem estar alinhados entre si e com a conjuntura econômica.",
+        "Planos institucionais não sofrem efeitos do contexto externo."
+      ],
+      "answer": 2,
+      "explanation": "O material destaca o alinhamento entre os níveis e o contexto econômico, reconhecendo que fatores externos podem atingir o planejamento global.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "Tipos de planejamento"
+        }
+      ]
+    },
+    {
+      "id": "m04-q12",
+      "prompt": "Qual sequência reproduz as quatro etapas de elaboração apresentadas?",
+      "choices": [
+        "Selecionar metas; executar ações; abandonar planos; analisar a situação.",
+        "Avaliar metas; executar; definir posicionamento; encerrar o controle.",
+        "Construir metas; selecionar tecnologias; criar patentes; implementar.",
+        "Analisar a situação; construir metas e definir objetivos; avaliar metas e planos; selecionar metas e planos."
+      ],
+      "answer": 3,
+      "explanation": "As duas primeiras etapas aparecem na p. 12 e a avaliação e a seleção são concluídas na p. 13. A seleção envolve prioridades e decisão.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q13",
+      "prompt": "Na distinção adotada pelo material, qual associação é correta?",
+      "choices": [
+        "Meta: valor ou quantidade estipulada; objetivo: resultado alcançado.",
+        "Meta: oportunidade externa; objetivo: fraqueza interna.",
+        "Meta: equipamento disponível; objetivo: recurso financeiro.",
+        "Meta: nome de departamento; objetivo: prazo sempre superior a cinco anos."
+      ],
+      "answer": 0,
+      "explanation": "Essa é a diferenciação expressa na aula. A questão se limita à formulação do PDF, sem ampliar a definição com fontes externas.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q14",
+      "prompt": "O planejamento institucional está formulado e aguarda validação; um departamento também precisa aprovar seus planos de ação operacionais. Como a aula distribui essas decisões?",
+      "choices": [
+        "Ambas cabem exclusivamente aos fornecedores.",
+        "Diretores e presidente validam o institucional; gestores intermediários também decidem sobre planos de ação operacionais.",
+        "A equipe operacional valida sozinha o rumo institucional.",
+        "Nenhuma decisão é necessária após a formulação."
+      ],
+      "answer": 1,
+      "explanation": "A aula atribui a validação institucional à direção e presidência e a decisão departamental, incluindo planos de ação operacionais, aos gestores do nível intermediário.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q15",
+      "prompt": "Uma equipe primeiro constrói metas, indicadores e objetivos; depois inicia a execução. Como nomear esses dois momentos?",
+      "choices": [
+        "Controle e ambiente externo.",
+        "Operação e eliminação da decisão.",
+        "Formulação e implementação.",
+        "Padrão de ação e análise de patentes."
+      ],
+      "answer": 2,
+      "explanation": "Formulação é a elaboração do planejamento; implementação é colocá-lo em prática.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q16",
+      "prompt": "Qual conjunto contém as quatro perspectivas do Balanced Scorecard apresentadas na aula?",
+      "choices": [
+        "Produto, preço, praça e promoção.",
+        "Forças, fraquezas, oportunidades e ameaças.",
+        "Institucional, intermediário, operacional e externo.",
+        "Financeira, clientes, processos internos e aprendizagem/crescimento."
+      ],
+      "answer": 3,
+      "explanation": "Essas perspectivas orientam indicadores para implementar e controlar a estratégia. As outras listas não são o conjunto do BSC exposto.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 14,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q17",
+      "prompt": "Uma empresa avalia a percepção dos clientes e identifica processos que precisam ser mais ágeis. Quais perspectivas do BSC estão diretamente em foco?",
+      "choices": [
+        "Clientes e processos internos.",
+        "Apenas financeira e aprendizagem.",
+        "Apenas financeira e clientes.",
+        "Somente oportunidades e ameaças."
+      ],
+      "answer": 0,
+      "explanation": "O material associa a percepção do público à perspectiva de clientes e a agilidade dos processos à perspectiva de processos internos.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q18",
+      "prompt": "Na matriz SWOT de uma empresa, onde devem ser analisadas suas próprias forças e fraquezas e as oportunidades e ameaças do contexto?",
+      "choices": [
+        "Todas no ambiente interno.",
+        "Forças e fraquezas no interno; oportunidades e ameaças no externo.",
+        "Forças e oportunidades no interno; fraquezas e ameaças no externo.",
+        "Todas no ambiente externo."
+      ],
+      "answer": 1,
+      "explanation": "A matriz separa os dois pares pelo ambiente a que pertencem, apoiando a formulação estratégica.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "Processo do planejamento e tomada de decisões"
+        },
+        {
+          "page": 15,
+          "section": "SWOT e conclusão"
+        }
+      ]
+    },
+    {
+      "id": "m04-q19",
+      "prompt": "Antes de escolher metas, uma equipe examina condições econômicas, políticas e limitações de recursos. Em que etapa da elaboração ela se encontra?",
+      "choices": [
+        "Seleção final de metas e planos.",
+        "Implementação já concluída.",
+        "Análise da situação.",
+        "Avaliação exclusiva da marca pelo cliente."
+      ],
+      "answer": 2,
+      "explanation": "A análise da situação examina a conjuntura em que o planejamento está inserido, incluindo fatores econômicos, políticos e restrições de recursos.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    },
+    {
+      "id": "m04-q20",
+      "prompt": "Uma equipe compara o potencial e as desvantagens das metas; depois define quais terão prioridade. Quais etapas estão representadas nessa ordem?",
+      "choices": [
+        "Implementação e encerramento.",
+        "Formulação de marcas e pesquisa de satisfação.",
+        "Seleção de metas e análise da situação.",
+        "Avaliação de metas e planos; seleção de metas e planos."
+      ],
+      "answer": 3,
+      "explanation": "Avaliar examina potencial e desvantagens; selecionar define prioridades e decide quais metas e objetivos serão buscados.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "Processo do planejamento e tomada de decisões"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "id": "m03",
+  "order": 3,
+  "title": "Gestão de pessoas e liderança",
+  "shortTitle": "Pessoas e liderança",
+  "description": "Relações humanas, motivação e liderança, além dos processos de recrutamento, seleção, desenvolvimento e avaliação de desempenho.",
+  "source": {
+    "filename": "Gestão de pessoas e liderança.pdf",
+    "pages": 21,
+    "topic": "03"
+  },
+  "lessons": [
+    {
+      "id": "m03-l01",
+      "title": "Pessoas, relações humanas e necessidades",
+      "intro": "Conheça a perspectiva comportamental e a hierarquia das necessidades apresentada por Maslow.",
+      "blocks": [
+        {
+          "title": "Pessoas em todos os níveis",
+          "text": "O papel das pessoas é relevante no nível operacional, na gestão intermediária e na alta administração. O capítulo apresenta a Teoria das Relações Humanas como base da gestão de pessoas e contraponto à visão mecanicista do trabalhador.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "1. Introdução"
+            },
+            {
+              "page": 2,
+              "section": "2. O indivíduo e a organização"
+            }
+          ]
+        },
+        {
+          "title": "A perspectiva da TRH",
+          "text": "A TRH é associada a Elton Mayo e à consideração de sentimentos, desejos e necessidades. O salário permanece relevante, mas deixa de ser tratado como o único fator capaz de motivar o indivíduo.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "2. O indivíduo e a organização"
+            },
+            {
+              "page": 3,
+              "section": "2. O indivíduo e a organização"
+            }
+          ]
+        },
+        {
+          "title": "A hierarquia de Maslow",
+          "text": "No modelo apresentado, as necessidades são organizadas da base ao topo e a satisfação de níveis anteriores condiciona os seguintes. A figura ajuda a relacionar cada nível a exemplos concretos.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "2. O indivíduo e a organização - texto e figura da pirâmide de Maslow"
+            }
+          ],
+          "bullets": [
+            "Fisiológicas: alimento, abrigo, repouso e outras necessidades orgânicas.",
+            "Segurança: proteção do emprego, da integridade física e da sobrevivência.",
+            "Sociais: pertencimento, amizade, interação e aceitação.",
+            "Estima: autoestima e estima dos outros.",
+            "Autorrealização: desenvolvimento de aptidões e realização pessoal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l02",
+      "title": "Ambiente motivador e liderança",
+      "intro": "Relacione a atuação do gestor, a influência positiva e a possibilidade de aprender a liderar.",
+      "blocks": [
+        {
+          "title": "Criar condições para a motivação",
+          "text": "A gestão de pessoas considera aspectos psicológicos e comportamentais. O material explica que motivação não pode ser imposta, mas o gestor pode criar um ambiente em que o trabalhador se sinta motivado e participe de uma atuação coordenada em equipe.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "2. O indivíduo e a organização"
+            }
+          ]
+        },
+        {
+          "title": "Liderar é uma habilidade",
+          "text": "Liderança é apresentada como habilidade que pode ser aprendida e aplicada, inclusive por profissionais sem cargo de chefia. O texto a relaciona a espírito de equipe, engajamento, entusiasmo e influência positiva nas pessoas.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2. O indivíduo e a organização"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l03",
+      "title": "Cargos, salários e relações trabalhistas",
+      "intro": "Observe o vínculo entre planejamento profissional, demandas organizacionais e equilíbrio de direitos e deveres.",
+      "blocks": [
+        {
+          "title": "Planejar cargos e salários",
+          "text": "A gestão de cargos e salários importa em empresas de diferentes portes. Seu planejamento deve acompanhar tecnologia, mercado e política econômica e participar das decisões orçamentárias da organização.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "3. Relações trabalhistas"
+            }
+          ]
+        },
+        {
+          "title": "Direitos, deveres e funções",
+          "text": "O capítulo relaciona sindicatos e justiça do trabalho ao equilíbrio entre direitos e deveres dos trabalhadores e as demandas dos cargos. A CLT é mencionada como conjunto de normas que regula relações individuais e coletivas de trabalho, sem detalhar direitos específicos neste tópico.",
+          "refs": [
+            {
+              "page": 6,
+              "section": "3. Relações trabalhistas"
+            },
+            {
+              "page": 7,
+              "section": "3. Relações trabalhistas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l04",
+      "title": "Recrutamento: encontrar e atrair talentos",
+      "intro": "Examine a abertura da vaga, o mercado de candidatos e as possibilidades de recrutamento.",
+      "blocks": [
+        {
+          "title": "O propósito do recrutamento",
+          "text": "Recrutar é identificar e acionar fontes de profissionais para formar o quadro de seleção. O processo inclui planejamento, execução e avaliação dos resultados; a requisição é a solicitação interna para autorização da abertura de vagas.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "4. Recrutamento e seleção"
+            }
+          ]
+        },
+        {
+          "title": "O mercado de candidatos",
+          "text": "O PDF descreve diferentes situações do mercado para orientar o recrutamento. A quantidade de candidatos em relação às vagas é importante para diferenciar excesso e escassez.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 9,
+              "section": "4. Recrutamento e seleção"
+            }
+          ],
+          "bullets": [
+            "Ocupado: candidatos com potencial que já estão empregados.",
+            "Disponível: candidatos acessíveis ao recrutamento.",
+            "Fixo: disponibilidade de determinados perfis profissionais, conforme os exemplos do material.",
+            "Excesso: candidatos em quantidade maior que as vagas.",
+            "Escassez: oferta de candidatos reduzida em relação às vagas."
+          ]
+        },
+        {
+          "title": "Origem dos candidatos e execução do processo",
+          "text": "O recrutamento interno aproveita profissionais que já trabalham na empresa; o externo busca pessoas de fora. O processo pode ser executado pela própria organização ou por terceiros especializados. Avaliar os resultados ajuda a orientar recrutamentos futuros.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 10,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 11,
+              "section": "4. Recrutamento e seleção"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l05",
+      "title": "Seleção: analisar e decidir a contratação",
+      "intro": "Diferencie a captação de candidatos da escolha de quem atende à oportunidade.",
+      "blocks": [
+        {
+          "title": "Da captação à escolha",
+          "text": "A seleção complementa o recrutamento e envolve análise, escolha e decisão de quem contratar. A diferença central está na finalidade: o recrutamento atrai candidatos e a seleção escolhe os profissionais apropriados para a vaga.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 11,
+              "section": "4. Recrutamento e seleção"
+            }
+          ]
+        },
+        {
+          "title": "Informações para decidir",
+          "text": "Currículos fornecem informações importantes para analisar os candidatos; o material também destaca entrevistas. Como entrevistas e dinâmicas aparecem em diferentes momentos da exposição, a finalidade do processo é mais útil para distinguir recrutamento e seleção do que o instrumento isolado.",
+          "refs": [
+            {
+              "page": 9,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 11,
+              "section": "4. Recrutamento e seleção"
+            },
+            {
+              "page": 12,
+              "section": "4. Recrutamento e seleção"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l06",
+      "title": "Treinamento, competências e carreira",
+      "intro": "Relacione qualificação aos diferentes saberes e ao equilíbrio entre desenvolvimento profissional e pessoal.",
+      "blocks": [
+        {
+          "title": "O resultado do treinamento",
+          "text": "Treinamento e desenvolvimento apoiam qualificação e aprimoramento pessoal e profissional. O material apresenta conhecimentos, habilidades e atitudes como resultados concretos do treinamento, associados ao desenvolvimento de competências.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "5. Treinamento e desenvolvimento pessoal"
+            },
+            {
+              "page": 13,
+              "section": "5. Treinamento e desenvolvimento pessoal"
+            }
+          ]
+        },
+        {
+          "title": "Saber, saber fazer e saber ser",
+          "text": "O conjunto de saberes ajuda a compreender o desempenho profissional. Conhecer e executar articulam a dimensão técnica; relacionar-se integra a dimensão social.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "5. Treinamento e desenvolvimento pessoal"
+            }
+          ],
+          "bullets": [
+            "Saber: possuir conhecimentos necessários à execução.",
+            "Saber fazer: aplicar os conhecimentos e executar atividades com autonomia.",
+            "Saber ser: relacionar-se, ouvir, falar, negociar e construir consenso."
+          ]
+        },
+        {
+          "title": "Carreira e outras áreas da vida",
+          "text": "A carreira deve ser pensada em relação aos demais objetivos e áreas importantes da vida. O capítulo associa trabalho à qualidade de vida e destaca a busca de equilíbrio entre desenvolvimento pessoal e profissional.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "5. Treinamento e desenvolvimento pessoal"
+            },
+            {
+              "page": 15,
+              "section": "5. Treinamento e desenvolvimento pessoal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m03-l07",
+      "title": "Avaliação, autoavaliação e retorno",
+      "intro": "Compreenda como diferentes formas de avaliação ajudam a analisar resultados e orientar melhorias.",
+      "blocks": [
+        {
+          "title": "Avaliar para desenvolver",
+          "text": "A avaliação de desempenho ajuda a compreender indicadores, competências e resultados profissionais em relação aos objetivos da organização. O texto menciona análise situacional, diagnóstico, acompanhamento e avaliação final como fundamentos de processos voltados ao desenvolvimento.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "6. Avaliação de desempenho"
+            }
+          ]
+        },
+        {
+          "title": "A reflexão sobre o próprio trabalho",
+          "text": "A autoavaliação envolve examinar o próprio desempenho e fazer autocrítica. Perguntar como uma atividade poderia ser melhor executada ajuda a aprimorar competências e ajustar a atuação.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "6. Avaliação de desempenho"
+            }
+          ]
+        },
+        {
+          "title": "Feedback e orientação ao futuro",
+          "text": "Feedback é um retorno sobre a atuação: pode reconhecer bons resultados ou apontar aspectos a melhorar. O construtivo deve apoiar o desenvolvimento sem menosprezar a pessoa. O material também menciona feedforward como alimentação para o futuro, relacionado a formas de diálogo.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "6. Avaliação de desempenho"
+            }
+          ]
+        },
+        {
+          "title": "A perspectiva 360 graus",
+          "text": "Na avaliação 360 graus, quem está ao redor contribui com informações sobre a atuação profissional. A variedade de perspectivas pode ampliar a compreensão da função, do desempenho e até de processos relacionados às atividades observadas.",
+          "refs": [
+            {
+              "page": 18,
+              "section": "6. Avaliação de desempenho"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m03-f01",
+      "front": "Qual abordagem é apresentada como base do tema gestão de pessoas?",
+      "back": "A Teoria das Relações Humanas, associada a Elton Mayo e à consideração dos aspectos comportamentais.",
+      "refs": [
+        {
+          "page": 1,
+          "section": "1. Introdução"
+        },
+        {
+          "page": 2,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-f02",
+      "front": "Qual mudança a TRH propõe em relação à motivação econômica exclusiva?",
+      "back": "Considerar que sentimentos, desejos e necessidades também importam; remuneração não é o único fator motivador.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "2. O indivíduo e a organização"
+        },
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-f03",
+      "front": "Qual é a ordem da hierarquia de Maslow apresentada no PDF?",
+      "back": "Necessidades fisiológicas/básicas, segurança, sociais, estima e autorrealização.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-f04",
+      "front": "A que nível da pirâmide pertencem amizade, pertencimento e aceitação?",
+      "back": "Necessidades sociais.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização - figura da pirâmide de Maslow"
+        }
+      ]
+    },
+    {
+      "id": "m03-f05",
+      "front": "Como o gestor pode atuar diante da motivação?",
+      "back": "Criando condições e ambiente favoráveis para que as pessoas se sintam motivadas.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-f06",
+      "front": "Liderança é necessariamente um dom ou exclusiva de chefes?",
+      "back": "Não. O PDF a apresenta como habilidade aprendida e aplicável por outros profissionais, ligada à influência positiva e ao espírito de equipe.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-f07",
+      "front": "O que o planejamento de cargos e salários deve acompanhar?",
+      "back": "Mudanças tecnológicas, de mercado e econômicas, além de participar do planejamento orçamentário.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "3. Relações trabalhistas"
+        }
+      ]
+    },
+    {
+      "id": "m03-f08",
+      "front": "Qual é a diferença essencial entre recrutamento e seleção?",
+      "back": "Recrutamento capta candidatos; seleção analisa, escolhe e decide quem contratar.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "4. Recrutamento e seleção"
+        },
+        {
+          "page": 11,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-f09",
+      "front": "O que é a requisição na fase de recrutamento?",
+      "back": "O processo interno que solicita e autoriza a abertura da vaga nas áreas responsáveis.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-f10",
+      "front": "O que caracteriza excesso e escassez no mercado de candidatos?",
+      "back": "Excesso: candidatos em quantidade maior que as vagas; escassez: oferta de candidatos reduzida em relação às vagas.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-f11",
+      "front": "Como diferenciar recrutamento interno, externo e terceirização?",
+      "back": "Interno e externo tratam da origem dos candidatos; a terceirização trata de quem executa o recrutamento.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-f12",
+      "front": "Que três elementos o treinamento desenvolve segundo o PDF?",
+      "back": "Habilidades, conhecimentos e atitudes, associados ao desenvolvimento de competências.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Treinamento e desenvolvimento pessoal"
+        }
+      ]
+    },
+    {
+      "id": "m03-f13",
+      "front": "Como diferenciar saber, saber fazer e saber ser?",
+      "back": "Saber: conhecimento; saber fazer: execução prática com autonomia; saber ser: relações e competências sociais.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Treinamento e desenvolvimento pessoal"
+        }
+      ]
+    },
+    {
+      "id": "m03-f14",
+      "front": "Para que servem avaliação de desempenho e autoavaliação?",
+      "back": "Para compreender e aprimorar resultados e competências; na autoavaliação, a própria pessoa reflete criticamente sobre sua atuação.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "6. Avaliação de desempenho"
+        },
+        {
+          "page": 16,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-f15",
+      "front": "O que distingue feedback construtivo de uma desqualificação?",
+      "back": "Ele aponta melhorias para construir o desenvolvimento do profissional, sem menosprezá-lo; feedforward é apresentado como orientação para o futuro.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-f16",
+      "front": "Qual é a ideia da avaliação 360 graus?",
+      "back": "Reunir avaliações de quem está ao redor para obter diversas perspectivas sobre desempenho, função e processos.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m03-q01",
+      "prompt": "Uma gestora afirma que salário é relevante, mas sentimentos, desejos e necessidades também devem ser considerados. Qual aproximação com a fonte está correta?",
+      "choices": [
+        "A fala retoma a remuneração como fator exclusivo da conduta.",
+        "A fala se aproxima da perspectiva comportamental da TRH.",
+        "A fala elimina o papel das pessoas nos resultados.",
+        "A fala corresponde apenas à padronização da linha de montagem."
+      ],
+      "answer": 1,
+      "explanation": "A TRH é apresentada como transição para a consideração dos aspectos humanos, rejeitando remuneração como única forma de motivação.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "2. O indivíduo e a organização"
+        },
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-q02",
+      "prompt": "Qual alternativa apresenta a ordem de necessidades do modelo de Maslow exposto no PDF, da base ao topo?",
+      "choices": [
+        "Estima, sociais, fisiológicas, autorrealização e segurança.",
+        "Segurança, fisiológicas, estima, sociais e autorrealização.",
+        "Autorrealização, estima, sociais, segurança e fisiológicas.",
+        "Fisiológicas, segurança, sociais, estima e autorrealização."
+      ],
+      "answer": 3,
+      "explanation": "Essa é a sequência descrita no texto e na figura da pirâmide. A pergunta se limita ao modelo apresentado pelo material.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-q03",
+      "prompt": "No quadro visual de Maslow, a busca por amizade, interação e aceitação em um grupo corresponde a qual nível?",
+      "choices": [
+        "Necessidades sociais.",
+        "Necessidades fisiológicas.",
+        "Necessidades de segurança.",
+        "Necessidades de autorrealização."
+      ],
+      "answer": 0,
+      "explanation": "A figura inclui pertencimento, amizade, interação e aceitação entre as necessidades sociais.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. O indivíduo e a organização - figura da pirâmide de Maslow"
+        }
+      ]
+    },
+    {
+      "id": "m03-q04",
+      "prompt": "Uma responsável percebe que não pode impor entusiasmo à equipe. Que atuação está alinhada à discussão sobre motivação?",
+      "choices": [
+        "Limitar a gestão a ordens sem considerar as pessoas.",
+        "Presumir que motivação decorre sempre de medo.",
+        "Criar um ambiente que favoreça a motivação dos trabalhadores.",
+        "Abandonar a coordenação e o aprendizado sobre gestão."
+      ],
+      "answer": 2,
+      "explanation": "O texto diferencia a imposição da motivação da criação de condições nas quais a pessoa se sinta motivada.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-q05",
+      "prompt": "Uma profissional sem cargo de chefia engaja colegas e influencia positivamente o time. Qual interpretação corresponde ao capítulo?",
+      "choices": [
+        "Ela não pode exercer liderança sem ser diretora.",
+        "Ela pode exercer liderança, pois a habilidade não é restrita a gestores.",
+        "Liderança é um dom imutável que dispensa aprendizado.",
+        "Liderança se define somente pela posição no organograma."
+      ],
+      "answer": 1,
+      "explanation": "A liderança é apresentada como habilidade aprendida, relacionada ao espírito de equipe, ao engajamento e à influência positiva.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2. O indivíduo e a organização"
+        }
+      ]
+    },
+    {
+      "id": "m03-q06",
+      "prompt": "Qual afirmação sobre o planejamento de cargos e salários se apoia no PDF?",
+      "choices": [
+        "Deve ignorar tecnologia e mercado para permanecer estável.",
+        "Só é necessário em multinacionais.",
+        "Não se relaciona a decisões de orçamento.",
+        "Deve acompanhar mudanças tecnológicas, de mercado e econômicas e participar do planejamento orçamentário."
+      ],
+      "answer": 3,
+      "explanation": "O capítulo ressalta essa relação e considera a gestão de cargos e salários relevante para empresas de diferentes portes.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "3. Relações trabalhistas"
+        }
+      ]
+    },
+    {
+      "id": "m03-q07",
+      "prompt": "Na discussão de relações trabalhistas, qual papel é associado aos sindicatos e à justiça do trabalho?",
+      "choices": [
+        "A preservação do equilíbrio entre direitos e deveres do trabalhador e as demandas de cargos e funções.",
+        "A escolha direta de todos os candidatos pelas empresas.",
+        "A substituição de todo planejamento de cargos e salários.",
+        "A eliminação de normas para relações individuais e coletivas."
+      ],
+      "answer": 0,
+      "explanation": "Esse é o vínculo estabelecido pelo texto entre relações trabalhistas e direitos do trabalhador. A pergunta não detalha direitos legais específicos nem afirma o estado atual da legislação.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "3. Relações trabalhistas"
+        },
+        {
+          "page": 7,
+          "section": "3. Relações trabalhistas"
+        }
+      ]
+    },
+    {
+      "id": "m03-q08",
+      "prompt": "Uma empresa identifica fontes de profissionais e divulga uma vaga para atrair candidatos. Qual processo está sendo exercido principalmente?",
+      "choices": [
+        "Avaliação 360 graus.",
+        "Autoavaliação.",
+        "Recrutamento.",
+        "Seleção final de quem contratar."
+      ],
+      "answer": 2,
+      "explanation": "Recrutamento consiste em identificar e acionar fontes de talentos para o quadro de seleção.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q09",
+      "prompt": "Antes de divulgar uma vaga, o departamento solicita às áreas responsáveis autorização para abri-la. Como o material denomina esse procedimento?",
+      "choices": [
+        "Feedforward.",
+        "Requisição de recursos humanos.",
+        "Avaliação de desempenho.",
+        "Autorrealização."
+      ],
+      "answer": 1,
+      "explanation": "A requisição corresponde aos processos internos de solicitação e autorização da abertura de vagas.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q10",
+      "prompt": "Para dez vagas, uma organização encontra poucos profissionais com o perfil necessário. Na classificação do mercado apresentada, qual situação isso representa?",
+      "choices": [
+        "Excesso, porque sempre há mais pessoas do que vagas.",
+        "Ocupado, porque todos os candidatos são obrigatoriamente empregados.",
+        "Fixo, porque não se pode mudar a oferta de vagas.",
+        "Escassez, pois a oferta de candidatos é reduzida em relação às vagas."
+      ],
+      "answer": 3,
+      "explanation": "A escassez é definida pela redução proporcional da oferta de candidatos diante da quantidade de vagas.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q11",
+      "prompt": "Uma empresa abre uma oportunidade para pessoas que já trabalham nela, aproveitando profissionais treinados e adaptados à sua cultura. Trata-se de:",
+      "choices": [
+        "Recrutamento interno.",
+        "Recrutamento externo, necessariamente terceirizado.",
+        "Avaliação de desempenho.",
+        "Treinamento externo."
+      ],
+      "answer": 0,
+      "explanation": "O recrutamento interno aproveita a própria mão de obra e tem como benefício a adaptação e o treinamento já existentes.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q12",
+      "prompt": "Uma companhia contrata uma empresa especializada para atrair grande volume de candidatos e concentrar a equipe própria em outros processos. Qual conclusão corresponde ao capítulo?",
+      "choices": [
+        "A terceirização muda o recrutamento automaticamente para autoavaliação.",
+        "O recrutamento só pode ser executado pelo departamento interno.",
+        "O recrutamento pode ser realizado por terceiros especializados nessas circunstâncias.",
+        "A empresa deixa de precisar escolher quem contratar."
+      ],
+      "answer": 2,
+      "explanation": "A fonte admite a terceirização do recrutamento por volume de contratações ou foco em processos essenciais.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q13",
+      "prompt": "Uma equipe analisa informações dos currículos para decidir quais profissionais contratar. Qual é a finalidade central dessa fase?",
+      "choices": [
+        "Captar qualquer candidato sem análise.",
+        "Selecionar os candidatos mais apropriados para as vagas.",
+        "Substituir o treinamento por uma pirâmide de necessidades.",
+        "Avaliar a carreira de todos os empregados antigos."
+      ],
+      "answer": 1,
+      "explanation": "A seleção complementa o recrutamento e envolve análise, escolha e decisão de contratação; currículos fornecem informações para essa escolha.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "4. Recrutamento e seleção"
+        }
+      ]
+    },
+    {
+      "id": "m03-q14",
+      "prompt": "Uma profissional conhece os procedimentos, executa a atividade com autonomia e sabe negociar com colegas. Qual associação com os saberes do PDF é correta?",
+      "choices": [
+        "Conhecer é saber ser; executar é saber puro; negociar é saber fazer.",
+        "Os três elementos pertencem somente ao saber puro.",
+        "Negociar exclui a competência social.",
+        "Conhecer corresponde ao saber; executar, ao saber fazer; negociar, ao saber ser."
+      ],
+      "answer": 3,
+      "explanation": "O texto distingue conhecimento, execução prática e relacionamento social, associando os dois primeiros à dimensão técnica e o terceiro à social.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Treinamento e desenvolvimento pessoal"
+        }
+      ]
+    },
+    {
+      "id": "m03-q15",
+      "prompt": "Ao planejar sua carreira, uma pessoa procura compatibilizar metas profissionais, tempo com a família e outras áreas importantes da vida. Essa atitude corresponde a qual discussão?",
+      "choices": [
+        "Ao equilíbrio entre desenvolvimento pessoal e profissional.",
+        "À eliminação das responsabilidades profissionais.",
+        "À ideia de que trabalho e qualidade de vida nunca se relacionam.",
+        "À substituição de competências por remuneração."
+      ],
+      "answer": 0,
+      "explanation": "O material orienta a atenção à carreira em alinhamento com outras áreas da vida e ao equilíbrio entre esses fundamentos.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Treinamento e desenvolvimento pessoal"
+        },
+        {
+          "page": 15,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-q16",
+      "prompt": "Depois de uma entrega, uma colaboradora analisa criticamente como poderia melhorar a execução de sua atividade. Como o capítulo denomina esse processo?",
+      "choices": [
+        "Requisição de vaga.",
+        "Recrutamento externo.",
+        "Autoavaliação.",
+        "Estudo do mercado de candidatos."
+      ],
+      "answer": 2,
+      "explanation": "A autoavaliação envolve reflexão sobre o próprio desempenho, autocrítica e busca de aprimoramento.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-q17",
+      "prompt": "Qual conduta caracteriza um feedback construtivo, segundo o PDF?",
+      "choices": [
+        "Expor erros para desqualificar publicamente a pessoa.",
+        "Apontar pontos de melhoria para apoiar o desenvolvimento, sem menosprezar o profissional.",
+        "Evitar qualquer retorno sobre a atuação.",
+        "Limitar todo retorno à distribuição de prêmios."
+      ],
+      "answer": 1,
+      "explanation": "O capítulo destaca que o feedback deve construir e orientar melhorias; também menciona feedforward como alimentação para o futuro.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-q18",
+      "prompt": "Uma avaliação reúne informações de várias pessoas ao redor de uma profissional para ampliar as perspectivas sobre sua atuação. Qual método é descrito?",
+      "choices": [
+        "Recrutamento interno.",
+        "Requisição de recursos humanos.",
+        "Avaliação exclusivamente individual do próprio trabalho.",
+        "Avaliação 360 graus."
+      ],
+      "answer": 3,
+      "explanation": "O método é apresentado como avaliação por quem está ao redor, gerando informações de diferentes perspectivas sobre função, desempenho e processos.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    },
+    {
+      "id": "m03-q19",
+      "prompt": "Um programa de treinamento busca ampliar aquilo que as pessoas conhecem, o que conseguem executar e suas formas de agir. Quais elementos do PDF ele está desenvolvendo?",
+      "choices": [
+        "Conhecimentos, habilidades e atitudes.",
+        "Somente descrições de cargos.",
+        "Apenas fontes de candidatos.",
+        "Exclusivamente regras de remuneração."
+      ],
+      "answer": 0,
+      "explanation": "O texto apresenta habilidades, conhecimentos e atitudes como resultado concreto do treinamento e os associa às competências.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Treinamento e desenvolvimento pessoal"
+        }
+      ]
+    },
+    {
+      "id": "m03-q20",
+      "prompt": "Uma avaliação inclui análise situacional, diagnóstico, acompanhamento e avaliação final para apoiar o desenvolvimento. Qual interpretação corresponde ao capítulo?",
+      "choices": [
+        "O processo se limita à contagem de produtos, independentemente dos objetivos.",
+        "O processo substitui a análise de competências por simples captação de candidatos.",
+        "A avaliação de desempenho pode contribuir para o desenvolvimento organizacional e para compreender resultados profissionais.",
+        "Avaliar significa impedir qualquer mudança na atuação profissional."
+      ],
+      "answer": 2,
+      "explanation": "A fonte relaciona avaliação, desenvolvimento e compreensão de resultados, mencionando essas etapas de análise e acompanhamento.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "6. Avaliação de desempenho"
+        }
+      ]
+    }
+  ]
+}

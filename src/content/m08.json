@@ -1,0 +1,1170 @@
+{
+  "id": "m08",
+  "order": 8,
+  "title": "Direito Empresarial II",
+  "shortTitle": "Direito II",
+  "description": "Sociedades, personificação, tipos societários e responsabilidade, conforme a apostila.",
+  "source": {
+    "filename": "Direito Empresarial II.pdf",
+    "pages": 32,
+    "topic": "08"
+  },
+  "lessons": [
+    {
+      "id": "m08-l01",
+      "title": "Pessoa jurídica e sociedade",
+      "intro": "Diferencie a figura jurídica dos participantes e o acordo entre eles.",
+      "blocks": [
+        {
+          "title": "Pessoa física e pessoa jurídica",
+          "text": "Conforme a apostila, pessoa física é o ser humano e pessoa jurídica é uma figura reconhecida pelo Direito para titularizar relações. O texto distingue pessoas de Direito Público e de Direito Privado e apresenta sociedades entre as espécies privadas.",
+          "refs": [
+            {
+              "page": 2,
+              "section": "1. Introdução / 2. Pessoa Jurídica e Sociedade"
+            },
+            {
+              "page": 3,
+              "section": "2. Pessoa Jurídica e Sociedade"
+            }
+          ]
+        },
+        {
+          "title": "O acordo societário",
+          "text": "Na formulação da apostila, sociedade reúne acordo de vontades, investimentos, duas ou mais pessoas e finalidade lucrativa. As contribuições podem ser diferentes e o texto menciona capital, trabalho ou contribuição intelectual. A definição e a lista reproduzida de pessoas jurídicas pertencem ao conteúdo fornecido, sem comprovação de atualização normativa.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "2. Pessoa Jurídica e Sociedade"
+            },
+            {
+              "page": 4,
+              "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l02",
+      "title": "Personificação e seus efeitos",
+      "intro": "Separe existência da sociedade, registro e responsabilidade.",
+      "blocks": [
+        {
+          "title": "Existência antes do registro",
+          "text": "Conforme a apostila, pode existir sociedade sem pessoa jurídica autônoma. O registro no órgão competente produz a personificação. O texto agrupa sob sociedade em comum as situações sem registro adequado e distingue documento não registrado de registro em órgão incorreto.",
+          "refs": [
+            {
+              "page": 4,
+              "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+            },
+            {
+              "page": 5,
+              "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+            },
+            {
+              "page": 6,
+              "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+            }
+          ]
+        },
+        {
+          "title": "Autonomia com ressalvas",
+          "text": "A aula destaca titularidade negocial, titularidade processual e patrimônio próprio. Isso não deve ser entendido como proteção absoluta dos bens dos sócios: a própria apostila apresenta responsabilidade na sociedade simples e desconsideração em seções posteriores.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+            },
+            {
+              "page": 8,
+              "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+            },
+            {
+              "page": 22,
+              "section": "6. Tipos Societários — Sociedade simples"
+            },
+            {
+              "page": 23,
+              "section": "6. Tipos Societários — Sociedade simples"
+            },
+            {
+              "page": 29,
+              "section": "7. Desconsideração da Personalidade Jurídica"
+            },
+            {
+              "page": 30,
+              "section": "7. Desconsideração da Personalidade Jurídica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l03",
+      "title": "Natureza e classificação das sociedades",
+      "intro": "Use eixos diferentes para analisar uma mesma organização.",
+      "blocks": [
+        {
+          "title": "Simples ou empresária",
+          "text": "Conforme a apostila, o lucro não é o critério distintivo. O foco é a forma organizada de exercício da atividade como empresa. O art. 982 reproduzido ressalva que sociedade por ações é empresária e cooperativa é simples, independentemente do objeto.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+            },
+            {
+              "page": 9,
+              "section": "4. Sociedade Simples e Sociedade Empresarial"
+            },
+            {
+              "page": 10,
+              "section": "4. Sociedade Simples e Sociedade Empresarial"
+            },
+            {
+              "page": 11,
+              "section": "4. Sociedade Simples e Sociedade Empresarial"
+            }
+          ]
+        },
+        {
+          "title": "Quatro eixos",
+          "text": "O material separa personalidade jurídica, natureza jurídica, ato constitutivo e relevância da pessoa dos sócios. Esses critérios respondem a perguntas diferentes e não devem ser fundidos.",
+          "refs": [
+            {
+              "page": 12,
+              "section": "4. Sociedade Simples e Empresarial / 5. Classificação de Sociedades"
+            },
+            {
+              "page": 13,
+              "section": "5. Classificação de Sociedades"
+            },
+            {
+              "page": 14,
+              "section": "5. Classificação de Sociedades"
+            }
+          ],
+          "bullets": [
+            "Personalidade: personificada ou não personificada.",
+            "Natureza: empresária ou simples.",
+            "Ato constitutivo: contrato ou estatuto.",
+            "Pessoas dos sócios: sociedade de pessoas ou de capitais."
+          ]
+        },
+        {
+          "title": "Contrato, estatuto e affectio societatis",
+          "text": "A apostila associa contrato a um acordo mais diretamente negociado e estatuto à aprovação em assembleia e maior complexidade. Nas sociedades de pessoas importa a aptidão ou desejo de atuar com aqueles integrantes, chamada affectio societatis. Nas de capitais o destaque didático é o investimento.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "5. Classificação de Sociedades"
+            },
+            {
+              "page": 14,
+              "section": "5. Classificação de Sociedades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l04",
+      "title": "Sociedade em comum",
+      "intro": "Acompanhe prova, responsabilidade e bens de um negócio sem registro adequado.",
+      "blocks": [
+        {
+          "title": "Quando a disciplina se aplica",
+          "text": "Conforme a apostila, a sociedade em comum abrange negócios sem registro adequado e o período anterior ao registro das sociedades que pretendem se personificar. A aula ressalva a disciplina própria das sociedades por ações nesse período.",
+          "refs": [
+            {
+              "page": 16,
+              "section": "6. Tipos Societários — Sociedade em comum"
+            }
+          ]
+        },
+        {
+          "title": "Provar a sociedade",
+          "text": "Na exposição do material, terceiros podem usar qualquer meio lícito para demonstrar a sociedade. Para os sócios, nas relações descritas, é necessária prova escrita. O texto explica que a irregularidade não pode ser usada pelos sócios contra terceiros.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "6. Tipos Societários — Sociedade em comum"
+            },
+            {
+              "page": 18,
+              "section": "6. Tipos Societários — Sociedade em comum"
+            }
+          ]
+        },
+        {
+          "title": "Responsabilidade e patrimônio especial",
+          "text": "Conforme a apostila, os sócios respondem solidária e ilimitadamente. A aula explica benefício de ordem, excluindo quem se obrigou em nome da sociedade. Há um patrimônio especial destinado ao negócio, em nome dos sócios e titularizado em comum, sem pessoa jurídica autônoma.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "6. Tipos Societários — Sociedade em comum"
+            },
+            {
+              "page": 18,
+              "section": "6. Tipos Societários — Sociedade em comum"
+            },
+            {
+              "page": 19,
+              "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l05",
+      "title": "Sociedade em conta de participação",
+      "intro": "Observe quem aparece na contratação e quem permanece na relação interna.",
+      "blocks": [
+        {
+          "title": "Não personificação prevista",
+          "text": "Conforme a apostila, a sociedade em conta de participação não ganha pessoa jurídica própria mesmo com registro. A não personificação decorre da disciplina apresentada, diferentemente de uma simples falha de registro.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+            }
+          ]
+        },
+        {
+          "title": "Ostensivo e participante",
+          "text": "O sócio ostensivo contrata em nome próprio perante terceiros. O participante permanece na relação interna; a aula o chama também oculto. Embora destaque financiamento, o PDF traz exemplos de participação por trabalho. O participante pode perder o investimento e as posições de ostensivo podem mudar conforme o negócio nos exemplos.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+            },
+            {
+              "page": 20,
+              "section": "6.2. Sociedade em conta de participação"
+            },
+            {
+              "page": 21,
+              "section": "6.2. Sociedade em conta de participação / Sociedade simples"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l06",
+      "title": "Sociedade simples",
+      "intro": "Relacione a importância das pessoas à contribuição, às quotas e à saída.",
+      "blocks": [
+        {
+          "title": "Atividade e constituição",
+          "text": "Conforme a apostila, sociedades simples são associadas às atividades que não constituem elemento de empresa. A aula apresenta contrato social e registro no Registro Civil das Pessoas Jurídicas, além de possíveis exigências de órgão profissional. Instrumento público e particular são formas de elaboração, distintas do registro.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "6.2. Sociedade em conta de participação / Sociedade simples"
+            },
+            {
+              "page": 22,
+              "section": "6. Tipos Societários — Sociedade simples"
+            }
+          ]
+        },
+        {
+          "title": "Bens sociais e contribuição",
+          "text": "O material prevê responsabilidade dos sócios quando o patrimônio social é insuficiente, com benefício de ordem. Admite integralização por serviços e divisão das quotas pelo acordo, que não precisa reproduzir exatamente a contribuição em dinheiro de cada sócio.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "6. Tipos Societários — Sociedade simples"
+            },
+            {
+              "page": 23,
+              "section": "6. Tipos Societários — Sociedade simples"
+            },
+            {
+              "page": 24,
+              "section": "Sociedade simples / Sociedade limitada"
+            }
+          ]
+        },
+        {
+          "title": "Substituição e retirada",
+          "text": "Conforme a apostila, substituir um sócio depende do consentimento dos demais, em respeito à affectio societatis. Isso é diferente da retirada: o texto admite a saída nas sociedades de prazo indeterminado nas condições descritas, sem permitir imposição de substituto.",
+          "refs": [
+            {
+              "page": 24,
+              "section": "Sociedade simples / Sociedade limitada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l07",
+      "title": "Sociedade limitada",
+      "intro": "Diferencie limitação de responsabilidade, contribuição prometida e cumprimento do capital.",
+      "blocks": [
+        {
+          "title": "Limitação com obrigação de integralizar",
+          "text": "Conforme o art. 1.052 reproduzido, a responsabilidade é restrita às quotas, mas todos respondem solidariamente pela integralização do capital social. A aula chama de remisso o sócio que não cumpre sua contribuição.",
+          "refs": [
+            {
+              "page": 24,
+              "section": "Sociedade simples / Sociedade limitada"
+            },
+            {
+              "page": 25,
+              "section": "6. Tipos Societários — Sociedade limitada"
+            }
+          ]
+        },
+        {
+          "title": "Integralização e prazo",
+          "text": "Na limitada, o material não admite integralização por serviços. Apesar de uma formulação inicial ampla sobre pagamento, a própria aula admite capital cumprido aos poucos e distingue o compromisso de subscrição da integralização imediata. O contrato pode ajustar prazo e parcelas.",
+          "refs": [
+            {
+              "page": 25,
+              "section": "6. Tipos Societários — Sociedade limitada"
+            },
+            {
+              "page": 26,
+              "section": "6. Tipos Societários — Sociedade limitada"
+            }
+          ]
+        },
+        {
+          "title": "Contrato, quotas e votos",
+          "text": "A apostila trata da limitada empresária com contrato social e registro na Junta Comercial. As quotas podem ter valores diferentes. No critério de deliberação apresentado, os votos seguem o valor das quotas e não apenas o número de sócios, permitindo que um majoritário concentre decisões.",
+          "refs": [
+            {
+              "page": 26,
+              "section": "6. Tipos Societários — Sociedade limitada"
+            },
+            {
+              "page": 27,
+              "section": "Sociedade limitada / Sociedade anônima"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m08-l08",
+      "title": "Ações e limites da proteção patrimonial",
+      "intro": "Compare a sociedade anônima e as situações de desconsideração estudadas.",
+      "blocks": [
+        {
+          "title": "Sociedade anônima",
+          "text": "Conforme a apostila, a S.A. é sociedade empresária dividida em ações, regida por estatuto e pela Lei 6.404/1976. A associação a grandes empreendimentos é o enfoque didático do texto, sem que esta revisão a converta em requisito geral de porte.",
+          "refs": [
+            {
+              "page": 27,
+              "section": "Sociedade limitada / Sociedade anônima"
+            },
+            {
+              "page": 28,
+              "section": "6. Tipos Societários — Sociedade anônima"
+            }
+          ]
+        },
+        {
+          "title": "Capital aberto e fechado",
+          "text": "A aula diferencia negociação pelo Mercado de Capitais, na S.A. aberta, e negociação particular, na fechada. Também apresenta investidores interessados na valorização para revenda e participantes mais ligados à atividade da sociedade.",
+          "refs": [
+            {
+              "page": 28,
+              "section": "6. Tipos Societários — Sociedade anônima"
+            }
+          ]
+        },
+        {
+          "title": "Desconsideração da personalidade",
+          "text": "Conforme a apostila, mau uso da sociedade, confusão patrimonial e abuso podem levar à extensão de efeitos de determinadas obrigações a bens particulares. A p. 30 oferece uma interpretação voltada a sócios administradores; ela é uma interpretação do material, sem funcionar como conclusão para um caso real.",
+          "refs": [
+            {
+              "page": 29,
+              "section": "7. Desconsideração da Personalidade Jurídica"
+            },
+            {
+              "page": 30,
+              "section": "7. Desconsideração da Personalidade Jurídica"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m08-f01",
+      "front": "Qual é a diferença básica entre pessoa física e jurídica no módulo?",
+      "back": "Conforme a apostila, pessoa física é o ser humano; pessoa jurídica é uma figura reconhecida pelo Direito para participar de relações e titularizar direitos e deveres.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "1. Introdução / 2. Pessoa Jurídica e Sociedade"
+        }
+      ]
+    },
+    {
+      "id": "m08-f02",
+      "front": "Que elementos compõem sociedade na formulação da apostila?",
+      "back": "Conforme a apostila, acordo de vontades, reunião de investimentos, duas ou mais pessoas e finalidade lucrativa.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. Pessoa Jurídica e Sociedade"
+        },
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-f03",
+      "front": "As contribuições dos sócios precisam ser iguais?",
+      "back": "Conforme a apostila, não. O material admite contribuições diferentes e, na explicação geral, capital, trabalho ou contribuição intelectual.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-f04",
+      "front": "O que distingue sociedade personificada?",
+      "back": "Conforme a apostila, o registro no órgão competente, com criação de pessoa jurídica autônoma em relação aos sócios.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        },
+        {
+          "page": 5,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-f05",
+      "front": "Quais três efeitos da personalidade a aula enumera?",
+      "back": "Conforme a apostila, titularidade negocial, titularidade processual e responsabilidade patrimonial própria; a responsabilidade dos sócios depende das ressalvas estudadas depois.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        },
+        {
+          "page": 8,
+          "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+        },
+        {
+          "page": 22,
+          "section": "6. Tipos Societários — Sociedade simples"
+        },
+        {
+          "page": 23,
+          "section": "6. Tipos Societários — Sociedade simples"
+        }
+      ]
+    },
+    {
+      "id": "m08-f06",
+      "front": "O lucro diferencia sociedade simples de empresária?",
+      "back": "Conforme a apostila, não. O módulo atribui finalidade lucrativa a ambas e destaca a forma de organizar e exercer a atividade.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. Sociedade Simples e Sociedade Empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m08-f07",
+      "front": "Quais exceções do art. 982 são destacadas?",
+      "back": "Conforme a apostila, sociedade por ações é empresária e cooperativa é simples, independentemente do objeto, conforme o dispositivo reproduzido.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+        },
+        {
+          "page": 9,
+          "section": "4. Sociedade Simples e Sociedade Empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m08-f08",
+      "front": "Quais quatro eixos de classificação são apresentados?",
+      "back": "Conforme a apostila, personalidade jurídica, natureza jurídica, ato constitutivo e relevância das pessoas dos sócios.",
+      "refs": [
+        {
+          "page": 12,
+          "section": "4. Sociedade Simples e Empresarial / 5. Classificação de Sociedades"
+        },
+        {
+          "page": 13,
+          "section": "5. Classificação de Sociedades"
+        },
+        {
+          "page": 14,
+          "section": "5. Classificação de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "m08-f09",
+      "front": "Como contrato e estatuto são contrastados na aula?",
+      "back": "Conforme a apostila, o contrato exprime mais diretamente o acordo negociado pelos sócios; o estatuto é associado a aprovação em assembleia e maior complexidade.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Classificação de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "m08-f10",
+      "front": "O que é affectio societatis?",
+      "back": "Conforme a apostila, a aptidão ou desejo de exercer a atividade em conjunto, associada à importância pessoal dos sócios.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Classificação de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "m08-f11",
+      "front": "Qual é a diferença de prova na sociedade em comum?",
+      "back": "Conforme a apostila, terceiros podem usar qualquer meio lícito; sócios precisam de prova escrita nas situações descritas pelo módulo.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        },
+        {
+          "page": 18,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-f12",
+      "front": "Como o PDF descreve a responsabilidade na sociedade em comum?",
+      "back": "Conforme a apostila, solidária e ilimitada, com benefício de ordem, exceto para quem se obrigou em nome da sociedade na explicação apresentada.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-f13",
+      "front": "O registro personifica a sociedade em conta de participação?",
+      "back": "Conforme a apostila, não. Conforme o material, sua não personificação decorre da disciplina legal e permanece mesmo com registro.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+        }
+      ]
+    },
+    {
+      "id": "m08-f14",
+      "front": "Qual é a diferença entre sócio ostensivo e participante?",
+      "back": "Conforme a apostila, o ostensivo contrata em nome próprio perante terceiros; o participante fica na relação interna, sem assumir essa posição contratual nos exemplos da aula.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+        },
+        {
+          "page": 20,
+          "section": "6.2. Sociedade em conta de participação"
+        },
+        {
+          "page": 21,
+          "section": "6.2. Sociedade em conta de participação / Sociedade simples"
+        }
+      ]
+    },
+    {
+      "id": "m08-f15",
+      "front": "Como funciona o benefício de ordem na sociedade simples?",
+      "back": "Conforme a apostila, primeiro se busca satisfazer a dívida com bens sociais; se forem insuficientes, a aula prevê responsabilidade dos sócios.",
+      "refs": [
+        {
+          "page": 22,
+          "section": "6. Tipos Societários — Sociedade simples"
+        },
+        {
+          "page": 23,
+          "section": "6. Tipos Societários — Sociedade simples"
+        }
+      ]
+    },
+    {
+      "id": "m08-f16",
+      "front": "A sociedade simples admite contribuição em serviços?",
+      "back": "Conforme a apostila, sim. O PDF admite integralização em serviços e divisão de quotas conforme o acordo dos sócios.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "6. Tipos Societários — Sociedade simples"
+        }
+      ]
+    },
+    {
+      "id": "m08-f17",
+      "front": "Qual é a ressalva à limitação de responsabilidade na LTDA?",
+      "back": "Conforme a apostila, todos respondem solidariamente pela integralização do capital social; a aula também estuda desconsideração em seção própria.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        },
+        {
+          "page": 29,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        },
+        {
+          "page": 30,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        }
+      ]
+    },
+    {
+      "id": "m08-f18",
+      "front": "A integralização da LTDA pode ser por serviços?",
+      "back": "Conforme a apostila, não, segundo o material; o texto admite prazo ou parcelas para cumprir as contribuições devidas.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        },
+        {
+          "page": 26,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-f19",
+      "front": "Como capital aberto e fechado são diferenciados?",
+      "back": "Conforme a apostila, na S.A. aberta, o material destaca negociação pelo Mercado de Capitais; na fechada, negociação particular.",
+      "refs": [
+        {
+          "page": 28,
+          "section": "6. Tipos Societários — Sociedade anônima"
+        }
+      ]
+    },
+    {
+      "id": "m08-f20",
+      "front": "Qual é o efeito da desconsideração exposto no módulo?",
+      "back": "Conforme a apostila, em situações descritas como mau uso, confusão patrimonial ou abuso, determinadas obrigações podem alcançar bens particulares de administradores ou sócios, conforme a exposição da aula.",
+      "refs": [
+        {
+          "page": 29,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        },
+        {
+          "page": 30,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m08-q01",
+      "prompt": "Conforme a apostila, responda: Qual alternativa reúne os elementos da definição de sociedade adotada na apostila?",
+      "choices": [
+        "Acordo de vontades, investimentos reunidos, duas ou mais pessoas e finalidade lucrativa.",
+        "Apenas amizade, sem atividade ou finalidade comum.",
+        "Somente um imóvel, sem qualquer acordo entre participantes.",
+        "Apenas um atendimento realizado por órgão público."
+      ],
+      "answer": 0,
+      "explanation": "Essa é a combinação utilizada nas pp. 3–4. Trata-se da formulação do material, sem afirmação de catálogo atual exaustivo.",
+      "refs": [
+        {
+          "page": 3,
+          "section": "2. Pessoa Jurídica e Sociedade"
+        },
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q02",
+      "prompt": "Conforme a apostila, responda: Na explicação geral da apostila, reunir investimentos significa que:",
+      "choices": [
+        "Todos os sócios precisam contribuir em dinheiro e no mesmo valor.",
+        "As contribuições podem ser diferentes e o texto admite capital, trabalho ou contribuição intelectual.",
+        "Nenhum sócio pode contribuir com atividade ou serviço em qualquer tipo de sociedade.",
+        "O acordo dos participantes nunca tem relevância."
+      ],
+      "answer": 1,
+      "explanation": "O módulo apresenta essa variedade na definição geral; ao estudar a limitada, ressalva que não se admite integralização por serviços.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        },
+        {
+          "page": 25,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q03",
+      "prompt": "Conforme a apostila, responda: Qual fato é associado à aquisição da personalidade jurídica da sociedade no material?",
+      "choices": [
+        "A simples escolha de um nome em conversa informal.",
+        "O primeiro lucro, independentemente de registro.",
+        "O registro no órgão competente.",
+        "A compra de um equipamento por um dos participantes."
+      ],
+      "answer": 2,
+      "explanation": "O PDF distingue a existência da sociedade da personificação obtida mediante a formalidade indicada.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2. Pessoa Jurídica e Sociedade / 3. Sociedade Personificada e Não-Personificada"
+        },
+        {
+          "page": 5,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q04",
+      "prompt": "Conforme a apostila, responda: Como o material trata a ausência de registro de uma sociedade cujo objeto é lícito?",
+      "choices": [
+        "Torna todo participante automaticamente um criminoso.",
+        "Impede a existência de qualquer relação entre os participantes.",
+        "Faz com que toda dívida deixe de existir.",
+        "Não torna a sociedade automaticamente ilegal, embora produza consequências de falta de personificação."
+      ],
+      "answer": 3,
+      "explanation": "A aula distingue ausência de registro de objeto ilícito e depois analisa efeitos sobre prova e responsabilidade.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q05",
+      "prompt": "Conforme a apostila, responda: Qual exemplo corresponde à titularidade negocial atribuída à pessoa jurídica?",
+      "choices": [
+        "A própria sociedade contratar pessoal e comprar matéria-prima.",
+        "Um juiz criar uma corporação de ofício medieval.",
+        "Um sócio tratar toda obrigação social como inexistente.",
+        "Um credor deixar de ter qualquer direito contra a sociedade."
+      ],
+      "answer": 0,
+      "explanation": "O material enumera esses negócios como atos realizados pela própria sociedade.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q06",
+      "prompt": "Conforme a apostila, responda: Qual leitura concilia a explicação inicial da personalidade jurídica com a parte posterior sobre sociedade simples?",
+      "choices": [
+        "Personalidade própria torna impossível toda responsabilidade de sócio.",
+        "Patrimônio próprio é um efeito da personificação, mas a aula apresenta hipóteses posteriores de responsabilidade pessoal dos sócios.",
+        "A sociedade simples nunca possui contrato.",
+        "Desconsideração significa que toda sociedade deixa de existir permanentemente."
+      ],
+      "answer": 1,
+      "explanation": "As pp. 7–8 descrevem autonomia e as pp. 22–23 tratam de responsabilidade dos sócios da simples se os bens sociais forem insuficientes.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "3. Sociedade Personificada e Sociedade Não-Personificada"
+        },
+        {
+          "page": 8,
+          "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+        },
+        {
+          "page": 22,
+          "section": "6. Tipos Societários — Sociedade simples"
+        },
+        {
+          "page": 23,
+          "section": "6. Tipos Societários — Sociedade simples"
+        }
+      ]
+    },
+    {
+      "id": "m08-q07",
+      "prompt": "Conforme a apostila, responda: Qual critério principal a aula usa para distinguir sociedade simples de empresária?",
+      "choices": [
+        "A existência ou não de intenção de lucro, exclusivamente.",
+        "O número de letras do nome escolhido.",
+        "A organização e a forma de exercício da atividade como elemento de empresa.",
+        "A preferência pessoal do consumidor por um produto."
+      ],
+      "answer": 2,
+      "explanation": "O módulo afirma que o lucro não resolve a distinção, pois atribui finalidade lucrativa a ambas.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "4. Sociedade Simples e Sociedade Empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m08-q08",
+      "prompt": "Conforme a apostila, responda: Conforme o dispositivo reproduzido na apostila, independentemente do objeto:",
+      "choices": [
+        "Cooperativa é sempre sociedade por ações.",
+        "Toda sociedade simples precisa negociar ações em bolsa.",
+        "Toda sociedade empresária é cooperativa.",
+        "Sociedade por ações é empresária e cooperativa é simples."
+      ],
+      "answer": 3,
+      "explanation": "O parágrafo único do art. 982 aparece como exceção ao critério ligado ao objeto e à atividade.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "3. Sociedade Personificada e Não-Personificada / 4. Sociedade Simples e Empresarial"
+        },
+        {
+          "page": 9,
+          "section": "4. Sociedade Simples e Sociedade Empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m08-q09",
+      "prompt": "Conforme a apostila, responda: Qual contraste entre contrato e estatuto corresponde à exposição da aula?",
+      "choices": [
+        "O contrato exprime o acordo discutido pelos sócios; o estatuto é associado a aprovação em assembleia e maior complexidade.",
+        "O estatuto só é usado em escambo rural.",
+        "O contrato é uma decisão de tribunal e o estatuto uma moeda.",
+        "Os dois instrumentos dispensam qualquer conteúdo sobre a organização."
+      ],
+      "answer": 0,
+      "explanation": "Essa é a comparação didática desenvolvida pelo PDF, especialmente em relação à sociedade anônima.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "5. Classificação de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "m08-q10",
+      "prompt": "Conforme a apostila, responda: Nas sociedades de pessoas, o que a affectio societatis evidencia?",
+      "choices": [
+        "A irrelevância completa dos integrantes.",
+        "O desejo ou aptidão de exercer a atividade com aquelas pessoas.",
+        "A obrigação de negociar ações no Mercado de Capitais.",
+        "A inexistência de acordo de vontades."
+      ],
+      "answer": 1,
+      "explanation": "O conceito enfatiza a identidade dos participantes e ajuda a explicar a necessidade de concordância quanto à entrada de outros sócios.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "5. Classificação de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "m08-q11",
+      "prompt": "Conforme a apostila, responda: Dois participantes começam um negócio com finalidade lucrativa, mas não levam o acordo ao registro adequado. Qual disciplina o material usa para esse período, ressalvada a exceção das sociedades por ações?",
+      "choices": [
+        "A exclusão de toda responsabilidade.",
+        "Apenas as normas do mercado de ações, em todos os casos.",
+        "A sociedade em comum.",
+        "A extinção automática do negócio antes da primeira venda."
+      ],
+      "answer": 2,
+      "explanation": "A aula aplica as regras da sociedade em comum desde a formação da relação até o registro, com a ressalva indicada.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-q12",
+      "prompt": "Conforme a apostila, responda: Na sociedade em comum descrita pelo material, como um terceiro pode demonstrar a existência da sociedade?",
+      "choices": [
+        "Somente por estatuto social de sociedade anônima.",
+        "Apenas se todos os sócios confessarem em assembleia.",
+        "Não pode demonstrá-la em hipótese alguma.",
+        "Por qualquer meio lícito, na situação apresentada."
+      ],
+      "answer": 3,
+      "explanation": "O PDF contrapõe essa possibilidade à exigência de prova escrita para os sócios nas relações descritas.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-q13",
+      "prompt": "Conforme a apostila, responda: Como o material caracteriza a responsabilidade dos sócios pelas obrigações sociais na sociedade em comum?",
+      "choices": [
+        "Solidária e ilimitada, observada a explicação do benefício de ordem e sua exceção.",
+        "Sempre inexistente, porque não houve registro.",
+        "Limitada automaticamente a um real por sócio.",
+        "Exclusiva do cliente que comprou o produto."
+      ],
+      "answer": 0,
+      "explanation": "O PDF destaca a possibilidade de alcançar patrimônio particular e exclui do benefício de ordem quem se obrigou em nome da sociedade.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-q14",
+      "prompt": "Conforme a apostila, responda: Qual descrição concilia as explicações sobre o patrimônio da sociedade em comum?",
+      "choices": [
+        "Há uma pessoa jurídica autônoma que sempre consta como proprietária de todos os bens.",
+        "Há bens destinados ao negócio e titularizados em comum pelos sócios, sem personificação autônoma.",
+        "É impossível existir qualquer bem usado no empreendimento.",
+        "O patrimônio especial pertence obrigatoriamente ao consumidor."
+      ],
+      "answer": 1,
+      "explanation": "A p. 18 explica que os bens estão em nome dos sócios e compõem o patrimônio especial ligado ao empreendimento.",
+      "refs": [
+        {
+          "page": 18,
+          "section": "6. Tipos Societários — Sociedade em comum"
+        }
+      ]
+    },
+    {
+      "id": "m08-q15",
+      "prompt": "Conforme a apostila, responda: Por que a sociedade em conta de participação permanece não personificada mesmo se seu contrato é registrado, conforme a aula?",
+      "choices": [
+        "Porque o registro transforma todos os participantes em consumidores.",
+        "Porque não pode existir qualquer relação interna entre seus integrantes.",
+        "Porque a não personificação decorre da disciplina legal descrita, e não de mera falta de registro.",
+        "Porque é obrigatoriamente uma associação religiosa."
+      ],
+      "answer": 2,
+      "explanation": "O material diferencia esse fundamento da situação da sociedade em comum.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+        }
+      ]
+    },
+    {
+      "id": "m08-q16",
+      "prompt": "Conforme a apostila, responda: Na situação típica apresentada para a sociedade em conta de participação, quem contrata perante terceiros em nome próprio?",
+      "choices": [
+        "Sempre todos os participantes, necessariamente no mesmo instrumento.",
+        "O cliente, em nome da sociedade personificada.",
+        "O sócio participante, obrigatoriamente escondendo o ostensivo.",
+        "O sócio ostensivo."
+      ],
+      "answer": 3,
+      "explanation": "O participante permanece na relação interna, enquanto o ostensivo negocia e se obriga perante terceiros na situação descrita.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "Sociedade em comum / 6.2. Sociedade em conta de participação"
+        },
+        {
+          "page": 20,
+          "section": "6.2. Sociedade em conta de participação"
+        }
+      ]
+    },
+    {
+      "id": "m08-q17",
+      "prompt": "Conforme a apostila, responda: Qual afirmação é compatível com o exemplo de investimento em sociedade em conta de participação?",
+      "choices": [
+        "O participante pode perder o valor investido mesmo sem figurar como responsável perante o terceiro no exemplo da aula.",
+        "A posição de participante garante retorno financeiro.",
+        "O participante se torna automaticamente dono de todos os bens do cliente.",
+        "A falta de personificação elimina qualquer prejuízo possível."
+      ],
+      "answer": 0,
+      "explanation": "A aula distingue a posição contratual perante terceiros do risco econômico do investimento.",
+      "refs": [
+        {
+          "page": 20,
+          "section": "6.2. Sociedade em conta de participação"
+        }
+      ]
+    },
+    {
+      "id": "m08-q18",
+      "prompt": "Conforme a apostila, responda: Na sociedade simples examinada pelo material, qual regra sobre contribuições é apresentada?",
+      "choices": [
+        "Apenas dinheiro pode ser utilizado e os valores precisam ser iguais.",
+        "Admite-se integralização por serviços e acordo quanto à divisão das quotas.",
+        "Todo serviço prestado se converte obrigatoriamente em ação negociada em bolsa.",
+        "Não pode haver contribuição de qualquer sócio."
+      ],
+      "answer": 1,
+      "explanation": "O exemplo da aula mostra contribuições financeiras diferentes e contribuição ligada à formação da carteira de clientes.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "6. Tipos Societários — Sociedade simples"
+        },
+        {
+          "page": 24,
+          "section": "Sociedade simples / Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q19",
+      "prompt": "Conforme a apostila, responda: Qual distinção é feita para a sociedade simples?",
+      "choices": [
+        "O sócio pode impor aos demais qualquer substituto, sempre.",
+        "O direito de retirada é apresentado como inexistente em toda sociedade.",
+        "Substituir-se por outra pessoa exige consentimento; isso é diferente do direito de retirar-se nas condições descritas.",
+        "Retirar-se e negociar ações em bolsa são sempre o mesmo ato."
+      ],
+      "answer": 2,
+      "explanation": "O módulo relaciona o consentimento à affectio societatis e diferencia saída da sociedade e ingresso de substituto.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "Sociedade simples / Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q20",
+      "prompt": "Conforme a apostila, responda: Qual ressalva acompanha a responsabilidade restrita ao valor das quotas na sociedade limitada?",
+      "choices": [
+        "Nenhum sócio precisa cumprir a contribuição prometida.",
+        "Toda dívida é transferida automaticamente a terceiros sem relação com o negócio.",
+        "Todos são sempre responsáveis ilimitados por qualquer obrigação, sem distinção.",
+        "Todos respondem solidariamente pela integralização do capital social."
+      ],
+      "answer": 3,
+      "explanation": "A ressalva é destacada no art. 1.052 reproduzido e explicada com o caso do sócio remisso.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q21",
+      "prompt": "Conforme a apostila, responda: Qual opção corresponde à descrição da integralização na limitada?",
+      "choices": [
+        "Não pode ser por serviços; o texto admite pagamento em prazo ou parcelas conforme o contrato.",
+        "Só pode ocorrer por serviços, nunca por valores.",
+        "O capital deve permanecer indefinidamente sem qualquer obrigação de contribuição.",
+        "A falta de contribuição de um sócio não tem nenhuma consequência na explicação do PDF."
+      ],
+      "answer": 0,
+      "explanation": "As pp. 25–26 distinguem a vedação de serviços da possibilidade de cumprir as contribuições no tempo ajustado.",
+      "refs": [
+        {
+          "page": 25,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        },
+        {
+          "page": 26,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        }
+      ]
+    },
+    {
+      "id": "m08-q22",
+      "prompt": "Conforme a apostila, responda: No critério apresentado para deliberações da limitada, os votos são contados:",
+      "choices": [
+        "Apenas pelo número de pessoas presentes, ignorando as quotas.",
+        "De acordo com o valor das quotas dos sócios.",
+        "Pelo número de clientes da sociedade.",
+        "Pelo tempo de amizade entre os participantes."
+      ],
+      "answer": 1,
+      "explanation": "O material explica por que um único sócio majoritário pode controlar as decisões.",
+      "refs": [
+        {
+          "page": 26,
+          "section": "6. Tipos Societários — Sociedade limitada"
+        },
+        {
+          "page": 27,
+          "section": "Sociedade limitada / Sociedade anônima"
+        }
+      ]
+    },
+    {
+      "id": "m08-q23",
+      "prompt": "Conforme a apostila, responda: Qual combinação corresponde à sociedade anônima apresentada no módulo?",
+      "choices": [
+        "Divisão em quotas e proibição de qualquer estatuto.",
+        "Ausência de qualquer instrumento constitutivo e de disciplina própria.",
+        "Divisão em ações, estatuto social e diferenciação entre capital aberto e fechado.",
+        "Troca de mercadorias sem moeda como único modo de funcionamento."
+      ],
+      "answer": 2,
+      "explanation": "O PDF associa a S.A. a ações e estatuto e distingue a negociação pelo Mercado de Capitais da negociação particular.",
+      "refs": [
+        {
+          "page": 27,
+          "section": "Sociedade limitada / Sociedade anônima"
+        },
+        {
+          "page": 28,
+          "section": "6. Tipos Societários — Sociedade anônima"
+        }
+      ]
+    },
+    {
+      "id": "m08-q24",
+      "prompt": "Conforme a apostila, responda: Qual efeito o material associa à desconsideração da personalidade jurídica?",
+      "choices": [
+        "Apagar automaticamente todas as dívidas da sociedade.",
+        "Tornar todo patrimônio particular inalcançável em qualquer circunstância.",
+        "Transformar necessariamente toda sociedade simples em cooperativa.",
+        "Estender efeitos de determinadas obrigações a bens particulares nas situações de mau uso descritas pela aula."
+      ],
+      "answer": 3,
+      "explanation": "Confusão patrimonial e abuso da personalidade aparecem como situações relevantes; a interpretação específica sobre administradores deve ser atribuída ao PDF.",
+      "refs": [
+        {
+          "page": 29,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        },
+        {
+          "page": 30,
+          "section": "7. Desconsideração da Personalidade Jurídica"
+        }
+      ]
+    }
+  ]
+}

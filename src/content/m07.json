@@ -1,0 +1,1010 @@
+{
+  "id": "m07",
+  "order": 7,
+  "title": "Direito Empresarial I",
+  "shortTitle": "Direito I",
+  "description": "História, Teoria da Empresa, fontes e requisitos do empresário, conforme a apostila.",
+  "source": {
+    "filename": "DIREITO EMPRESARIAL I.pdf",
+    "pages": 26,
+    "topic": "07"
+  },
+  "lessons": [
+    {
+      "id": "m07-l01",
+      "title": "Do cotidiano às trocas",
+      "intro": "Entenda como a aula liga relações sociais, atividade econômica e nascimento do comércio.",
+      "blocks": [
+        {
+          "title": "Direito e atividade econômica",
+          "text": "A apostila apresenta o Direito como regulador de relações sociais e o Direito Empresarial como campo ligado à atividade econômica organizada. Negócios pequenos e grandes ilustram a variedade de conflitos e atividades abrangidos.",
+          "refs": [
+            {
+              "page": 1,
+              "section": "1. Introdução"
+            },
+            {
+              "page": 2,
+              "section": "1. Introdução / 2. Desenvolvimento histórico do direito empresarial"
+            }
+          ]
+        },
+        {
+          "title": "Excedentes, escambo e mascate",
+          "text": "Na fase primitiva descrita, produtores rurais usam excedentes para obter outros produtos. No escambo há troca direta, sem dinheiro. O mascate viaja entre produtores e intermedeia essas trocas.",
+          "refs": [
+            {
+              "page": 3,
+              "section": "2.1. Fase primitiva"
+            },
+            {
+              "page": 4,
+              "section": "2.1. Fase primitiva"
+            }
+          ]
+        },
+        {
+          "title": "A moeda resolve uma dificuldade",
+          "text": "O produtor que tem trigo pode encontrar alguém com milho que não queira trigo. A moeda permite vender a um interessado e comprar o produto desejado de outro. Esse é o encadeamento didático usado pela apostila para explicar o comércio.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2.1. Fase primitiva / 2.2. Fase subjetiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l02",
+      "title": "Do comerciante aos atos de comércio",
+      "intro": "Compare os critérios das fases subjetiva e objetiva.",
+      "blocks": [
+        {
+          "title": "Corporações e feiras",
+          "text": "As corporações de ofício protegem e regulam as atividades dos membros. Melhorias produtivas ampliam os excedentes e as feiras concentram compras e vendas em lugar fixo, diminuindo a importância do mascate.",
+          "refs": [
+            {
+              "page": 5,
+              "section": "2.1. Fase primitiva / 2.2. Fase subjetiva"
+            },
+            {
+              "page": 6,
+              "section": "2.2. Fase subjetiva"
+            }
+          ]
+        },
+        {
+          "title": "Fase subjetiva",
+          "text": "Conforme a apostila, a condição de comerciante protegido depende da inscrição na corporação. O foco é o sujeito. A expansão das Grandes Navegações ajuda a revelar que esse critério é insuficiente para as novas relações comerciais.",
+          "refs": [
+            {
+              "page": 7,
+              "section": "2.2. Fase subjetiva"
+            },
+            {
+              "page": 8,
+              "section": "2.2. Fase subjetiva / 2.3. Fase objetiva"
+            }
+          ]
+        },
+        {
+          "title": "Fase objetiva",
+          "text": "O foco passa aos atos de comércio. A aula situa a Teoria dos Atos de Comércio na França do início do século XIX e explica seus limites diante da industrialização. A lista brasileira de 1850 reproduzida no PDF já inclui, entre outros, banco, câmbio, corretagem e atividades marítimas.",
+          "refs": [
+            {
+              "page": 8,
+              "section": "2.2. Fase subjetiva / 2.3. Fase objetiva"
+            },
+            {
+              "page": 9,
+              "section": "2.3. Fase objetiva / 2.4. Fase subjetiva moderna ou empresarial"
+            },
+            {
+              "page": 11,
+              "section": "3. Atos de comércio e teoria da empresa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l03",
+      "title": "A Teoria da Empresa e seus perfis",
+      "intro": "Amplie a análise para a atividade organizada e para os elementos que a compõem.",
+      "blocks": [
+        {
+          "title": "Da mercancia à empresa",
+          "text": "A apostila apresenta o Código Civil italiano de 1942 como marco da Teoria da Empresa. O conceito se amplia para produção e circulação de bens e serviços. A preservação da atividade pode ser relevante independentemente do destino de quem a exerce.",
+          "refs": [
+            {
+              "page": 10,
+              "section": "2.4. Fase subjetiva moderna ou empresarial"
+            },
+            {
+              "page": 11,
+              "section": "3. Atos de comércio e teoria da empresa"
+            },
+            {
+              "page": 12,
+              "section": "3. Atos de comércio e teoria da empresa"
+            }
+          ]
+        },
+        {
+          "title": "Subjetivo e funcional",
+          "text": "No perfil subjetivo, o olhar recai sobre o sujeito que exerce a atividade. No funcional, sobre a própria atividade orientada a um objetivo. A tabela aproxima esses perfis das fases históricas, sem reduzir empresa apenas à compra e venda.",
+          "refs": [
+            {
+              "page": 13,
+              "section": "3. Atos de comércio e teoria da empresa"
+            },
+            {
+              "page": 14,
+              "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+            }
+          ]
+        },
+        {
+          "title": "Objetivo e corporativo",
+          "text": "O perfil objetivo destaca o complexo de bens; o corporativo reúne pessoas, atividades e bens. Conforme a apostila, há também uma explicação restritiva do perfil objetivo ligada ao local físico: ela deve ser lida como formulação do material.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l04",
+      "title": "De onde vêm as normas",
+      "intro": "Organize as fontes e acompanhe a relação entre interpretação e legislação.",
+      "blocks": [
+        {
+          "title": "Fontes formais e materiais",
+          "text": "Conforme a classificação da apostila, Constituição, leis, tratados, decretos e regulamentos são fontes formais. Costumes, princípios gerais, doutrina e jurisprudência são fontes materiais. A aula explica que esses grupos se influenciam.",
+          "refs": [
+            {
+              "page": 14,
+              "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+            }
+          ]
+        },
+        {
+          "title": "Doutrina, jurisprudência e leis esparsas",
+          "text": "Doutrina é a produção dos especialistas. Jurisprudência é o entendimento reiterado dos tribunais. Ambas podem influenciar a legislação. Leis esparsas são as não reunidas em um código; o material enumera exemplos do campo empresarial.",
+          "refs": [
+            {
+              "page": 15,
+              "section": "4. Fontes do direito empresarial"
+            },
+            {
+              "page": 16,
+              "section": "4. Fontes do direito empresarial"
+            }
+          ]
+        },
+        {
+          "title": "Hierarquia e regras setoriais",
+          "text": "A apostila apresenta uma hierarquia simplificada: Constituição, leis, decretos/regulamentos e normas internas de associações quando não decorrerem de atividade legislativa. Também menciona códigos e recomendações de entidades de setores específicos. A pirâmide anunciada no PDF está ausente na página, mas a sequência está no texto.",
+          "refs": [
+            {
+              "page": 17,
+              "section": "4. Fontes do direito empresarial"
+            },
+            {
+              "page": 18,
+              "section": "4. Fontes do direito empresarial / 5. Empresário"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l05",
+      "title": "Quem exerce a empresa",
+      "intro": "Diferencie organização profissional, investimento e atividade intelectual.",
+      "blocks": [
+        {
+          "title": "Organização e profissionalidade",
+          "text": "Conforme o art. 966 reproduzido na apostila, empresário exerce profissionalmente atividade econômica organizada para produzir ou fazer circular bens ou serviços. A aula destaca organização e profissionalidade. O parágrafo único ressalva a profissão intelectual, salvo quando constitui elemento de empresa.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            }
+          ]
+        },
+        {
+          "title": "Empresário e empreendedor",
+          "text": "A apostila diferencia a organização rotineira e profissional do simples investimento ou da participação ocasional em decisões. Ser sócio ou investidor, isoladamente, não basta na distinção apresentada. O texto também atribui a condição de empresário a administradores e à pessoa jurídica; essa é a formulação didática da fonte, sem avaliação de casos reais.",
+          "refs": [
+            {
+              "page": 19,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 20,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 21,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l06",
+      "title": "Formas apresentadas no material",
+      "intro": "Compare patrimônios e identifique as passagens que exigem leitura histórica.",
+      "blocks": [
+        {
+          "title": "Empresário individual",
+          "text": "Conforme a comparação da apostila, o empresário individual não separa o patrimônio pessoal daquele ligado ao empreendimento. O exemplo da produção de bolos ilustra a comunicação patrimonial. A aula também inclui as sociedades empresárias entre as formas de exercício.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 22,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            }
+          ]
+        },
+        {
+          "title": "EIRELI na apostila",
+          "text": "O PDF apresenta EIRELI como forma de exercício por uma pessoa, com pessoa jurídica e separação patrimonial. Cita a Lei 12.441/2011 e afirma capital mínimo de R$ 100.000,00. Estes são dados da apostila, cuja data de atualização não é informada; servem para estudar o conteúdo fornecido, sem constituir procedimento atual de abertura de empresa.",
+          "refs": [
+            {
+              "page": 21,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 22,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m07-l07",
+      "title": "Conceito material e regularidade",
+      "intro": "Relacione exercício da atividade, registro e requisitos mencionados pela aula.",
+      "blocks": [
+        {
+          "title": "Exercer e registrar são pontos diferentes",
+          "text": "Conforme a apostila, o art. 966 oferece o conceito material e o art. 967 exige registro prévio na sede. Quem exerce a atividade sem o registro necessário é chamado empresário irregular: falta regularidade formal, sem apagar o exercício material.",
+          "refs": [
+            {
+              "page": 22,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 23,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            }
+          ]
+        },
+        {
+          "title": "Capacidade, impedimentos e continuidade",
+          "text": "Conforme a exposição da apostila, capacidade civil e ausência de impedimento legal são requisitos de registro associados ao art. 972. O texto ainda distingue iniciar uma atividade de continuá-la por herança ou incapacidade superveniente, com representação ou assistência nas hipóteses descritas. Suas categorias gerais devem ser lidas no contexto da fonte.",
+          "refs": [
+            {
+              "page": 23,
+              "section": "5. Empresário: conceito e requisitos formais de regularidade"
+            },
+            {
+              "page": 24,
+              "section": "5. Empresário / 6. Conclusão"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "m07-f01",
+      "front": "Qual é o objeto central atribuído ao Direito Empresarial?",
+      "back": "Conforme a apostila, a atividade econômica organizada e os conflitos ligados a empresários e às empresas que exploram.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "1. Introdução / 2. Desenvolvimento histórico do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f02",
+      "front": "O que caracteriza o escambo no percurso histórico da aula?",
+      "back": "Conforme a apostila, a troca direta de mercadorias, sem uso de dinheiro, com valor negociado entre as partes.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2.1. Fase primitiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-f03",
+      "front": "Que função o mascate desempenha?",
+      "back": "Conforme a apostila, viaja entre produtores e intermedeia a troca dos excedentes por produtos de outros lugares.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2.1. Fase primitiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-f04",
+      "front": "Que problema das trocas ajuda a explicar a moeda?",
+      "back": "Conforme a apostila, a falta de coincidência entre a mercadoria que alguém oferece e a que o outro produtor quer receber.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2.1. Fase primitiva / 2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-f05",
+      "front": "Por que a primeira fase é chamada subjetiva?",
+      "back": "Conforme a apostila, porque suas normas protegem o sujeito inscrito na corporação, o comerciante.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-f06",
+      "front": "Como as feiras se relacionam com o papel do mascate?",
+      "back": "Conforme a apostila, a concentração de compras e vendas em lugar fixo reduz a importância do intermediário itinerante.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-f07",
+      "front": "O que muda na fase objetiva?",
+      "back": "Conforme a apostila, o foco jurídico passa do comerciante inscrito aos atos de comércio.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "2.2. Fase subjetiva / 2.3. Fase objetiva"
+        },
+        {
+          "page": 9,
+          "section": "2.3. Fase objetiva / 2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f08",
+      "front": "Por que a industrialização revela limites dos atos de comércio?",
+      "back": "Conforme a apostila, porque as relações de produção e circulação tornam-se mais complexas que o foco restrito em compra e venda.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "2.3. Fase objetiva / 2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f09",
+      "front": "Qual marco é ligado à Teoria da Empresa?",
+      "back": "Conforme a apostila, o Código Civil italiano de 1942, apresentado como marco da fase empresarial.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f10",
+      "front": "Em que sentido empresa é mais ampla que comércio?",
+      "back": "Conforme a apostila, inclui uma forma organizada de atuação econômica para produção e circulação de bens e serviços, além da mercancia.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "2.4. Fase subjetiva moderna ou empresarial"
+        },
+        {
+          "page": 11,
+          "section": "3. Atos de comércio e teoria da empresa"
+        },
+        {
+          "page": 12,
+          "section": "3. Atos de comércio e teoria da empresa"
+        }
+      ]
+    },
+    {
+      "id": "m07-f11",
+      "front": "Quais são os quatro perfis de Asquini?",
+      "back": "Conforme a apostila, subjetivo, funcional, objetivo e corporativo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "3. Atos de comércio e teoria da empresa"
+        },
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f12",
+      "front": "Qual a diferença entre perfil subjetivo e funcional?",
+      "back": "Conforme a apostila, o subjetivo destaca quem exerce a atividade; o funcional destaca a atividade orientada a um objetivo.",
+      "refs": [
+        {
+          "page": 13,
+          "section": "3. Atos de comércio e teoria da empresa"
+        },
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f13",
+      "front": "O que destaca o perfil objetivo?",
+      "back": "Conforme a apostila, o complexo patrimonial, isto é, os bens necessários ao desenvolvimento da atividade.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f14",
+      "front": "O que reúne o perfil corporativo?",
+      "back": "Conforme a apostila, pessoas, atividades e bens envolvidos na atividade empresarial.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f15",
+      "front": "Como a aula distingue fontes formais e materiais?",
+      "back": "Conforme a apostila, formais incluem Constituição, leis, tratados, decretos e regulamentos; materiais incluem costumes, princípios gerais, doutrina e jurisprudência.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f16",
+      "front": "O que é jurisprudência na definição da aula?",
+      "back": "Conforme a apostila, o entendimento expresso em decisões reiteradas dos tribunais sobre determinado tema.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "4. Fontes do direito empresarial"
+        },
+        {
+          "page": 16,
+          "section": "4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f17",
+      "front": "O que são leis esparsas?",
+      "back": "Conforme a apostila, leis não reunidas dentro de um código.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-f18",
+      "front": "Quais critérios do art. 966 a aula destaca para o empresário?",
+      "back": "Conforme a apostila, organização da atividade econômica e exercício profissional, para produção ou circulação de bens ou serviços.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-f19",
+      "front": "O que o registro acrescenta à condição material de empresário?",
+      "back": "Conforme a apostila, a regularidade formal; a aula considera irregular quem exerce a atividade empresarial sem realizar o registro necessário.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-f20",
+      "front": "Quais são os dois requisitos do art. 972 destacados?",
+      "back": "Conforme a apostila, capacidade civil e ausência de impedimento legal, segundo a exposição do material.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        },
+        {
+          "page": 24,
+          "section": "5. Empresário / 6. Conclusão"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m07-q01",
+      "prompt": "Conforme a apostila, responda: Segundo a apresentação do módulo, por que tanto um pequeno mercado quanto um grande conglomerado podem interessar ao Direito Empresarial?",
+      "choices": [
+        "Porque esse ramo estuda apenas empresas com o mesmo faturamento.",
+        "Porque ambos podem desenvolver atividade econômica organizada de fornecimento de bens ou serviços.",
+        "Porque o registro de todos os negócios é dispensado.",
+        "Porque qualquer relação humana é necessariamente uma sociedade empresária."
+      ],
+      "answer": 1,
+      "explanation": "A aula usa negócios de escalas distintas para ilustrar a abrangência da atividade estudada.",
+      "refs": [
+        {
+          "page": 2,
+          "section": "1. Introdução / 2. Desenvolvimento histórico do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q02",
+      "prompt": "Conforme a apostila, responda: Um produtor entrega parte de seu excedente de soja para receber café de outro produtor, sem usar dinheiro. Qual conceito do material descreve a operação?",
+      "choices": [
+        "Integralização.",
+        "Jurisprudência.",
+        "Escambo.",
+        "Registro mercantil."
+      ],
+      "answer": 2,
+      "explanation": "Escambo é a troca direta de mercadorias; esse é o exemplo desenvolvido na fase primitiva.",
+      "refs": [
+        {
+          "page": 4,
+          "section": "2.1. Fase primitiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-q03",
+      "prompt": "Conforme a apostila, responda: Qual dificuldade é usada no PDF para explicar a utilidade da moeda?",
+      "choices": [
+        "O produtor da mercadoria desejada pode não querer o produto oferecido em troca.",
+        "A existência de leis que proíbem toda negociação de excedentes.",
+        "A obrigação de todos os produtores cultivarem a mesma mercadoria.",
+        "A impossibilidade de atribuir qualquer valor a uma saca de trigo."
+      ],
+      "answer": 0,
+      "explanation": "O exemplo mostra que a moeda permite vender a um interessado e comprar de outro, superando a falta de interesse recíproco.",
+      "refs": [
+        {
+          "page": 5,
+          "section": "2.1. Fase primitiva / 2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-q04",
+      "prompt": "Conforme a apostila, responda: Na fase subjetiva descrita no módulo, a proteção das normas das corporações de ofício se dirige principalmente:",
+      "choices": [
+        "A todas as atividades industriais futuras, independentemente de quem as exerça.",
+        "Somente aos compradores estrangeiros.",
+        "Aos consumidores finais, sem relação com os produtores.",
+        "Aos comerciantes que cumprem os requisitos para integrar a corporação."
+      ],
+      "answer": 3,
+      "explanation": "A condição de membro, vinculada à pessoa do comerciante, explica a denominação “subjetiva”.",
+      "refs": [
+        {
+          "page": 7,
+          "section": "2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-q05",
+      "prompt": "Conforme a apostila, responda: Qual relação a aula estabelece entre as feiras mercantis e o mascate?",
+      "choices": [
+        "As feiras eliminam a necessidade de qualquer produção excedente.",
+        "O comércio em local fixo reduz a importância do mascate.",
+        "O mascate passa a ser o único autorizado a frequentar as cidades.",
+        "As feiras retomam obrigatoriamente um sistema sem moeda."
+      ],
+      "answer": 1,
+      "explanation": "A concentração das transações nas feiras diminui o papel de quem antes percorria os locais intermediando trocas.",
+      "refs": [
+        {
+          "page": 6,
+          "section": "2.2. Fase subjetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-q06",
+      "prompt": "Conforme a apostila, responda: Qual acontecimento é usado para evidenciar os limites do foco exclusivamente no comerciante inscrito?",
+      "choices": [
+        "O surgimento do Código Civil italiano em 1942, antes da Idade Média.",
+        "O encerramento de todas as feiras mercantis.",
+        "A expansão comercial das Grandes Navegações.",
+        "A criação da Lei do Cheque, como marco medieval."
+      ],
+      "answer": 2,
+      "explanation": "O comércio além-mar e as atividades necessárias para viabilizá-lo ampliam o campo de relações a regular.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "2.2. Fase subjetiva / 2.3. Fase objetiva"
+        }
+      ]
+    },
+    {
+      "id": "m07-q07",
+      "prompt": "Conforme a apostila, responda: Na fase objetiva, qual é o foco que substitui a proteção apenas do sujeito inscrito?",
+      "choices": [
+        "Os atos de comércio.",
+        "A personalidade dos herdeiros do comerciante.",
+        "O patrimônio doméstico, independentemente de atividade econômica.",
+        "Exclusivamente os códigos internos das corporações."
+      ],
+      "answer": 0,
+      "explanation": "A Teoria dos Atos de Comércio toma determinados atos como referência da disciplina jurídica.",
+      "refs": [
+        {
+          "page": 8,
+          "section": "2.2. Fase subjetiva / 2.3. Fase objetiva"
+        },
+        {
+          "page": 9,
+          "section": "2.3. Fase objetiva / 2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q08",
+      "prompt": "Conforme a apostila, responda: Qual conjunto aparece entre os atos de mercancia enumerados no art. 19 do Regulamento 737/1850 reproduzido na aula?",
+      "choices": [
+        "Apenas a agricultura de subsistência e as relações familiares.",
+        "Somente a troca sem moeda.",
+        "Exclusivamente o trabalho artístico individual.",
+        "Operações de câmbio, banco e corretagem."
+      ],
+      "answer": 3,
+      "explanation": "O PDF reproduz a inclusão dessas operações e observa que a lista brasileira já ampliava o campo da mercancia.",
+      "refs": [
+        {
+          "page": 11,
+          "section": "3. Atos de comércio e teoria da empresa"
+        }
+      ]
+    },
+    {
+      "id": "m07-q09",
+      "prompt": "Conforme a apostila, responda: Por que a Revolução Industrial contribui para superar a Teoria dos Atos de Comércio, no argumento da aula?",
+      "choices": [
+        "Porque elimina a produção de bens e todos os serviços.",
+        "Porque gera relações mais complexas que o foco limitado à compra e venda.",
+        "Porque torna toda empresa uma corporação de ofício medieval.",
+        "Porque proíbe a circulação de mercadorias."
+      ],
+      "answer": 1,
+      "explanation": "A complexidade do sistema industrial é apresentada como insuficientemente abrangida pelo modelo anterior.",
+      "refs": [
+        {
+          "page": 9,
+          "section": "2.3. Fase objetiva / 2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q10",
+      "prompt": "Conforme a apostila, responda: Qual marco o material associa à consolidação da Teoria da Empresa?",
+      "choices": [
+        "O Regulamento brasileiro de 1850 como criador da teoria de Asquini.",
+        "O surgimento das primeiras trocas rurais.",
+        "O Código Civil italiano de 1942.",
+        "O exame de ingresso nas corporações medievais."
+      ],
+      "answer": 2,
+      "explanation": "Esse código é apresentado como o marco da teoria substitutiva e da fase empresarial.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q11",
+      "prompt": "Conforme a apostila, responda: Qual ideia expressa a ampliação promovida pela Teoria da Empresa no PDF?",
+      "choices": [
+        "A atividade empresarial pode ser preservada independentemente do destino de quem a exerce.",
+        "Empresa é sempre apenas um contrato isolado de compra e venda.",
+        "Só há proteção quando o comerciante pertence a uma corporação medieval.",
+        "Os serviços deixam de fazer parte da análise econômica."
+      ],
+      "answer": 0,
+      "explanation": "O material destaca a empresa como atividade organizada e a possibilidade de sua continuidade apesar de mudanças relativas ao sujeito.",
+      "refs": [
+        {
+          "page": 10,
+          "section": "2.4. Fase subjetiva moderna ou empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q12",
+      "prompt": "Conforme a apostila, responda: Em uma revisão dos perfis de Asquini, o cartão que destaca a atividade empreendedora orientada a um objetivo corresponde ao perfil:",
+      "choices": ["Subjetivo.", "Objetivo.", "Corporativo.", "Funcional."],
+      "answer": 3,
+      "explanation": "A atividade, e não apenas o sujeito ou o patrimônio, é o elemento destacado nesse perfil.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q13",
+      "prompt": "Conforme a apostila, responda: Qual elemento ocupa o centro do perfil objetivo na tabela da aula?",
+      "choices": [
+        "A aprovação dos sócios em assembleia.",
+        "O complexo de bens necessário ao desenvolvimento da atividade.",
+        "A mera intenção ocasional de investir.",
+        "A lista de decisões reiteradas dos tribunais."
+      ],
+      "answer": 1,
+      "explanation": "O núcleo da definição da tabela é o complexo patrimonial, formado pelos bens necessários à atividade. A própria apostila acrescenta uma explicação restrita ao local físico; esta questão cobra o núcleo da definição.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q14",
+      "prompt": "Conforme a apostila, responda: Qual opção reúne os elementos associados ao perfil corporativo?",
+      "choices": [
+        "Somente dinheiro e terreno.",
+        "Apenas as pessoas físicas dos proprietários.",
+        "Pessoas, atividades e bens.",
+        "Apenas leis e tratados."
+      ],
+      "answer": 2,
+      "explanation": "O PDF o apresenta como reunião dos três aspectos anteriores.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q15",
+      "prompt": "Conforme a apostila, responda: Na classificação adotada pelo material, qual alternativa contém apenas fontes chamadas formais?",
+      "choices": [
+        "Constituição, leis e decretos.",
+        "Doutrina, costumes e jurisprudência.",
+        "Princípios gerais, costumes e doutrina.",
+        "Jurisprudência, leis e costumes."
+      ],
+      "answer": 0,
+      "explanation": "A aula inclui os instrumentos normativos dessa alternativa entre as fontes formais e classifica os demais exemplos como materiais.",
+      "refs": [
+        {
+          "page": 14,
+          "section": "3. Atos de comércio e teoria da empresa / 4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q16",
+      "prompt": "Conforme a apostila, responda: Na explicação do módulo, jurisprudência é:",
+      "choices": [
+        "Qualquer opinião individual publicada fora de um tribunal.",
+        "Um sinônimo obrigatório de contrato social.",
+        "O nome de toda lei não codificada.",
+        "A decisão reiterada dos tribunais sobre determinado tema."
+      ],
+      "answer": 3,
+      "explanation": "A definição destaca a repetição do entendimento dos tribunais e sua influência na interpretação e eventual mudança legislativa.",
+      "refs": [
+        {
+          "page": 15,
+          "section": "4. Fontes do direito empresarial"
+        },
+        {
+          "page": 16,
+          "section": "4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q17",
+      "prompt": "Conforme a apostila, responda: O que significa dizer que há leis esparsas no Direito Empresarial?",
+      "choices": [
+        "Que essas leis não têm qualquer conteúdo normativo.",
+        "Que não estão reunidas dentro de um código.",
+        "Que só podem ser usadas nas corporações medievais.",
+        "Que necessariamente estão abaixo de toda recomendação privada."
+      ],
+      "answer": 1,
+      "explanation": "O PDF usa “esparsas” para leis não codificadas, citando várias normas do campo empresarial.",
+      "refs": [
+        {
+          "page": 16,
+          "section": "4. Fontes do direito empresarial"
+        }
+      ]
+    },
+    {
+      "id": "m07-q18",
+      "prompt": "Conforme a apostila, responda: Qual sequência representa a exposição simplificada da hierarquia nas pp. 17–18?",
+      "choices": [
+        "Recomendações internas → decretos → leis → Constituição, em ordem do topo para a base.",
+        "Leis → Constituição → recomendações internas → decretos, em ordem do topo para a base.",
+        "Constituição → leis → decretos/regulamentos → códigos internos de associações, nas condições descritas.",
+        "Códigos internos → Constituição → costumes → leis, em ordem do topo para a base."
+      ],
+      "answer": 2,
+      "explanation": "Essa é a sequência descrita no texto. A figura da pirâmide anunciada não está visível no arquivo.",
+      "refs": [
+        {
+          "page": 17,
+          "section": "4. Fontes do direito empresarial"
+        },
+        {
+          "page": 18,
+          "section": "4. Fontes do direito empresarial / 5. Empresário"
+        }
+      ]
+    },
+    {
+      "id": "m07-q19",
+      "prompt": "Conforme a apostila, responda: Qual situação reúne os critérios destacados pela aula para caracterizar o empresário?",
+      "choices": [
+        "Organizar profissionalmente atividade econômica para produção ou circulação de bens ou serviços.",
+        "Comprar uma ação de modo isolado e nunca participar da organização do empreendimento.",
+        "Ter uma ideia sem desenvolver qualquer atividade.",
+        "Ser consumidor final de um produto, sem atuação econômica organizada."
+      ],
+      "answer": 0,
+      "explanation": "A formulação sintetiza profissionalidade, organização e finalidade econômica do art. 966 reproduzido.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-q20",
+      "prompt": "Conforme a apostila, responda: Qual ressalva acompanha a exclusão das profissões intelectuais no parágrafo único do art. 966 reproduzido?",
+      "choices": [
+        "Toda atividade intelectual é proibida.",
+        "Basta haver um auxiliar para que qualquer profissão se torne automaticamente empresa.",
+        "A profissão intelectual só pode ser exercida por sociedades anônimas.",
+        "A exclusão não se aplica quando o exercício da profissão constitui elemento de empresa."
+      ],
+      "answer": 3,
+      "explanation": "A ressalva é expressa no dispositivo apresentado pelo PDF; não se deve transformar a exclusão em regra absoluta.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-q21",
+      "prompt": "Conforme a apostila, responda: Qual distinção entre empreendedor e empresário é desenvolvida no módulo?",
+      "choices": [
+        "Investir ocasionalmente é sempre suficiente para ser empresário.",
+        "O empreendedor pode apenas investir; o empresário, na construção da aula, organiza a atividade de modo profissional e rotineiro.",
+        "O empresário nunca pode investir recursos próprios.",
+        "Ser sócio elimina qualquer necessidade de organização da atividade."
+      ],
+      "answer": 1,
+      "explanation": "A aula alerta que ser sócio ou investidor, isoladamente, não satisfaz a distinção técnica que ela propõe.",
+      "refs": [
+        {
+          "page": 19,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        },
+        {
+          "page": 20,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-q22",
+      "prompt": "Conforme a apostila, responda: Conforme a comparação de formas de exercício feita pelo PDF, qual característica é atribuída ao empresário individual?",
+      "choices": [
+        "A existência obrigatória de ações negociadas em bolsa.",
+        "A ausência de responsabilidade por qualquer dívida.",
+        "A ausência de separação entre patrimônio pessoal e patrimônio do empreendimento.",
+        "A necessidade de estatuto aprovado por uma assembleia de acionistas."
+      ],
+      "answer": 2,
+      "explanation": "A aula ilustra a possibilidade de obrigações pessoais e empresariais alcançarem o mesmo patrimônio.",
+      "refs": [
+        {
+          "page": 21,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        },
+        {
+          "page": 22,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-q23",
+      "prompt": "Conforme a apostila, responda: Uma pessoa exerce materialmente atividade empresarial, mas não realiza o registro necessário. Como a aula a denomina?",
+      "choices": [
+        "Empresário irregular.",
+        "Pessoa que jamais pode ser considerada empresária, em qualquer sentido.",
+        "Sociedade anônima de capital aberto.",
+        "Corporação de ofício."
+      ],
+      "answer": 0,
+      "explanation": "A ausência de registro afeta a regularidade formal; o PDF não apaga a condição material de quem exerce a atividade.",
+      "refs": [
+        {
+          "page": 23,
+          "section": "5. Empresário: conceito e requisitos formais de regularidade"
+        }
+      ]
+    },
+    {
+      "id": "m07-q24",
+      "prompt": "Conforme a apostila, responda: Qual distinção sobre incapacidade é feita ao final da seção de regularidade?",
+      "choices": [
+        "A continuidade nunca pode ocorrer em caso de herança.",
+        "Todo impedimento exclui a responsabilidade pelas obrigações contraídas.",
+        "A simples vontade de continuar substitui qualquer representação ou assistência.",
+        "O material distingue iniciar atividade de continuá-la por herança ou incapacidade superveniente, com representação ou assistência na exposição da aula."
+      ],
+      "answer": 3,
+      "explanation": "A p. 24 distingue iniciar a atividade de continuá-la por herança ou incapacidade superveniente, mencionando representação ou assistência. A resposta se limita às hipóteses descritas pela apostila.",
+      "refs": [
+        {
+          "page": 24,
+          "section": "5. Empresário / 6. Conclusão"
+        }
+      ]
+    }
+  ]
+}
