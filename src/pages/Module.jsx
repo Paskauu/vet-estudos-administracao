@@ -98,11 +98,7 @@ export function ModulePage({ module, progress, record, navigate }) {
           </ol>
           <div className="outline-note">
             <Lightbulb size={17} />
-            <p>
-              Entenda primeiro.
-              <br />
-              Depois, tente lembrar sem consultar.
-            </p>
+            <p>Após a leitura, responda sem consultar.</p>
           </div>
         </aside>
         <article className="lesson-content" key={lesson.id}>
@@ -149,7 +145,7 @@ export function ModulePage({ module, progress, record, navigate }) {
             <summary>
               <Lightbulb size={20} />
               <span>
-                Uma pausa para lembrar<strong>{card.front}</strong>
+                Revisão<strong>{card.front}</strong>
               </span>
               <ChevronRight size={18} />
             </summary>
@@ -192,8 +188,8 @@ export function ModulePage({ module, progress, record, navigate }) {
       </div>
       <div className="module-next-step">
         <div>
-          <strong>Vamos transformar leitura em memória?</strong>
-          <p>Revise os cartões ou pratique questões deste módulo.</p>
+          <strong>Revisão do módulo</strong>
+          <p>Revise os cartões ou responda às questões.</p>
         </div>
         <button
           className="button secondary"

@@ -12,7 +12,7 @@ class ErrorBoundary extends React.Component {
   render() {
     return this.state.error ? (
       <div className="fatal-error">
-        <h1>Vamos retomar com calma.</h1>
+        <h1>Não foi possível abrir a página</h1>
         <p>
           Não foi possível abrir esta tela. Recarregue a página para tentar
           novamente. Seus registros salvos são preservados.
@@ -30,7 +30,7 @@ createRoot(document.getElementById("root")).render(
       fallback={
         <div className="loading-screen">
           <img src="./icon.svg" alt="" />
-          <p>Preparando seu espaço de estudo…</p>
+          <p>Carregando…</p>
         </div>
       }
     >

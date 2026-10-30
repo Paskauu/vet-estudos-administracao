@@ -106,7 +106,7 @@ export function ProgressBar({ value, label, className = "" }) {
 export function ModulePicker({ modules, selected, onChange }) {
   return (
     <fieldset className="module-picker">
-      <legend className="field-label">Quais módulos vamos revisar?</legend>
+      <legend className="field-label">Selecionar módulos</legend>
       <div className="picker-actions">
         <button
           type="button"
@@ -156,7 +156,7 @@ export function PageHeading({ eyebrow, title, text, children }) {
   return (
     <div className="page-heading">
       <div>
-        <span className="eyebrow">{eyebrow}</span>
+        {eyebrow && <span className="eyebrow">{eyebrow}</span>}
         <h1>{title}</h1>
         {text && <p>{text}</p>}
       </div>

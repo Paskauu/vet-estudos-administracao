@@ -54,15 +54,15 @@ export function Backup({ study, onClose }) {
     e.target.value = "";
   };
   return (
-    <Modal title="Seu progresso, bem guardado" onClose={onClose}>
+    <Modal title="Backup do progresso" onClose={onClose}>
       <div className="backup-intro">
         <span className="stat-icon sage">
           <HardDrive size={24} />
         </span>
         <p>
-          Seu estudo é salvo automaticamente <strong>neste navegador</strong>.
-          Para continuar em outro dispositivo, exporte e depois importe o
-          arquivo de backup. O arquivo inclui as duas disciplinas; os estudos continuam separados em cada área.
+          O progresso é salvo <strong>neste navegador</strong>. Exporte e importe
+          o backup para transferi-lo entre dispositivos. O arquivo inclui as duas
+          disciplinas, com históricos separados.
         </p>
       </div>
       <div className="backup-actions">

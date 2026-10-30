@@ -22,9 +22,8 @@ export function ProgressPage({ progress, navigate, openBackup }) {
   return (
     <>
       <PageHeading
-        eyebrow="SEU CAMINHO ATÉ AQUI"
-        title="Todo avanço conta."
-        text="Um retrato dos seus estudos, para escolher o próximo passo com mais clareza."
+        title="Progresso"
+        text="Acompanhe a leitura, as revisões e os resultados das sessões."
       >
         <button className="button secondary" onClick={openBackup}>
           <Download size={17} />
@@ -73,8 +72,7 @@ export function ProgressPage({ progress, navigate, openBackup }) {
       <section className="panel progress-modules">
         <div className="section-heading compact">
           <div>
-            <h2>Seu progresso por módulo</h2>
-            <p>Leitura e prática se complementam.</p>
+            <h2>Progresso por módulo</h2>
           </div>
           <TrendingUp size={25} />
         </div>
@@ -116,8 +114,7 @@ export function ProgressPage({ progress, navigate, openBackup }) {
       <section className="history-section">
         <div className="section-heading">
           <div>
-            <span className="eyebrow">PRATICAR, PERCEBER, EVOLUIR</span>
-            <h2>Suas últimas sessões</h2>
+            <h2>Últimas sessões</h2>
           </div>
           <span className="subtle-badge">{complete.length} concluídas</span>
         </div>
@@ -155,14 +152,14 @@ export function ProgressPage({ progress, navigate, openBackup }) {
         ) : (
           <EmptyState
             icon={Target}
-            title="Sua primeira sessão começa com uma tentativa"
-            text="Escolha um módulo e pratique. Seu histórico aparecerá aqui."
+            title="Nenhuma sessão concluída"
+            text="Conclua uma prática ou simulado para ver o histórico."
           >
             <button
               className="button primary"
               onClick={() => navigate("praticar")}
             >
-              Começar uma prática
+              Iniciar prática
               <ArrowRight size={17} />
             </button>
           </EmptyState>
@@ -171,9 +168,9 @@ export function ProgressPage({ progress, navigate, openBackup }) {
       <div className="backup-banner">
         <Download size={25} />
         <div>
-          <strong>Leve seu progresso com você.</strong>
+          <strong>Backup do progresso</strong>
           <p>
-            Os estudos ficam neste navegador. Exporte um backup para guardar ou
+            O progresso fica neste navegador. Exporte um backup para guardá-lo ou
             continuar em outro dispositivo.
           </p>
         </div>

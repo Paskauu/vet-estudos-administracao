@@ -85,7 +85,6 @@
 [data-course="epidemiologia"] .sidebar nav button.active,
 [data-course="epidemiologia"] .filter-tabs button.active,
 [data-course="epidemiologia"] .bottom-nav button.active,
-[data-course="epidemiologia"] .sidebar-quote,
 [data-course="epidemiologia"] .sage,
 [data-course="epidemiologia"] .memory-check,
 [data-course="epidemiologia"] .flashcard.flipped,
@@ -93,8 +92,6 @@
 [data-course="epidemiologia"] .resume-banner,
 [data-course="epidemiologia"] .practice-modes button.active,
 [data-course="epidemiologia"] .subtle-badge { background: #e6f0f5; color: #205c75; border-color: #c6dee8; }
-[data-course="epidemiologia"] .sidebar-quote p,
-[data-course="epidemiologia"] .sidebar-quote > svg,
 [data-course="epidemiologia"] .memory-check summary,
 [data-course="epidemiologia"] .memory-check summary strong,
 [data-course="epidemiologia"] .module-progress > span,

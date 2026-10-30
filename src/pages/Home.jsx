@@ -4,10 +4,8 @@ import {
   BookOpen,
   Check,
   ChevronRight,
-  Clock3,
   Layers,
   Search,
-  Sparkles,
   Stethoscope,
   Target,
 } from "lucide-react";
@@ -126,27 +124,13 @@ export function Home({ progress, navigate, modulesOnly = false }) {
     <>
       {!modulesOnly && (
         <>
-          <div className="welcome-line">
-            <span>
-              <span className="tiny-leaf">✦</span> UM BOM DIA PARA APRENDER
-            </span>
-            <span className="quiet-label">Seu ritmo. Seu caminho.</span>
-          </div>
           <section className="study-hero">
             <div className="hero-copy">
               <span className="hero-kicker">
                 <Stethoscope size={15} /> MEDICINA VETERINÁRIA
               </span>
-              <h1>
-                Conhecimento que cresce
-                <br />
-                com você.
-              </h1>
-              <p>
-                Um conceito de cada vez. Seu espaço para entender,
-                <br className="desktop-break" /> revisar e ganhar confiança nos
-                estudos.
-              </p>
+              <h1>Meu estudo</h1>
+              <p>Módulos, flashcards, questões e simulados.</p>
               <button
                 className="button cream"
                 onClick={() => navigate("modulo", nextModule.id)}
@@ -202,7 +186,7 @@ export function Home({ progress, navigate, modulesOnly = false }) {
                 <span>
                   {progress.answered
                     ? `Acertos em ${progress.answered} respostas`
-                    : "Sua prática começa aqui"}
+                    : "Nenhuma resposta registrada"}
                 </span>
               </div>
             </div>
@@ -212,11 +196,9 @@ export function Home({ progress, navigate, modulesOnly = false }) {
       <section className="modules-section">
         <div className="section-heading">
           <div>
-            <span className="eyebrow">SUA TRILHA DE APRENDIZAGEM</span>
             <h2>
-              {modulesOnly ? "Biblioteca de módulos" : "O que vamos estudar?"}
+              {modulesOnly ? "Biblioteca de módulos" : "Módulos"}
             </h2>
-            <p>Do primeiro conceito à revisão final, no seu tempo.</p>
           </div>
           <span className="subtle-badge">{modules.length} módulos</span>
         </div>
@@ -313,14 +295,11 @@ export function Home({ progress, navigate, modulesOnly = false }) {
       {!modulesOnly && (
         <div className="study-tip">
           <span className="tip-icon">
-            <Sparkles size={23} />
+            <Layers size={23} />
           </span>
           <div>
-            <strong>Uma pausa também faz parte.</strong>
-            <p>
-              Leia uma etapa, teste sua memória e depois volte para o próximo
-              conceito.
-            </p>
+            <strong>Flashcards</strong>
+            <p>Revise perguntas e respostas dos módulos.</p>
           </div>
           <button
             className="text-button"

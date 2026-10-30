@@ -59,9 +59,8 @@ export function PracticePage({
   return (
     <>
       <PageHeading
-        eyebrow="APRENDER FAZENDO"
-        title="Sua prática, do seu jeito."
-        text="Combine módulos desta disciplina, descubra o que já sabe e encontre o que merece mais atenção."
+        title="Prática e simulados"
+        text="Selecione os módulos, o formato e a quantidade de questões."
       />
       {unfinished.length > 0 && (
         <div className="resume-banner">
@@ -69,7 +68,7 @@ export function PracticePage({
             <History size={21} />
           </span>
           <div>
-            <strong>Vamos terminar o que começamos?</strong>
+            <strong>Sessão em andamento</strong>
             <p>
               {Object.keys(unfinished[0].answers).length} de{" "}
               {unfinished[0].questionIds.length} respostas ·{" "}
@@ -90,8 +89,7 @@ export function PracticePage({
         <section className="panel practice-setup">
           <div className="section-heading compact">
             <div>
-              <h2>Monte sua sessão</h2>
-              <p>Você escolhe os assuntos. Nós organizamos as questões.</p>
+              <h2>Configurar sessão</h2>
             </div>
             <ClipboardCheck size={25} />
           </div>
@@ -103,7 +101,7 @@ export function PracticePage({
             >
               <CircleHelp size={22} />
               <strong>Prática guiada</strong>
-              <span>Entenda a resposta a cada questão.</span>
+              <span>Correção após cada resposta.</span>
             </button>
             <button
               className={mode === "exam" ? "active" : ""}
@@ -112,7 +110,7 @@ export function PracticePage({
             >
               <Target size={22} />
               <strong>Simulado</strong>
-              <span>Veja a correção ao terminar.</span>
+              <span>Correção ao terminar.</span>
             </button>
           </div>
           <ModulePicker
@@ -183,15 +181,8 @@ export function PracticePage({
         <aside className="practice-aside">
           <div className="note-card">
             <BookOpen size={24} />
-            <h3>
-              Mais que acertar:
-              <br />
-              entender o porquê.
-            </h3>
-            <p>
-              Cada questão tem explicação e referência ao material. Use os erros
-              como um mapa para a próxima revisão.
-            </p>
+            <h3>Questões comentadas</h3>
+            <p>Consulte as explicações para revisar suas respostas.</p>
             <div className="note-divider" />
             <span>
               <CheckCircle2 size={15} />
@@ -289,7 +280,7 @@ export function SessionPage({
       <div className="session-topline">
         <button className="back-link" onClick={() => navigate("praticar")}>
           <ArrowLeft size={16} />
-          Sair por agora
+          Voltar à prática
         </button>
         <span>{session.mode === "exam" ? "SIMULADO" : "PRÁTICA GUIADA"}</span>
       </div>
@@ -364,12 +355,12 @@ export function SessionPage({
               {selected === question.answer ? (
                 <>
                   <CheckCircle2 size={19} />
-                  Isso mesmo!
+                  Resposta correta
                 </>
               ) : (
                 <>
                   <BookOpen size={19} />
-                  Um conceito para revisar
+                  Resposta incorreta
                 </>
               )}
             </strong>
@@ -383,7 +374,7 @@ export function SessionPage({
         {answered && session.mode === "exam" && (
           <p className="answer-saved">
             <CheckCircle2 size={16} />
-            Resposta guardada. A correção aparece ao finalizar.
+            Resposta salva. Veja a correção ao finalizar.
           </p>
         )}
         <div className="question-actions">
@@ -438,9 +429,8 @@ function SessionResult({ session, bank, navigate, startSession }) {
   return (
     <>
       <PageHeading
-        eyebrow="MAIS UM PASSO NA SUA TRILHA"
-        title="Cada tentativa ensina."
-        text="Olhe o que já está firme e o que pode ganhar uma nova revisão."
+        title="Resultado da sessão"
+        text="Confira os acertos por módulo e revise as respostas."
       />
       <div className="result-hero panel">
         <span
@@ -458,13 +448,6 @@ function SessionResult({ session, bank, navigate, startSession }) {
               ? "SIMULADO CONCLUÍDO"
               : "PRÁTICA CONCLUÍDA"}
           </span>
-          <h2>
-            {score.percent >= 80
-              ? "Você está construindo uma boa base."
-              : score.percent >= 50
-                ? "Seu conhecimento está crescendo."
-                : "Você encontrou por onde continuar."}
-          </h2>
           <p>
             {score.correct}{" "}
             {score.correct === 1 ? "resposta correta" : "respostas corretas"} em{" "}
@@ -498,7 +481,7 @@ function SessionResult({ session, bank, navigate, startSession }) {
         </div>
       </div>
       <section className="panel module-results">
-        <h3>Como foi em cada módulo</h3>
+        <h3>Acertos por módulo</h3>
         {byModule.map(({ module, score: s }) => (
           <div className="module-result-row" key={module.id}>
             <span className="small-number">{module.source.topic}</span>
@@ -516,8 +499,7 @@ function SessionResult({ session, bank, navigate, startSession }) {
       <section className="result-review">
         <div className="section-heading">
           <div>
-            <span className="eyebrow">ENTENDER PARA AVANÇAR</span>
-            <h2>Reveja suas respostas</h2>
+            <h2>Revisão das respostas</h2>
             <p>Abra uma questão para ver a explicação e a fonte.</p>
           </div>
         </div>

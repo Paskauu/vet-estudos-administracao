@@ -7,7 +7,6 @@ import {
   Layers,
   RotateCcw,
   SlidersHorizontal,
-  Sparkles,
 } from "lucide-react";
 import { moduleById } from "../content/index.js";
 import { useCourse } from "../hooks/useCourse.jsx";
@@ -62,9 +61,8 @@ export function FlashcardsPage({ progress, record, initialModule }) {
   return (
     <>
       <PageHeading
-        eyebrow="REVISÃO ATIVA"
-        title="Um cartão. Uma descoberta."
-        text="Vire o cartão para ver a resposta e navegue no seu ritmo."
+        title="Flashcards"
+        text="Toque no cartão para ver a resposta."
       />
       {picker && (
         <Modal title="Escolher módulos" onClose={() => setPicker(false)}>
@@ -90,8 +88,8 @@ export function FlashcardsPage({ progress, record, initialModule }) {
                 <Layers size={24} />
               </span>
               <div>
-                <h2>Sua próxima revisão</h2>
-                <p>Escolha os assuntos e reserve alguns minutos para você.</p>
+                <h2>Selecionar cartões</h2>
+                <p>Escolha os módulos para revisar.</p>
               </div>
             </div>
             <button
@@ -133,12 +131,12 @@ export function FlashcardsPage({ progress, record, initialModule }) {
               <EmptyState
                 icon={CheckCircle2}
                 title={
-                  selected.length ? "Todos os cartões revisados!" : "Escolha um módulo"
+                  selected.length ? "Nenhum cartão pendente" : "Escolha um módulo"
                 }
                 text={
                   selected.length
-                    ? "Você já revisou os cartões desta seleção. Explore todos os cartões para estudar novamente."
-                    : "Selecione um ou mais assuntos para montar sua revisão."
+                    ? "Use Todos os cartões para revisar novamente."
+                    : "Selecione ao menos um módulo."
                 }
               >
                 {selected.length > 0 && (
@@ -153,11 +151,9 @@ export function FlashcardsPage({ progress, record, initialModule }) {
             )}
           </div>
           <div className="quiet-explainer">
-            <Sparkles size={18} />
+            <Layers size={18} />
             <p>
-              <strong>Seu estudo, no seu ritmo.</strong> Ao revelar a resposta,
-              o cartão é registrado como revisado. Use Voltar e Avançar para
-              navegar. Seu progresso fica salvo neste navegador.
+              Revelar a resposta registra a revisão neste navegador.
             </p>
           </div>
         </>
@@ -166,9 +162,8 @@ export function FlashcardsPage({ progress, record, initialModule }) {
           <span className="success-circle">
             <CheckCircle2 size={42} />
           </span>
-          <span className="eyebrow">UM PASSO A MAIS</span>
-          <h2>Rodada concluída!</h2>
-          <p>Você chegou ao fim de uma seleção de {deck.length} cartões.</p>
+          <h2>Rodada concluída</h2>
+          <p>{deck.length} cartões na seleção.</p>
           <div className="review-totals">
             <div>
               <strong>{sessionReviewed.size}</strong>

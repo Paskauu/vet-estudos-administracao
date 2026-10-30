@@ -9,7 +9,6 @@ import {
   HardDrive,
   House,
   Layers,
-  Leaf,
   Library,
   Menu,
   Stethoscope,
@@ -194,8 +193,8 @@ export default function App() {
   else
     content = (
       <EmptyState
-        title="Vamos voltar à sua trilha"
-        text="Este endereço não corresponde a uma área do seu estudo."
+        title="Página não encontrada"
+        text="Confira o endereço ou volte ao início."
       >
         <button className="button primary" onClick={() => navigate("inicio")}>
           Ir para meu estudo
@@ -240,7 +239,7 @@ export default function App() {
             Medicina Veterinária<small>{course.shortTitle}</small>
           </span>
         </div>
-        <span className="sidebar-label">SEU ESPAÇO</span>
+        <span className="sidebar-label">NAVEGAÇÃO</span>
         <nav aria-label="Navegação principal">
           {nav.map(({ page, label, icon: Icon }) => (
             <button
@@ -267,18 +266,9 @@ export default function App() {
           </button>
           <button className="sidebar-help" onClick={() => setModal("help")}>
             <CircleHelp size={18} />
-            Como estudar por aqui
+            Como usar
             <ChevronRight size={15} />
           </button>
-          <div className="sidebar-quote">
-            <Leaf size={23} />
-            <p>
-              Cuidar começa
-              <br />
-              por conhecer.
-            </p>
-            <span>Cultive seu conhecimento.</span>
-          </div>
           <button className="storage-label" onClick={() => setModal("backup")}>
             <span className="status-dot" />
             Salvo neste navegador
@@ -350,8 +340,7 @@ export default function App() {
           )}
           <section className="discipline-switcher" aria-label="Escolher disciplina">
             <div className="discipline-heading">
-              <span className="eyebrow">SUAS DISCIPLINAS</span>
-              <span>Escolha o que estudar agora</span>
+              <span className="eyebrow">DISCIPLINAS</span>
             </div>
             <div className="discipline-options">
               {courses.map((item, i) => (
@@ -376,12 +365,8 @@ export default function App() {
           </section>
           {content}
           <footer className="main-footer">
-            <span>
-              <Leaf size={13} />
-              Feito para aprender com calma.
-            </span>
             <button onClick={() => setModal("sources")}>
-              {modules.length} módulos · Referências em cada conceito
+              {modules.length} materiais de consulta
               <BookOpen size={13} />
             </button>
           </footer>
@@ -461,14 +446,14 @@ export default function App() {
       )}
       {modal === "help" && (
         <Modal
-          title="Seu estudo, um passo de cada vez"
+          title="Como usar"
           onClose={() => setModal(null)}
         >
           <ol className="how-to">
             <li>
               <span>01</span>
               <div>
-                <h3>Entenda um conceito</h3>
+                <h3>Leitura</h3>
                 <p>
                   Escolha um módulo e leia uma etapa. Use as referências para
                   voltar à página original.
@@ -478,7 +463,7 @@ export default function App() {
             <li>
               <span>02</span>
               <div>
-                <h3>Tente lembrar</h3>
+                <h3>Flashcards</h3>
                 <p>
                   Vire os flashcards para conferir as respostas e use Voltar e
                   Avançar para navegar. Cada resposta revelada registra uma revisão.
@@ -488,7 +473,7 @@ export default function App() {
             <li>
               <span>03</span>
               <div>
-                <h3>Coloque em prática</h3>
+                <h3>Questões e simulados</h3>
                 <p>
                   Faça uma prática com explicação imediata ou um simulado com
                   correção ao final. Você pode combinar módulos da mesma disciplina.
@@ -498,7 +483,7 @@ export default function App() {
             <li>
               <span>04</span>
               <div>
-                <h3>Cuide do seu progresso</h3>
+                <h3>Progresso e backup</h3>
                 <p>
                   As respostas ficam neste navegador. Exporte um backup para
                   guardar ou continuar em outro dispositivo.
@@ -510,7 +495,7 @@ export default function App() {
             className="button primary full-width"
             onClick={() => setModal(null)}
           >
-            Vamos estudar
+            Fechar
             <ArrowRight size={17} />
           </button>
         </Modal>

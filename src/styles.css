@@ -367,29 +367,6 @@ input[type="radio"] {
 .sidebar-help svg:last-child {
   margin-left: auto;
 }
-.sidebar-quote {
-  margin: 20px 9px 18px;
-  padding: 23px 18px;
-  background: #f1f3e9;
-  border-radius: 14px;
-  color: #74845b;
-}
-.sidebar-quote > svg {
-  color: #8b9d70;
-  margin-bottom: 8px;
-}
-.sidebar-quote p {
-  font:
-    italic 22px/1.3 Georgia,
-    serif;
-  color: #546747;
-}
-.sidebar-quote > span {
-  display: block;
-  font-size: 9px;
-  margin-top: 13px;
-  color: #8b947f;
-}
 .storage-label {
   background: none;
   display: flex;
@@ -510,27 +487,6 @@ main:focus {
 }
 .bottom-nav {
   display: none;
-}
-.welcome-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 21px;
-}
-.welcome-line > span:first-child {
-  font-size: 9px;
-  letter-spacing: 1.55px;
-  color: #7c8d73;
-  font-weight: 600;
-}
-.tiny-leaf {
-  color: #91a171;
-  font-size: 13px;
-  margin-right: 6px;
-}
-.quiet-label {
-  font-size: 10px;
-  color: #99a18d;
 }
 .study-hero {
   position: relative;
@@ -2945,16 +2901,6 @@ main:focus {
   main {
     padding: 23px 18px 82px;
   }
-  .welcome-line {
-    margin-bottom: 16px;
-  }
-  .welcome-line > span:first-child {
-    font-size: 8px;
-    letter-spacing: 1.1px;
-  }
-  .quiet-label {
-    display: none;
-  }
   .study-hero {
     min-height: 326px;
     border-radius: 17px;
@@ -2983,9 +2929,6 @@ main:focus {
     line-height: 1.9;
     margin-top: 14px;
     margin-bottom: 22px;
-  }
-  .desktop-break {
-    display: none;
   }
   .garden-art {
     width: 160px;
@@ -3896,8 +3839,6 @@ main:focus {
 .storage-label {
   color: #697b5d;
 }
-.welcome-line > span:first-child,
-.quiet-label,
 .eyebrow {
   color: #697c5f;
 }
