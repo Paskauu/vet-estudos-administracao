@@ -43,11 +43,11 @@ Dados de progresso são eventos com UUID, tipo, item, payload e horário. A mesc
 
 ## Publicação e limites verificáveis
 
-Preparar código, documentação, fluxo de verificações e configuração de hospedagem no projeto local. O nome provisório do repositório privado é `vet-estudos-administracao`. Criar ou enviar esse repositório e publicar uma hospedagem são ações distintas; não afirmar que existe URL final sem conferir a publicação real.
+O repositório é `Paskauu/vet-estudos-administracao`. Em 30/10/2026, após a entrega inicial em repositório privado, o usuário tornou o repositório público e escolheu expressamente a hospedagem pelo GitHub Pages. Essa é a decisão vigente de publicação.
 
-GitHub privado guarda o código e as fontes sob as permissões do repositório. A disponibilidade do site e dos materiais depende da hospedagem selecionada. Ao hospedar a compilação, os PDFs são servidos como arquivos estáticos. Um site restrito exige proteção na hospedagem cobrindo todas as URLs, inclusive referências diretas aos PDFs e prévias. O projeto não oferece barreira de acesso dentro da aplicação.
+O código, o site e os oito PDFs serão acessíveis publicamente conforme a escolha atual. O projeto não oferece barreira de acesso dentro da aplicação.
 
-O guia principal usa Vercel conectada ao repositório privado e explica a escolha de audiência antes de ativar publicações automáticas. GitHub Pages é alternativa condicionada ao plano e aos requisitos de acesso. O fluxo de verificações apenas testa e compila, sem publicar.
+A publicação usa `.github/workflows/pages.yml`: testa e compila com Node.js 24 e `VITE_BASE_PATH=/vet-estudos-administracao/`, envia `dist` e publica pelo fluxo oficial do Pages. O endereço configurado é `https://paskauu.github.io/vet-estudos-administracao/`. Novos envios em `main` publicam automaticamente, e há execução manual. O fluxo `checks.yml` continua disponível para verificação sem publicação. A URL só deve ser apresentada como funcionando depois da confirmação do deploy e da conferência do site.
 
 Os endereços local, por IP, de prévia e de produção têm armazenamentos separados. A migração de progresso entre eles usa exportação/importação manual. Não há promessa de funcionamento integral offline; a página e os PDFs precisam continuar acessíveis.
 

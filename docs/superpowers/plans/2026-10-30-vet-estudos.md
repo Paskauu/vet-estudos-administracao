@@ -71,15 +71,15 @@
 
 - [x] Documentar execução local com `npm install`, preparação com `npm run build`, uso com `npm run dev` e prévia da compilação.
 - [x] Documentar limites por origem/perfil, limpeza de dados, backups regulares e transferência manual entre aparelhos ou domínios.
-- [x] Documentar hospedagem partindo de repositório privado, audiência escolhida e proteção de todos os PDFs quando o site precisar ser restrito.
-- [x] Preparar configuração Vercel e verificações Node.js 24 com `npm ci`, `npm test` e `npm run build`, sem fluxo de publicação automático.
+- [x] Documentar a decisão vigente: repositório público e publicação no GitHub Pages, conforme nova instrução do usuário.
+- [x] Preparar verificações Node.js 24 e fluxo de publicação Pages com `npm ci`, `npm test`, `npm run build` e base correta para o endereço do projeto.
 - [x] Fazer revisão independente de conteúdo e código, corrigindo problemas materiais com verificação adequada.
 - [x] Rodar validação, testes, compilação e QA final; registrar evidência e limites, distinguindo a simulação de tamanho de tela do teste no tablet físico.
 - [x] Entregar o projeto e a prévia local. Só registrar repositório remoto ou URL final depois de sua criação e conferência reais.
 
 ### Tarefa 5: publicação quando a audiência e hospedagem estiverem definidas
 
-- [x] Criar ou usar o repositório privado com o nome final escolhido e enviar o projeto sem backups pessoais ou credenciais. Confirmado: `Paskauu/vet-estudos-administracao`, privado, `main`.
-- [ ] Escolher a hospedagem e definir acesso aberto por endereço ou restrito na própria hospedagem antes de ativar deploys.
+- [x] Criar o repositório e enviar o projeto sem backups pessoais ou credenciais. Confirmado: `Paskauu/vet-estudos-administracao`, `main`; inicialmente privado, tornado público pelo usuário.
+- [x] Escolher a hospedagem e definir a audiência antes de ativar deploys. Usuário escolheu GitHub Pages e repositório público.
 - [ ] Conferir no endereço real o site, a persistência, os oito PDFs e, se exigida, a proteção de página, prévias e URLs diretas dos materiais.
 - [x] Orientar exportação na origem antiga e importação no endereço final para transportar o progresso manualmente. Orientação incluída no produto, README e guia de publicação; transferência entre origens exercitada no QA.

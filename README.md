@@ -24,7 +24,7 @@ Para abrir pelo tablet na mesma rede Wi-Fi, use `http://IP-DO-COMPUTADOR:5173`, 
 
 ## Como o progresso é salvo
 
-Leituras, revisões, respostas e simulados são guardados no armazenamento persistente do navegador (`localStorage`). Não há conta, login, servidor de dados nem sincronização automática entre aparelhos. O armazenamento pertence ao perfil do navegador e à origem do endereço: `http://localhost:5173`, um endereço pelo IP do computador e o futuro domínio publicado guardam dados separados. Outro navegador, perfil ou aparelho também começa com dados próprios.
+Leituras, revisões, respostas e simulados são guardados no armazenamento persistente do navegador (`localStorage`). Não há conta, login, servidor de dados nem sincronização automática entre aparelhos. O armazenamento pertence ao perfil do navegador e à origem do endereço: `http://localhost:5173`, um endereço pelo IP do computador e `https://paskauu.github.io` guardam dados separados. O caminho `/vet-estudos-administracao/` não muda essa origem. Outro navegador, perfil ou aparelho também começa com dados próprios.
 
 Na área **Progresso**, exporte um backup JSON regularmente e mantenha uma cópia fora do navegador. Para trocar de aparelho ou passar da prévia local para o site publicado, exporte no endereço de origem e importe no destino. A importação mescla os registros válidos com os já existentes e elimina repetições por identificador; ela não apaga o histórico atual. Para reunir estudos feitos em dois aparelhos, transfira e importe os backups manualmente e depois exporte uma nova cópia consolidada.
 
@@ -41,13 +41,15 @@ npm run preview
 
 `npm run build` prepara as fontes, valida os dados e gera a pasta `dist`. `npm run preview` permite conferir essa pasta localmente; ele não é um servidor de produção. Essa distinção e o diretório de saída seguem o [guia oficial de publicação do Vite](https://vite.dev/guide/static-deploy.html).
 
-As verificações do GitHub, em `.github/workflows/checks.yml`, instalam as dependências com `npm ci`, executam testes e compilam o site. Elas não publicam o site.
+As verificações do GitHub, em `.github/workflows/checks.yml`, instalam as dependências com `npm ci`, executam testes e compilam o site. A publicação fica no fluxo separado `.github/workflows/pages.yml`, que também testa e compila antes de enviar a versão ao GitHub Pages.
 
 ## Publicar
 
-O código está no repositório privado [Paskauu/vet-estudos-administracao](https://github.com/Paskauu/vet-estudos-administracao), na branch `main`. A entrega inclui um [guia para publicar](docs/PUBLICAR.md) e configuração de compilação para Vercel. A existência desses arquivos não cria uma hospedagem nem uma URL final.
+O código está no repositório público [Paskauu/vet-estudos-administracao](https://github.com/Paskauu/vet-estudos-administracao), na branch `main`. A hospedagem escolhida é o **GitHub Pages**, configurado para usar **GitHub Actions**. O endereço configurado é [paskauu.github.io/vet-estudos-administracao/](https://paskauu.github.io/vet-estudos-administracao/); a disponibilidade da versão depende da conclusão do fluxo de publicação.
 
-Um repositório privado controla o acesso ao código no GitHub. O acesso ao site e aos PDFs é uma escolha separada na hospedagem. Ao publicar `dist`, os PDFs preparados em `public/fontes` passam a ser arquivos servidos pelo site. Se o uso deve ficar restrito, configure proteção que cubra todas as URLs, inclusive os PDFs, e confira o acesso da estudante antes de compartilhar o endereço.
+A cada envio para `main`, `.github/workflows/pages.yml` instala as dependências com Node.js 24, executa os testes, compila com `VITE_BASE_PATH=/vet-estudos-administracao/` e publica a pasta `dist`. O [guia de publicação](docs/PUBLICAR.md) descreve a configuração, a conferência da versão publicada e a transferência manual do progresso local.
+
+O site e os oito PDFs de consulta ficam acessíveis publicamente, conforme a escolha de hospedagem.
 
 ## Organização do projeto
 
