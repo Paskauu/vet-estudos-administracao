@@ -79,7 +79,7 @@
 
 ### Tarefa 5: publicação quando a audiência e hospedagem estiverem definidas
 
-- [ ] Criar ou usar o repositório privado com o nome final escolhido e enviar o projeto sem backups pessoais ou credenciais.
+- [x] Criar ou usar o repositório privado com o nome final escolhido e enviar o projeto sem backups pessoais ou credenciais. Confirmado: `Paskauu/vet-estudos-administracao`, privado, `main`.
 - [ ] Escolher a hospedagem e definir acesso aberto por endereço ou restrito na própria hospedagem antes de ativar deploys.
 - [ ] Conferir no endereço real o site, a persistência, os oito PDFs e, se exigida, a proteção de página, prévias e URLs diretas dos materiais.
-- [ ] Orientar exportação na origem antiga e importação no endereço final para transportar o progresso manualmente.
+- [x] Orientar exportação na origem antiga e importação no endereço final para transportar o progresso manualmente. Orientação incluída no produto, README e guia de publicação; transferência entre origens exercitada no QA.

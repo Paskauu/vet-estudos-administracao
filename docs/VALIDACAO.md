@@ -61,3 +61,7 @@ Prévia visual: `docs/preview/tablet-inicio.jpg`. Essa imagem não contém respo
 - `#page=` depende do leitor de PDF. A página permanece escrita na referência para navegação manual.
 - O cache guarda progresso, sem instalação offline integral do site/PDFs.
 - A publicação do código em GitHub privado não ativa uma hospedagem nem restringe automaticamente um site. URL pública/restrita deve ser verificada após configurar hospedagem e audiência.
+
+## Repositório remoto
+
+Criado e enviado: **https://github.com/Paskauu/vet-estudos-administracao**. A API do GitHub confirmou `isPrivate: true` e branch padrão `main`. Os PDFs originais e fontes do site estão no repositório; dados de teste, backups, dependências instaladas e pasta de compilação não foram enviados. Nenhuma hospedagem de site foi ativada.

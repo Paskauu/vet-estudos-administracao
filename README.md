@@ -45,7 +45,7 @@ As verificações do GitHub, em `.github/workflows/checks.yml`, instalam as depe
 
 ## Publicar
 
-O repositório é `vet-estudos-administracao`. A entrega inclui um [guia para publicar](docs/PUBLICAR.md) e configuração de compilação para Vercel. A existência desses arquivos não cria uma hospedagem nem uma URL final.
+O código está no repositório privado [Paskauu/vet-estudos-administracao](https://github.com/Paskauu/vet-estudos-administracao), na branch `main`. A entrega inclui um [guia para publicar](docs/PUBLICAR.md) e configuração de compilação para Vercel. A existência desses arquivos não cria uma hospedagem nem uma URL final.
 
 Um repositório privado controla o acesso ao código no GitHub. O acesso ao site e aos PDFs é uma escolha separada na hospedagem. Ao publicar `dist`, os PDFs preparados em `public/fontes` passam a ser arquivos servidos pelo site. Se o uso deve ficar restrito, configure proteção que cubra todas as URLs, inclusive os PDFs, e confira o acesso da estudante antes de compartilhar o endereço.
 
