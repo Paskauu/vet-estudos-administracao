@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { selectQuestions, scoreSession, nextReview } from "../src/lib/study.js";
+import { selectQuestions, scoreSession } from "../src/lib/study.js";
 
 const bank = [
   { id: "a", moduleId: "m01", answer: 1 },
@@ -30,14 +30,4 @@ test("score counts unanswered as unanswered and uses full session denominator", 
     percent: 25,
   });
   assert.equal(scoreSession([], {}).percent, 0);
-});
-test("review schedule uses increasing intervals and an immediate retry option", () => {
-  const now = "2026-10-30T12:00:00.000Z";
-  assert.equal(
-    nextReview("again", null, now).dueAt,
-    "2026-10-30T12:10:00.000Z",
-  );
-  assert.equal(nextReview("good", null, now).intervalDays, 1);
-  assert.equal(nextReview("good", { intervalDays: 4 }, now).intervalDays, 8);
-  assert.throws(() => nextReview("unknown", null, now), /avaliação/);
 });

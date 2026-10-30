@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { mergeEvents, reduceProgress } from "../src/lib/events.js";
+import { isEvent, mergeEvents, reduceProgress } from "../src/lib/events.js";
 import {
   createLocalLog,
   importBackup,
@@ -32,6 +32,52 @@ test("merge is deterministic and idempotent across two devices", () => {
   const b = event("b", "lesson_read", "m02-l01");
   assert.deepEqual(mergeEvents([b, a], [a]), [a, b]);
   assert.deepEqual(mergeEvents([a], [b]), mergeEvents([b], [a]));
+});
+
+test("unrated flashcard reviews persist and count each card once", () => {
+  const log = createLocalLog(memory(), "guest");
+  log.append(event("first-view", "review", "f1", { moduleId: "m01" }));
+  log.append(event("second-view", "review", "f1", { moduleId: "m01" }, "2026-10-30T12:01:00.000Z"));
+  const progress = reduceProgress(log.read().events);
+  assert.deepEqual(Object.keys(progress.reviews), ["f1"]);
+  assert.deepEqual(progress.reviews.f1, { moduleId: "m01", at: "2026-10-30T12:01:00.000Z" });
+});
+
+test("legacy rated and new unrated reviews survive backup round trips together", () => {
+  const oldReview = event("old-review", "review", "f1", {
+    rating: "easy", intervalDays: 4, dueAt: "2026-11-03T12:00:00.000Z",
+  });
+  const newReview = event("new-review", "review", "f2", { moduleId: "m01" });
+  const storage = memory();
+  storage.setItem("vet-estudos:v1:guest", JSON.stringify({ events: [oldReview] }));
+  const origin = createLocalLog(storage, "guest");
+  origin.append(newReview);
+  const target = createLocalLog(memory(), "guest");
+  const known = { lessons: [], cards: ["f1", "f2"], questions: [] };
+  const backup = makeBackup(origin.read().events);
+  importBackup(target, backup, known);
+  importBackup(target, backup, known);
+  assert.equal(target.read().events.length, 2);
+  assert.deepEqual(target.read().events.find((e) => e.id === "old-review"), oldReview);
+  assert.deepEqual(Object.keys(reduceProgress(target.read().events).reviews).sort(), ["f1", "f2"]);
+});
+
+test("unrated reviews cannot bypass legacy schedule validation or known-card checks", () => {
+  assert.equal(isEvent(event("simple", "review", "f1", { moduleId: "m01" })), true);
+  for (const payload of [
+    {}, { moduleId: "__proto__" },
+    { moduleId: "m01", rating: "good" },
+    { moduleId: "m01", intervalDays: 1 },
+    { moduleId: "m01", dueAt: "2026-11-03T12:00:00.000Z" },
+    { moduleId: "m01", rating: null },
+  ]) assert.equal(isEvent(event("invalid", "review", "f1", payload)), false);
+  const log = createLocalLog(memory(), "guest");
+  log.append(event("existing", "lesson_read", "l1"));
+  const foreign = event("foreign", "review", "unknown-card", { moduleId: "m01" });
+  assert.throws(() => importBackup(log, { ...makeBackup([]), events: [foreign] }, {
+    lessons: ["l1"], cards: ["f1"], questions: [],
+  }), /cartão/);
+  assert.equal(log.read().events.length, 1);
 });
 test("session can resume and answer survives equal timestamp ordering", () => {
   const events = [

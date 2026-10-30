@@ -480,8 +480,8 @@ export default function App() {
               <div>
                 <h3>Tente lembrar</h3>
                 <p>
-                  Revise os flashcards sem consultar a resposta. Avalie como foi
-                  lembrar para agendar a próxima revisão.
+                  Vire os flashcards para conferir as respostas e use Voltar e
+                  Avançar para navegar. Cada resposta revelada registra uma revisão.
                 </p>
               </div>
             </li>

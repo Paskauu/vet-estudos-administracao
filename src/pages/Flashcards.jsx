@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import { moduleById } from "../content/index.js";
 import { useCourse } from "../hooks/useCourse.jsx";
-import { nextReview, shuffle, percent } from "../lib/study.js";
+import { shuffle, percent } from "../lib/study.js";
 import {
   EmptyState,
   Modal,
@@ -26,40 +26,37 @@ export function FlashcardsPage({ progress, record, initialModule }) {
   const [selected, setSelected] = useState(
     initialModule ? [initialModule] : modules.map((m) => m.id),
   );
-  const [onlyDue, setOnlyDue] = useState(true);
+  const [onlyUnreviewed, setOnlyUnreviewed] = useState(true);
   const [picker, setPicker] = useState(false);
   const [deck, setDeck] = useState(null);
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
-  const [sessionRatings, setSessionRatings] = useState([]);
+  const [sessionReviewed, setSessionReviewed] = useState(() => new Set());
   const pool = useMemo(
     () => flashcards.filter((c) => selected.includes(c.moduleId)),
     [selected, flashcards],
   );
-  const due = pool.filter(
-    (c) =>
-      !progress.reviews[c.id] ||
-      new Date(progress.reviews[c.id].dueAt) <= new Date(),
-  );
-  const ready = onlyDue ? due : pool;
+  const unreviewed = pool.filter((c) => !progress.reviews[c.id]);
+  const ready = onlyUnreviewed ? unreviewed : pool;
   const start = () => {
     if (!ready.length) return;
     setDeck(shuffle(ready));
     setIndex(0);
     setFlipped(false);
-    setSessionRatings([]);
+    setSessionReviewed(new Set());
   };
-  const rate = (rating) => {
+  const flip = () => {
     const card = deck[index];
     if (
-      !record("review", card.id, {
-        ...nextReview(rating, progress.reviews[card.id]),
-        moduleId: card.moduleId,
-      })
+      !flipped &&
+      !sessionReviewed.has(card.id) &&
+      record("review", card.id, { moduleId: card.moduleId })
     )
-      return;
-    setSessionRatings([...sessionRatings, rating]);
-    setIndex(index + 1);
+      setSessionReviewed((previous) => new Set(previous).add(card.id));
+    setFlipped(!flipped);
+  };
+  const move = (step) => {
+    setIndex((current) => Math.max(0, Math.min(deck.length, current + step)));
     setFlipped(false);
   };
   return (
@@ -67,7 +64,7 @@ export function FlashcardsPage({ progress, record, initialModule }) {
       <PageHeading
         eyebrow="REVISÃO ATIVA"
         title="Um cartão. Uma descoberta."
-        text="Tente lembrar antes de virar. É assim que o conceito encontra seu lugar."
+        text="Vire o cartão para ver a resposta e navegue no seu ritmo."
       />
       {picker && (
         <Modal title="Escolher módulos" onClose={() => setPicker(false)}>
@@ -102,30 +99,30 @@ export function FlashcardsPage({ progress, record, initialModule }) {
               onClick={() => setPicker(true)}
             >
               <SlidersHorizontal size={17} />
-              {selected.length === 8
+              {selected.length === modules.length
                 ? "Todos os módulos"
                 : `${selected.length} ${selected.length === 1 ? "módulo selecionado" : "módulos selecionados"}`}
               <ChevronDown size={17} />
             </button>
             <div className="mode-switch">
               <button
-                className={onlyDue ? "active" : ""}
-                aria-pressed={onlyDue}
-                onClick={() => setOnlyDue(true)}
+                className={onlyUnreviewed ? "active" : ""}
+                aria-pressed={onlyUnreviewed}
+                onClick={() => setOnlyUnreviewed(true)}
               >
-                Para hoje <span>{due.length}</span>
+                Não revisados <span>{unreviewed.length}</span>
               </button>
               <button
-                className={!onlyDue ? "active" : ""}
-                aria-pressed={!onlyDue}
-                onClick={() => setOnlyDue(false)}
+                className={!onlyUnreviewed ? "active" : ""}
+                aria-pressed={!onlyUnreviewed}
+                onClick={() => setOnlyUnreviewed(false)}
               >
                 Todos os cartões <span>{pool.length}</span>
               </button>
             </div>
             <div className="flash-ready">
               <strong>{ready.length}</strong>
-              <span>cartões para {onlyDue ? "revisar hoje" : "explorar"}</span>
+              <span>cartões para {onlyUnreviewed ? "revisar" : "explorar"}</span>
             </div>
             {ready.length ? (
               <button className="button primary full-width" onClick={start}>
@@ -136,18 +133,18 @@ export function FlashcardsPage({ progress, record, initialModule }) {
               <EmptyState
                 icon={CheckCircle2}
                 title={
-                  selected.length ? "Revisão em dia!" : "Escolha um módulo"
+                  selected.length ? "Todos os cartões revisados!" : "Escolha um módulo"
                 }
                 text={
                   selected.length
-                    ? "Os próximos cartões aparecem aqui quando chegar a hora. Você também pode revisar todos os cartões."
+                    ? "Você já revisou os cartões desta seleção. Explore todos os cartões para estudar novamente."
                     : "Selecione um ou mais assuntos para montar sua revisão."
                 }
               >
                 {selected.length > 0 && (
                   <button
                     className="button secondary"
-                    onClick={() => setOnlyDue(false)}
+                    onClick={() => setOnlyUnreviewed(false)}
                   >
                     Explorar todos os cartões
                   </button>
@@ -158,9 +155,9 @@ export function FlashcardsPage({ progress, record, initialModule }) {
           <div className="quiet-explainer">
             <Sparkles size={18} />
             <p>
-              <strong>Pequenas revisões, memória mais forte.</strong> Sua
-              avaliação agenda o próximo encontro com cada conceito. Os estudos
-              ficam salvos neste navegador.
+              <strong>Seu estudo, no seu ritmo.</strong> Ao revelar a resposta,
+              o cartão é registrado como revisado. Use Voltar e Avançar para
+              navegar. Seu progresso fica salvo neste navegador.
             </p>
           </div>
         </>
@@ -170,32 +167,28 @@ export function FlashcardsPage({ progress, record, initialModule }) {
             <CheckCircle2 size={42} />
           </span>
           <span className="eyebrow">UM PASSO A MAIS</span>
-          <h2>Revisão concluída!</h2>
-          <p>Você se dedicou a {deck.length} conceitos nesta rodada.</p>
+          <h2>Rodada concluída!</h2>
+          <p>Você chegou ao fim de uma seleção de {deck.length} cartões.</p>
           <div className="review-totals">
             <div>
-              <strong>
-                {
-                  sessionRatings.filter((r) => r === "good" || r === "easy")
-                    .length
-                }
-              </strong>
-              <span>Lembrados com segurança</span>
+              <strong>{sessionReviewed.size}</strong>
+              <span>Revisados nesta rodada</span>
             </div>
             <div>
-              <strong>
-                {
-                  sessionRatings.filter((r) => r === "again" || r === "hard")
-                    .length
-                }
-              </strong>
-              <span>Para encontrar de novo</span>
+              <strong>{deck.length - sessionReviewed.size}</strong>
+              <span>Sem revisão registrada</span>
             </div>
           </div>
-          <button className="button primary" onClick={() => setDeck(null)}>
-            Voltar aos cartões
-            <ArrowRight size={17} />
-          </button>
+          <div className="flash-navigation">
+            <button className="button secondary" onClick={() => move(-1)}>
+              <ArrowLeft size={17} />
+              Voltar
+            </button>
+            <button className="button primary" onClick={() => setDeck(null)}>
+              Escolher cartões
+              <ArrowRight size={17} />
+            </button>
+          </div>
         </div>
       ) : (
         <div className="flash-session">
@@ -204,7 +197,7 @@ export function FlashcardsPage({ progress, record, initialModule }) {
               <ArrowLeft size={16} />
               Encerrar revisão
             </button>
-            <span>
+            <span aria-live="polite" aria-atomic="true">
               {index + 1} de {deck.length} cartões
             </span>
           </div>
@@ -214,7 +207,7 @@ export function FlashcardsPage({ progress, record, initialModule }) {
           />
           <button
             className={`flashcard ${flipped ? "flipped" : ""}`}
-            onClick={() => setFlipped(!flipped)}
+            onClick={flip}
             aria-label={
               flipped
                 ? "Ver pergunta novamente"
@@ -226,7 +219,7 @@ export function FlashcardsPage({ progress, record, initialModule }) {
               {moduleById[deck[index].moduleId].shortTitle}
             </span>
             <span className="flashcard-side">
-              {flipped ? "RESPOSTA" : "TENTE LEMBRAR"}
+              {flipped ? "RESPOSTA" : "PERGUNTA"}
             </span>
             <span className="flashcard-text">
               {flipped ? deck[index].back : deck[index].front}
@@ -238,34 +231,28 @@ export function FlashcardsPage({ progress, record, initialModule }) {
                 : "Toque para revelar a resposta"}
             </span>
           </button>
+          <nav className="flash-navigation" aria-label="Navegação dos cartões">
+            <button
+              className="button secondary"
+              onClick={() => move(-1)}
+              disabled={index === 0}
+            >
+              <ArrowLeft size={17} />
+              Voltar
+            </button>
+            <button className="button primary" onClick={() => move(1)}>
+              Avançar
+              <ArrowRight size={17} />
+            </button>
+          </nav>
           {flipped ? (
-            <>
-              <SourceRefs
-                module={moduleById[deck[index].moduleId]}
-                refs={deck[index].refs}
-              />
-              <div className="rating-heading">Como foi lembrar?</div>
-              <div className="rating-buttons">
-                {[
-                  ["again", "Ainda não", "10 minutos"],
-                  ["hard", "Com esforço", "1 dia ou mais"],
-                  ["good", "Lembrei", "1 dia ou mais"],
-                  ["easy", "Foi fácil", "4 dias ou mais"],
-                ].map(([id, label, hint]) => (
-                  <button
-                    key={id}
-                    className={`rating ${id}`}
-                    onClick={() => rate(id)}
-                  >
-                    <strong>{label}</strong>
-                    <span>{hint}</span>
-                  </button>
-                ))}
-              </div>
-            </>
+            <SourceRefs
+              module={moduleById[deck[index].moduleId]}
+              refs={deck[index].refs}
+            />
           ) : (
             <p className="flash-prompt">
-              Pense na sua resposta antes de virar. Sem pressa.
+              Toque no cartão para revelar a resposta.
             </p>
           )}
         </div>

@@ -27,6 +27,22 @@ test("course catalog never offers modules or cards from the other discipline", (
   assert.equal(result.questions[0].moduleId, "e01");
 });
 
+test("unrated and legacy flashcard reviews stay within their discipline", () => {
+  const input = [
+    event("admin-card", "review", "m01-f01", { moduleId: "m01" }),
+    event("epi-card", "review", "e01-f01", { moduleId: "e01" }),
+    event("old-admin-card", "review", "m01-f01", {
+      moduleId: "m01", rating: "easy", intervalDays: 4, dueAt: "2026-11-03T12:00:00.000Z",
+    }),
+  ];
+  for (const [module, card] of [[catalog[0], "m01-f01"], [catalog[1], "e01-f01"]]) {
+    const events = helpers.courseEvents(input, [module]);
+    assert.ok(events.every((e) => e.itemId === card));
+    const progress = reduceProgress(events);
+    assert.deepEqual(Object.keys(progress.reviews), [card]);
+  }
+});
+
 test("course progress keeps interrupted sessions, answers and readings isolated", () => {
   assert.equal(typeof helpers.courseEvents, "function");
   const input = [start("admin-session", "m01", "m01-q01"), start("epi-session", "e01", "e01-q01"), event("a", "lesson_read", "m01-l01"), event("b", "lesson_read", "e01-l01"), event("c", "answer", "m01-q01", { sessionId: "admin-session", choice: 0, correct: false, moduleId: "m01" }), event("d", "answer", "e01-q01", { sessionId: "epi-session", choice: 1, correct: true, moduleId: "e01" }), event("f", "session_finish", "admin-session")];

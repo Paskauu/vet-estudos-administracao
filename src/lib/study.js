@@ -1,5 +1,3 @@
-const DAY = 86400000;
-
 export function shuffle(items, rng = Math.random) {
   const result = [...items];
   for (let i = result.length - 1; i > 0; i--) {
@@ -55,25 +53,6 @@ export function scoreSession(questions, answers) {
     percent: questions.length
       ? Math.round((correct / questions.length) * 100)
       : 0,
-  };
-}
-
-export function nextReview(rating, previous, now = new Date().toISOString()) {
-  const rawPrior = Number(previous?.intervalDays);
-  const prior =
-    Number.isFinite(rawPrior) && rawPrior > 0 ? Math.min(rawPrior, 3650) : 0;
-  const intervals = {
-    again: 10 / 1440,
-    hard: Math.max(1, Math.round(prior * 1.2)),
-    good: prior >= 1 ? Math.round(prior * 2) : 1,
-    easy: prior >= 1 ? Math.round(prior * 3) : 4,
-  };
-  if (!(rating in intervals)) throw new Error("Escolha uma avaliação válida.");
-  const intervalDays = Math.min(3650, intervals[rating]);
-  return {
-    rating,
-    intervalDays,
-    dueAt: new Date(new Date(now).getTime() + intervalDays * DAY).toISOString(),
   };
 }
 

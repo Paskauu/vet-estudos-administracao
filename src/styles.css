@@ -1460,58 +1460,18 @@ main:focus {
   font-size: 12px;
   margin-top: 26px;
 }
-.rating-heading {
-  text-align: center;
-  font-size: 12px;
-  color: #7e946b;
-  margin: 25px 0 13px;
-}
-.rating-buttons {
+.flash-navigation {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
+  margin-top: 24px;
 }
-.rating {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 7px;
-  min-height: 76px;
-  border-radius: 11px;
-  padding: 12px 7px;
-  border: 1px solid transparent;
+.flash-navigation .button {
+  min-width: 0;
+  min-height: 48px;
 }
-.rating strong {
-  font-size: 12px;
-  font-weight: 600;
-}
-.rating span {
-  font-size: 9px;
-  opacity: 0.7;
-}
-.rating.again {
-  background: #f5e8df;
-  color: #ac785c;
-  border-color: #eadace;
-}
-.rating.hard {
-  background: #f4eddb;
-  color: #a68c55;
-  border-color: #e9dfc5;
-}
-.rating.good {
-  background: #e9efdf;
-  color: #7c925b;
-  border-color: #dbe5ca;
-}
-.rating.easy {
-  background: #e2eee4;
-  color: #638765;
-  border-color: #cedece;
-}
-.rating:hover {
-  filter: brightness(0.97);
+.flash-navigation + .source-refs {
+  margin-top: 18px;
 }
 .review-complete {
   max-width: 730px;
@@ -3438,15 +3398,8 @@ main:focus {
     font-size: 9px;
     line-height: 1.8;
   }
-  .rating-buttons {
-    grid-template-columns: repeat(2, 1fr);
+  .flash-navigation {
     gap: 9px;
-  }
-  .rating {
-    min-height: 73px;
-  }
-  .rating-heading {
-    font-size: 11px;
   }
   .review-complete {
     padding: 32px 20px;
@@ -4237,29 +4190,6 @@ main:focus {
   color: #6d8659;
   font-size: 12px;
 }
-.rating strong {
-  font-size: 14px;
-}
-.rating span {
-  font-size: 11px;
-  opacity: 1;
-}
-.rating.again {
-  color: #875034;
-}
-.rating.hard {
-  color: #80672d;
-}
-.rating.good {
-  color: #536d31;
-}
-.rating.easy {
-  color: #3f6743;
-}
-.rating-heading {
-  font-size: 14px;
-  color: #5b7946;
-}
 .modal-intro,
 .backup-intro p,
 .how-to p {
@@ -4437,12 +4367,6 @@ main:focus {
   .flip-hint,
   .flash-prompt {
     font-size: 11px;
-  }
-  .rating strong {
-    font-size: 13px;
-  }
-  .rating span {
-    font-size: 10px;
   }
   .quiet-explainer p {
     font-size: 11px;

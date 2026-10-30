@@ -34,7 +34,12 @@ export function isEvent(e) {
   if (p.moduleId !== undefined && !safeId(p.moduleId)) return false;
   if (e.type === "lesson_read")
     return p.read === undefined || typeof p.read === "boolean";
-  if (e.type === "review")
+  if (e.type === "review") {
+    const hasSchedule = ["rating", "intervalDays", "dueAt"].some((key) =>
+      Object.hasOwn(p, key),
+    );
+    if (!hasSchedule) return safeId(p.moduleId);
+    // Keep previously saved ratings readable, including legacy backups.
     return (
       ["again", "hard", "good", "easy"].includes(p.rating) &&
       Number.isFinite(p.intervalDays) &&
@@ -42,6 +47,7 @@ export function isEvent(e) {
       p.intervalDays <= 3650 &&
       validDate(p.dueAt)
     );
+  }
   if (e.type === "answer")
     return (
       safeId(p.sessionId) &&

@@ -31,6 +31,10 @@ Para abrir pelo tablet na mesma rede Wi-Fi, use `http://IP-DO-COMPUTADOR:5173`, 
 
 ## Como o progresso é salvo
 
+Os flashcards usam os botões **Voltar** e **Avançar**, disponíveis tanto na pergunta quanto na resposta. Ao revelar a resposta, o cartão é registrado como revisado uma vez na rodada; apenas avançar sem revelar não conta como revisão. Voltar a um cartão não duplica a contagem. No fim da rodada, o resumo mostra quantos cartões tiveram revisão registrada, e permite voltar ao último cartão.
+
+Os filtros **Não revisados** e **Todos os cartões** permitem escolher a seleção e estudar novamente. Não há avaliação de lembrança nem agendamento por dificuldade. Os registros antigos continuam contando como revisados, e seus dados originais permanecem nos backups.
+
 Leituras, revisões, respostas e simulados são guardados no armazenamento persistente do navegador (`localStorage`). Não há conta, login, servidor de dados nem sincronização automática entre aparelhos. O armazenamento pertence ao perfil do navegador e à origem do endereço: `http://localhost:5173`, um endereço pelo IP do computador e `https://paskauu.github.io` guardam dados separados. O caminho `/vet-estudos-administracao/` não muda essa origem. Outro navegador, perfil ou aparelho também começa com dados próprios.
 
 Na área **Progresso**, exporte um backup JSON regularmente e mantenha uma cópia fora do navegador. Para trocar de aparelho ou passar da prévia local para o site publicado, exporte no endereço de origem e importe no destino. A importação mescla os registros válidos com os já existentes e elimina repetições por identificador; ela não apaga o histórico atual. Para reunir estudos feitos em dois aparelhos, transfira e importe os backups manualmente e depois exporte uma nova cópia consolidada.
